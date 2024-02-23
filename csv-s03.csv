@@ -206,7 +206,7 @@ card_identifier;name;rarity;magic_ink_color;got_normal;got_foil
 201;"Carte de la Planète au Trésor";RARE;STEEL;0;0
 202;"Île D'exil de Maui";RARE;STEEL;0;0
 203;Nottingham;COMMON;STEEL;1;0
-204;"Le Bayou";UNCOMMON;STEEL;1;0
+204;"Le Bayou";UNCOMMON;STEEL;0;0
 205;Chernabog;ENCHANTED;AMBER;0;0
 206;Kida;ENCHANTED;AMBER;0;0
 207;"La Terre des Lions";ENCHANTED;AMBER;0;0
