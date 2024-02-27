@@ -44,7 +44,7 @@ card_identifier;name;rarity;magic_ink_color;got_normal;got_foil
 39;Hydros;UNCOMMON;AMETHYST;7;0
 40;Iago;COMMON;AMETHYST;9;0
 41;Jafar;UNCOMMON;AMETHYST;8;1
-42;Jafar;LEGENDARY;AMETHYST;2;0
+42;Jafar;LEGENDARY;AMETHYST;1;0
 43;"Lena de Sortilège";COMMON;AMETHYST;9;0
 44;"Balais Magiques";UNCOMMON;AMETHYST;6;1
 45;"Balais Magiques";COMMON;AMETHYST;11;1
@@ -69,10 +69,10 @@ card_identifier;name;rarity;magic_ink_color;got_normal;got_foil
 64;"La Lampe";RARE;AMETHYST;1;0
 65;"Le Chapeau de Sorcier";RARE;AMETHYST;1;0
 66;"Montagne Interdite";COMMON;AMETHYST;8;0
-67;"Château de la Reine";RARE;AMETHYST;4;0
+67;"Château de la Reine";RARE;AMETHYST;3;0
 68;"La Tour du Sorcier";UNCOMMON;AMETHYST;6;0
 69;"Le Frisé";COMMON;EMERALD;9;2
-70;"Ondins Ensorcelés";RARE;EMERALD;2;0
+70;"Ondins Ensorcelés";RARE;EMERALD;1;0
 71;"Don Carnage";COMMON;EMERALD;9;0
 72;Flotsam;COMMON;EMERALD;10;1
 73;"Frère Tuck";UNCOMMON;EMERALD;5;1
@@ -93,7 +93,7 @@ card_identifier;name;rarity;magic_ink_color;got_normal;got_foil
 88;"Monsieur Starkey";UNCOMMON;EMERALD;6;0
 89;Stitch;RARE;EMERALD;3;1
 90;Ursula;UNCOMMON;EMERALD;7;0
-91;Ursula;LEGENDARY;EMERALD;1;0
+91;Ursula;LEGENDARY;EMERALD;0;0
 92;Turbo;UNCOMMON;EMERALD;5;0
 93;Zazu;COMMON;EMERALD;9;1
 94;"A Touché mon Cœuuuuur…";UNCOMMON;EMERALD;5;0
@@ -145,7 +145,7 @@ card_identifier;name;rarity;magic_ink_color;got_normal;got_foil
 140;"Archibald Gripsou";UNCOMMON;SAPPHIRE;6;0
 141;Génie;UNCOMMON;SAPPHIRE;6;1
 142;"Grand-Mère Tala";COMMON;SAPPHIRE;10;0
-143;"Grand-Mère Tala";LEGENDARY;SAPPHIRE;1;0
+143;"Grand-Mère Tala";LEGENDARY;SAPPHIRE;0;0
 144;"Géo Trouvetou";RARE;SAPPHIRE;3;0
 145;Riri;RARE;SAPPHIRE;4;0
 146;"Roi Louie";COMMON;SAPPHIRE;10;1
@@ -192,7 +192,7 @@ card_identifier;name;rarity;magic_ink_color;got_normal;got_foil
 187;Pyros;RARE;STEEL;0;2
 188;Razoul;COMMON;STEEL;8;0
 189;"Robin des Bois";COMMON;STEEL;10;1
-190;"Robin des Bois";LEGENDARY;STEEL;3;0
+190;"Robin des Bois";LEGENDARY;STEEL;2;0
 191;"Shérif de Nottingham";SUPER;STEEL;3;0
 192;Simba;SUPER;STEEL;3;0
 193;Simba;UNCOMMON;STEEL;7;1
