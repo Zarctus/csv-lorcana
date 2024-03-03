@@ -39,13 +39,13 @@ card_identifier;name;rarity;magic_ink_color;got_normal;got_foil
 33;"La Terre des Lions";RARE;AMBER;1;0
 34;"Chez Tiana";UNCOMMON;AMBER;5;0
 35;Alice;SUPER;AMETHYST;1;0
-36;"Adeptes de Chernabog";UNCOMMON;AMETHYST;6;0
+36;"Adeptes de Chernabog";UNCOMMON;AMETHYST;3;0
 37;Diablo;COMMON;AMETHYST;8;1
 38;Génie;SUPER;AMETHYST;2;0
 39;Hydros;UNCOMMON;AMETHYST;7;0
 40;Iago;COMMON;AMETHYST;9;0
 41;Jafar;UNCOMMON;AMETHYST;8;1
-42;Jafar;LEGENDARY;AMETHYST;1;0
+42;Jafar;LEGENDARY;AMETHYST;0;0
 43;"Lena de Sortilège";COMMON;AMETHYST;9;0
 44;"Balais Magiques";UNCOMMON;AMETHYST;6;1
 45;"Balais Magiques";COMMON;AMETHYST;11;1
