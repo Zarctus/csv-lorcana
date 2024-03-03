@@ -1,7 +1,7 @@
 card_identifier;name;rarity;magic_ink_color;got_normal;got_foil
 1;Baloo;RARE;AMBER;1;1
 2;Bernard;RARE;AMBER;4;0
-3;Chernabog;SUPER;AMBER;3;2
+3;Chernabog;SUPER;AMBER;2;2
 4a;"Chiot Dalmatien";COMMON;AMBER;1;1
 4b;"Chiot Dalmatien";COMMON;AMBER;1;1
 4c;"Chiot Dalmatien";COMMON;AMBER;1;0
@@ -38,10 +38,10 @@ card_identifier;name;rarity;magic_ink_color;got_normal;got_foil
 32;"Le Pays Imaginaire";COMMON;AMBER;9;0
 33;"La Terre des Lions";RARE;AMBER;1;0
 34;"Chez Tiana";UNCOMMON;AMBER;5;0
-35;Alice;SUPER;AMETHYST;2;0
+35;Alice;SUPER;AMETHYST;1;0
 36;"Adeptes de Chernabog";UNCOMMON;AMETHYST;6;0
 37;Diablo;COMMON;AMETHYST;8;1
-38;Génie;SUPER;AMETHYST;3;0
+38;Génie;SUPER;AMETHYST;2;0
 39;Hydros;UNCOMMON;AMETHYST;7;0
 40;Iago;COMMON;AMETHYST;9;0
 41;Jafar;UNCOMMON;AMETHYST;8;1
@@ -54,7 +54,7 @@ card_identifier;name;rarity;magic_ink_color;got_normal;got_foil
 48;"Miss Tick";COMMON;AMETHYST;10;1
 49;"Miss Tick";SUPER;AMETHYST;3;0
 50;"Miss Tick";UNCOMMON;AMETHYST;6;1
-51;Maléfique;LEGENDARY;AMETHYST;1;0
+51;Maléfique;LEGENDARY;AMETHYST;0;0
 52;"Mama Odie";UNCOMMON;AMETHYST;4;0
 53;Pua;COMMON;AMETHYST;8;0
 54;Rafiki;RARE;AMETHYST;3;0
@@ -160,7 +160,7 @@ card_identifier;name;rarity;magic_ink_color;got_normal;got_foil
 154;"Balthazar Picsou";SUPER;SAPPHIRE;2;2
 155;"Balthazar Picsou";UNCOMMON;SAPPHIRE;9;0
 156;"La Reine";UNCOMMON;SAPPHIRE;8;0
-157;"La Fée Clochette";SUPER;SAPPHIRE;3;0
+157;"La Fée Clochette";SUPER;SAPPHIRE;2;0
 158;"Wendy Darling";SUPER;SAPPHIRE;3;0
 159;Distraction;COMMON;SAPPHIRE;10;1
 160;"Je Suis ton Meilleur Ami";RARE;SAPPHIRE;2;0
@@ -185,7 +185,7 @@ card_identifier;name;rarity;magic_ink_color;got_normal;got_foil
 179;"Petit Jean";UNCOMMON;STEEL;7;0
 180;Lythos;UNCOMMON;STEEL;6;1
 181;"Mickey Mouse";COMMON;STEEL;8;0
-182;"Mickey Mouse";LEGENDARY;STEEL;2;0
+182;"Mickey Mouse";LEGENDARY;STEEL;0;0
 183;Minnie;COMMON;STEEL;8;1
 184;"Monsieur Mouche";UNCOMMON;STEEL;5;1
 185;Mufasa;RARE;STEEL;3;0
@@ -193,8 +193,8 @@ card_identifier;name;rarity;magic_ink_color;got_normal;got_foil
 187;Pyros;RARE;STEEL;0;2
 188;Razoul;COMMON;STEEL;8;0
 189;"Robin des Bois";COMMON;STEEL;10;1
-190;"Robin des Bois";LEGENDARY;STEEL;1;0
-191;"Shérif de Nottingham";SUPER;STEEL;3;0
+190;"Robin des Bois";LEGENDARY;STEEL;0;0
+191;"Shérif de Nottingham";SUPER;STEEL;2;0
 192;Simba;SUPER;STEEL;3;0
 193;Simba;UNCOMMON;STEEL;7;1
 194;"Gulliver Glas";UNCOMMON;STEEL;7;1
