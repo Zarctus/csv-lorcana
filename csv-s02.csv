@@ -79,7 +79,7 @@ card_identifier;name;rarity;magic_ink_color;got_normal;got_foil
 78;Donald;COMMON;EMERALD;11;2
 79;"Dr. Facilier";SUPER;EMERALD;4;1
 80;L'enchanteresse;COMMON;EMERALD;5;0
-81;"Flynn Rider";COMMON;EMERALD;14;2
+81;"Flynn Rider";COMMON;EMERALD;14;1
 82;"Flynn Rider";RARE;EMERALD;0;0
 83;Gaston;COMMON;EMERALD;12;1
 84;"Petit Jean";RARE;EMERALD;3;0
@@ -181,7 +181,7 @@ card_identifier;name;rarity;magic_ink_color;got_normal;got_foil
 180;Dingo;RARE;STEEL;2;0
 181;Hercule;RARE;STEEL;5;0
 182;Hercule;COMMON;STEEL;14;1
-183;Jafar;UNCOMMON;STEEL;3;0
+183;Jafar;UNCOMMON;STEEL;0;0
 184;Jafar;COMMON;STEEL;10;0
 185;Kronk;RARE;STEEL;8;0
 186;Lawrence;UNCOMMON;STEEL;7;2
@@ -199,7 +199,7 @@ card_identifier;name;rarity;magic_ink_color;got_normal;got_foil
 198;"Fonce !";COMMON;STEEL;8;1
 199;"Perdue dans L'hiver";COMMON;STEEL;9;0
 200;"Choisir son Combat";UNCOMMON;STEEL;3;0
-201;"Plus Ardent Que le Feu des Volcans";RARE;STEEL;2;0
+201;"Plus Ardent Que le Feu des Volcans";RARE;STEEL;1;0
 202;"Dernier Canon";COMMON;STEEL;11;2
 203;"Armure de Souris";UNCOMMON;STEEL;8;0
 204;Haltères;RARE;STEEL;4;0
