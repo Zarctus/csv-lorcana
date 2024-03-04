@@ -2,7 +2,7 @@ card_identifier;name;rarity;magic_ink_color;got_normal;got_foil
 1;Baloo;RARE;AMBER;1;1
 2;Bernard;RARE;AMBER;4;0
 3;Chernabog;SUPER;AMBER;2;2
-4a;"Chiot Dalmatien";COMMON;AMBER;1;1
+4a;"Chiot Dalmatien";COMMON;AMBER;1;0
 4b;"Chiot Dalmatien";COMMON;AMBER;1;1
 4c;"Chiot Dalmatien";COMMON;AMBER;1;0
 4d;"Chiot Dalmatien";COMMON;AMBER;2;1
@@ -198,7 +198,7 @@ card_identifier;name;rarity;magic_ink_color;got_normal;got_foil
 192;Simba;SUPER;STEEL;3;0
 193;Simba;UNCOMMON;STEEL;7;1
 194;"Gulliver Glas";UNCOMMON;STEEL;7;1
-195;"Quand Soudain Survint Zeus";RARE;STEEL;1;0
+195;"Quand Soudain Survint Zeus";RARE;STEEL;0;0
 196;"Ba-Boum !";COMMON;STEEL;9;1
 197;"L'olympe, ce Serait Pas Plutôt par Là ?";COMMON;STEEL;10;2
 198;"Libérer les Titans";UNCOMMON;STEEL;8;0
