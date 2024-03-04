@@ -29,7 +29,7 @@ card_identifier;name;rarity;magic_ink_color;got_normal;got_foil
 28;"Ne Bougez Pas";COMMON;AMBER;15;0
 29;"Ultime Combat";UNCOMMON;AMBER;5;0
 30;"Peignons les Roses en Rouge";COMMON;AMBER;7;0
-31;"Le Grand Génie du Mal";RARE;AMBER;1;0
+31;"Le Grand Génie du Mal";RARE;AMBER;0;0
 32;"De Zéro en Héros";UNCOMMON;AMBER;7;0
 33;"Pierre de Dragon";RARE;AMBER;4;0
 34;"Flûte de Dormeur";RARE;AMBER;1;0
@@ -53,12 +53,12 @@ card_identifier;name;rarity;magic_ink_color;got_normal;got_foil
 52;Merlin;RARE;AMETHYST;4;0
 53;Merlin;RARE;AMETHYST;2;1
 54;Merlin;COMMON;AMETHYST;14;2
-55;"Ombre de Peter Pan";SUPER;AMETHYST;2;1
+55;"Ombre de Peter Pan";SUPER;AMETHYST;1;1
 56;Pinocchio;RARE;AMETHYST;0;0
 57;Pinocchio;UNCOMMON;AMETHYST;4;0
 58;Pinocchio;UNCOMMON;AMETHYST;8;0
 59;"Winnie L'ourson";COMMON;AMETHYST;13;0
-60;Yzma;SUPER;AMETHYST;0;1
+60;Yzma;SUPER;AMETHYST;0;0
 61;Yzma;UNCOMMON;AMETHYST;8;1
 62;"Le Macabre et la Terreur";RARE;AMETHYST;2;0
 63;"Je Suis Coincé !";COMMON;AMETHYST;9;0
@@ -73,7 +73,7 @@ card_identifier;name;rarity;magic_ink_color;got_normal;got_foil
 72;Belle;LEGENDARY;EMERALD;1;0
 73;Bucky;UNCOMMON;EMERALD;5;0
 74;"Chat du Cheshire";UNCOMMON;EMERALD;7;0
-75;"Chat du Cheshire";SUPER;EMERALD;3;0
+75;"Chat du Cheshire";SUPER;EMERALD;2;0
 76;Daisy;UNCOMMON;EMERALD;4;0
 77;Donald;UNCOMMON;EMERALD;9;0
 78;Donald;COMMON;EMERALD;11;2
@@ -87,7 +87,7 @@ card_identifier;name;rarity;magic_ink_color;got_normal;got_foil
 86;Peine;UNCOMMON;EMERALD;3;0
 87;Panique;COMMON;EMERALD;9;0
 88;Pat;RARE;EMERALD;4;0
-89;"Prince Jean";RARE;EMERALD;2;2
+89;"Prince Jean";RARE;EMERALD;1;2
 90;"La Reine de Cœur";COMMON;EMERALD;10;2
 91;Ratigan;COMMON;EMERALD;7;2
 92;Ray;COMMON;EMERALD;7;0
@@ -132,10 +132,10 @@ card_identifier;name;rarity;magic_ink_color;got_normal;got_foil
 131;"La Plus Diabolique Conjuration";UNCOMMON;RUBY;6;0
 132;"Comment M'as-Tu Nommé ?";COMMON;RUBY;14;2
 133;"Tu T'envoles";UNCOMMON;RUBY;3;2
-134;"Clochette du Dîner";RARE;RUBY;2;0
+134;"Clochette du Dîner";RARE;RUBY;1;0
 135;"Dague de Peter Pan";COMMON;RUBY;10;0
 136;"L'épée dans L'enclume";UNCOMMON;RUBY;10;0
-137;Alice;LEGENDARY;SAPPHIRE;1;0
+137;Alice;LEGENDARY;SAPPHIRE;0;0
 138;Basil;SUPER;SAPPHIRE;3;0
 139;Basil;COMMON;SAPPHIRE;9;0
 140;Basil;COMMON;SAPPHIRE;14;0
@@ -170,7 +170,7 @@ card_identifier;name;rarity;magic_ink_color;got_normal;got_foil
 169;"Glace à L'eau";COMMON;SAPPHIRE;8;0
 170;"Boîte de Sardines";UNCOMMON;SAPPHIRE;7;1
 171;"La Bête";COMMON;STEEL;12;0
-172;"La Bête";SUPER;STEEL;1;0
+172;"La Bête";SUPER;STEEL;0;0
 173;"La Bête";LEGENDARY;STEEL;0;0
 174;Benja;COMMON;STEEL;10;0
 175;"Chef Bogo";RARE;STEEL;1;0

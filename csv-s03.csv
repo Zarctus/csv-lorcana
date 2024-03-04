@@ -3,13 +3,13 @@ card_identifier;name;rarity;magic_ink_color;got_normal;got_foil
 2;Bernard;RARE;AMBER;4;0
 3;Chernabog;SUPER;AMBER;2;2
 4a;"Chiot Dalmatien";COMMON;AMBER;1;0
-4b;"Chiot Dalmatien";COMMON;AMBER;1;1
+4b;"Chiot Dalmatien";COMMON;AMBER;1;0
 4c;"Chiot Dalmatien";COMMON;AMBER;1;0
 4d;"Chiot Dalmatien";COMMON;AMBER;2;1
 4e;"Chiot Dalmatien";COMMON;AMBER;2;1
 5;"Amadou Gentil";COMMON;AMBER;8;1
 6;Kida;COMMON;AMBER;8;0
-7;Kida;LEGENDARY;AMBER;1;0
+7;Kida;LEGENDARY;AMBER;0;0
 8;Lucky;RARE;AMBER;4;0
 9;Minnie;RARE;AMBER;3;0
 10;"Miss Bianca";COMMON;AMBER;8;0
@@ -70,7 +70,7 @@ card_identifier;name;rarity;magic_ink_color;got_normal;got_foil
 64;"La Lampe";RARE;AMETHYST;1;0
 65;"Le Chapeau de Sorcier";RARE;AMETHYST;1;0
 66;"Montagne Interdite";COMMON;AMETHYST;8;0
-67;"Château de la Reine";RARE;AMETHYST;3;0
+67;"Château de la Reine";RARE;AMETHYST;0;0
 68;"La Tour du Sorcier";UNCOMMON;AMETHYST;6;0
 69;"Le Frisé";COMMON;EMERALD;9;2
 70;"Ondins Ensorcelés";RARE;EMERALD;1;0
@@ -94,7 +94,7 @@ card_identifier;name;rarity;magic_ink_color;got_normal;got_foil
 88;"Monsieur Starkey";UNCOMMON;EMERALD;6;0
 89;Stitch;RARE;EMERALD;3;1
 90;Ursula;UNCOMMON;EMERALD;3;0
-91;Ursula;LEGENDARY;EMERALD;1;0
+91;Ursula;LEGENDARY;EMERALD;0;0
 92;Turbo;UNCOMMON;EMERALD;5;0
 93;Zazu;COMMON;EMERALD;9;1
 94;"A Touché mon Cœuuuuur…";UNCOMMON;EMERALD;5;0
@@ -124,7 +124,7 @@ card_identifier;name;rarity;magic_ink_color;got_normal;got_foil
 118;Niquedouille;COMMON;RUBY;10;1
 119;"Peter Pan";COMMON;RUBY;10;1
 120;"Peter Pan";RARE;RUBY;4;0
-121;"Prince Eric";SUPER;RUBY;4;0
+121;"Prince Eric";SUPER;RUBY;3;0
 122;Scroop;UNCOMMON;RUBY;5;0
 123;Simba;RARE;RUBY;4;0
 124;"La Plume";UNCOMMON;RUBY;8;0
