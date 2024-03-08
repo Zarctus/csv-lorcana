@@ -43,7 +43,7 @@ card_identifier;name;rarity;magic_ink_color;got_normal;got_foil
 42;"La Bonne Fée";COMMON;AMETHYST;15;1
 43;Heihei;UNCOMMON;AMETHYST;10;0
 44;"Jiminy Cricket";COMMON;AMETHYST;9;0
-45;Kuzco;COMMON;AMETHYST;9;0
+45;Kuzco;COMMON;AMETHYST;6;0
 46;"Madame Mime";RARE;AMETHYST;1;0
 47;"Madame Mime";LEGENDARY;AMETHYST;1;0
 48;"Madame Mime";RARE;AMETHYST;1;0
@@ -139,7 +139,7 @@ card_identifier;name;rarity;magic_ink_color;got_normal;got_foil
 138;Basil;SUPER;SAPPHIRE;3;0
 139;Basil;COMMON;SAPPHIRE;9;0
 140;Basil;COMMON;SAPPHIRE;14;0
-141;"La Chenille";UNCOMMON;SAPPHIRE;5;1
+141;"La Chenille";UNCOMMON;SAPPHIRE;5;0
 142;"Big Ben";SUPER;SAPPHIRE;0;0
 143;"Big Ben";UNCOMMON;SAPPHIRE;4;2
 144;"Cruella D'enfer";COMMON;SAPPHIRE;16;1
