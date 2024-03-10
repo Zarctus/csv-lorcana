@@ -64,7 +64,7 @@ card_identifier;name;rarity;magic_ink_color;got_normal;got_foil
 63;Gel;COMMON;AMETHYST;12;0
 64;"Mes Amis de L'au-Delà";COMMON;AMETHYST;4;0
 65;Réflexion;UNCOMMON;AMETHYST;6;0
-66;"Miroir Magique";RARE;AMETHYST;4;0
+66;"Miroir Magique";RARE;AMETHYST;1;0
 67;"Chaudron D'ursula";UNCOMMON;AMETHYST;1;0
 68;"Montre à Gousset";RARE;AMETHYST;0;0
 69;Aladdin;COMMON;EMERALD;11;1
@@ -135,7 +135,7 @@ card_identifier;name;rarity;magic_ink_color;got_normal;got_foil
 134;"Pomme Empoisonnée";RARE;RUBY;0;0
 135;"Bouclier de Vertu";UNCOMMON;RUBY;7;0
 136;"Épée de Vérité";RARE;RUBY;4;0
-137;Ariel;RARE;SAPPHIRE;2;0
+137;Ariel;RARE;SAPPHIRE;1;0
 138;Aurore;COMMON;SAPPHIRE;7;0
 139;Aurore;SUPER;SAPPHIRE;1;0
 140;Aurore;UNCOMMON;SAPPHIRE;11;0
@@ -171,7 +171,7 @@ card_identifier;name;rarity;magic_ink_color;got_normal;got_foil
 170;"Sceptre D'arendelle";UNCOMMON;SAPPHIRE;5;0
 171;Aladdin;COMMON;STEEL;8;0
 172;"La Bête";UNCOMMON;STEEL;8;0
-173;"Capitaine Crochet";RARE;STEEL;1;0
+173;"Capitaine Crochet";RARE;STEEL;0;0
 174;"Capitaine Crochet";COMMON;STEEL;10;0
 175;"Capitaine Crochet";RARE;STEEL;3;0
 176;Cerbère;COMMON;STEEL;8;0
