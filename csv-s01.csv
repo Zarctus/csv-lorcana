@@ -196,7 +196,7 @@ card_identifier;name;rarity;magic_ink_color;got_normal;got_foil
 195;"Ce Rêve Bleu";SUPER;STEEL;0;0
 196;Déchiqueté;COMMON;STEEL;10;0
 197;"Allumez les Mêches !";COMMON;STEEL;11;2
-198;"Tuons la Bête !";RARE;STEEL;1;0
+198;"Tuons la Bête !";RARE;STEEL;0;0
 199;"Sens Dessus Dessous";UNCOMMON;STEEL;7;0
 200;"Fracasser !";UNCOMMON;STEEL;6;0
 201;"Miroir de la Bête";COMMON;STEEL;7;0
