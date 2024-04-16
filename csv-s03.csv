@@ -20,7 +20,7 @@ card_identifier;name;rarity;magic_ink_color;got_normal;got_foil
 15;Perdita;LEGENDARY;AMBER;0;0
 16;Porcinet;SUPER;AMBER;2;0
 17;Pluto;RARE;AMBER;5;0
-18;Pluto;UNCOMMON;AMBER;1;1
+18;Pluto;UNCOMMON;AMBER;1;0
 19;Pongo;SUPER;AMBER;3;0
 20;"La Reine de Cœur";UNCOMMON;AMBER;6;0
 21;Rolly;UNCOMMON;AMBER;6;0
@@ -36,7 +36,7 @@ card_identifier;name;rarity;magic_ink_color;got_normal;got_foil
 30;Stitch;ENCHANTED;AMBER;0;0
 31;"Clé de Turbo";UNCOMMON;AMBER;9;1
 32;"Le Pays Imaginaire";COMMON;AMBER;9;0
-33;"La Terre des Lions";RARE;AMBER;1;0
+33;"La Terre des Lions";RARE;AMBER;0;0
 34;"Chez Tiana";UNCOMMON;AMBER;5;0
 35;Alice;SUPER;AMETHYST;0;0
 36;"Adeptes de Chernabog";UNCOMMON;AMETHYST;0;0
@@ -73,7 +73,7 @@ card_identifier;name;rarity;magic_ink_color;got_normal;got_foil
 67;"Château de la Reine";RARE;AMETHYST;0;0
 68;"La Tour du Sorcier";UNCOMMON;AMETHYST;6;0
 69;"Le Frisé";COMMON;EMERALD;9;2
-70;"Ondins Ensorcelés";RARE;EMERALD;1;0
+70;"Ondins Ensorcelés";RARE;EMERALD;0;0
 71;"Don Carnage";COMMON;EMERALD;9;0
 72;Flotsam;COMMON;EMERALD;10;0
 73;"Frère Tuck";UNCOMMON;EMERALD;5;1
@@ -85,7 +85,7 @@ card_identifier;name;rarity;magic_ink_color;got_normal;got_foil
 79;"Milo Thatch";COMMON;EMERALD;8;0
 80;"Milo Thatch";LEGENDARY;EMERALD;1;0
 81;Morph;RARE;EMERALD;0;0
-82;"Peter Pan";RARE;EMERALD;2;0
+82;"Peter Pan";RARE;EMERALD;1;0
 83;"Prince Jean";UNCOMMON;EMERALD;4;0
 84;"Robin des Bois";RARE;EMERALD;2;0
 85;Shenzi;SUPER;EMERALD;3;1
@@ -104,7 +104,7 @@ card_identifier;name;rarity;magic_ink_color;got_normal;got_foil
 98;"Arc de Robin";UNCOMMON;EMERALD;6;0
 99;"Fiole de Lumière D'étoile";RARE;EMERALD;5;0
 100;"Le Manoir D'enfer";COMMON;EMERALD;9;0
-101;"Croc du Dragon";RARE;EMERALD;1;0
+101;"Croc du Dragon";RARE;EMERALD;0;0
 102;"Palais de Kuzco";UNCOMMON;EMERALD;8;0
 103;Ariel;SUPER;RUBY;1;0
 104;"Billy Bones";COMMON;RUBY;8;0
