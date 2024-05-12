@@ -147,7 +147,7 @@ card_identifier;name;rarity;magic_ink_color;got_normal;got_foil
 146;"Duke Weaselton";COMMON;SAPPHIRE;12;4
 147;Gaston;RARE;SAPPHIRE;5;1
 148;"Grand Pabbie";SUPER;SAPPHIRE;2;0
-149;Flaversham;RARE;SAPPHIRE;2;0
+149;Flaversham;RARE;SAPPHIRE;0;0
 150;James;COMMON;SAPPHIRE;10;2
 151;Jasmine;COMMON;SAPPHIRE;10;1
 152;"Judy Hopps";UNCOMMON;SAPPHIRE;7;0
@@ -167,12 +167,12 @@ card_identifier;name;rarity;magic_ink_color;got_normal;got_foil
 166;"Arbalète de Croc du Dragon";UNCOMMON;SAPPHIRE;11;0
 167;"Marmite de Gumbo";COMMON;SAPPHIRE;10;1
 168;"Atelier de Maurice";RARE;SAPPHIRE;3;0
-169;"Glace à L'eau";COMMON;SAPPHIRE;8;0
+169;"Glace à L'eau";COMMON;SAPPHIRE;4;0
 170;"Boîte de Sardines";UNCOMMON;SAPPHIRE;7;1
 171;"La Bête";COMMON;STEEL;12;0
 172;"La Bête";SUPER;STEEL;0;0
 173;"La Bête";LEGENDARY;STEEL;0;0
-174;Benja;COMMON;STEEL;10;0
+174;Benja;COMMON;STEEL;8;0
 175;"Chef Bogo";RARE;STEEL;1;0
 176;Cendrillon;COMMON;STEEL;11;0
 177;Cendrillon;SUPER;STEEL;0;0
@@ -199,7 +199,7 @@ card_identifier;name;rarity;magic_ink_color;got_normal;got_foil
 198;"Fonce !";COMMON;STEEL;8;1
 199;"Perdue dans L'hiver";COMMON;STEEL;9;0
 200;"Choisir son Combat";UNCOMMON;STEEL;3;0
-201;"Plus Ardent Que le Feu des Volcans";RARE;STEEL;1;0
+201;"Plus Ardent Que le Feu des Volcans";RARE;STEEL;0;0
 202;"Dernier Canon";COMMON;STEEL;11;2
 203;"Armure de Souris";UNCOMMON;STEEL;8;0
 204;Haltères;RARE;STEEL;4;0

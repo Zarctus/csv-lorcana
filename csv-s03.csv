@@ -145,7 +145,7 @@ card_identifier;name;rarity;magic_ink_color;got_normal;got_foil
 139;Fifi;UNCOMMON;SAPPHIRE;5;0
 140;"Archibald Gripsou";UNCOMMON;SAPPHIRE;6;0
 141;Génie;UNCOMMON;SAPPHIRE;6;1
-142;"Grand-Mère Tala";COMMON;SAPPHIRE;10;0
+142;"Grand-Mère Tala";COMMON;SAPPHIRE;7;0
 143;"Grand-Mère Tala";LEGENDARY;SAPPHIRE;0;0
 144;"Géo Trouvetou";RARE;SAPPHIRE;3;0
 145;Riri;RARE;SAPPHIRE;4;0
@@ -172,7 +172,7 @@ card_identifier;name;rarity;magic_ink_color;got_normal;got_foil
 166;"Haut-De-Forme de Picsou";UNCOMMON;SAPPHIRE;5;1
 167;"Porte du Coffre";COMMON;SAPPHIRE;8;0
 168;"La Maison de Belle";RARE;SAPPHIRE;3;0
-169;"Le Manoir de Picsou";COMMON;SAPPHIRE;7;0
+169;"Le Manoir de Picsou";COMMON;SAPPHIRE;3;0
 170;Motunui;UNCOMMON;SAPPHIRE;4;0
 171;Tui;COMMON;STEEL;10;0
 172;Bourriquet;COMMON;STEEL;8;0
@@ -187,7 +187,7 @@ card_identifier;name;rarity;magic_ink_color;got_normal;got_foil
 181;"Mickey Mouse";COMMON;STEEL;8;0
 182;"Mickey Mouse";LEGENDARY;STEEL;0;0
 183;Minnie;COMMON;STEEL;8;1
-184;"Monsieur Mouche";UNCOMMON;STEEL;2;1
+184;"Monsieur Mouche";UNCOMMON;STEEL;2;0
 185;Mufasa;RARE;STEEL;3;0
 186;Nala;UNCOMMON;STEEL;5;0
 187;Pyros;RARE;STEEL;0;1
