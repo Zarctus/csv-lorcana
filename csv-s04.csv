@@ -67,7 +67,7 @@ card_identifier;name;rarity;magic_ink_color;got_normal;got_foil
 66;"Trident de Triton";UNCOMMON;AMETHYST;7;0
 67;"Casa Madrigal";COMMON;AMETHYST;10;0
 68;"Le Rerpaire D'ursula";RARE;AMETHYST;3;1
-69;Cri-Kee;RARE;EMERALD;4;1
+69;Cri-Kee;RARE;EMERALD;1;1
 70;Diablo;LEGENDARY;EMERALD;1;0
 71;Diablo;COMMON;EMERALD;10;0
 72;Gunther;COMMON;EMERALD;11;2
@@ -81,8 +81,8 @@ card_identifier;name;rarity;magic_ink_color;got_normal;got_foil
 80;Mégara;UNCOMMON;EMERALD;6;0
 81;Peine;UNCOMMON;EMERALD;9;0
 82;Panique;UNCOMMON;EMERALD;4;0
-83;Pégase;UNCOMMON;EMERALD;7;1
-84;Pégase;COMMON;EMERALD;10;0
+83;Pégase;UNCOMMON;EMERALD;4;1
+84;Pégase;COMMON;EMERALD;6;0
 85;Pat;SUPER;EMERALD;2;0
 86;Pat;UNCOMMON;EMERALD;7;0
 87;"Prince Philippe";SUPER;EMERALD;4;0
@@ -95,7 +95,7 @@ card_identifier;name;rarity;magic_ink_color;got_normal;got_foil
 94;"Concoter la Potion";COMMON;AMETHYST;10;0
 95;"Sous L'océan";RARE;AMETHYST;3;0
 96;"Ruse D'ursula";UNCOMMON;AMETHYST;8;0
-97;"Ne Parlons Pas de Bruno";RARE;AMETHYST;5;1
+97;"Ne Parlons Pas de Bruno";RARE;AMETHYST;2;1
 98;"Invocateur D'encre Caché";COMMON;AMETHYST;11;1
 99;"Contrat Signé";UNCOMMON;AMETHYST;8;0
 100;"Plaque de Visiocon";UNCOMMON;AMETHYST;6;0
@@ -173,7 +173,7 @@ card_identifier;name;rarity;magic_ink_color;got_normal;got_foil
 172;Aladdin;COMMON;STEEL;12;3
 173;Argès;COMMON;STEEL;8;3
 174;Ariel;COMMON;STEEL;11;1
-175;Ariel;SUPER;STEEL;4;0
+175;Ariel;SUPER;STEEL;3;0
 176;"La Bête";COMMON;STEEL;7;3
 177;"Chi Fu";UNCOMMON;STEEL;6;0
 178;Chien-Po;COMMON;STEEL;14;1

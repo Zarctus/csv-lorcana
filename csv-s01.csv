@@ -96,7 +96,7 @@ card_identifier;name;rarity;magic_ink_color;got_normal;got_foil
 95;"N'écoute Que Moi";UNCOMMON;EMERALD;4;0
 96;Ruée;COMMON;EMERALD;8;1
 97;"Voler aux Riches";RARE;EMERALD;4;0
-98;"Cruelle Diablesse";COMMON;EMERALD;5;0
+98;"Cruelle Diablesse";COMMON;EMERALD;2;0
 99;"La Bête Est à Moi !";UNCOMMON;EMERALD;4;0
 100;"Trahison Brutale";COMMON;EMERALD;10;0
 101;"Cartes du Dr. Facilier";UNCOMMON;EMERALD;9;0
@@ -128,7 +128,7 @@ card_identifier;name;rarity;magic_ink_color;got_normal;got_foil
 127;Tigrou;UNCOMMON;RUBY;5;1
 128;"Soyez Prêtes !";RARE;RUBY;0;0
 129;"Droit au But";UNCOMMON;RUBY;4;0
-130;"Feu du Dragon";UNCOMMON;RUBY;8;0
+130;"Feu du Dragon";UNCOMMON;RUBY;6;0
 131;"Attiser les Flammes";UNCOMMON;RUBY;4;0
 132;"Il A un Sabre !";COMMON;RUBY;11;0
 133;Enchevêtré;COMMON;RUBY;6;1
