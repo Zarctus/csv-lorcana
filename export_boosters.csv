@@ -178,7 +178,7 @@ saison,number,nom,encre,rareté,is_foil
 "Le Retour d'Ursula",26,"Retour de Bruno",AMBER,UNCOMMON,N
 "Le Retour d'Ursula",115,Mulan,RUBY,UNCOMMON,N
 "Le Retour d'Ursula",45,"Isabela Madrigal",AMETHYST,RARE,N
-"Le Retour d'Ursula",39,"Bruno Madrigal",AMETHYST,RARE,N
+"Le Retour d'Ursula",39,"Bruno Madrigal",AMETHYST,SUPER,N
 "Le Retour d'Ursula",176,"La Bête",STEEL,COMMON,Y
 
 "Le Retour d'Ursula",72,Gunther,EMERALD,COMMON,N
@@ -658,7 +658,7 @@ saison,number,nom,encre,rareté,is_foil
 "Le Retour d'Ursula",118,Nessus,RUBY,UNCOMMON,N
 "Le Retour d'Ursula",149,Olaf,SAPPHIRE,UNCOMMON,N
 "Le Retour d'Ursula",201,"Arc Impérial",STEEL,UNCOMMON,N
-"Le Retour d'Ursula",39,"Bruno Madrigal",AMETHYST,RARE,N
+"Le Retour d'Ursula",39,"Bruno Madrigal",AMETHYST,SUPER,N
 "Le Retour d'Ursula",140,Aurore,SAPPHIRE,SUPER,N
 "Le Retour d'Ursula",26,"Retour de Bruno",AMBER,UNCOMMON,Y
 
@@ -919,7 +919,7 @@ saison,number,nom,encre,rareté,is_foil
 "Le Retour d'Ursula",144,Polochon,SAPPHIRE,UNCOMMON,N
 "Le Retour d'Ursula",195,Avalanche,STEEL,UNCOMMON,N
 "Le Retour d'Ursula",97,"Ne Parlons Pas de Bruno",AMETHYST,RARE,N
-"Le Retour d'Ursula",39,"Bruno Madrigal",AMETHYST,RARE,N
+"Le Retour d'Ursula",39,"Bruno Madrigal",AMETHYST,SUPER,N
 "Le Retour d'Ursula",137,Anna,SAPPHIRE,COMMON,Y
 
 "Le Retour d'Ursula",72,Gunther,EMERALD,COMMON,N
@@ -1517,7 +1517,7 @@ saison,number,nom,encre,rareté,is_foil
 "Le Retour d'Ursula",15,"Mickey Mouse",AMBER,UNCOMMON,N
 "Le Retour d'Ursula",43,Flotsam,AMETHYST,UNCOMMON,N
 "Le Retour d'Ursula",95,"Sous L'océan",AMETHYST,RARE,N
-"Le Retour d'Ursula",39,"Bruno Madrigal",AMETHYST,RARE,N
+"Le Retour d'Ursula",39,"Bruno Madrigal",AMETHYST,SUPER,N
 "Le Retour d'Ursula",126,Tong,RUBY,COMMON,Y
 
 "Le Retour d'Ursula",67,"Casa Madrigal",AMETHYST,COMMON,N
@@ -1555,7 +1555,7 @@ saison,number,nom,encre,rareté,is_foil
 "Le Retour d'Ursula",96,"Ruse D'ursula",AMETHYST,UNCOMMON,N
 "Le Retour d'Ursula",9,"Félix Madrigal",AMBER,UNCOMMON,N
 "Le Retour d'Ursula",145,Hadès,SAPPHIRE,UNCOMMON,N
-"Le Retour d'Ursula",39,"Bruno Madrigal",AMETHYST,RARE,N
+"Le Retour d'Ursula",39,"Bruno Madrigal",AMETHYST,SUPER,N
 "Le Retour d'Ursula",87,"Prince Philippe",EMERALD,SUPER,N
 "Le Retour d'Ursula",98,"Invocateur D'encre Caché",AMETHYST,COMMON,Y
 
