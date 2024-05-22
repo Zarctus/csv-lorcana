@@ -104,7 +104,7 @@ card_identifier;name;rarity;magic_ink_color;got_normal;got_foil
 103;"La Bête";UNCOMMON;RUBY;5;0
 104;Benja;COMMON;RUBY;11;1
 105;"Fa Zhou";COMMON;RUBY;13;2
-106;"Flynn Rider";SUPER;RUBY;4;0
+106;"Flynn Rider";SUPER;RUBY;3;0
 107;Dingo;RARE;RUBY;5;0
 108;Hercule;COMMON;RUBY;11;0
 109;Hercule;UNCOMMON;RUBY;7;1
@@ -112,7 +112,7 @@ card_identifier;name;rarity;magic_ink_color;got_normal;got_foil
 111;"Li Shang";COMMON;RUBY;12;0
 112;"Li Shang";UNCOMMON;RUBY;7;0
 113;Lumière;RARE;RUBY;3;0
-114;Mulan;LEGENDARY;RUBY;2;0
+114;Mulan;LEGENDARY;RUBY;1;0
 115;Mulan;UNCOMMON;RUBY;8;0
 116;Mulan;COMMON;RUBY;11;1
 117;Namaari;RARE;RUBY;2;1
@@ -121,14 +121,14 @@ card_identifier;name;rarity;magic_ink_color;got_normal;got_foil
 120;Pégase;COMMON;RUBY;11;0
 121;Raya;SUPER;RUBY;4;0
 122;Raya;COMMON;RUBY;9;0
-123;Sisu;UNCOMMON;RUBY;8;0
+123;Sisu;UNCOMMON;RUBY;6;0
 124;Sisu;RARE;RUBY;3;0
 125;Sisu;LEGENDARY;RUBY;0;0
 126;Tong;COMMON;RUBY;11;1
 127;"Tuk Tuk";RARE;RUBY;5;0
 128;"La Vie D'un Pirate";UNCOMMON;RUBY;7;0
 129;"Un Roi Incontesté";RARE;RUBY;4;1
-130;Bagarre;COMMON;RUBY;9;1
+130;Bagarre;COMMON;RUBY;6;1
 131;"Décret Impérial";RARE;RUBY;3;0
 132;"Médaillons Lestés";UNCOMMON;RUBY;6;0
 133;"La Planche";COMMON;RUBY;11;0
@@ -152,7 +152,7 @@ card_identifier;name;rarity;magic_ink_color;got_normal;got_foil
 151;Pascal;COMMON;SAPPHIRE;10;1
 152;"Prince Philippe";RARE;SAPPHIRE;3;0
 153;Raiponce;RARE;SAPPHIRE;2;0
-154;Eurêka;UNCOMMON;SAPPHIRE;7;0
+154;Eurêka;UNCOMMON;SAPPHIRE;4;0
 155;Sisu;UNCOMMON;SAPPHIRE;8;0
 156;"La Reine";LEGENDARY;SAPPHIRE;2;0
 157;"Chef Transformé";COMMON;SAPPHIRE;10;0
