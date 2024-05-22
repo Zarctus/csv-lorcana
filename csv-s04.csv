@@ -16,7 +16,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 15;"Mickey Mouse";UNCOMMON;AMBER;6;0
 16;"Mickey Mouse";LEGENDARY;AMBER;0;0
 17;Minnie;SUPER;AMBER;2;0
-18;"Mirabel Madrigal";SUPER;AMBER;5;0
+18;"Mirabel Madrigal";SUPER;AMBER;4;0
 19;"Mirabel Madrigal";COMMON;AMBER;8;0
 20;Pluto;COMMON;AMBER;11;2
 21;"Prince Eric";COMMON;AMBER;12;2
@@ -29,12 +29,12 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 28;"On Est une Famille";RARE;AMBER;4;0
 29;"J'ai Perdu le Nord";UNCOMMON;AMBER;8;0
 30;"Signe le Contrat";UNCOMMON;AMBER;8;0
-31;"La Chandelle du Miracle";RARE;AMBER;5;0
+31;"La Chandelle du Miracle";RARE;AMBER;4;0
 32;"Platine Disque";COMMON;AMBER;11;2
 33;Atlantica;COMMON;AMBER;10;0
 34;"Les Enfers";RARE;AMBER;5;0
 35;"Antonio Madrigal";UNCOMMON;AMETHYST;9;0
-36;Belle;SUPER;AMETHYST;1;0
+36;Belle;SUPER;AMETHYST;0;0
 37;Belle;COMMON;AMETHYST;10;1
 38;"Bruno Madrigal";RARE;AMETHYST;3;0
 39;"Bruno Madrigal";SUPER;AMETHYST;5;0
@@ -104,7 +104,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 103;"La Bête";UNCOMMON;RUBY;5;0
 104;Benja;COMMON;RUBY;11;1
 105;"Fa Zhou";COMMON;RUBY;13;2
-106;"Flynn Rider";SUPER;RUBY;4;0
+106;"Flynn Rider";SUPER;RUBY;2;0
 107;Dingo;RARE;RUBY;5;0
 108;Hercule;COMMON;RUBY;11;0
 109;Hercule;UNCOMMON;RUBY;7;1
@@ -112,7 +112,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 111;"Li Shang";COMMON;RUBY;12;0
 112;"Li Shang";UNCOMMON;RUBY;7;0
 113;Lumière;RARE;RUBY;3;0
-114;Mulan;LEGENDARY;RUBY;2;0
+114;Mulan;LEGENDARY;RUBY;1;0
 115;Mulan;UNCOMMON;RUBY;8;0
 116;Mulan;COMMON;RUBY;11;1
 117;Namaari;RARE;RUBY;2;1
@@ -121,14 +121,14 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 120;Pégase;COMMON;RUBY;11;0
 121;Raya;SUPER;RUBY;4;0
 122;Raya;COMMON;RUBY;9;0
-123;Sisu;UNCOMMON;RUBY;8;0
+123;Sisu;UNCOMMON;RUBY;6;0
 124;Sisu;RARE;RUBY;3;0
 125;Sisu;LEGENDARY;RUBY;0;0
 126;Tong;COMMON;RUBY;11;1
 127;"Tuk Tuk";RARE;RUBY;5;0
 128;"La Vie D'un Pirate";UNCOMMON;RUBY;7;0
 129;"Un Roi Incontesté";RARE;RUBY;4;1
-130;Bagarre;COMMON;RUBY;9;1
+130;Bagarre;COMMON;RUBY;6;1
 131;"Décret Impérial";RARE;RUBY;3;0
 132;"Médaillons Lestés";UNCOMMON;RUBY;6;0
 133;"La Planche";COMMON;RUBY;11;0
@@ -140,7 +140,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 139;Ariel;SUPER;SAPPHIRE;3;0
 140;Aurore;SUPER;SAPPHIRE;3;0
 141;Aurore;COMMON;SAPPHIRE;10;1
-142;"Dang Hu";RARE;SAPPHIRE;4;0
+142;"Dang Hu";RARE;SAPPHIRE;3;0
 143;"Fa Li";COMMON;SAPPHIRE;10;1
 144;Polochon;UNCOMMON;SAPPHIRE;6;1
 145;Hadès;UNCOMMON;SAPPHIRE;6;0
@@ -152,7 +152,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 151;Pascal;COMMON;SAPPHIRE;10;1
 152;"Prince Philippe";RARE;SAPPHIRE;3;0
 153;Raiponce;RARE;SAPPHIRE;2;0
-154;Eurêka;UNCOMMON;SAPPHIRE;7;0
+154;Eurêka;UNCOMMON;SAPPHIRE;4;0
 155;Sisu;UNCOMMON;SAPPHIRE;8;0
 156;"La Reine";LEGENDARY;SAPPHIRE;2;0
 157;"Chef Transformé";COMMON;SAPPHIRE;10;0
@@ -163,7 +163,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 162;"Creuse Encore et Encore";UNCOMMON;SAPPHIRE;6;0
 163;Glaner;COMMON;SAPPHIRE;10;0
 164;"J'en Ai Rêvé";COMMON;SAPPHIRE;10;0
-165;"Tous ces Secrets";RARE;SAPPHIRE;3;0
+165;"Tous ces Secrets";RARE;SAPPHIRE;2;0
 166;"Champ de Glace";RARE;SAPPHIRE;2;0
 167;"Grand Dragon de Pierre";UNCOMMON;SAPPHIRE;6;0
 168;"Bloc de Glace";COMMON;SAPPHIRE;11;2
@@ -173,7 +173,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 172;Aladdin;COMMON;STEEL;13;3
 173;Argès;COMMON;STEEL;9;3
 174;Ariel;COMMON;STEEL;12;1
-175;Ariel;SUPER;STEEL;3;0
+175;Ariel;SUPER;STEEL;2;0
 176;"La Bête";COMMON;STEEL;7;3
 177;"Chi Fu";UNCOMMON;STEEL;7;0
 178;Chien-Po;COMMON;STEEL;14;2
@@ -185,7 +185,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 184;"Luisa Madrigal";COMMON;STEEL;11;3
 185;"Balais Magiques";COMMON;STEEL;11;3
 186;"Balais Magiques";SUPER;STEEL;2;0
-187;"Mickey Mouse";RARE;STEEL;5;0
+187;"Mickey Mouse";RARE;STEEL;4;0
 188;"Mickey Mouse";COMMON;STEEL;8;3
 189;Mulan;UNCOMMON;STEEL;6;0
 190;Philoctète;RARE;STEEL;4;0
