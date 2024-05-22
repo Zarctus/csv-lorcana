@@ -16,7 +16,7 @@ card_identifier;name;rarity;magic_ink_color;got_normal;got_foil
 15;"Mickey Mouse";UNCOMMON;AMBER;6;0
 16;"Mickey Mouse";LEGENDARY;AMBER;0;0
 17;Minnie;SUPER;AMBER;2;0
-18;"Mirabel Madrigal";SUPER;AMBER;5;0
+18;"Mirabel Madrigal";SUPER;AMBER;4;0
 19;"Mirabel Madrigal";COMMON;AMBER;8;0
 20;Pluto;COMMON;AMBER;11;2
 21;"Prince Eric";COMMON;AMBER;12;2
@@ -34,7 +34,7 @@ card_identifier;name;rarity;magic_ink_color;got_normal;got_foil
 33;Atlantica;COMMON;AMBER;10;0
 34;"Les Enfers";RARE;AMBER;5;0
 35;"Antonio Madrigal";UNCOMMON;AMETHYST;9;0
-36;Belle;SUPER;AMETHYST;1;0
+36;Belle;SUPER;AMETHYST;0;0
 37;Belle;COMMON;AMETHYST;10;1
 38;"Bruno Madrigal";RARE;AMETHYST;3;0
 39;"Bruno Madrigal";SUPER;AMETHYST;5;0
@@ -185,7 +185,7 @@ card_identifier;name;rarity;magic_ink_color;got_normal;got_foil
 184;"Luisa Madrigal";COMMON;STEEL;11;3
 185;"Balais Magiques";COMMON;STEEL;11;3
 186;"Balais Magiques";SUPER;STEEL;2;0
-187;"Mickey Mouse";RARE;STEEL;5;0
+187;"Mickey Mouse";RARE;STEEL;4;0
 188;"Mickey Mouse";COMMON;STEEL;8;3
 189;Mulan;UNCOMMON;STEEL;6;0
 190;Philoctète;RARE;STEEL;4;0
