@@ -24,7 +24,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 23;Stitch;COMMON;AMBER;13;1
 24;Ursula;RARE;AMBER;5;0
 25;Ursula;COMMON;AMBER;12;1
-26;"Retour de Bruno";UNCOMMON;AMBER;10;2
+26;"Retour de Bruno";UNCOMMON;AMBER;10;1
 27;"Premiers Secours";COMMON;AMBER;11;1
 28;"On Est une Famille";RARE;AMBER;4;0
 29;"J'ai Perdu le Nord";UNCOMMON;AMBER;8;0
@@ -41,7 +41,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 40;"Camilo Madrigal";UNCOMMON;AMETHYST;6;0
 41;"Dolores Madrigal";COMMON;AMETHYST;12;0
 42;Elsa;RARE;AMETHYST;2;0
-43;Flotsam;UNCOMMON;AMETHYST;5;1
+43;Flotsam;UNCOMMON;AMETHYST;5;0
 44;"Flotsam & Jetsam";UNCOMMON;AMETHYST;7;0
 45;"Isabela Madrigal";RARE;AMETHYST;4;0
 46;Jetsam;COMMON;AMETHYST;11;1
@@ -52,7 +52,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 51;Guimauve;UNCOMMON;AMETHYST;10;0
 52;"Madame Samovar";RARE;AMETHYST;4;0
 53;"Pepa Madrigal";RARE;AMETHYST;4;0
-54;"Peter Pan";SUPER;AMETHYST;2;1
+54;"Peter Pan";SUPER;AMETHYST;2;0
 55;Pico;COMMON;AMETHYST;11;2
 56;Tic-Tac;COMMON;AMETHYST;11;0
 57;Ursula;UNCOMMON;AMETHYST;8;0
@@ -61,7 +61,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 60;"Pauvres Âmes en Perdition";COMMON;AMETHYST;11;0
 61;"La Deuxième Étoile sur la Droite";RARE;AMETHYST;4;1
 62;"Passer à L'action";COMMON;AMETHYST;12;1
-63;"Plan D'ursula";UNCOMMON;AMETHYST;9;1
+63;"Plan D'ursula";UNCOMMON;AMETHYST;9;0
 64;"Rose Mystique";RARE;AMETHYST;3;0
 65;Rose-Lanterne;COMMON;AMETHYST;10;0
 66;"Trident de Triton";UNCOMMON;AMETHYST;9;0
@@ -107,7 +107,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 106;"Flynn Rider";SUPER;RUBY;1;0
 107;Dingo;RARE;RUBY;5;0
 108;Hercule;COMMON;RUBY;12;1
-109;Hercule;UNCOMMON;RUBY;7;1
+109;Hercule;UNCOMMON;RUBY;7;0
 110;Khan;UNCOMMON;RUBY;7;0
 111;"Li Shang";COMMON;RUBY;12;0
 112;"Li Shang";UNCOMMON;RUBY;8;0
@@ -116,7 +116,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 115;Mulan;UNCOMMON;RUBY;8;0
 116;Mulan;COMMON;RUBY;12;1
 117;Namaari;RARE;RUBY;2;1
-118;Nessus;UNCOMMON;RUBY;8;1
+118;Nessus;UNCOMMON;RUBY;8;0
 119;"Bébé Noï";SUPER;RUBY;2;1
 120;Pégase;COMMON;RUBY;12;0
 121;Raya;SUPER;RUBY;4;0
