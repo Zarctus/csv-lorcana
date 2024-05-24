@@ -68,7 +68,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 67;"Casa Madrigal";COMMON;AMETHYST;11;0
 68;"Le Repaire D'ursula";RARE;AMETHYST;4;1
 69;Cri-Kee;RARE;EMERALD;2;1
-70;Diablo;LEGENDARY;EMERALD;2;0
+70;Diablo;LEGENDARY;EMERALD;1;0
 71;Diablo;COMMON;EMERALD;12;0
 72;Gunther;COMMON;EMERALD;12;2
 73;Gus;COMMON;EMERALD;11;1
@@ -104,7 +104,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 103;"La Bête";UNCOMMON;RUBY;6;0
 104;Benja;COMMON;RUBY;12;1
 105;"Fa Zhou";COMMON;RUBY;13;2
-106;"Flynn Rider";SUPER;RUBY;2;0
+106;"Flynn Rider";SUPER;RUBY;1;0
 107;Dingo;RARE;RUBY;5;0
 108;Hercule;COMMON;RUBY;12;1
 109;Hercule;UNCOMMON;RUBY;7;1
@@ -125,7 +125,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 124;Sisu;RARE;RUBY;3;0
 125;Sisu;LEGENDARY;RUBY;0;0
 126;Tong;COMMON;RUBY;12;1
-127;"Tuk Tuk";RARE;RUBY;5;1
+127;"Tuk Tuk";RARE;RUBY;4;1
 128;"La Vie D'un Pirate";UNCOMMON;RUBY;7;0
 129;"Un Roi Incontesté";RARE;RUBY;4;1
 130;Bagarre;COMMON;RUBY;7;1
@@ -188,7 +188,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 187;"Mickey Mouse";RARE;STEEL;4;0
 188;"Mickey Mouse";COMMON;STEEL;9;3
 189;Mulan;UNCOMMON;STEEL;6;0
-190;Philoctète;RARE;STEEL;4;0
+190;Philoctète;RARE;STEEL;3;0
 191;Porcinet;LEGENDARY;STEEL;0;0
 192;Rajah;RARE;STEEL;4;1
 193;Raya;SUPER;STEEL;1;1
