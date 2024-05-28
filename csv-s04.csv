@@ -74,15 +74,15 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 73;Gus;COMMON;EMERALD;14;1
 74;Hadès;LEGENDARY;EMERALD;3;1
 75;Heihei;UNCOMMON;EMERALD;11;0
-76;Héra;RARE;EMERALD;4;1
+76;Héra;RARE;EMERALD;0;1
 77;Jac;COMMON;EMERALD;15;3
 78;Jasmine;RARE;EMERALD;6;0
 79;Mégara;COMMON;EMERALD;14;2
 80;Mégara;UNCOMMON;EMERALD;8;0
 81;Peine;UNCOMMON;EMERALD;11;0
 82;Panique;UNCOMMON;EMERALD;7;0
-83;Pégase;UNCOMMON;EMERALD;6;1
-84;Pégase;COMMON;EMERALD;10;1
+83;Pégase;UNCOMMON;EMERALD;3;1
+84;Pégase;COMMON;EMERALD;7;1
 85;Pat;SUPER;EMERALD;3;0
 86;Pat;UNCOMMON;EMERALD;10;0
 87;"Prince Philippe";SUPER;EMERALD;5;0
@@ -90,7 +90,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 89;"Les Moires";COMMON;EMERALD;16;2
 90;"Les Muses";RARE;EMERALD;5;0
 91;Tor;COMMON;EMERALD;14;1
-92;Zeus;SUPER;EMERALD;6;1
+92;Zeus;SUPER;EMERALD;2;1
 93;"Esquive !";COMMON;EMERALD;15;3
 94;"Concocter la Potion";COMMON;EMERALD;15;1
 95;"Sous L'océan";RARE;EMERALD;4;0
@@ -157,7 +157,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 156;"La Reine";LEGENDARY;SAPPHIRE;4;0
 157;"Chef Transformé";COMMON;SAPPHIRE;14;0
 158;Triton;LEGENDARY;SAPPHIRE;1;1
-159;Triton;RARE;SAPPHIRE;6;2
+159;Triton;RARE;SAPPHIRE;5;2
 160;Triton;UNCOMMON;SAPPHIRE;9;1
 161;"Tuk Tuk";COMMON;SAPPHIRE;15;1
 162;"Creuse Encore et Encore";UNCOMMON;SAPPHIRE;9;1
@@ -178,7 +178,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 177;"Chi Fu";UNCOMMON;STEEL;10;1
 178;Chien-Po;COMMON;STEEL;18;2
 179;Donald;LEGENDARY;STEEL;4;0
-180;Hercule;RARE;STEEL;4;1
+180;Hercule;RARE;STEEL;1;1
 181;"Le Fou";RARE;STEEL;4;0
 182;"Li Shang";UNCOMMON;STEEL;10;0
 183;Ling;UNCOMMON;STEEL;11;0
@@ -188,7 +188,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 187;"Mickey Mouse";RARE;STEEL;4;0
 188;"Mickey Mouse";COMMON;STEEL;11;4
 189;Mulan;UNCOMMON;STEEL;8;0
-190;Philoctète;RARE;STEEL;4;0
+190;Philoctète;RARE;STEEL;0;0
 191;Porcinet;LEGENDARY;STEEL;0;0
 192;Rajah;RARE;STEEL;5;1
 193;Raya;SUPER;STEEL;2;1
