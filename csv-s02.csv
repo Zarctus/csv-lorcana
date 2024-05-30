@@ -47,16 +47,16 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 46;"Madame Mime";RARE;AMETHYST;0;0
 47;"Madame Mime";LEGENDARY;AMETHYST;0;0
 48;"Madame Mime";RARE;AMETHYST;1;0
-49;"Madame Mime";UNCOMMON;AMETHYST;11;2
-50;Merlin;COMMON;AMETHYST;6;1
-51;Merlin;UNCOMMON;AMETHYST;7;0
+49;"Madame Mime";UNCOMMON;AMETHYST;7;2
+50;Merlin;COMMON;AMETHYST;2;1
+51;Merlin;UNCOMMON;AMETHYST;3;0
 52;Merlin;RARE;AMETHYST;0;0
 53;Merlin;RARE;AMETHYST;2;1
 54;Merlin;COMMON;AMETHYST;14;2
 55;"Ombre de Peter Pan";SUPER;AMETHYST;1;1
 56;Pinocchio;RARE;AMETHYST;0;0
 57;Pinocchio;UNCOMMON;AMETHYST;4;0
-58;Pinocchio;UNCOMMON;AMETHYST;9;0
+58;Pinocchio;UNCOMMON;AMETHYST;7;0
 59;"Winnie L'ourson";COMMON;AMETHYST;13;0
 60;Yzma;SUPER;AMETHYST;0;0
 61;Yzma;UNCOMMON;AMETHYST;8;1
@@ -71,7 +71,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 70;"La Bête";LEGENDARY;EMERALD;0;0
 71;Belle;UNCOMMON;EMERALD;2;0
 72;Belle;LEGENDARY;EMERALD;1;0
-73;Bucky;UNCOMMON;EMERALD;5;0
+73;Bucky;UNCOMMON;EMERALD;1;0
 74;"Chat du Cheshire";UNCOMMON;EMERALD;7;0
 75;"Chat du Cheshire";SUPER;EMERALD;2;0
 76;Daisy;UNCOMMON;EMERALD;4;0
@@ -172,7 +172,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 171;"La Bête";COMMON;STEEL;12;0
 172;"La Bête";SUPER;STEEL;0;0
 173;"La Bête";LEGENDARY;STEEL;0;0
-174;Benja;COMMON;STEEL;8;0
+174;Benja;COMMON;STEEL;5;0
 175;"Chef Bogo";RARE;STEEL;1;0
 176;Cendrillon;COMMON;STEEL;11;0
 177;Cendrillon;SUPER;STEEL;0;0

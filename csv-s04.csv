@@ -22,7 +22,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 21;"Prince Eric";COMMON;AMBER;15;2
 22;"Prince Eric";UNCOMMON;AMBER;9;0
 23;Stitch;COMMON;AMBER;15;1
-24;Ursula;RARE;AMBER;6;0
+24;Ursula;RARE;AMBER;3;0
 25;Ursula;COMMON;AMBER;15;2
 26;"Retour de Bruno";UNCOMMON;AMBER;11;1
 27;"Premiers Secours";COMMON;AMBER;14;1
@@ -68,7 +68,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 67;"Casa Madrigal";COMMON;AMETHYST;14;0
 68;"Le Repaire D'ursula";RARE;AMETHYST;5;1
 69;Cri-Kee;RARE;EMERALD;2;2
-70;Diablo;LEGENDARY;EMERALD;1;0
+70;Diablo;LEGENDARY;EMERALD;0;0
 71;Diablo;COMMON;EMERALD;15;0
 72;Gunther;COMMON;EMERALD;15;2
 73;Gus;COMMON;EMERALD;14;1
@@ -82,7 +82,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 81;Peine;UNCOMMON;EMERALD;11;0
 82;Panique;UNCOMMON;EMERALD;7;0
 83;Pégase;UNCOMMON;EMERALD;3;1
-84;Pégase;COMMON;EMERALD;7;1
+84;Pégase;COMMON;EMERALD;4;1
 85;Pat;SUPER;EMERALD;3;0
 86;Pat;UNCOMMON;EMERALD;10;0
 87;"Prince Philippe";SUPER;EMERALD;5;0
@@ -169,11 +169,11 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 168;"Bloc de Glace";COMMON;SAPPHIRE;15;2
 169;"La Grotte D'ariel";RARE;SAPPHIRE;4;0
 170;"Camp D'hiver";COMMON;SAPPHIRE;13;0
-171;Aladdin;UNCOMMON;STEEL;10;0
+171;Aladdin;UNCOMMON;STEEL;7;0
 172;Aladdin;COMMON;STEEL;16;4
 173;Argès;COMMON;STEEL;12;3
 174;Ariel;COMMON;STEEL;15;2
-175;Ariel;SUPER;STEEL;5;0
+175;Ariel;SUPER;STEEL;4;0
 176;"La Bête";COMMON;STEEL;12;3
 177;"Chi Fu";UNCOMMON;STEEL;10;1
 178;Chien-Po;COMMON;STEEL;18;2

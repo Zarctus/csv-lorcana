@@ -76,7 +76,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 70;"Ondins Ensorcelés";RARE;EMERALD;0;0
 71;"Don Carnage";COMMON;EMERALD;9;0
 72;Flotsam;COMMON;EMERALD;10;0
-73;"Frère Tuck";UNCOMMON;EMERALD;5;1
+73;"Frère Tuck";UNCOMMON;EMERALD;5;0
 74;"Helga Sinclair";SUPER;EMERALD;1;0
 75;"Helga Sinclair";RARE;EMERALD;3;0
 76;Jetsam;COMMON;EMERALD;10;2
@@ -153,10 +153,10 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 147;Kit;UNCOMMON;SAPPHIRE;6;1
 148;Kit;COMMON;SAPPHIRE;10;1
 149;Loulou;COMMON;SAPPHIRE;11;1
-150;"Belle Marianne";COMMON;SAPPHIRE;8;1
+150;"Belle Marianne";COMMON;SAPPHIRE;8;0
 151;"Mama Odie";RARE;SAPPHIRE;5;0
 152;Pluto;COMMON;SAPPHIRE;8;0
-153;Rufus;COMMON;SAPPHIRE;9;1
+153;Rufus;COMMON;SAPPHIRE;9;0
 154;"Balthazar Picsou";SUPER;SAPPHIRE;2;2
 155;"Balthazar Picsou";UNCOMMON;SAPPHIRE;9;0
 156;"La Reine";UNCOMMON;SAPPHIRE;8;0
@@ -192,7 +192,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 186;Nala;UNCOMMON;STEEL;5;0
 187;Pyros;RARE;STEEL;0;1
 188;Razoul;COMMON;STEEL;8;0
-189;"Robin des Bois";COMMON;STEEL;7;1
+189;"Robin des Bois";COMMON;STEEL;4;1
 190;"Robin des Bois";LEGENDARY;STEEL;0;0
 191;"Shérif de Nottingham";SUPER;STEEL;2;0
 192;Simba;SUPER;STEEL;3;0
