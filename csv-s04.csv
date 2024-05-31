@@ -8,7 +8,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 7;Daisy;COMMON;AMBER;15;2
 8;Donald;UNCOMMON;AMBER;8;0
 9;"Félix Madrigal";UNCOMMON;AMBER;8;0
-10;Gaston;SUPER;AMBER;4;0
+10;Gaston;SUPER;AMBER;3;0
 11;"La Harpe Magique";RARE;AMBER;4;1
 12;Dingo;RARE;AMBER;4;2
 13;"Julieta Madrigal";UNCOMMON;AMBER;12;0
@@ -16,7 +16,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 15;"Mickey Mouse";UNCOMMON;AMBER;8;0
 16;"Mickey Mouse";LEGENDARY;AMBER;1;1
 17;Minnie;SUPER;AMBER;3;0
-18;"Mirabel Madrigal";SUPER;AMBER;5;0
+18;"Mirabel Madrigal";SUPER;AMBER;4;0
 19;"Mirabel Madrigal";COMMON;AMBER;15;2
 20;Pluto;COMMON;AMBER;13;2
 21;"Prince Eric";COMMON;AMBER;15;2
@@ -52,7 +52,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 51;Guimauve;UNCOMMON;AMETHYST;12;0
 52;"Madame Samovar";RARE;AMETHYST;4;0
 53;"Pepa Madrigal";RARE;AMETHYST;6;0
-54;"Peter Pan";SUPER;AMETHYST;4;0
+54;"Peter Pan";SUPER;AMETHYST;3;0
 55;Pico;COMMON;AMETHYST;13;2
 56;Tic-Tac;COMMON;AMETHYST;14;0
 57;Ursula;UNCOMMON;AMETHYST;9;0
@@ -97,7 +97,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 96;"Ruse D'ursula";UNCOMMON;EMERALD;11;0
 97;"Ne Parlons Pas de Bruno";RARE;EMERALD;2;1
 98;"Invocateur D'encre Caché";COMMON;EMERALD;15;1
-99;"Contrat Signé";UNCOMMON;EMERALD;11;0
+99;"Contrat Signé";UNCOMMON;EMERALD;10;0
 100;"Plaque de Vision";UNCOMMON;EMERALD;10;0
 101;"La Crique Cachée";COMMON;EMERALD;14;0
 102;"Jardin D'ursula";RARE;EMERALD;4;0
@@ -137,7 +137,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 136;"Terrains D'entraînement";COMMON;RUBY;14;0
 137;Anna;COMMON;SAPPHIRE;14;0
 138;Anna;SUPER;SAPPHIRE;2;0
-139;Ariel;SUPER;SAPPHIRE;5;0
+139;Ariel;SUPER;SAPPHIRE;3;0
 140;Aurore;SUPER;SAPPHIRE;4;0
 141;Aurore;COMMON;SAPPHIRE;13;2
 142;"Dang Hu";RARE;SAPPHIRE;3;0
