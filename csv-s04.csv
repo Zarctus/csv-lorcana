@@ -104,7 +104,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 103;"La Bête";UNCOMMON;RUBY;9;0
 104;Benja;COMMON;RUBY;16;2
 105;"Fa Zhou";COMMON;RUBY;16;2
-106;"Flynn Rider";SUPER;RUBY;2;0
+106;"Flynn Rider";SUPER;RUBY;1;0
 107;Dingo;RARE;RUBY;6;0
 108;Hercule;COMMON;RUBY;13;1
 109;Hercule;UNCOMMON;RUBY;11;0
@@ -177,7 +177,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 176;"La Bête";COMMON;STEEL;13;4
 177;"Chi Fu";UNCOMMON;STEEL;10;1
 178;Chien-Po;COMMON;STEEL;19;2
-179;Donald;LEGENDARY;STEEL;4;0
+179;Donald;LEGENDARY;STEEL;3;0
 180;Hercule;RARE;STEEL;1;1
 181;"Le Fou";RARE;STEEL;4;0
 182;"Li Shang";UNCOMMON;STEEL;10;0
