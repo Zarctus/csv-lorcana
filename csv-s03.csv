@@ -1,7 +1,7 @@
 card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 1;Baloo;RARE;AMBER;1;1
 2;Bernard;RARE;AMBER;4;0
-3;Chernabog;SUPER;AMBER;2;0
+3;Chernabog;SUPER;AMBER;1;0
 4a;"Chiot Dalmatien";COMMON;AMBER;1;0
 4b;"Chiot Dalmatien";COMMON;AMBER;1;0
 4c;"Chiot Dalmatien";COMMON;AMBER;1;0
@@ -67,7 +67,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 61;"Il M'appelle";UNCOMMON;AMETHYST;5;0
 62;"Effort Désespéré";UNCOMMON;AMETHYST;8;0
 63;"Je Complète ma Collection";RARE;AMETHYST;3;1
-64;"La Lampe";RARE;AMETHYST;1;0
+64;"La Lampe";RARE;AMETHYST;0;0
 65;"Le Chapeau de Sorcier";RARE;AMETHYST;0;0
 66;"Montagne Interdite";COMMON;AMETHYST;8;0
 67;"Château de la Reine";RARE;AMETHYST;0;0
@@ -83,7 +83,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 77;Kit;UNCOMMON;EMERALD;5;0
 78;"Lyle Tiberius Rourke";SUPER;EMERALD;3;0
 79;"Milo Thatch";COMMON;EMERALD;8;0
-80;"Milo Thatch";LEGENDARY;EMERALD;1;0
+80;"Milo Thatch";LEGENDARY;EMERALD;0;0
 81;Morph;RARE;EMERALD;0;0
 82;"Peter Pan";RARE;EMERALD;1;0
 83;"Prince Jean";UNCOMMON;EMERALD;4;0
@@ -140,7 +140,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 134;Agrabah;COMMON;RUBY;5;1
 135;"Jolly Roger";UNCOMMON;RUBY;5;0
 136;"Rls Héritage";RARE;RUBY;0;0
-137;"Audrey Ramirez";RARE;SAPPHIRE;4;0
+137;"Audrey Ramirez";RARE;SAPPHIRE;2;0
 138;"Capitaine Amélia";COMMON;SAPPHIRE;10;0
 139;Fifi;UNCOMMON;SAPPHIRE;5;0
 140;"Archibald Gripsou";UNCOMMON;SAPPHIRE;6;0
