@@ -77,29 +77,29 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 76;Héra;RARE;EMERALD;0;1
 77;Jac;COMMON;EMERALD;17;3
 78;Jasmine;RARE;EMERALD;6;0
-79;Mégara;COMMON;EMERALD;14;2
-80;Mégara;UNCOMMON;EMERALD;10;0
-81;Peine;UNCOMMON;EMERALD;12;0
-82;Panique;UNCOMMON;EMERALD;8;0
+79;Mégara;COMMON;EMERALD;10;2
+80;Mégara;UNCOMMON;EMERALD;6;0
+81;Peine;UNCOMMON;EMERALD;8;0
+82;Panique;UNCOMMON;EMERALD;4;0
 83;Pégase;UNCOMMON;EMERALD;1;1
 84;Pégase;COMMON;EMERALD;4;1
 85;Pat;SUPER;EMERALD;3;0
 86;Pat;UNCOMMON;EMERALD;10;0
 87;"Prince Philippe";SUPER;EMERALD;6;0
 88;"Prince Philippe";RARE;EMERALD;6;2
-89;"Les Moires";COMMON;EMERALD;17;2
-90;"Les Muses";RARE;EMERALD;5;0
+89;"Les Moires";COMMON;EMERALD;14;2
+90;"Les Muses";RARE;EMERALD;1;0
 91;Tor;COMMON;EMERALD;14;1
 92;Zeus;SUPER;EMERALD;2;1
 93;"Esquive !";COMMON;EMERALD;16;3
 94;"Concocter la Potion";COMMON;EMERALD;16;1
 95;"Sous L'océan";RARE;EMERALD;4;0
 96;"Ruse D'ursula";UNCOMMON;EMERALD;12;0
-97;"Ne Parlons Pas de Bruno";RARE;EMERALD;2;1
+97;"Ne Parlons Pas de Bruno";RARE;EMERALD;0;1
 98;"Invocateur D'encre Caché";COMMON;EMERALD;15;1
 99;"Contrat Signé";UNCOMMON;EMERALD;11;0
 100;"Plaque de Vision";UNCOMMON;EMERALD;10;0
-101;"La Crique Cachée";COMMON;EMERALD;15;0
+101;"La Crique Cachée";COMMON;EMERALD;13;0
 102;"Jardin D'ursula";RARE;EMERALD;4;0
 103;"La Bête";UNCOMMON;RUBY;9;0
 104;Benja;COMMON;RUBY;16;2
@@ -198,7 +198,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 197;"Il Me Reste un Espoir";RARE;STEEL;7;0
 198;"Tous avec Moi !";UNCOMMON;STEEL;8;0
 199;"Décret de Triton";COMMON;STEEL;16;3
-200;"Sphère D'endurance";COMMON;STEEL;16;3
+200;"Sphère D'endurance";COMMON;STEEL;14;3
 201;"Arc Impérial";UNCOMMON;STEEL;12;0
 202;"Canon du Rls Héritage";RARE;STEEL;7;1
 203;"La Muraille";RARE;STEEL;3;0
