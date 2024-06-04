@@ -50,7 +50,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 49;"Balais Magiques";COMMON;AMETHYST;15;2
 50;"Domestique Magique";UNCOMMON;AMETHYST;10;0
 51;Guimauve;UNCOMMON;AMETHYST;12;0
-52;"Madame Samovar";RARE;AMETHYST;4;0
+52;"Madame Samovar";RARE;AMETHYST;3;0
 53;"Pepa Madrigal";RARE;AMETHYST;6;0
 54;"Peter Pan";SUPER;AMETHYST;3;0
 55;Pico;COMMON;AMETHYST;13;2
@@ -154,7 +154,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 153;Raiponce;RARE;SAPPHIRE;4;0
 154;Eurêka;UNCOMMON;SAPPHIRE;8;0
 155;Sisu;UNCOMMON;SAPPHIRE;10;0
-156;"La Reine";LEGENDARY;SAPPHIRE;4;0
+156;"La Reine";LEGENDARY;SAPPHIRE;3;0
 157;"Chef Transformé";COMMON;SAPPHIRE;15;0
 158;Triton;LEGENDARY;SAPPHIRE;1;1
 159;Triton;RARE;SAPPHIRE;5;2
