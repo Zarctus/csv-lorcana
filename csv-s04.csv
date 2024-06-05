@@ -8,13 +8,13 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 7;Daisy;COMMON;AMBER;15;2
 8;Donald;UNCOMMON;AMBER;9;0
 9;"Félix Madrigal";UNCOMMON;AMBER;9;0
-10;Gaston;SUPER;AMBER;3;0
+10;Gaston;SUPER;AMBER;2;0
 11;"La Harpe Magique";RARE;AMBER;5;1
 12;Dingo;RARE;AMBER;4;2
 13;"Julieta Madrigal";UNCOMMON;AMBER;13;0
 14;Max;COMMON;AMBER;14;1
 15;"Mickey Mouse";UNCOMMON;AMBER;8;0
-16;"Mickey Mouse";LEGENDARY;AMBER;1;1
+16;"Mickey Mouse";LEGENDARY;AMBER;0;1
 17;Minnie;SUPER;AMBER;3;0
 18;"Mirabel Madrigal";SUPER;AMBER;4;0
 19;"Mirabel Madrigal";COMMON;AMBER;15;2
@@ -57,16 +57,16 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 56;Tic-Tac;COMMON;AMETHYST;16;0
 57;Ursula;UNCOMMON;AMETHYST;9;0
 58;Ursula;LEGENDARY;AMETHYST;5;0
-59;"Yen Sid";LEGENDARY;AMETHYST;1;1
+59;"Yen Sid";LEGENDARY;AMETHYST;0;1
 60;"Pauvres Âmes en Perdition";COMMON;AMETHYST;14;2
-61;"La Deuxième Étoile sur la Droite";RARE;AMETHYST;5;1
+61;"La Deuxième Étoile sur la Droite";RARE;AMETHYST;5;0
 62;"Passer à L'action";COMMON;AMETHYST;16;2
 63;"Plan D'ursula";UNCOMMON;AMETHYST;11;0
 64;"Rose Mystique";RARE;AMETHYST;5;0
 65;Rose-Lanterne;COMMON;AMETHYST;15;2
 66;"Trident de Triton";UNCOMMON;AMETHYST;12;0
 67;"Casa Madrigal";COMMON;AMETHYST;15;0
-68;"Le Repaire D'ursula";RARE;AMETHYST;5;1
+68;"Le Repaire D'ursula";RARE;AMETHYST;5;0
 69;Cri-Kee;RARE;EMERALD;3;2
 70;Diablo;LEGENDARY;EMERALD;0;0
 71;Diablo;COMMON;EMERALD;16;0
@@ -90,7 +90,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 89;"Les Moires";COMMON;EMERALD;14;2
 90;"Les Muses";RARE;EMERALD;1;0
 91;Tor;COMMON;EMERALD;14;1
-92;Zeus;SUPER;EMERALD;2;1
+92;Zeus;SUPER;EMERALD;1;1
 93;"Esquive !";COMMON;EMERALD;16;3
 94;"Concocter la Potion";COMMON;EMERALD;16;1
 95;"Sous L'océan";RARE;EMERALD;4;0
@@ -112,7 +112,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 111;"Li Shang";COMMON;RUBY;15;0
 112;"Li Shang";UNCOMMON;RUBY;9;0
 113;Lumière;RARE;RUBY;4;0
-114;Mulan;LEGENDARY;RUBY;2;0
+114;Mulan;LEGENDARY;RUBY;1;0
 115;Mulan;UNCOMMON;RUBY;10;0
 116;Mulan;COMMON;RUBY;14;1
 117;Namaari;RARE;RUBY;4;1
@@ -136,7 +136,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 135;"Le Canard Boiteux";RARE;RUBY;3;0
 136;"Terrains D'entraînement";COMMON;RUBY;15;0
 137;Anna;COMMON;SAPPHIRE;14;0
-138;Anna;SUPER;SAPPHIRE;2;0
+138;Anna;SUPER;SAPPHIRE;1;0
 139;Ariel;SUPER;SAPPHIRE;4;0
 140;Aurore;SUPER;SAPPHIRE;4;0
 141;Aurore;COMMON;SAPPHIRE;14;2
@@ -146,7 +146,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 145;Hadès;UNCOMMON;SAPPHIRE;10;0
 146;Hans;COMMON;SAPPHIRE;15;0
 147;Iduna;UNCOMMON;SAPPHIRE;11;0
-148;"John Silver";RARE;SAPPHIRE;6;1
+148;"John Silver";RARE;SAPPHIRE;6;0
 149;Olaf;UNCOMMON;SAPPHIRE;12;0
 150;Olaf;COMMON;SAPPHIRE;15;2
 151;Pascal;COMMON;SAPPHIRE;15;2
@@ -156,7 +156,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 155;Sisu;UNCOMMON;SAPPHIRE;10;0
 156;"La Reine";LEGENDARY;SAPPHIRE;3;0
 157;"Chef Transformé";COMMON;SAPPHIRE;15;0
-158;Triton;LEGENDARY;SAPPHIRE;1;1
+158;Triton;LEGENDARY;SAPPHIRE;0;1
 159;Triton;RARE;SAPPHIRE;5;2
 160;Triton;UNCOMMON;SAPPHIRE;10;1
 161;"Tuk Tuk";COMMON;SAPPHIRE;17;1
