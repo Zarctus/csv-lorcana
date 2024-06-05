@@ -24,7 +24,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 23;Stitch;COMMON;AMBER;17;1
 24;Ursula;RARE;AMBER;3;0
 25;Ursula;COMMON;AMBER;16;2
-26;"Retour de Bruno";UNCOMMON;AMBER;11;1
+26;"Retour de Bruno";UNCOMMON;AMBER;11;0
 27;"Premiers Secours";COMMON;AMBER;14;1
 28;"On Est une Famille";RARE;AMBER;6;0
 29;"J'ai Perdu le Nord";UNCOMMON;AMBER;10;0
@@ -81,7 +81,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 80;Mégara;UNCOMMON;EMERALD;6;0
 81;Peine;UNCOMMON;EMERALD;8;0
 82;Panique;UNCOMMON;EMERALD;4;0
-83;Pégase;UNCOMMON;EMERALD;1;1
+83;Pégase;UNCOMMON;EMERALD;1;0
 84;Pégase;COMMON;EMERALD;4;1
 85;Pat;SUPER;EMERALD;3;0
 86;Pat;UNCOMMON;EMERALD;10;0
@@ -142,7 +142,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 141;Aurore;COMMON;SAPPHIRE;14;2
 142;"Dang Hu";RARE;SAPPHIRE;3;0
 143;"Fa Li";COMMON;SAPPHIRE;14;2
-144;Polochon;UNCOMMON;SAPPHIRE;9;1
+144;Polochon;UNCOMMON;SAPPHIRE;9;0
 145;Hadès;UNCOMMON;SAPPHIRE;10;0
 146;Hans;COMMON;SAPPHIRE;15;0
 147;Iduna;UNCOMMON;SAPPHIRE;11;0
