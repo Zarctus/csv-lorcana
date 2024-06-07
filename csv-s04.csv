@@ -104,7 +104,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 103;"La Bête";UNCOMMON;RUBY;9;0
 104;Benja;COMMON;RUBY;16;2
 105;"Fa Zhou";COMMON;RUBY;16;2
-106;"Flynn Rider";SUPER;RUBY;1;0
+106;"Flynn Rider";SUPER;RUBY;0;0
 107;Dingo;RARE;RUBY;6;0
 108;Hercule;COMMON;RUBY;13;1
 109;Hercule;UNCOMMON;RUBY;11;0
@@ -122,12 +122,12 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 121;Raya;SUPER;RUBY;6;0
 122;Raya;COMMON;RUBY;14;0
 123;Sisu;UNCOMMON;RUBY;8;0
-124;Sisu;RARE;RUBY;5;0
+124;Sisu;RARE;RUBY;2;0
 125;Sisu;LEGENDARY;RUBY;0;0
 126;Tong;COMMON;RUBY;16;2
 127;"Tuk Tuk";RARE;RUBY;4;1
 128;"La Vie D'un Pirate";UNCOMMON;RUBY;10;0
-129;"Un Roi Incontesté";RARE;RUBY;7;1
+129;"Un Roi Incontesté";RARE;RUBY;6;0
 130;Bagarre;COMMON;RUBY;12;1
 131;"Décret Impérial";RARE;RUBY;6;1
 132;"Médaillons Lestés";UNCOMMON;RUBY;8;0
@@ -169,7 +169,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 168;"Bloc de Glace";COMMON;SAPPHIRE;16;2
 169;"La Grotte D'ariel";RARE;SAPPHIRE;4;0
 170;"Camp D'hiver";COMMON;SAPPHIRE;14;0
-171;Aladdin;UNCOMMON;STEEL;7;0
+171;Aladdin;UNCOMMON;STEEL;4;0
 172;Aladdin;COMMON;STEEL;17;4
 173;Argès;COMMON;STEEL;13;3
 174;Ariel;COMMON;STEEL;15;2
