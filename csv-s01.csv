@@ -29,7 +29,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 28;"Lueur Réparatrice";COMMON;AMBER;8;0
 29;"Juste à Temps";RARE;AMBER;1;0
 30;"Partir Là-Bas";RARE;AMBER;3;0
-31;"Tu M'as Oublié";UNCOMMON;AMBER;6;0
+31;"Tu M'as Oublié";UNCOMMON;AMBER;5;0
 32;Zirgouflex;COMMON;AMBER;12;0
 33;Lanterne;RARE;AMBER;1;0
 34;"Pendentif en Coquillage D'ursula";RARE;AMBER;2;0
@@ -186,8 +186,8 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 185;Maui;RARE;STEEL;6;0
 186;"Mickey Mouse";RARE;STEEL;2;0
 187;"Prince Eric";COMMON;STEEL;15;0
-188;Simba;COMMON;STEEL;6;0
-189;Simba;RARE;STEEL;4;1
+188;Simba;COMMON;STEEL;5;0
+189;Simba;RARE;STEEL;3;0
 190;Simba;UNCOMMON;STEEL;7;0
 191;"Monsieur Starkey";UNCOMMON;STEEL;4;2
 192;"Te Kā";LEGENDARY;STEEL;0;0
