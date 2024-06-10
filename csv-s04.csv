@@ -121,7 +121,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 120;Pégase;COMMON;RUBY;14;1
 121;Raya;SUPER;RUBY;6;0
 122;Raya;COMMON;RUBY;14;0
-123;Sisu;UNCOMMON;RUBY;8;0
+123;Sisu;UNCOMMON;RUBY;6;0
 124;Sisu;RARE;RUBY;2;0
 125;Sisu;LEGENDARY;RUBY;0;0
 126;Tong;COMMON;RUBY;16;2
@@ -137,7 +137,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 136;"Terrains D'entraînement";COMMON;RUBY;15;0
 137;Anna;COMMON;SAPPHIRE;14;0
 138;Anna;SUPER;SAPPHIRE;1;0
-139;Ariel;SUPER;SAPPHIRE;4;0
+139;Ariel;SUPER;SAPPHIRE;2;0
 140;Aurore;SUPER;SAPPHIRE;4;0
 141;Aurore;COMMON;SAPPHIRE;14;2
 142;"Dang Hu";RARE;SAPPHIRE;3;0
@@ -173,10 +173,10 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 172;Aladdin;COMMON;STEEL;17;4
 173;Argès;COMMON;STEEL;13;3
 174;Ariel;COMMON;STEEL;15;2
-175;Ariel;SUPER;STEEL;4;0
+175;Ariel;SUPER;STEEL;3;0
 176;"La Bête";COMMON;STEEL;13;4
 177;"Chi Fu";UNCOMMON;STEEL;10;1
-178;Chien-Po;COMMON;STEEL;19;2
+178;Chien-Po;COMMON;STEEL;19;1
 179;Donald;LEGENDARY;STEEL;3;0
 180;Hercule;RARE;STEEL;1;1
 181;"Le Fou";RARE;STEEL;4;0
@@ -198,7 +198,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 197;"Il Me Reste un Espoir";RARE;STEEL;7;0
 198;"Tous avec Moi !";UNCOMMON;STEEL;8;0
 199;"Décret de Triton";COMMON;STEEL;16;3
-200;"Sphère D'endurance";COMMON;STEEL;14;3
+200;"Sphère D'endurance";COMMON;STEEL;10;3
 201;"Arc Impérial";UNCOMMON;STEEL;12;0
 202;"Canon du Rls Héritage";RARE;STEEL;7;1
 203;"La Muraille";RARE;STEEL;3;0

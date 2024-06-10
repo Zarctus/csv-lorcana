@@ -162,7 +162,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 161;"Développe ton Cerveau";COMMON;SAPPHIRE;13;1
 162;"Si C'est Pas Baroque...";RARE;SAPPHIRE;0;0
 163;"Libérée, Délivrée";RARE;SAPPHIRE;0;0
-164;"Je Vole";UNCOMMON;SAPPHIRE;4;0
+164;"Je Vole";UNCOMMON;SAPPHIRE;1;0
 165;"Travail D'équipe";COMMON;SAPPHIRE;9;0
 166;"Panier de Noix de Coco";UNCOMMON;SAPPHIRE;6;0
 167;"Œil des Moires";UNCOMMON;SAPPHIRE;8;0
@@ -172,7 +172,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 171;Aladdin;COMMON;STEEL;8;0
 172;"La Bête";UNCOMMON;STEEL;8;0
 173;"Capitaine Crochet";RARE;STEEL;0;0
-174;"Capitaine Crochet";COMMON;STEEL;10;0
+174;"Capitaine Crochet";COMMON;STEEL;7;0
 175;"Capitaine Crochet";RARE;STEEL;3;0
 176;Cerbère;COMMON;STEEL;8;0
 177;Donald;UNCOMMON;STEEL;6;0
@@ -195,7 +195,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 194;"La Fée Clochette";COMMON;STEEL;5;0
 195;"Ce Rêve Bleu";SUPER;STEEL;0;0
 196;Déchiqueté;COMMON;STEEL;10;0
-197;"Allumez les Mêches !";COMMON;STEEL;11;2
+197;"Allumez les Mêches !";COMMON;STEEL;8;2
 198;"Tuons la Bête !";RARE;STEEL;0;0
 199;"Sens Dessus Dessous";UNCOMMON;STEEL;7;0
 200;"Fracasser !";UNCOMMON;STEEL;6;0

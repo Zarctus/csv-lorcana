@@ -164,7 +164,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 158;"Wendy Darling";SUPER;SAPPHIRE;3;0
 159;Distraction;COMMON;SAPPHIRE;10;0
 160;"Je Suis ton Meilleur Ami";RARE;SAPPHIRE;2;0
-161;"Le Bleu Lumière";UNCOMMON;SAPPHIRE;3;0
+161;"Le Bleu Lumière";UNCOMMON;SAPPHIRE;0;0
 162;Réparation;COMMON;SAPPHIRE;9;2
 163;"Gyroscope Lumineux";RARE;SAPPHIRE;3;0
 164;"Le Cœur de Te Fiti";RARE;SAPPHIRE;5;0
@@ -199,7 +199,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 193;Simba;UNCOMMON;STEEL;8;0
 194;"Gulliver Glas";UNCOMMON;STEEL;7;0
 195;"Quand Soudain Survint Zeus";RARE;STEEL;0;0
-196;"Ba-Boum !";COMMON;STEEL;9;1
+196;"Ba-Boum !";COMMON;STEEL;7;1
 197;"L'olympe, ce Serait Pas Plutôt par Là ?";COMMON;STEEL;10;2
 198;"Libérer les Titans";UNCOMMON;STEEL;6;0
 199;"Rapière du Capitaine Crochet";UNCOMMON;STEEL;6;1
