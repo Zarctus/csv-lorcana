@@ -66,7 +66,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 65;"Contrat Irrévocable";UNCOMMON;AMETHYST;5;0
 66;"Maillet de Croquet";COMMON;AMETHYST;13;3
 67;"Panneaux Déroutants";RARE;AMETHYST;4;0
-68;"Grimoire du Sorcier";RARE;AMETHYST;0;1
+68;"Grimoire du Sorcier";RARE;AMETHYST;0;0
 69;Arthur;COMMON;EMERALD;9;0
 70;"La Bête";LEGENDARY;EMERALD;0;0
 71;Belle;UNCOMMON;EMERALD;2;0
@@ -143,7 +143,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 142;"Big Ben";SUPER;SAPPHIRE;0;0
 143;"Big Ben";UNCOMMON;SAPPHIRE;5;2
 144;"Cruella D'enfer";COMMON;SAPPHIRE;16;1
-145;"Cruella D'enfer";UNCOMMON;SAPPHIRE;7;1
+145;"Cruella D'enfer";UNCOMMON;SAPPHIRE;7;0
 146;"Duke Weaselton";COMMON;SAPPHIRE;12;4
 147;Gaston;RARE;SAPPHIRE;5;1
 148;"Grand Pabbie";SUPER;SAPPHIRE;2;0

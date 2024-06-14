@@ -25,7 +25,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 24;Timon;COMMON;AMBER;8;0
 25;"C'est la Fête";UNCOMMON;AMBER;6;0
 26;"Très Mauvais Caractère !";COMMON;AMBER;10;0
-27;"Hakuna Matata";COMMON;AMBER;8;1
+27;"Hakuna Matata";COMMON;AMBER;8;0
 28;"Lueur Réparatrice";COMMON;AMBER;8;0
 29;"Juste à Temps";RARE;AMBER;1;0
 30;"Partir Là-Bas";RARE;AMBER;3;0
@@ -100,7 +100,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 99;"La Bête Est à Moi !";UNCOMMON;EMERALD;4;0
 100;"Trahison Brutale";COMMON;EMERALD;10;0
 101;"Cartes du Dr. Facilier";UNCOMMON;EMERALD;9;0
-102;"Cimeterre Volé";COMMON;EMERALD;13;2
+102;"Cimeterre Volé";COMMON;EMERALD;13;1
 103;Abu;COMMON;RUBY;10;1
 104;Aladdin;SUPER;RUBY;3;0
 105;Aladdin;COMMON;RUBY;12;0
