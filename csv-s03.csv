@@ -96,7 +96,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 90;Ursula;UNCOMMON;EMERALD;0;0
 91;Ursula;LEGENDARY;EMERALD;0;0
 92;Turbo;UNCOMMON;EMERALD;5;0
-93;Zazu;COMMON;EMERALD;8;1
+93;Zazu;COMMON;EMERALD;8;0
 94;"A Touché mon Cœuuuuur…";UNCOMMON;EMERALD;5;0
 95;"Je Prends le Chemin";COMMON;EMERALD;10;0
 96;"Crois-Moi J'ai Vu Pire";COMMON;EMERALD;9;1
@@ -186,7 +186,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 180;Lythos;UNCOMMON;STEEL;6;1
 181;"Mickey Mouse";COMMON;STEEL;8;0
 182;"Mickey Mouse";LEGENDARY;STEEL;1;0
-183;Minnie;COMMON;STEEL;9;1
+183;Minnie;COMMON;STEEL;9;0
 184;"Monsieur Mouche";UNCOMMON;STEEL;2;0
 185;Mufasa;RARE;STEEL;3;0
 186;Nala;UNCOMMON;STEEL;5;0

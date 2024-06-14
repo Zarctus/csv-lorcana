@@ -9,7 +9,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 8;Donald;UNCOMMON;AMBER;9;0
 9;"Félix Madrigal";UNCOMMON;AMBER;9;0
 10;Gaston;SUPER;AMBER;2;0
-11;"La Harpe Magique";RARE;AMBER;5;1
+11;"La Harpe Magique";RARE;AMBER;5;0
 12;Dingo;RARE;AMBER;4;2
 13;"Julieta Madrigal";UNCOMMON;AMBER;13;0
 14;Max;COMMON;AMBER;14;1
@@ -19,7 +19,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 18;"Mirabel Madrigal";SUPER;AMBER;4;0
 19;"Mirabel Madrigal";COMMON;AMBER;15;2
 20;Pluto;COMMON;AMBER;13;2
-21;"Prince Eric";COMMON;AMBER;16;2
+21;"Prince Eric";COMMON;AMBER;16;1
 22;"Prince Eric";UNCOMMON;AMBER;9;0
 23;Stitch;COMMON;AMBER;17;1
 24;Ursula;RARE;AMBER;3;0
@@ -158,7 +158,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 157;"Chef Transformé";COMMON;SAPPHIRE;15;0
 158;Triton;LEGENDARY;SAPPHIRE;0;1
 159;Triton;RARE;SAPPHIRE;5;2
-160;Triton;UNCOMMON;SAPPHIRE;10;1
+160;Triton;UNCOMMON;SAPPHIRE;10;0
 161;"Tuk Tuk";COMMON;SAPPHIRE;17;1
 162;"Creuse Encore et Encore";UNCOMMON;SAPPHIRE;10;1
 163;Glaner;COMMON;SAPPHIRE;12;0
