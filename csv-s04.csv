@@ -105,7 +105,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 104;Benja;COMMON;RUBY;17;2
 105;"Fa Zhou";COMMON;RUBY;16;2
 106;"Flynn Rider";SUPER;RUBY;0;0
-107;Dingo;RARE;RUBY;6;0
+107;Dingo;RARE;RUBY;3;0
 108;Hercule;COMMON;RUBY;14;1
 109;Hercule;UNCOMMON;RUBY;11;0
 110;Khan;UNCOMMON;RUBY;10;0
@@ -128,7 +128,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 127;"Tuk Tuk";RARE;RUBY;4;1
 128;"La Vie D'un Pirate";UNCOMMON;RUBY;10;0
 129;"Un Roi Incontesté";RARE;RUBY;6;0
-130;Bagarre;COMMON;RUBY;13;1
+130;Bagarre;COMMON;RUBY;9;1
 131;"Décret Impérial";RARE;RUBY;6;1
 132;"Médaillons Lestés";UNCOMMON;RUBY;8;0
 133;"La Planche";COMMON;RUBY;16;0
