@@ -26,11 +26,11 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 25;Blanche-Neige;LEGENDARY;AMBER;0;0
 26;"La Reine";SUPER;AMBER;0;1
 27;"La Reine";COMMON;AMBER;19;2
-28;"Ne Bougez Pas";COMMON;AMBER;16;0
-29;"Ultime Combat";UNCOMMON;AMBER;5;0
-30;"Peignons les Roses en Rouge";COMMON;AMBER;7;0
+28;"Ne bougez pas";COMMON;AMBER;16;0
+29;"Ultime combat";UNCOMMON;AMBER;5;0
+30;"Peignons les roses en rouge";COMMON;AMBER;7;0
 31;"Le Grand Génie du Mal";RARE;AMBER;0;0
-32;"De Zéro en Héros";UNCOMMON;AMBER;7;0
+32;"De zéro en héros";UNCOMMON;AMBER;7;0
 33;"Pierre de Dragon";RARE;AMBER;4;0
 34;"Flûte de Dormeur";RARE;AMBER;1;0
 35;Arthur;SUPER;AMETHYST;0;0
@@ -57,16 +57,16 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 56;Pinocchio;RARE;AMETHYST;0;0
 57;Pinocchio;UNCOMMON;AMETHYST;4;0
 58;Pinocchio;UNCOMMON;AMETHYST;7;0
-59;"Winnie L'ourson";COMMON;AMETHYST;13;0
+59;"Winnie l'Ourson";COMMON;AMETHYST;13;0
 60;Yzma;SUPER;AMETHYST;0;0
 61;Yzma;UNCOMMON;AMETHYST;8;1
-62;"Le Macabre et la Terreur";RARE;AMETHYST;1;0
-63;"Je Suis Coincé !";COMMON;AMETHYST;9;0
-64;"La Légende de L'épée dans L'enclume";COMMON;AMETHYST;6;0
-65;"Contrat Irrévocable";UNCOMMON;AMETHYST;5;0
-66;"Maillet de Croquet";COMMON;AMETHYST;13;3
-67;"Panneaux Déroutants";RARE;AMETHYST;4;0
-68;"Grimoire du Sorcier";RARE;AMETHYST;0;0
+62;"Le macabre et la terreur";RARE;AMETHYST;1;0
+63;"Je suis coincé !";COMMON;AMETHYST;9;0
+64;"La légende de l'épée dans l'enclume";COMMON;AMETHYST;6;0
+65;"Contrat irrévocable";UNCOMMON;AMETHYST;5;0
+66;"Maillet de croquet";COMMON;AMETHYST;13;3
+67;"Panneaux déroutants";RARE;AMETHYST;4;0
+68;"Grimoire du sorcier";RARE;AMETHYST;0;0
 69;Arthur;COMMON;EMERALD;9;0
 70;"La Bête";LEGENDARY;EMERALD;0;0
 71;Belle;UNCOMMON;EMERALD;2;0
@@ -78,7 +78,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 77;Donald;UNCOMMON;EMERALD;9;0
 78;Donald;COMMON;EMERALD;11;2
 79;"Dr. Facilier";SUPER;EMERALD;4;0
-80;L'enchanteresse;COMMON;EMERALD;5;0
+80;L'Enchanteresse;COMMON;EMERALD;5;0
 81;"Flynn Rider";COMMON;EMERALD;14;1
 82;"Flynn Rider";RARE;EMERALD;0;0
 83;Gaston;COMMON;EMERALD;12;1
@@ -98,12 +98,12 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 97;Rebondir;UNCOMMON;EMERALD;2;0
 98;Hypnotiser;COMMON;EMERALD;13;0
 99;Improviser;COMMON;EMERALD;9;0
-100;"Tactique de Meute";RARE;EMERALD;3;0
-101;"Sonner la Clochette";UNCOMMON;EMERALD;8;0
-102;"Piège Génial de Ratigan";RARE;EMERALD;3;1
+100;"Tactique de meute";RARE;EMERALD;3;0
+101;"Sonner la clochette";UNCOMMON;EMERALD;8;0
+102;"Piège génial de Ratigan";RARE;EMERALD;3;1
 103;Baloo;COMMON;RUBY;8;0
 104;Boun;COMMON;RUBY;11;1
-105;"Gardes Cartes";UNCOMMON;RUBY;7;0
+105;"Gardes cartes";UNCOMMON;RUBY;7;0
 106;Donald;LEGENDARY;RUBY;0;0
 107;Félicia;COMMON;RUBY;11;1
 108;Fidget;COMMON;RUBY;12;0
@@ -127,14 +127,14 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 126;"Shere Khan";RARE;RUBY;3;0
 127;Tigrou;COMMON;RUBY;12;0
 128;"Tuk Tuk";RARE;RUBY;4;0
-129;"Le Monde Qui Est le Mien";COMMON;RUBY;7;0
-130;"Votre Roi Vous Invite à la Fête";RARE;RUBY;1;0
-131;"La Plus Diabolique Conjuration";UNCOMMON;RUBY;6;0
-132;"Comment M'as-Tu Nommé ?";COMMON;RUBY;14;2
-133;"Tu T'envoles";UNCOMMON;RUBY;3;2
-134;"Clochette du Dîner";RARE;RUBY;1;0
+129;"Le monde qui est le mien";COMMON;RUBY;7;0
+130;"Votre roi vous invite à la fête";RARE;RUBY;1;0
+131;"La plus diabolique conjuration";UNCOMMON;RUBY;6;0
+132;"Comment m'as-tu nommé ?";COMMON;RUBY;14;2
+133;"Tu t'envoles";UNCOMMON;RUBY;3;2
+134;"Clochette du dîner";RARE;RUBY;1;0
 135;"Dague de Peter Pan";COMMON;RUBY;10;0
-136;"L'épée dans L'enclume";UNCOMMON;RUBY;10;0
+136;"L'épée dans l'enclume";UNCOMMON;RUBY;10;0
 137;Alice;LEGENDARY;SAPPHIRE;0;0
 138;Basil;SUPER;SAPPHIRE;3;0
 139;Basil;COMMON;SAPPHIRE;9;0
@@ -142,8 +142,8 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 141;"La Chenille";UNCOMMON;SAPPHIRE;5;0
 142;"Big Ben";SUPER;SAPPHIRE;0;0
 143;"Big Ben";UNCOMMON;SAPPHIRE;5;2
-144;"Cruella D'enfer";COMMON;SAPPHIRE;16;1
-145;"Cruella D'enfer";UNCOMMON;SAPPHIRE;7;0
+144;"Cruella d'Enfer";COMMON;SAPPHIRE;16;1
+145;"Cruella d'Enfer";UNCOMMON;SAPPHIRE;7;0
 146;"Duke Weaselton";COMMON;SAPPHIRE;12;4
 147;Gaston;RARE;SAPPHIRE;5;1
 148;"Grand Pabbie";SUPER;SAPPHIRE;2;0
@@ -155,20 +155,20 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 154;"Nick Wilde";UNCOMMON;SAPPHIRE;1;2
 155;"Bébé Noi";RARE;SAPPHIRE;1;0
 156;"Maître Hibou";COMMON;SAPPHIRE;19;1
-157;"Prince Charmant";RARE;SAPPHIRE;2;0
+157;"Prince charmant";RARE;SAPPHIRE;2;0
 158;"Coco Lapin";COMMON;SAPPHIRE;9;0
 159;Sisu;LEGENDARY;SAPPHIRE;0;0
 160;Nokk;COMMON;SAPPHIRE;12;0
-161;"Winnie L'ourson";RARE;SAPPHIRE;2;0
-162;"Chute dans le Terrier du Lapin";RARE;SAPPHIRE;4;0
-163;"Quatre Douzaines D'œufs";UNCOMMON;SAPPHIRE;10;0
-164;"Projectile de Fortune";UNCOMMON;SAPPHIRE;11;0
-165;"Rien à Cacher";COMMON;SAPPHIRE;3;0
+161;"Winnie l'ourson";RARE;SAPPHIRE;2;0
+162;"Chute dans le terrier du lapin";RARE;SAPPHIRE;4;0
+163;"Quatre douzaines d'œufs";UNCOMMON;SAPPHIRE;10;0
+164;"Projectile de fortune";UNCOMMON;SAPPHIRE;11;0
+165;"Rien à cacher";COMMON;SAPPHIRE;3;0
 166;"Arbalète de Croc du Dragon";UNCOMMON;SAPPHIRE;11;0
 167;"Marmite de Gumbo";COMMON;SAPPHIRE;11;1
 168;"Atelier de Maurice";RARE;SAPPHIRE;3;0
-169;"Glace à L'eau";COMMON;SAPPHIRE;1;0
-170;"Boîte de Sardines";UNCOMMON;SAPPHIRE;7;0
+169;"Glace à l'eau";COMMON;SAPPHIRE;1;0
+170;"Boîte de sardines";UNCOMMON;SAPPHIRE;7;0
 171;"La Bête";COMMON;STEEL;12;0
 172;"La Bête";SUPER;STEEL;0;0
 173;"La Bête";LEGENDARY;STEEL;0;0
@@ -186,22 +186,22 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 185;Kronk;RARE;STEEL;8;0
 186;Lawrence;UNCOMMON;STEEL;7;2
 187;"Li Shang";UNCOMMON;STEEL;12;0
-188;"Balais Magiques";COMMON;STEEL;12;0
+188;"Balais magiques";COMMON;STEEL;12;0
 189;Namaari;LEGENDARY;STEEL;0;0
 190;Pacha;UNCOMMON;STEEL;10;0
 191;"Prince Naveen";COMMON;STEEL;11;2
 192;"La Reine de Cœur";RARE;STEEL;1;0
 193;"Robin des Bois";UNCOMMON;STEEL;5;0
-194;"Le Chasseur";RARE;STEEL;6;0
+194;"Le chasseur";RARE;STEEL;6;0
 195;"Le Prince";UNCOMMON;STEEL;9;0
 196;Tiana;SUPER;STEEL;0;0
 197;Tiana;COMMON;STEEL;13;0
 198;"Fonce !";COMMON;STEEL;8;1
-199;"Perdue dans L'hiver";COMMON;STEEL;7;0
-200;"Choisir son Combat";UNCOMMON;STEEL;3;0
-201;"Plus Ardent Que le Feu des Volcans";RARE;STEEL;0;0
-202;"Dernier Canon";COMMON;STEEL;11;2
-203;"Armure de Souris";UNCOMMON;STEEL;8;0
+199;"Perdue dans l'hiver";COMMON;STEEL;7;0
+200;"Choisir son combat";UNCOMMON;STEEL;3;0
+201;"Plus ardent que le feu des volcans";RARE;STEEL;0;0
+202;"Dernier canon";COMMON;STEEL;11;2
+203;"Armure de souris";UNCOMMON;STEEL;8;0
 204;Haltères;RARE;STEEL;4;0
 205;Cendrillon;ENCHANTED;AMBER;0;0
 206;Blanche-Neige;ENCHANTED;AMBER;0;0
