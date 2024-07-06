@@ -146,7 +146,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 145;Hadès;UNCOMMON;SAPPHIRE;11;0
 146;Hans;COMMON;SAPPHIRE;18;0
 147;Iduna;UNCOMMON;SAPPHIRE;12;0
-148;"John Silver";RARE;SAPPHIRE;6;0
+148;"John Silver";RARE;SAPPHIRE;5;0
 149;Olaf;UNCOMMON;SAPPHIRE;12;0
 150;Olaf;COMMON;SAPPHIRE;16;2
 151;Pascal;COMMON;SAPPHIRE;16;2
@@ -175,7 +175,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 174;Ariel;COMMON;STEEL;15;3
 175;Ariel;SUPER;STEEL;3;0
 176;"La Bête";COMMON;STEEL;14;6
-177;"Chi Fu";UNCOMMON;STEEL;13;1
+177;"Chi Fu";UNCOMMON;STEEL;13;0
 178;Chien-Po;COMMON;STEEL;20;1
 179;Donald;LEGENDARY;STEEL;3;0
 180;Hercule;RARE;STEEL;1;1
