@@ -47,9 +47,9 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 46;"Madame Mime";RARE;AMETHYST;0;0
 47;"Madame Mime";LEGENDARY;AMETHYST;0;0
 48;"Madame Mime";RARE;AMETHYST;1;0
-49;"Madame Mime";UNCOMMON;AMETHYST;4;2
-50;Merlin;COMMON;AMETHYST;2;1
-51;Merlin;UNCOMMON;AMETHYST;3;0
+49;"Madame Mime";UNCOMMON;AMETHYST;1;2
+50;Merlin;COMMON;AMETHYST;0;0
+51;Merlin;UNCOMMON;AMETHYST;0;0
 52;Merlin;RARE;AMETHYST;0;0
 53;Merlin;RARE;AMETHYST;2;1
 54;Merlin;COMMON;AMETHYST;14;2
