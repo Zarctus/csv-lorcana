@@ -37,7 +37,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 36;Belle;SUPER;AMETHYST;1;0
 37;Belle;COMMON;AMETHYST;15;2
 38;"Bruno Madrigal";RARE;AMETHYST;7;0
-39;"Bruno Madrigal";SUPER;AMETHYST;6;0
+39;"Bruno Madrigal";SUPER;AMETHYST;7;0
 40;"Camilo Madrigal";UNCOMMON;AMETHYST;11;0
 41;"Dolores Madrigal";COMMON;AMETHYST;17;0
 42;Elsa;RARE;AMETHYST;3;0
@@ -52,7 +52,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 51;Guimauve;UNCOMMON;AMETHYST;13;0
 52;"Madame Samovar";RARE;AMETHYST;3;0
 53;"Pepa Madrigal";RARE;AMETHYST;6;0
-54;"Peter Pan";SUPER;AMETHYST;2;0
+54;"Peter Pan";SUPER;AMETHYST;3;0
 55;Pico;COMMON;AMETHYST;15;2
 56;Tic-Tac;COMMON;AMETHYST;18;0
 57;Ursula;UNCOMMON;AMETHYST;9;0
@@ -137,7 +137,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 136;"Terrains d'Entraînement";COMMON;RUBY;16;0
 137;Anna;COMMON;SAPPHIRE;15;0
 138;Anna;SUPER;SAPPHIRE;2;0
-139;Ariel;SUPER;SAPPHIRE;0;0
+139;Ariel;SUPER;SAPPHIRE;2;0
 140;Aurore;SUPER;SAPPHIRE;4;0
 141;Aurore;COMMON;SAPPHIRE;14;2
 142;"Dang Hu";RARE;SAPPHIRE;4;0
@@ -152,7 +152,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 151;Pascal;COMMON;SAPPHIRE;16;2
 152;"Prince Philippe";RARE;SAPPHIRE;6;0
 153;Raiponce;RARE;SAPPHIRE;4;0
-154;Eurêka;UNCOMMON;SAPPHIRE;5;0
+154;Eurêka;UNCOMMON;SAPPHIRE;8;0
 155;Sisu;UNCOMMON;SAPPHIRE;11;0
 156;"La Reine";LEGENDARY;SAPPHIRE;3;0
 157;"Chef Transformé";COMMON;SAPPHIRE;15;0
@@ -165,7 +165,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 164;"J'en ai Rêvé";COMMON;SAPPHIRE;15;1
 165;"Tous ces Secrets";RARE;SAPPHIRE;4;0
 166;"Champ de Glace";RARE;SAPPHIRE;4;0
-167;"Grand Dragon de Pierre";UNCOMMON;SAPPHIRE;7;0
+167;"Grand Dragon de Pierre";UNCOMMON;SAPPHIRE;11;0
 168;"Bloc de Glace";COMMON;SAPPHIRE;19;2
 169;"La Grotte d'Ariel";RARE;SAPPHIRE;5;0
 170;"Camp d'Hiver";COMMON;SAPPHIRE;16;0
@@ -198,7 +198,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 197;"Il me reste un espoir";RARE;STEEL;8;0
 198;"Tous avec moi !";UNCOMMON;STEEL;8;0
 199;"Décret de Triton";COMMON;STEEL;18;3
-200;"Sphère d'endurance";COMMON;STEEL;11;2
+200;"Sphère d'endurance";COMMON;STEEL;11;3
 201;"Arc Impérial";UNCOMMON;STEEL;12;0
 202;"Canon du RLS Héritage";RARE;STEEL;9;1
 203;"La Muraille";RARE;STEEL;4;0
