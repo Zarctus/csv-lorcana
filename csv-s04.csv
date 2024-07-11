@@ -26,11 +26,11 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 25;Ursula;COMMON;AMBER;16;2
 26;"Retour de Bruno";UNCOMMON;AMBER;12;0
 27;"Premiers Secours";COMMON;AMBER;15;1
-28;"On est une Famille";RARE;AMBER;6;0
-29;"J'ai perdu le Nord";UNCOMMON;AMBER;12;0
-30;"Signe le contrat";UNCOMMON;AMBER;12;0
+28;"On Est une Famille";RARE;AMBER;6;0
+29;"J'ai Perdu le Nord";UNCOMMON;AMBER;12;0
+30;"Signe le Contrat";UNCOMMON;AMBER;12;0
 31;"La Chandelle du Miracle";RARE;AMBER;5;1
-32;"Platine disque";COMMON;AMBER;17;2
+32;"Platine Disque";COMMON;AMBER;17;2
 33;Atlantica;COMMON;AMBER;17;0
 34;"Les Enfers";RARE;AMBER;6;0
 35;"Antonio Madrigal";UNCOMMON;AMETHYST;12;0
@@ -58,15 +58,15 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 57;Ursula;UNCOMMON;AMETHYST;9;0
 58;Ursula;LEGENDARY;AMETHYST;5;0
 59;"Yen Sid";LEGENDARY;AMETHYST;1;1
-60;"Pauvres âmes en perdition";COMMON;AMETHYST;16;2
+60;"Pauvres Âmes en Perdition";COMMON;AMETHYST;16;2
 61;"La Deuxième Étoile sur la Droite";RARE;AMETHYST;6;0
-62;"Passer à l'action";COMMON;AMETHYST;17;2
-63;"Plan d'Ursula";UNCOMMON;AMETHYST;13;0
-64;"Rose mystique";RARE;AMETHYST;6;0
+62;"Passer à L'action";COMMON;AMETHYST;17;2
+63;"Plan D'ursula";UNCOMMON;AMETHYST;13;0
+64;"Rose Mystique";RARE;AMETHYST;6;0
 65;Rose-Lanterne;COMMON;AMETHYST;15;2
 66;"Trident de Triton";UNCOMMON;AMETHYST;12;0
 67;"Casa Madrigal";COMMON;AMETHYST;17;0
-68;"Le Repaire d'Ursula";RARE;AMETHYST;5;0
+68;"Le Repaire D'ursula";RARE;AMETHYST;5;0
 69;Cri-Kee;RARE;EMERALD;3;2
 70;Diablo;LEGENDARY;EMERALD;0;0
 71;Diablo;COMMON;EMERALD;18;1
@@ -93,14 +93,14 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 92;Zeus;SUPER;EMERALD;1;1
 93;"Esquive !";COMMON;EMERALD;17;3
 94;"Concocter la Potion";COMMON;EMERALD;16;1
-95;"Sous l'océan";RARE;EMERALD;5;0
-96;"Ruse d'Ursula";UNCOMMON;EMERALD;13;0
-97;"Ne parlons pas de Bruno";RARE;EMERALD;1;1
-98;"Invocateur d'encre caché";COMMON;EMERALD;16;1
-99;"Contrat signé";UNCOMMON;EMERALD;12;0
-100;"Plaque de vision";UNCOMMON;EMERALD;10;0
-101;"La crique cachée";COMMON;EMERALD;13;0
-102;"Jardin d'Ursula";RARE;EMERALD;6;0
+95;"Sous L'océan";RARE;EMERALD;5;0
+96;"Ruse D'ursula";UNCOMMON;EMERALD;13;0
+97;"Ne Parlons Pas de Bruno";RARE;EMERALD;1;1
+98;"Invocateur D'encre Caché";COMMON;EMERALD;16;1
+99;"Contrat Signé";UNCOMMON;EMERALD;12;0
+100;"Plaque de Vision";UNCOMMON;EMERALD;10;0
+101;"La Crique Cachée";COMMON;EMERALD;13;0
+102;"Jardin D'ursula";RARE;EMERALD;6;0
 103;"La Bête";UNCOMMON;RUBY;11;0
 104;Benja;COMMON;RUBY;17;3
 105;"Fa Zhou";COMMON;RUBY;16;2
@@ -126,15 +126,15 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 125;Sisu;LEGENDARY;RUBY;0;0
 126;Tong;COMMON;RUBY;19;3
 127;"Tuk Tuk";RARE;RUBY;5;1
-128;"La vie d'un pirate";UNCOMMON;RUBY;10;0
-129;"Un roi incontesté";RARE;RUBY;6;0
+128;"La Vie D'un Pirate";UNCOMMON;RUBY;10;0
+129;"Un Roi Incontesté";RARE;RUBY;6;0
 130;Bagarre;COMMON;RUBY;10;1
 131;"Décret Impérial";RARE;RUBY;6;1
 132;"Médaillons Lestés";UNCOMMON;RUBY;8;0
 133;"La Planche";COMMON;RUBY;17;0
 134;"Sphère de Vitalité";COMMON;RUBY;16;2
 135;"Le Canard Boiteux";RARE;RUBY;3;0
-136;"Terrains d'Entraînement";COMMON;RUBY;16;0
+136;"Terrains D'entraînement";COMMON;RUBY;16;0
 137;Anna;COMMON;SAPPHIRE;15;0
 138;Anna;SUPER;SAPPHIRE;2;0
 139;Ariel;SUPER;SAPPHIRE;0;0
@@ -160,15 +160,15 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 159;Triton;RARE;SAPPHIRE;6;2
 160;Triton;UNCOMMON;SAPPHIRE;10;0
 161;"Tuk Tuk";COMMON;SAPPHIRE;18;1
-162;"Creuse encore et encore";UNCOMMON;SAPPHIRE;11;1
+162;"Creuse Encore et Encore";UNCOMMON;SAPPHIRE;11;1
 163;Glaner;COMMON;SAPPHIRE;12;0
-164;"J'en ai Rêvé";COMMON;SAPPHIRE;15;1
+164;"J'en Ai Rêvé";COMMON;SAPPHIRE;15;1
 165;"Tous ces Secrets";RARE;SAPPHIRE;4;0
 166;"Champ de Glace";RARE;SAPPHIRE;4;0
 167;"Grand Dragon de Pierre";UNCOMMON;SAPPHIRE;7;0
 168;"Bloc de Glace";COMMON;SAPPHIRE;19;2
-169;"La Grotte d'Ariel";RARE;SAPPHIRE;5;0
-170;"Camp d'Hiver";COMMON;SAPPHIRE;16;0
+169;"La Grotte D'ariel";RARE;SAPPHIRE;5;0
+170;"Camp D'hiver";COMMON;SAPPHIRE;16;0
 171;Aladdin;UNCOMMON;STEEL;5;0
 172;Aladdin;COMMON;STEEL;17;4
 173;Argès;COMMON;STEEL;13;4
@@ -194,30 +194,30 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 193;Raya;SUPER;STEEL;2;1
 194;Yao;COMMON;STEEL;23;5
 195;Avalanche;UNCOMMON;STEEL;9;0
-196;"Ils cassent en deux comme je veux";UNCOMMON;STEEL;11;0
-197;"Il me reste un espoir";RARE;STEEL;8;0
-198;"Tous avec moi !";UNCOMMON;STEEL;8;0
+196;"Ils Cassent en Deux Comme Je Veux";UNCOMMON;STEEL;11;0
+197;"Il Me Reste un Espoir";RARE;STEEL;8;0
+198;"Tous avec Moi !";UNCOMMON;STEEL;8;0
 199;"Décret de Triton";COMMON;STEEL;18;3
-200;"Sphère d'endurance";COMMON;STEEL;11;2
+200;"Sphère D'endurance";COMMON;STEEL;11;2
 201;"Arc Impérial";UNCOMMON;STEEL;12;0
-202;"Canon du RLS Héritage";RARE;STEEL;9;1
+202;"Canon du Rls Héritage";RARE;STEEL;9;1
 203;"La Muraille";RARE;STEEL;4;0
 204;Thèbes;COMMON;STEEL;17;4
 205;Cendrillon;ENCHANTED;AMBER;0;0
 206;Minnie;ENCHANTED;AMBER;0;0
-207;"On est une Famille";ENCHANTED;AMBER;0;0
+207;"On Est une Famille";ENCHANTED;AMBER;0;0
 208;Ursula;ENCHANTED;AMETHYST;0;0
 209;"Yen Sid";ENCHANTED;AMETHYST;0;0
 210;"La Deuxième Étoile sur la Droite";ENCHANTED;AMETHYST;0;0
 211;Diablo;ENCHANTED;EMERALD;0;0
 212;Jasmine;ENCHANTED;EMERALD;0;0
-213;"Ne parlons pas de Bruno";ENCHANTED;EMERALD;0;0
+213;"Ne Parlons Pas de Bruno";ENCHANTED;EMERALD;0;0
 214;Dingo;ENCHANTED;RUBY;0;0
 215;Sisu;ENCHANTED;RUBY;0;0
 216;"Le Canard Boiteux";ENCHANTED;RUBY;0;0
 217;Anna;ENCHANTED;SAPPHIRE;0;0
 218;"La Reine";ENCHANTED;SAPPHIRE;0;0
-219;"La Grotte d'Ariel";ENCHANTED;SAPPHIRE;0;0
+219;"La Grotte D'ariel";ENCHANTED;SAPPHIRE;0;0
 220;Ariel;ENCHANTED;STEEL;0;0
 221;Porcinet;ENCHANTED;STEEL;0;0
 222;"La Muraille";ENCHANTED;STEEL;0;0
