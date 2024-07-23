@@ -4,7 +4,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 3;Cendrillon;UNCOMMON;AMBER;7;0
 4;Dingo;UNCOMMON;AMBER;8;0
 5;Hadès;RARE;AMBER;0;0
-6;Hadès;RARE;AMBER;6;0
+6;Hadès;RARE;AMBER;5;0
 7;Heihei;COMMON;AMBER;13;0
 8;"Le Fou";UNCOMMON;AMBER;5;0
 9;Lilo;RARE;AMBER;0;0
@@ -21,21 +21,21 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 20;Simba;COMMON;AMBER;3;0
 21;Stitch;LEGENDARY;AMBER;0;0
 22;Stitch;COMMON;AMBER;4;1
-23;Stitch;SUPER;AMBER;1;0
+23;Stitch;SUPER;AMBER;0;0
 24;Timon;COMMON;AMBER;8;0
 25;"C'est la Fête";UNCOMMON;AMBER;6;0
 26;"Très Mauvais Caractère !";COMMON;AMBER;10;0
 27;"Hakuna Matata";COMMON;AMBER;8;0
 28;"Lueur Réparatrice";COMMON;AMBER;8;0
 29;"Juste à Temps";RARE;AMBER;1;0
-30;"Partir Là-Bas";RARE;AMBER;3;0
+30;"Partir Là-Bas";RARE;AMBER;2;0
 31;"Tu M'as Oublié";UNCOMMON;AMBER;5;0
 32;Zirgouflex;COMMON;AMBER;12;0
 33;Lanterne;RARE;AMBER;1;0
 34;"Pendentif en Coquillage D'ursula";RARE;AMBER;2;0
 35;Anna;UNCOMMON;AMETHYST;3;0
 36;Archimède;COMMON;AMETHYST;7;0
-37;"Dr. Facilier";RARE;AMETHYST;2;0
+37;"Dr. Facilier";RARE;AMETHYST;1;0
 38;"Dr. Facilier";COMMON;AMETHYST;11;0
 39;"Dr. Facilier";RARE;AMETHYST;2;0
 40;Elsa;COMMON;AMETHYST;8;0
@@ -53,18 +53,18 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 52;Olaf;UNCOMMON;AMETHYST;8;0
 53;Pascal;UNCOMMON;AMETHYST;0;0
 54;Rafiki;UNCOMMON;AMETHYST;10;0
-55;Sven;UNCOMMON;AMETHYST;7;0
+55;Sven;UNCOMMON;AMETHYST;6;0
 56;"La Reine";SUPER;AMETHYST;0;0
 57;"Madame de Garderobe";COMMON;AMETHYST;10;0
 58;"La Fée Clochette";COMMON;AMETHYST;7;0
 59;Ursula;LEGENDARY;AMETHYST;0;0
 60;Yzma;COMMON;AMETHYST;9;1
-61;Zeus;RARE;AMETHYST;3;0
+61;Zeus;RARE;AMETHYST;2;0
 62;Emberlificotage;UNCOMMON;AMETHYST;3;0
 63;Gel;COMMON;AMETHYST;12;0
 64;"Mes Amis de L'au-Delà";COMMON;AMETHYST;1;0
 65;Réflexion;UNCOMMON;AMETHYST;6;0
-66;"Miroir Magique";RARE;AMETHYST;1;0
+66;"Miroir Magique";RARE;AMETHYST;0;0
 67;"Chaudron D'ursula";UNCOMMON;AMETHYST;1;0
 68;"Montre à Gousset";RARE;AMETHYST;0;0
 69;Aladdin;COMMON;EMERALD;11;1
@@ -86,9 +86,9 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 85;"Madame de Trémaine";RARE;EMERALD;3;0
 86;"Le Chapelier Fou";UNCOMMON;EMERALD;8;0
 87;Mégara;COMMON;EMERALD;9;0
-88;"Mickey Mouse";SUPER;EMERALD;1;0
+88;"Mickey Mouse";SUPER;EMERALD;0;0
 89;"Mickey Mouse";COMMON;EMERALD;13;0
-90;"Mère Gothel";SUPER;EMERALD;1;0
+90;"Mère Gothel";SUPER;EMERALD;0;0
 91;"Peter Pan";COMMON;EMERALD;12;0
 92;Tamatoa;UNCOMMON;EMERALD;5;0
 93;"La Fée Clochette";COMMON;EMERALD;7;0
@@ -102,7 +102,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 101;"Cartes du Dr. Facilier";UNCOMMON;EMERALD;9;0
 102;"Cimeterre Volé";COMMON;EMERALD;13;1
 103;Abu;COMMON;RUBY;10;1
-104;Aladdin;SUPER;RUBY;3;0
+104;Aladdin;SUPER;RUBY;0;0
 105;Aladdin;COMMON;RUBY;12;0
 106;Capitaine;UNCOMMON;RUBY;10;0
 107;"Capitaine Crochet";RARE;RUBY;2;0
@@ -110,7 +110,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 109;Elsa;COMMON;RUBY;8;0
 110;Gaston;COMMON;RUBY;5;0
 111;Dingo;COMMON;RUBY;8;0
-112;"Le Fou";RARE;RUBY;5;0
+112;"Le Fou";RARE;RUBY;4;0
 113;Maléfique;LEGENDARY;RUBY;0;0
 114;Maui;RARE;RUBY;0;0
 115;"Mickey Mouse";LEGENDARY;RUBY;0;0
@@ -123,25 +123,25 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 122;Scar;COMMON;RUBY;11;0
 123;Scar;RARE;RUBY;2;0
 124;"Sergent Tibs";COMMON;RUBY;10;0
-125;Stitch;RARE;RUBY;4;0
+125;Stitch;RARE;RUBY;3;0
 126;"Te Kā";SUPER;RUBY;1;0
 127;Tigrou;UNCOMMON;RUBY;5;1
 128;"Soyez Prêtes !";RARE;RUBY;0;0
 129;"Droit au But";UNCOMMON;RUBY;4;0
-130;"Feu du Dragon";UNCOMMON;RUBY;6;0
+130;"Feu du Dragon";UNCOMMON;RUBY;5;0
 131;"Attiser les Flammes";UNCOMMON;RUBY;4;0
 132;"Il A un Sabre !";COMMON;RUBY;11;0
 133;Enchevêtré;COMMON;RUBY;6;1
 134;"Pomme Empoisonnée";RARE;RUBY;0;0
 135;"Bouclier de Vertu";UNCOMMON;RUBY;7;0
-136;"Épée de Vérité";RARE;RUBY;4;0
-137;Ariel;RARE;SAPPHIRE;1;0
+136;"Épée de Vérité";RARE;RUBY;3;0
+137;Ariel;RARE;SAPPHIRE;0;0
 138;Aurore;COMMON;SAPPHIRE;7;0
 139;Aurore;SUPER;SAPPHIRE;0;0
 140;Aurore;UNCOMMON;SAPPHIRE;11;0
 141;Belle;UNCOMMON;SAPPHIRE;4;0
 142;Belle;LEGENDARY;SAPPHIRE;0;0
-143;Tui;UNCOMMON;SAPPHIRE;4;0
+143;Tui;UNCOMMON;SAPPHIRE;3;0
 144;Donald;COMMON;SAPPHIRE;8;0
 145;Polochon;COMMON;SAPPHIRE;10;0
 146;"Grand-Mère Tala";UNCOMMON;SAPPHIRE;5;0
@@ -150,7 +150,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 149;Jasmine;RARE;SAPPHIRE;0;0
 150;Maléfique;COMMON;SAPPHIRE;13;1
 151;Maléfique;RARE;SAPPHIRE;4;0
-152;Maurice;RARE;SAPPHIRE;1;0
+152;Maurice;RARE;SAPPHIRE;0;0
 153;Merlin;COMMON;SAPPHIRE;8;1
 154;"Mickey Mouse";COMMON;SAPPHIRE;13;0
 155;Mufasa;COMMON;SAPPHIRE;10;0
@@ -184,10 +184,10 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 183;Kronk;UNCOMMON;STEEL;5;0
 184;Lilo;UNCOMMON;STEEL;9;1
 185;Maui;RARE;STEEL;6;0
-186;"Mickey Mouse";RARE;STEEL;2;0
+186;"Mickey Mouse";RARE;STEEL;1;0
 187;"Prince Eric";COMMON;STEEL;15;0
 188;Simba;COMMON;STEEL;5;0
-189;Simba;RARE;STEEL;3;0
+189;Simba;RARE;STEEL;2;0
 190;Simba;UNCOMMON;STEEL;7;0
 191;"Monsieur Starkey";UNCOMMON;STEEL;4;2
 192;"Te Kā";LEGENDARY;STEEL;0;0

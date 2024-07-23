@@ -18,7 +18,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 13;Orville;COMMON;AMBER;11;0
 14;Patch;COMMON;AMBER;10;1
 15;Perdita;LEGENDARY;AMBER;0;0
-16;Porcinet;SUPER;AMBER;2;0
+16;Porcinet;SUPER;AMBER;0;0
 17;Pluto;RARE;AMBER;5;0
 18;Pluto;UNCOMMON;AMBER;1;0
 19;Pongo;SUPER;AMBER;1;0
@@ -201,7 +201,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 195;"Quand Soudain Survint Zeus";RARE;STEEL;0;0
 196;"Ba-Boum !";COMMON;STEEL;7;1
 197;"L'olympe, ce Serait Pas Plutôt par Là ?";COMMON;STEEL;10;2
-198;"Libérer les Titans";UNCOMMON;STEEL;6;0
+198;"Libérer les Titans";UNCOMMON;STEEL;4;0
 199;"Rapière du Capitaine Crochet";UNCOMMON;STEEL;6;1
 200;"Le Costume de Robotik";COMMON;STEEL;10;0
 201;"Carte de la Planète au Trésor";RARE;STEEL;4;0
