@@ -34,7 +34,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 33;Atlantica;COMMON;AMBER;17;0
 34;"Les Enfers";RARE;AMBER;6;0
 35;"Antonio Madrigal";UNCOMMON;AMETHYST;12;0
-36;Belle;SUPER;AMETHYST;1;0
+36;Belle;SUPER;AMETHYST;0;0
 37;Belle;COMMON;AMETHYST;15;3
 38;"Bruno Madrigal";RARE;AMETHYST;7;0
 39;"Bruno Madrigal";SUPER;AMETHYST;6;0
@@ -82,7 +82,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 81;Peine;UNCOMMON;EMERALD;8;0
 82;Panique;UNCOMMON;EMERALD;4;0
 83;Pégase;UNCOMMON;EMERALD;2;0
-84;Pégase;COMMON;EMERALD;3;2
+84;Pégase;COMMON;EMERALD;1;0
 85;Pat;SUPER;EMERALD;3;0
 86;Pat;UNCOMMON;EMERALD;11;0
 87;"Prince Philippe";SUPER;EMERALD;6;0

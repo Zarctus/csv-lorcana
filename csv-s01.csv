@@ -39,7 +39,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 38;"Dr. Facilier";COMMON;AMETHYST;11;0
 39;"Dr. Facilier";RARE;AMETHYST;2;0
 40;Elsa;COMMON;AMETHYST;8;0
-41;Elsa;UNCOMMON;AMETHYST;5;0
+41;Elsa;UNCOMMON;AMETHYST;4;0
 42;Elsa;LEGENDARY;AMETHYST;0;0
 43;Flotsam;RARE;AMETHYST;4;0
 44;Jafar;RARE;AMETHYST;0;0
@@ -118,7 +118,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 117;Vaiana;UNCOMMON;RUBY;4;0
 118;Mulan;SUPER;RUBY;0;0
 119;"Peter Pan";COMMON;RUBY;10;0
-120;Pongo;COMMON;RUBY;14;0
+120;Pongo;COMMON;RUBY;13;0
 121;Raiponce;UNCOMMON;RUBY;9;0
 122;Scar;COMMON;RUBY;11;0
 123;Scar;RARE;RUBY;2;0
