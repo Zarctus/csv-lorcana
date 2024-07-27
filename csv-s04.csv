@@ -95,7 +95,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 94;"Concocter la Potion";COMMON;EMERALD;16;1
 95;"Sous L'océan";RARE;EMERALD;6;0
 96;"Ruse D'ursula";UNCOMMON;EMERALD;13;0
-97;"Ne Parlons Pas de Bruno";RARE;EMERALD;1;0
+97;"Ne Parlons Pas de Bruno";RARE;EMERALD;0;0
 98;"Invocateur D'encre Caché";COMMON;EMERALD;16;1
 99;"Contrat Signé";UNCOMMON;EMERALD;13;0
 100;"Plaque de Vision";UNCOMMON;EMERALD;10;0
@@ -127,8 +127,8 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 126;Tong;COMMON;RUBY;19;3
 127;"Tuk Tuk";RARE;RUBY;5;1
 128;"La Vie D'un Pirate";UNCOMMON;RUBY;10;0
-129;"Un Roi Incontesté";RARE;RUBY;6;0
-130;Bagarre;COMMON;RUBY;11;1
+129;"Un Roi Incontesté";RARE;RUBY;3;0
+130;Bagarre;COMMON;RUBY;8;1
 131;"Décret Impérial";RARE;RUBY;6;0
 132;"Médaillons Lestés";UNCOMMON;RUBY;8;0
 133;"La Planche";COMMON;RUBY;17;0

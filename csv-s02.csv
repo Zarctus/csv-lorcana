@@ -6,7 +6,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 5;Prof;UNCOMMON;AMBER;7;0
 6;Simplet;UNCOMMON;AMBER;8;0
 7;Eudora;COMMON;AMBER;5;1
-8;Gaston;UNCOMMON;AMBER;9;0
+8;Gaston;UNCOMMON;AMBER;5;0
 9;"Grand Duke";RARE;AMBER;2;0
 10;Grincheux;COMMON;AMBER;11;2
 11;Joyeux;COMMON;AMBER;13;0
@@ -179,7 +179,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 178;Donald;COMMON;STEEL;10;0
 179;"Eli Lebœuf";UNCOMMON;STEEL;9;0
 180;Dingo;RARE;STEEL;2;0
-181;Hercule;RARE;STEEL;6;0
+181;Hercule;RARE;STEEL;2;0
 182;Hercule;COMMON;STEEL;14;1
 183;Jafar;UNCOMMON;STEEL;0;0
 184;Jafar;COMMON;STEEL;10;0
