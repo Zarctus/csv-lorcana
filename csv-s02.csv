@@ -53,18 +53,18 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 52;Merlin;RARE;AMETHYST;0;0
 53;Merlin;RARE;AMETHYST;2;1
 54;Merlin;COMMON;AMETHYST;14;2
-55;"Ombre de Peter Pan";SUPER;AMETHYST;1;1
+55;"Ombre de Peter Pan";SUPER;AMETHYST;1;0
 56;Pinocchio;RARE;AMETHYST;0;0
 57;Pinocchio;UNCOMMON;AMETHYST;4;0
 58;Pinocchio;UNCOMMON;AMETHYST;7;0
 59;"Winnie L'ourson";COMMON;AMETHYST;13;0
 60;Yzma;SUPER;AMETHYST;0;0
-61;Yzma;UNCOMMON;AMETHYST;8;1
+61;Yzma;UNCOMMON;AMETHYST;8;0
 62;"Le Macabre et la Terreur";RARE;AMETHYST;1;0
 63;"Je Suis Coincé !";COMMON;AMETHYST;9;0
 64;"La Légende de L'épée dans L'enclume";COMMON;AMETHYST;6;0
 65;"Contrat Irrévocable";UNCOMMON;AMETHYST;5;0
-66;"Maillet de Croquet";COMMON;AMETHYST;13;3
+66;"Maillet de Croquet";COMMON;AMETHYST;13;2
 67;"Panneaux Déroutants";RARE;AMETHYST;4;0
 68;"Grimoire du Sorcier";RARE;AMETHYST;0;0
 69;Arthur;COMMON;EMERALD;9;0
@@ -88,7 +88,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 87;Panique;COMMON;EMERALD;9;0
 88;Pat;RARE;EMERALD;4;0
 89;"Prince Jean";RARE;EMERALD;1;2
-90;"La Reine de Cœur";COMMON;EMERALD;10;2
+90;"La Reine de Cœur";COMMON;EMERALD;10;1
 91;Ratigan;COMMON;EMERALD;7;1
 92;Ray;COMMON;EMERALD;7;0
 93;"La Reine";SUPER;EMERALD;0;0
@@ -117,7 +117,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 116;"Mère Gothel";UNCOMMON;RUBY;9;0
 117;Mulan;COMMON;RUBY;6;0
 118;Namaari;SUPER;RUBY;4;0
-119;"La Reine de Cœur";UNCOMMON;RUBY;10;1
+119;"La Reine de Cœur";UNCOMMON;RUBY;8;1
 120;"La Reine de Cœur";UNCOMMON;RUBY;7;0
 121;Ratigan;RARE;RUBY;7;0
 122;Raya;COMMON;RUBY;5;0
@@ -184,7 +184,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 183;Jafar;UNCOMMON;STEEL;0;0
 184;Jafar;COMMON;STEEL;10;0
 185;Kronk;RARE;STEEL;8;0
-186;Lawrence;UNCOMMON;STEEL;7;2
+186;Lawrence;UNCOMMON;STEEL;7;1
 187;"Li Shang";UNCOMMON;STEEL;12;0
 188;"Balais Magiques";COMMON;STEEL;12;0
 189;Namaari;LEGENDARY;STEEL;0;0

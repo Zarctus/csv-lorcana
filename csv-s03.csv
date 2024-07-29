@@ -7,8 +7,8 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 4c;"Chiot Dalmatien";COMMON;AMBER;1;0
 4d;"Chiot Dalmatien";COMMON;AMBER;2;0
 4e;"Chiot Dalmatien";COMMON;AMBER;2;1
-5;"Amadou Gentil";COMMON;AMBER;8;1
-6;Kida;COMMON;AMBER;9;0
+5;"Amadou Gentil";COMMON;AMBER;8;0
+6;Kida;COMMON;AMBER;6;0
 7;Kida;LEGENDARY;AMBER;0;0
 8;Lucky;RARE;AMBER;4;0
 9;Minnie;RARE;AMBER;4;0
@@ -40,7 +40,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 34;"Chez Tiana";UNCOMMON;AMBER;5;0
 35;Alice;SUPER;AMETHYST;0;0
 36;"Adeptes de Chernabog";UNCOMMON;AMETHYST;0;0
-37;Diablo;COMMON;AMETHYST;9;1
+37;Diablo;COMMON;AMETHYST;9;0
 38;Génie;SUPER;AMETHYST;2;0
 39;Hydros;UNCOMMON;AMETHYST;7;0
 40;Iago;COMMON;AMETHYST;10;0
@@ -53,7 +53,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 47;"Tapis Volant";COMMON;AMETHYST;8;2
 48;"Miss Tick";COMMON;AMETHYST;6;1
 49;"Miss Tick";SUPER;AMETHYST;2;0
-50;"Miss Tick";UNCOMMON;AMETHYST;6;1
+50;"Miss Tick";UNCOMMON;AMETHYST;6;0
 51;Maléfique;LEGENDARY;AMETHYST;0;0
 52;"Mama Odie";UNCOMMON;AMETHYST;4;0
 53;Pua;COMMON;AMETHYST;8;0
@@ -109,16 +109,16 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 103;Ariel;SUPER;RUBY;1;0
 104;"Billy Bones";COMMON;RUBY;8;0
 105;"Capitaine Crochet";RARE;RUBY;3;0
-106;"Della Duck";COMMON;RUBY;9;2
+106;"Della Duck";COMMON;RUBY;9;0
 107;Heihei;UNCOMMON;RUBY;8;1
 108;L'hydre;LEGENDARY;RUBY;0;0
 109;"Jim Hawkins";LEGENDARY;RUBY;0;0
-110;"Jim Hawkins";COMMON;RUBY;8;1
+110;"Jim Hawkins";COMMON;RUBY;8;0
 111;Kakamora;COMMON;RUBY;10;1
 112;"Madame Médusa";SUPER;RUBY;0;0
 113;Maui;UNCOMMON;RUBY;6;0
 114;Maui;RARE;RUBY;4;1
-115;"Milo Thatch";COMMON;RUBY;11;1
+115;"Milo Thatch";COMMON;RUBY;11;0
 116;Vaiana;RARE;RUBY;3;0
 117;Vaiana;COMMON;RUBY;9;0
 118;Niquedouille;COMMON;RUBY;10;1
@@ -130,7 +130,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 124;"La Plume";UNCOMMON;RUBY;8;0
 125;Stitch;COMMON;RUBY;9;1
 126;Pendard;UNCOMMON;RUBY;7;0
-127;Zaza;COMMON;RUBY;7;2
+127;Zaza;COMMON;RUBY;7;1
 128;"Bombardement en Piqué !";UNCOMMON;RUBY;5;0
 129;"Moi, J'ai un Rêve";UNCOMMON;RUBY;5;0
 130;"Debout ! Tout de Suite !";RARE;RUBY;1;2
@@ -165,7 +165,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 159;Distraction;COMMON;SAPPHIRE;10;0
 160;"Je Suis ton Meilleur Ami";RARE;SAPPHIRE;2;0
 161;"Le Bleu Lumière";UNCOMMON;SAPPHIRE;0;0
-162;Réparation;COMMON;SAPPHIRE;9;1
+162;Réparation;COMMON;SAPPHIRE;9;0
 163;"Gyroscope Lumineux";RARE;SAPPHIRE;3;0
 164;"Le Cœur de Te Fiti";RARE;SAPPHIRE;5;0
 165;"Sou Fétiche";LEGENDARY;SAPPHIRE;0;0
