@@ -34,7 +34,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 33;"Pierre de Dragon";RARE;AMBER;4;0
 34;"Flûte de Dormeur";RARE;AMBER;1;0
 35;Arthur;SUPER;AMETHYST;0;0
-36;"La Fée Bleue";UNCOMMON;AMETHYST;14;1
+36;"La Fée Bleue";UNCOMMON;AMETHYST;11;1
 37;Zip;COMMON;AMETHYST;13;2
 38;"Dr. Facilier";COMMON;AMETHYST;12;2
 39;Elsa;COMMON;AMETHYST;12;0
@@ -182,7 +182,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 181;Hercule;RARE;STEEL;2;0
 182;Hercule;COMMON;STEEL;14;1
 183;Jafar;UNCOMMON;STEEL;0;0
-184;Jafar;COMMON;STEEL;10;0
+184;Jafar;COMMON;STEEL;7;0
 185;Kronk;RARE;STEEL;8;0
 186;Lawrence;UNCOMMON;STEEL;7;1
 187;"Li Shang";UNCOMMON;STEEL;12;0
