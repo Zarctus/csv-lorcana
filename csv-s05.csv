@@ -130,7 +130,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 128;"La Fin Est Proche";COMMON;RUBY;5;0
 129;"Endors-Toi sans Peine";RARE;RUBY;4;0
 130;"Glimmer contre Glimmer";UNCOMMON;RUBY;4;0
-131;"Qui Est avec Moi ?";SUPER;RUBY;1;0
+131;"Qui Est avec Moi ?";SUPER;RUBY;0;0
 132;"Potion de Puissance";COMMON;RUBY;3;0
 133;"L'épée Libérée";RARE;RUBY;4;0
 134;"Chromicône de Rubis";UNCOMMON;RUBY;5;0
@@ -195,7 +195,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 193;Prof;RARE;STEEL;5;1
 194;Arthur;LEGENDARY;STEEL;1;1
 195;Pat;UNCOMMON;STEEL;3;1
-196;"Tir à la Corde";RARE;STEEL;1;1
+196;"Tir à la Corde";RARE;STEEL;1;0
 197;"Où Est la Vraie Vie ?";COMMON;STEEL;7;0
 198;"Éviter le Canardage";COMMON;STEEL;7;0
 199;"Bataille de Nourriture !";UNCOMMON;STEEL;6;0
