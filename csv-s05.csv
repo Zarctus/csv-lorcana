@@ -1,7 +1,7 @@
 card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 1;Koda;RARE;AMBER;2;1
 2;Nala;UNCOMMON;AMBER;5;0
-3;"Prince Naveen";LEGENDARY;AMBER;2;0
+3;"Prince Naveen";LEGENDARY;AMBER;1;0
 4;Truc;COMMON;AMBER;8;2
 5;Kenaï;COMMON;AMBER;7;0
 6;"Vanellope Von Schweetz";COMMON;AMBER;7;1
@@ -83,7 +83,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 81;Ed;UNCOMMON;EMERALD;5;1
 82;Scroop;SUPER;EMERALD;1;0
 83;"Prince Philippe";SUPER;EMERALD;4;0
-84;Clarabelle;LEGENDARY;EMERALD;4;0
+84;Clarabelle;LEGENDARY;EMERALD;1;0
 85;Anna;LEGENDARY;EMERALD;0;0
 86;Clarabelle;COMMON;EMERALD;7;0
 87;Banzaï;COMMON;EMERALD;9;0
@@ -106,7 +106,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 104;"Ralph la Casse";RARE;RUBY;3;0
 105;Maximus;SUPER;RUBY;2;0
 106;"Turbo le Pilote";UNCOMMON;RUBY;8;0
-107;Donald;LEGENDARY;RUBY;1;1
+107;Donald;LEGENDARY;RUBY;0;1
 108;"Jean-Hubert Lingot";COMMON;RUBY;9;1
 109;Scar;UNCOMMON;RUBY;3;0
 110;"Ninou Gatine";COMMON;RUBY;10;1
@@ -117,7 +117,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 115;Denahi;RARE;RUBY;5;1
 116;Pat;SUPER;RUBY;2;0
 117;"Taffyta Crème Brûlée";UNCOMMON;RUBY;5;1
-118;"Robin des Bois";LEGENDARY;RUBY;1;0
+118;"Robin des Bois";LEGENDARY;RUBY;0;0
 119;Gaston;RARE;RUBY;1;0
 120;Pat;COMMON;RUBY;13;0
 121;Arthur;UNCOMMON;RUBY;4;0
@@ -158,7 +158,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 156;Nanaka;COMMON;SAPPHIRE;8;2
 157;Tipo;UNCOMMON;SAPPHIRE;4;1
 158;Belle;RARE;SAPPHIRE;2;0
-159;Merlin;LEGENDARY;SAPPHIRE;1;1
+159;Merlin;LEGENDARY;SAPPHIRE;0;1
 160;"Vision de L'avenir";COMMON;SAPPHIRE;9;1
 161;"Caprice Royal";RARE;SAPPHIRE;2;0
 162;"Rien N'est Plus Pareil";COMMON;SAPPHIRE;8;1

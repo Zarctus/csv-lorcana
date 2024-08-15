@@ -2,11 +2,11 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 1;"Agustín Madrigal";COMMON;AMBER;19;0
 2;"Alma Madrigal";RARE;AMBER;4;0
 3;Ariel;RARE;AMBER;5;0
-4;Cendrillon;LEGENDARY;AMBER;3;0
+4;Cendrillon;LEGENDARY;AMBER;2;0
 5;"Big Ben";COMMON;AMBER;15;0
 6;Daisy;UNCOMMON;AMBER;12;0
 7;Daisy;COMMON;AMBER;17;2
-8;Donald;UNCOMMON;AMBER;5;1
+8;Donald;UNCOMMON;AMBER;5;0
 9;"Félix Madrigal";UNCOMMON;AMBER;9;0
 10;Gaston;SUPER;AMBER;4;0
 11;"La Harpe Magique";RARE;AMBER;6;1
@@ -155,7 +155,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 153;Raiponce;RARE;SAPPHIRE;4;0
 154;Eurêka;UNCOMMON;SAPPHIRE;5;0
 155;Sisu;UNCOMMON;SAPPHIRE;11;0
-156;"La Reine";LEGENDARY;SAPPHIRE;3;0
+156;"La Reine";LEGENDARY;SAPPHIRE;2;0
 157;"Chef Transformé";COMMON;SAPPHIRE;15;0
 158;Triton;LEGENDARY;SAPPHIRE;0;1
 159;Triton;RARE;SAPPHIRE;6;2
