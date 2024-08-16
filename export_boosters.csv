@@ -1,4 +1,108 @@
 saison,number,nom,encre,rareté,is_foil
+"Ciel Scintillant",64,Rétrosphère,AMETHYST,COMMON,N
+"Ciel Scintillant",11,Gazelle,AMBER,COMMON,N
+"Ciel Scintillant",139,"La Reine",SAPPHIRE,COMMON,N
+"Ciel Scintillant",132,"Potion de Puissance",RUBY,COMMON,N
+"Ciel Scintillant",76,Pimprenelle,EMERALD,COMMON,N
+"Ciel Scintillant",198,"Éviter le Canardage",STEEL,COMMON,N
+"Ciel Scintillant",47,Archimède,AMETHYST,UNCOMMON,N
+"Ciel Scintillant",33,"Tour de Raiponce",AMBER,UNCOMMON,N
+"Ciel Scintillant",89,"Mère Gothel",EMERALD,UNCOMMON,N
+"Ciel Scintillant",55,Rafiki,AMETHYST,RARE,N
+"Ciel Scintillant",183,Blanche-Neige,STEEL,SUPER,N
+"Ciel Scintillant",95,"Rage du Hurleur Nocturne",EMERALD,COMMON,Y
+
+"Ciel Scintillant",125,Simba,RUBY,COMMON,N
+"Ciel Scintillant",77,"Robin des Bois",EMERALD,COMMON,N
+"Ciel Scintillant",41,"Géant de la Terre",AMETHYST,COMMON,N
+"Ciel Scintillant",10,"Félix Fixe Junior",AMBER,COMMON,N
+"Ciel Scintillant",141,"Prince Jean",SAPPHIRE,COMMON,N
+"Ciel Scintillant",191,Joyeux,STEEL,COMMON,N
+"Ciel Scintillant",89,"Mère Gothel",EMERALD,UNCOMMON,N
+"Ciel Scintillant",63,"Assistance Magique",AMETHYST,UNCOMMON,N
+"Ciel Scintillant",126,Minnie,RUBY,UNCOMMON,N
+"Ciel Scintillant",203,"Méchants Anonymes",STEEL,RARE,N
+"Ciel Scintillant",80,Banzaï,EMERALD,RARE,N
+"Ciel Scintillant",131,"Qui Est avec Moi ?",RUBY,SUPER,Y
+
+"Ciel Scintillant",42,"Courant D’air",AMETHYST,COMMON,N
+"Ciel Scintillant",4,Truc,AMBER,COMMON,N
+"Ciel Scintillant",162,"Rien N'est Plus Pareil",SAPPHIRE,COMMON,N
+"Ciel Scintillant",122,Donald,RUBY,COMMON,N
+"Ciel Scintillant",72,Zazu,EMERALD,COMMON,N
+"Ciel Scintillant",197,"Où Est la Vraie Vie ?",STEEL,COMMON,N
+"Ciel Scintillant",22,"Belle Marianne",AMBER,UNCOMMON,N
+"Ciel Scintillant",70,Shenzi,EMERALD,UNCOMMON,N
+"Ciel Scintillant",103,"Taffyta Crème Brûlée",RUBY,UNCOMMON,N
+"Ciel Scintillant",67,"Palais de Glace D'elsa",AMETHYST,RARE,N
+"Ciel Scintillant",107,Donald,RUBY,LEGENDARY,N
+"Ciel Scintillant",4,Truc,AMBER,COMMON,Y
+
+"Ciel Scintillant",112,"Mickey Mouse",RUBY,COMMON,N
+"Ciel Scintillant",99,Obscurospère,EMERALD,COMMON,N
+"Ciel Scintillant",62,"Rassembler Connaissance et Sagesse",AMETHYST,COMMON,N
+"Ciel Scintillant",24,Minnie,AMBER,COMMON,N
+"Ciel Scintillant",137,"Sa Sucrerie",SAPPHIRE,COMMON,N
+"Ciel Scintillant",198,"Éviter le Canardage",STEEL,COMMON,N
+"Ciel Scintillant",20,"Adam de la Halle",AMBER,UNCOMMON,N
+"Ciel Scintillant",90,Clarabelle,EMERALD,UNCOMMON,N
+"Ciel Scintillant",202,"Chromicône D'acier",STEEL,UNCOMMON,N
+"Ciel Scintillant",124,"Vanellope Von Schweetz",RUBY,RARE,N
+"Ciel Scintillant",50,Olaf,AMETHYST,RARE,N
+"Ciel Scintillant",56,Anna,AMETHYST,COMMON,Y
+
+"Ciel Scintillant",38,Merlin,AMETHYST,COMMON,N
+"Ciel Scintillant",9,"Vanellope Von Schweetz",AMBER,COMMON,N
+"Ciel Scintillant",152,Minnie,SAPPHIRE,COMMON,N
+"Ciel Scintillant",114,"Taffyta Crème Brûlée",RUBY,COMMON,N
+"Ciel Scintillant",75,Flora,EMERALD,COMMON,N
+"Ciel Scintillant",179,Heihei,STEEL,COMMON,N
+"Ciel Scintillant",63,"Assistance Magique",AMETHYST,UNCOMMON,N
+"Ciel Scintillant",33,"Tour de Raiponce",AMBER,UNCOMMON,N
+"Ciel Scintillant",177,Dormeur,STEEL,UNCOMMON,N
+"Ciel Scintillant",196,"Tir à la Corde",STEEL,RARE,N
+"Ciel Scintillant",79,Iago,EMERALD,RARE,N
+"Ciel Scintillant",113,Ratigan,RUBY,COMMON,Y
+
+"Ciel Scintillant",110,"Ninou Gatine",RUBY,COMMON,N
+"Ciel Scintillant",74,Ed,EMERALD,COMMON,N
+"Ciel Scintillant",43,"Le Lapin Blanc",AMETHYST,COMMON,N
+"Ciel Scintillant",7,Muche,AMBER,COMMON,N
+"Ciel Scintillant",165,"Médaille des Héros",SAPPHIRE,COMMON,N
+"Ciel Scintillant",180,Atchoum,STEEL,COMMON,N
+"Ciel Scintillant",57,"Le Roi de Cœur",AMETHYST,UNCOMMON,N
+"Ciel Scintillant",22,"Belle Marianne",AMBER,UNCOMMON,N
+"Ciel Scintillant",154,"Sa Sucrerie",SAPPHIRE,UNCOMMON,N
+"Ciel Scintillant",98,"Miroir du Prince Jean",EMERALD,RARE,N
+"Ciel Scintillant",28,"Un Mirage à Deux Visages",AMBER,SUPER,N
+"Ciel Scintillant",37,"Big Ben",AMETHYST,COMMON,Y
+
+"Ciel Scintillant",38,Merlin,AMETHYST,COMMON,N
+"Ciel Scintillant",9,"Vanellope Von Schweetz",AMBER,COMMON,N
+"Ciel Scintillant",152,Minnie,SAPPHIRE,COMMON,N
+"Ciel Scintillant",114,"Taffyta Crème Brûlée",RUBY,COMMON,N
+"Ciel Scintillant",75,Flora,EMERALD,COMMON,N
+"Ciel Scintillant",173,Simba,STEEL,COMMON,N
+"Ciel Scintillant",164,"Je Ne M'amuse Plus du Tout",SAPPHIRE,UNCOMMON,N
+"Ciel Scintillant",136,"Fête de Ratigan",RUBY,UNCOMMON,N
+"Ciel Scintillant",177,Dormeur,STEEL,UNCOMMON,N
+"Ciel Scintillant",188,"Seigneur Hector",STEEL,RARE,N
+"Ciel Scintillant",49,Génie,AMETHYST,LEGENDARY,N
+"Ciel Scintillant",63,"Assistance Magique",AMETHYST,UNCOMMON,Y
+
+"Ciel Scintillant",125,Simba,RUBY,COMMON,N
+"Ciel Scintillant",77,"Robin des Bois",EMERALD,COMMON,N
+"Ciel Scintillant",64,Rétrosphère,AMETHYST,COMMON,N
+"Ciel Scintillant",30,"Philtre de Guérison",AMBER,COMMON,N
+"Ciel Scintillant",152,Minnie,SAPPHIRE,COMMON,N
+"Ciel Scintillant",174,Rudy,STEEL,COMMON,N
+"Ciel Scintillant",103,"Taffyta Crème Brûlée",RUBY,UNCOMMON,N
+"Ciel Scintillant",190,Arthur,STEEL,UNCOMMON,N
+"Ciel Scintillant",170,"Chaumière de Merlin",SAPPHIRE,UNCOMMON,N
+"Ciel Scintillant",196,"Tir à la Corde",STEEL,RARE,N
+"Ciel Scintillant",79,Iago,EMERALD,RARE,N
+"Ciel Scintillant",221,Arthur,STEEL,ENCHANTED,Y
+
 "Ciel Scintillant",39,Archimède,AMETHYST,COMMON,N
 "Ciel Scintillant",30,"Philtre de Guérison",AMBER,COMMON,N
 "Ciel Scintillant",155,Donald,SAPPHIRE,COMMON,N
@@ -2494,108 +2598,4 @@ saison,number,nom,encre,rareté,is_foil
 "Le retour d’Ursula",142,"Dang Hu",SAPPHIRE,RARE,N
 "Le retour d’Ursula",95,"Sous L'océan",EMERALD,RARE,N
 "Le retour d’Ursula",173,Argès,STEEL,COMMON,Y
-
-"Le retour d’Ursula",98,"Invocateur D'encre Caché",EMERALD,COMMON,N
-"Le retour d’Ursula",137,Anna,SAPPHIRE,COMMON,N
-"Le retour d’Ursula",14,Max,AMBER,COMMON,N
-"Le retour d’Ursula",120,Pégase,RUBY,COMMON,N
-"Le retour d’Ursula",37,Belle,AMETHYST,COMMON,N
-"Le retour d’Ursula",204,Thèbes,STEEL,COMMON,N
-"Le retour d’Ursula",57,Ursula,AMETHYST,UNCOMMON,N
-"Le retour d’Ursula",83,Pégase,EMERALD,UNCOMMON,N
-"Le retour d’Ursula",145,Hadès,SAPPHIRE,UNCOMMON,N
-"Le retour d’Ursula",192,Rajah,STEEL,RARE,N
-"Le retour d’Ursula",52,"Madame Samovar",AMETHYST,RARE,N
-"Le retour d’Ursula",32,"Platine Disque",AMBER,COMMON,Y
-
-"Le retour d’Ursula",104,Benja,RUBY,COMMON,N
-"Le retour d’Ursula",47,"Luisa Madrigal",AMETHYST,COMMON,N
-"Le retour d’Ursula",77,Jac,EMERALD,COMMON,N
-"Le retour d’Ursula",157,"Chef Transformé",SAPPHIRE,COMMON,N
-"Le retour d’Ursula",23,Stitch,AMBER,COMMON,N
-"Le retour d’Ursula",188,"Mickey Mouse",STEEL,COMMON,N
-"Le retour d’Ursula",35,"Antonio Madrigal",AMETHYST,UNCOMMON,N
-"Le retour d’Ursula",154,Eurêka,SAPPHIRE,UNCOMMON,N
-"Le retour d’Ursula",183,Ling,STEEL,UNCOMMON,N
-"Le retour d’Ursula",34,"Les Enfers",AMBER,RARE,N
-"Le retour d’Ursula",187,"Mickey Mouse",STEEL,RARE,N
-"Le retour d’Ursula",72,Gunther,EMERALD,COMMON,Y
-
-"Le retour d’Ursula",79,Mégara,EMERALD,COMMON,N
-"Le retour d’Ursula",143,"Fa Li",SAPPHIRE,COMMON,N
-"Le retour d’Ursula",7,Daisy,AMBER,COMMON,N
-"Le retour d’Ursula",126,Tong,RUBY,COMMON,N
-"Le retour d’Ursula",49,"Balais Magiques",AMETHYST,COMMON,N
-"Le retour d’Ursula",185,"Balais Magiques",STEEL,COMMON,N
-"Le retour d’Ursula",115,Mulan,RUBY,UNCOMMON,N
-"Le retour d’Ursula",149,Olaf,SAPPHIRE,UNCOMMON,N
-"Le retour d’Ursula",183,Ling,STEEL,UNCOMMON,N
-"Le retour d’Ursula",97,"Ne Parlons Pas de Bruno",EMERALD,RARE,N
-"Le retour d’Ursula",140,Aurore,SAPPHIRE,SUPER,N
-"Le retour d’Ursula",29,"J'ai Perdu le Nord",AMBER,UNCOMMON,Y
-
-"Le retour d’Ursula",122,Raya,RUBY,COMMON,N
-"Le retour d’Ursula",46,Jetsam,AMETHYST,COMMON,N
-"Le retour d’Ursula",73,Gus,EMERALD,COMMON,N
-"Le retour d’Ursula",163,Glaner,SAPPHIRE,COMMON,N
-"Le retour d’Ursula",20,Pluto,AMBER,COMMON,N
-"Le retour d’Ursula",204,Thèbes,STEEL,COMMON,N
-"Le retour d’Ursula",149,Olaf,SAPPHIRE,UNCOMMON,N
-"Le retour d’Ursula",183,Ling,STEEL,UNCOMMON,N
-"Le retour d’Ursula",112,"Li Shang",RUBY,UNCOMMON,N
-"Le retour d’Ursula",4,Cendrillon,AMBER,LEGENDARY,N
-"Le retour d’Ursula",106,"Flynn Rider",RUBY,SUPER,N
-"Le retour d’Ursula",97,"Ne Parlons Pas de Bruno",EMERALD,RARE,Y
-
-"Le retour d’Ursula",72,Gunther,EMERALD,COMMON,N
-"Le retour d’Ursula",157,"Chef Transformé",SAPPHIRE,COMMON,N
-"Le retour d’Ursula",33,Atlantica,AMBER,COMMON,N
-"Le retour d’Ursula",133,"La Planche",RUBY,COMMON,N
-"Le retour d’Ursula",46,Jetsam,AMETHYST,COMMON,N
-"Le retour d’Ursula",174,Ariel,STEEL,COMMON,N
-"Le retour d’Ursula",50,"Domestique Magique",AMETHYST,UNCOMMON,N
-"Le retour d’Ursula",147,Iduna,SAPPHIRE,UNCOMMON,N
-"Le retour d’Ursula",201,"Arc Impérial",STEEL,UNCOMMON,N
-"Le retour d’Ursula",153,Raiponce,SAPPHIRE,RARE,N
-"Le retour d’Ursula",10,Gaston,AMBER,SUPER,N
-"Le retour d’Ursula",194,Yao,STEEL,COMMON,Y
-
-"Le retour d’Ursula",108,Hercule,RUBY,COMMON,N
-"Le retour d’Ursula",60,"Pauvres Âmes en Perdition",AMETHYST,COMMON,N
-"Le retour d’Ursula",77,Jac,EMERALD,COMMON,N
-"Le retour d’Ursula",163,Glaner,SAPPHIRE,COMMON,N
-"Le retour d’Ursula",5,"Big Ben",AMBER,COMMON,N
-"Le retour d’Ursula",173,Argès,STEEL,COMMON,N
-"Le retour d’Ursula",63,"Plan D'ursula",AMETHYST,UNCOMMON,N
-"Le retour d’Ursula",86,Pat,EMERALD,UNCOMMON,N
-"Le retour d’Ursula",160,Triton,SAPPHIRE,UNCOMMON,N
-"Le retour d’Ursula",113,Lumière,RUBY,RARE,N
-"Le retour d’Ursula",12,Dingo,AMBER,RARE,N
-"Le retour d’Ursula",157,"Chef Transformé",SAPPHIRE,COMMON,Y
-
-"Le retour d’Ursula",89,"Les Moires",EMERALD,COMMON,N
-"Le retour d’Ursula",168,"Bloc de Glace",SAPPHIRE,COMMON,N
-"Le retour d’Ursula",33,Atlantica,AMBER,COMMON,N
-"Le retour d’Ursula",136,"Terrains D'entraînement",RUBY,COMMON,N
-"Le retour d’Ursula",67,"Casa Madrigal",AMETHYST,COMMON,N
-"Le retour d’Ursula",185,"Balais Magiques",STEEL,COMMON,N
-"Le retour d’Ursula",100,"Plaque de Vision",EMERALD,UNCOMMON,N
-"Le retour d’Ursula",30,"Signe le Contrat",AMBER,UNCOMMON,N
-"Le retour d’Ursula",123,Sisu,RUBY,UNCOMMON,N
-"Le retour d’Ursula",78,Jasmine,EMERALD,RARE,N
-"Le retour d’Ursula",175,Ariel,STEEL,SUPER,N
-"Le retour d’Ursula",55,Pico,AMETHYST,COMMON,Y
-
-"Le retour d’Ursula",105,"Fa Zhou",RUBY,COMMON,N
-"Le retour d’Ursula",62,"Passer à L'action",AMETHYST,COMMON,N
-"Le retour d’Ursula",93,"Esquive !",EMERALD,COMMON,N
-"Le retour d’Ursula",161,"Tuk Tuk",SAPPHIRE,COMMON,N
-"Le retour d’Ursula",32,"Platine Disque",AMBER,COMMON,N
-"Le retour d’Ursula",176,"La Bête",STEEL,COMMON,N
-"Le retour d’Ursula",80,Mégara,EMERALD,UNCOMMON,N
-"Le retour d’Ursula",29,"J'ai Perdu le Nord",AMBER,UNCOMMON,N
-"Le retour d’Ursula",128,"La Vie D'un Pirate",RUBY,UNCOMMON,N
-"Le retour d’Ursula",97,"Ne Parlons Pas de Bruno",EMERALD,RARE,N
-"Le retour d’Ursula",114,Mulan,RUBY,LEGENDARY,N
-"Le retour d’Ursula",185,"Balais Magiques",STEEL,COMMON,Y
 
