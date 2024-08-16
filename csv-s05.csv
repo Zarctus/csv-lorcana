@@ -1,5 +1,5 @@
 card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
-1;Koda;RARE;AMBER;2;2
+1;Koda;RARE;AMBER;2;1
 2;Nala;UNCOMMON;AMBER;6;0
 3;"Prince Naveen";LEGENDARY;AMBER;1;0
 4;Truc;COMMON;AMBER;10;3
@@ -34,7 +34,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 32;"Chromicône D'ambre";UNCOMMON;AMBER;9;0
 33;"Tour de Raiponce";UNCOMMON;AMBER;7;0
 34;"La Terre des Lions";RARE;AMBER;2;0
-35;Maléfique;SUPER;AMETHYST;3;1
+35;Maléfique;SUPER;AMETHYST;3;0
 36;Nokk;COMMON;AMETHYST;12;1
 37;"Big Ben";COMMON;AMETHYST;10;1
 38;Merlin;COMMON;AMETHYST;11;1
@@ -179,26 +179,26 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 177;Dormeur;UNCOMMON;STEEL;10;0
 178;Kronk;COMMON;STEEL;10;1
 179;Heihei;COMMON;STEEL;11;0
-180;Atchoum;COMMON;STEEL;11;2
+180;Atchoum;COMMON;STEEL;11;3
 181;Simplet;COMMON;STEEL;8;2
 182;Namaari;RARE;STEEL;3;0
-183;Blanche-Neige;SUPER;STEEL;4;0
+183;Blanche-Neige;SUPER;STEEL;4;1
 184;Yzma;RARE;STEEL;2;0
 185;Kronk;SUPER;STEEL;1;1
 186;Grincheux;SUPER;STEEL;3;0
 187;Pat;RARE;STEEL;3;0
 188;"Seigneur Hector";RARE;STEEL;5;0
 189;Timide;UNCOMMON;STEEL;6;1
-190;Arthur;UNCOMMON;STEEL;6;0
+190;Arthur;UNCOMMON;STEEL;5;0
 191;Joyeux;COMMON;STEEL;13;2
 192;Simba;UNCOMMON;STEEL;7;0
 193;Prof;RARE;STEEL;5;1
 194;Arthur;LEGENDARY;STEEL;2;1
-195;Pat;UNCOMMON;STEEL;5;2
+195;Pat;UNCOMMON;STEEL;5;1
 196;"Tir à la Corde";RARE;STEEL;4;0
 197;"Où Est la Vraie Vie ?";COMMON;STEEL;11;0
 198;"Éviter le Canardage";COMMON;STEEL;12;0
-199;"Bataille de Nourriture !";UNCOMMON;STEEL;8;1
+199;"Bataille de Nourriture !";UNCOMMON;STEEL;8;2
 200;"Bouclier D'arendelle";COMMON;STEEL;9;1
 201;"Armure de Plaques";RARE;STEEL;4;0
 202;"Chromicône D'acier";UNCOMMON;STEEL;8;0
