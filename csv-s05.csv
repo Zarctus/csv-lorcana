@@ -162,7 +162,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 160;"Vision de L'avenir";COMMON;SAPPHIRE;11;1
 161;"Caprice Royal";RARE;SAPPHIRE;2;0
 162;"Rien N'est Plus Pareil";COMMON;SAPPHIRE;9;2
-163;Cachez-Vous;UNCOMMON;SAPPHIRE;5;1
+163;Cachez-Vous;UNCOMMON;SAPPHIRE;5;0
 164;"Je Ne M'amuse Plus du Tout";UNCOMMON;SAPPHIRE;9;2
 165;"Médaille des Héros";COMMON;SAPPHIRE;11;0
 166;"Loupe de Basil";RARE;SAPPHIRE;2;1
@@ -179,7 +179,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 177;Dormeur;UNCOMMON;STEEL;10;0
 178;Kronk;COMMON;STEEL;10;1
 179;Heihei;COMMON;STEEL;11;0
-180;Atchoum;COMMON;STEEL;11;3
+180;Atchoum;COMMON;STEEL;10;3
 181;Simplet;COMMON;STEEL;8;2
 182;Namaari;RARE;STEEL;3;0
 183;Blanche-Neige;SUPER;STEEL;4;1
@@ -189,7 +189,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 187;Pat;RARE;STEEL;3;0
 188;"Seigneur Hector";RARE;STEEL;5;0
 189;Timide;UNCOMMON;STEEL;6;1
-190;Arthur;UNCOMMON;STEEL;5;0
+190;Arthur;UNCOMMON;STEEL;6;0
 191;Joyeux;COMMON;STEEL;13;2
 192;Simba;UNCOMMON;STEEL;7;0
 193;Prof;RARE;STEEL;5;1
