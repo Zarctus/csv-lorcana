@@ -79,7 +79,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 77;"Robin des Bois";COMMON;EMERALD;12;0
 78;Pâquerette;COMMON;EMERALD;11;1
 79;Iago;RARE;EMERALD;4;0
-80;Banzaï;RARE;EMERALD;5;1
+80;Banzaï;RARE;EMERALD;4;1
 81;Ed;UNCOMMON;EMERALD;5;1
 82;Scroop;SUPER;EMERALD;1;0
 83;"Prince Philippe";SUPER;EMERALD;5;0
@@ -87,9 +87,9 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 85;Anna;LEGENDARY;EMERALD;1;0
 86;Clarabelle;COMMON;EMERALD;9;0
 87;Banzaï;COMMON;EMERALD;13;0
-88;"Robin des Bois";UNCOMMON;EMERALD;6;0
+88;"Robin des Bois";UNCOMMON;EMERALD;7;0
 89;"Mère Gothel";UNCOMMON;EMERALD;11;2
-90;Clarabelle;UNCOMMON;EMERALD;5;0
+90;Clarabelle;UNCOMMON;EMERALD;6;0
 91;Shenzi;RARE;EMERALD;3;0
 92;"Mère Gothel";SUPER;EMERALD;6;0
 93;Scar;RARE;EMERALD;3;1
