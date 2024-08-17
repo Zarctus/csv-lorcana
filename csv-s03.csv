@@ -2,6 +2,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 1;Baloo;RARE;AMBER;1;0
 2;Bernard;RARE;AMBER;4;0
 3;Chernabog;SUPER;AMBER;1;0
+3;Ursula;PROMO;EMERALD;0;0
 4a;"Chiot Dalmatien";COMMON;AMBER;1;0
 4b;"Chiot Dalmatien";COMMON;AMBER;1;0
 4c;"Chiot Dalmatien";COMMON;AMBER;1;0
@@ -29,11 +30,15 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 24;"99 Chiots";UNCOMMON;AMBER;5;0
 25;"Ordres de la Patronne";COMMON;AMBER;10;0
 26;"Guéris les Blessures";COMMON;AMBER;8;0
+26;Kit;PROMO;EMERALD;0;0
 27;"Réparation de Fortune";COMMON;AMBER;12;0
+27;"Jolly Roger";PROMO;RUBY;0;0
 28;"Il en Faut Peu pour Être Heureux";RARE;AMBER;0;1
+28;"Le Bleu Lumière";PROMO;SAPPHIRE;0;0
 29;"Eau de Pluie Purifiante";COMMON;AMBER;9;0
+29;"John Silver";PROMO;STEEL;0;0
 30;"Cœur de L'atlantide";RARE;AMBER;4;1
-30;Stitch;ENCHANTED;AMBER;0;0
+30;Stitch;PROMO;AMBER;0;0
 31;"Clé de Turbo";UNCOMMON;AMBER;9;1
 32;"Le Pays Imaginaire";COMMON;AMBER;9;0
 33;"La Terre des Lions";RARE;AMBER;0;0
@@ -43,6 +48,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 37;Diablo;COMMON;AMETHYST;9;0
 38;Génie;SUPER;AMETHYST;1;0
 39;Hydros;UNCOMMON;AMETHYST;7;0
+39;"Scrooge Mcduck";PROMO;SAPPHIRE;0;0
 40;Iago;COMMON;AMETHYST;10;0
 41;Jafar;UNCOMMON;AMETHYST;8;1
 42;Jafar;LEGENDARY;AMETHYST;0;0

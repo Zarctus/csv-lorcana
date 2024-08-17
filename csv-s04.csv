@@ -3,6 +3,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 2;"Alma Madrigal";RARE;AMBER;4;0
 3;Ariel;RARE;AMBER;5;0
 4;Cendrillon;LEGENDARY;AMBER;2;0
+4;"Bruno Madrigal";PROMO;AMETHYST;0;0
 5;"Big Ben";COMMON;AMBER;15;0
 6;Daisy;UNCOMMON;AMBER;12;0
 7;Daisy;COMMON;AMBER;17;2
@@ -33,13 +34,18 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 32;"Platine Disque";COMMON;AMBER;18;2
 33;Atlantica;COMMON;AMBER;17;0
 34;"Les Enfers";RARE;AMBER;6;0
+34;"Mickey Mouse";PROMO;AMBER;0;0
 35;"Antonio Madrigal";UNCOMMON;AMETHYST;12;0
+35;"Le Repaire D'ursula";PROMO;AMETHYST;0;0
 36;Belle;SUPER;AMETHYST;0;0
+36;"Invocateur D'encre Caché";PROMO;EMERALD;0;0
 37;Belle;COMMON;AMETHYST;15;3
+37;Mulan;PROMO;RUBY;0;0
 38;"Bruno Madrigal";RARE;AMETHYST;7;0
-38;Ursula;ENCHANTED;AMETHYST;0;0
+38;Ursula;PROMO;AMETHYST;0;0
 39;"Bruno Madrigal";SUPER;AMETHYST;4;0
 40;"Camilo Madrigal";UNCOMMON;AMETHYST;11;0
+40;"Flotsam & Jetsam";PROMO;AMETHYST;0;0
 41;"Dolores Madrigal";COMMON;AMETHYST;17;0
 42;Elsa;RARE;AMETHYST;3;0
 43;Flotsam;UNCOMMON;AMETHYST;9;0

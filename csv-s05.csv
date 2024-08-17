@@ -1,12 +1,19 @@
 card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 1;Koda;RARE;AMBER;3;1
+1;"Prince Jean";PROMO;SAPPHIRE;0;0
 2;Nala;UNCOMMON;AMBER;6;0
+2;Kristoff;PROMO;AMBER;0;0
 3;"Prince Naveen";LEGENDARY;AMBER;1;0
+3;Nala;PROMO;AMBER;0;0
 4;Truc;COMMON;AMBER;10;3
+4;"Force Hypnotique";PROMO;AMETHYST;0;0
 5;Kenaï;COMMON;AMBER;10;1
+5;Chicha;PROMO;SAPPHIRE;0;0
+5;"Vanellope Von Schweetz";PROMO;AMBER;0;0
 6;"Vanellope Von Schweetz";COMMON;AMBER;9;1
+6;Stitch;PROMO;STEEL;0;0
 7;Muche;COMMON;AMBER;11;1
-7;"Mirabel Madrigal";ENCHANTED;AMBER;0;0
+7;"Mirabel Madrigal";PROMO;AMBER;0;0
 8;Lilo;COMMON;AMBER;13;0
 9;"Vanellope Von Schweetz";COMMON;AMBER;10;0
 10;"Félix Fixe Junior";COMMON;AMBER;15;1
