@@ -1,4 +1,17 @@
 saison,number,nom,encre,rareté,is_foil
+"Ciel Scintillant",112,"Mickey Mouse",RUBY,COMMON,N
+"Ciel Scintillant",99,Obscurospère,EMERALD,COMMON,N
+"Ciel Scintillant",62,"Rassembler Connaissance et Sagesse",AMETHYST,COMMON,N
+"Ciel Scintillant",4,Truc,AMBER,COMMON,N
+"Ciel Scintillant",156,Nanaka,SAPPHIRE,COMMON,N
+"Ciel Scintillant",180,Atchoum,STEEL,COMMON,N
+"Ciel Scintillant",88,"Robin des Bois",EMERALD,UNCOMMON,N
+"Ciel Scintillant",52,Monstro,AMETHYST,UNCOMMON,N
+"Ciel Scintillant",2,Nala,AMBER,UNCOMMON,N
+"Ciel Scintillant",55,Rafiki,AMETHYST,RARE,N
+"Ciel Scintillant",144,"La Reine",SAPPHIRE,SUPER,N
+"Ciel Scintillant",76,Pimprenelle,EMERALD,COMMON,Y
+
 "Ciel Scintillant",111,Daisy,RUBY,COMMON,N
 "Ciel Scintillant",95,"Rage du Hurleur Nocturne",EMERALD,COMMON,N
 "Ciel Scintillant",42,"Courant D’air",AMETHYST,COMMON,N
@@ -2585,17 +2598,4 @@ saison,number,nom,encre,rareté,is_foil
 "Le retour d’Ursula",113,Lumière,RUBY,RARE,N
 "Le retour d’Ursula",10,Gaston,AMBER,SUPER,N
 "Le retour d’Ursula",93,"Esquive !",EMERALD,COMMON,Y
-
-"Le retour d’Ursula",157,"Chef Transformé",SAPPHIRE,COMMON,N
-"Le retour d’Ursula",23,Stitch,AMBER,COMMON,N
-"Le retour d’Ursula",116,Mulan,RUBY,COMMON,N
-"Le retour d’Ursula",41,"Dolores Madrigal",AMETHYST,COMMON,N
-"Le retour d’Ursula",94,"Concocter la Potion",EMERALD,COMMON,N
-"Le retour d’Ursula",194,Yao,STEEL,COMMON,N
-"Le retour d’Ursula",82,Panique,EMERALD,UNCOMMON,N
-"Le retour d’Ursula",15,"Mickey Mouse",AMBER,UNCOMMON,N
-"Le retour d’Ursula",147,Iduna,SAPPHIRE,UNCOMMON,N
-"Le retour d’Ursula",181,"Le Fou",STEEL,RARE,N
-"Le retour d’Ursula",42,Elsa,AMETHYST,RARE,N
-"Le retour d’Ursula",174,Ariel,STEEL,COMMON,Y
 
