@@ -1,56 +1,56 @@
 card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 1;Koda;RARE;AMBER;3;1
 1;"Prince Jean";PROMO;SAPPHIRE;0;0
-2;Nala;UNCOMMON;AMBER;6;0
+2;Nala;UNCOMMON;AMBER;7;0
 2;Kristoff;PROMO;AMBER;0;0
 3;"Prince Naveen";LEGENDARY;AMBER;2;0
 3;Nala;PROMO;AMBER;0;0
 4;Truc;COMMON;AMBER;11;3
 4;"Force Hypnotique";PROMO;AMETHYST;0;0
-5;Kenaï;COMMON;AMBER;11;1
+5;Kenaï;COMMON;AMBER;11;2
 5;Chicha;PROMO;SAPPHIRE;0;0
 5;"Vanellope Von Schweetz";PROMO;AMBER;0;0
 6;"Vanellope Von Schweetz";COMMON;AMBER;11;1
 6;Stitch;PROMO;STEEL;0;0
-7;Muche;COMMON;AMBER;12;1
+7;Muche;COMMON;AMBER;13;1
 7;"Mirabel Madrigal";PROMO;AMBER;0;0
-8;Lilo;COMMON;AMBER;13;0
-9;"Vanellope Von Schweetz";COMMON;AMBER;11;0
+8;Lilo;COMMON;AMBER;13;1
+9;"Vanellope Von Schweetz";COMMON;AMBER;13;0
 10;"Félix Fixe Junior";COMMON;AMBER;16;1
-11;Gazelle;COMMON;AMBER;11;1
+11;Gazelle;COMMON;AMBER;12;1
 12;"Félix Fixe Junior";UNCOMMON;AMBER;6;1
 13;Kristoff;RARE;AMBER;7;2
-14;"Mirabel Madrigal";LEGENDARY;AMBER;1;0
-15;Minnie;SUPER;AMBER;4;0
+14;"Mirabel Madrigal";LEGENDARY;AMBER;2;0
+15;Minnie;SUPER;AMBER;5;0
 16;Daisy;SUPER;AMBER;2;1
 17;"Félix Fixe Junior";COMMON;AMBER;11;1
-18;Vaiana;RARE;AMBER;3;0
+18;Vaiana;RARE;AMBER;4;0
 19;"Vanellope Von Schweetz";RARE;AMBER;3;0
 20;"Adam de la Halle";UNCOMMON;AMBER;7;2
-21;"Ralph la Casse";RARE;AMBER;4;0
-22;"Belle Marianne";UNCOMMON;AMBER;11;0
+21;"Ralph la Casse";RARE;AMBER;5;0
+22;"Belle Marianne";UNCOMMON;AMBER;11;1
 23;Sven;UNCOMMON;AMBER;7;1
-24;Minnie;COMMON;AMBER;12;2
-25;"Try Everything";UNCOMMON;AMBER;6;1
-26;"Toucher Guérisseur";COMMON;AMBER;10;0
+24;Minnie;COMMON;AMBER;13;2
+25;"Try Everything";UNCOMMON;AMBER;7;1
+26;"Toucher Guérisseur";COMMON;AMBER;11;0
 27;Ranimer;RARE;AMBER;6;2
 28;"Un Mirage à Deux Visages";SUPER;AMBER;3;0
 29;"Invitation au Bal";UNCOMMON;AMBER;10;0
-30;"Philtre de Guérison";COMMON;AMBER;12;0
+30;"Philtre de Guérison";COMMON;AMBER;13;0
 31;"Cœur du Détecteur de la Reine";RARE;AMBER;4;0
-32;"Chromicône D'ambre";UNCOMMON;AMBER;10;1
+32;"Chromicône D'ambre";UNCOMMON;AMBER;11;1
 33;"Tour de Raiponce";UNCOMMON;AMBER;9;0
 34;"La Terre des Lions";RARE;AMBER;3;0
 35;Maléfique;SUPER;AMETHYST;4;0
 36;Nokk;COMMON;AMETHYST;14;1
 37;"Big Ben";COMMON;AMETHYST;11;1
 38;Merlin;COMMON;AMETHYST;13;1
-39;Archimède;COMMON;AMETHYST;12;0
-40;Bruni;UNCOMMON;AMETHYST;6;0
-41;"Géant de la Terre";COMMON;AMETHYST;12;1
-42;"Courant D’air";COMMON;AMETHYST;12;3
-43;"Le Lapin Blanc";COMMON;AMETHYST;11;1
-44;"Madame Mime";SUPER;AMETHYST;1;1
+39;Archimède;COMMON;AMETHYST;13;0
+40;Bruni;UNCOMMON;AMETHYST;7;0
+41;"Géant de la Terre";COMMON;AMETHYST;14;1
+42;"Courant D’air";COMMON;AMETHYST;13;3
+43;"Le Lapin Blanc";COMMON;AMETHYST;12;1
+44;"Madame Mime";SUPER;AMETHYST;2;1
 45;"Luisa Madrigal";RARE;AMETHYST;4;0
 46;Anna;RARE;AMETHYST;2;0
 47;Archimède;UNCOMMON;AMETHYST;10;1
@@ -60,34 +60,34 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 51;Maléfique;UNCOMMON;AMETHYST;6;1
 52;Monstro;UNCOMMON;AMETHYST;5;2
 53;"Miss Tick";RARE;AMETHYST;4;1
-54;Maléfique;COMMON;AMETHYST;11;0
+54;Maléfique;COMMON;AMETHYST;11;1
 55;Rafiki;RARE;AMETHYST;5;0
 56;Anna;COMMON;AMETHYST;12;0
 57;"Le Roi de Cœur";UNCOMMON;AMETHYST;12;1
 58;"Camilo Madrigal";LEGENDARY;AMETHYST;2;1
 59;"Force Hypnotique";COMMON;AMETHYST;12;1
-60;"Qui Trouve, Garde";UNCOMMON;AMETHYST;4;0
+60;"Qui Trouve, Garde";UNCOMMON;AMETHYST;6;0
 61;L'explorateur;RARE;AMETHYST;4;1
 62;"Rassembler Connaissance et Sagesse";COMMON;AMETHYST;11;2
 63;"Assistance Magique";UNCOMMON;AMETHYST;11;1
-64;Rétrosphère;COMMON;AMETHYST;11;1
+64;Rétrosphère;COMMON;AMETHYST;13;1
 65;"Moitié de la Couronne D'hexasort";RARE;AMETHYST;4;1
-66;"Chromicône D'améthyste";UNCOMMON;AMETHYST;9;0
+66;"Chromicône D'améthyste";UNCOMMON;AMETHYST;11;0
 67;"Palais de Glace D'elsa";RARE;AMETHYST;2;0
 68;"La Bibliothèque";UNCOMMON;AMETHYST;7;0
-69;"Robin des Bois";RARE;EMERALD;3;0
-70;Shenzi;UNCOMMON;EMERALD;9;1
+69;"Robin des Bois";RARE;EMERALD;4;0
+70;Shenzi;UNCOMMON;EMERALD;10;1
 71;"Petit Jean";UNCOMMON;EMERALD;11;0
-72;Zazu;COMMON;EMERALD;12;1
+72;Zazu;COMMON;EMERALD;12;2
 73;Ulf;COMMON;EMERALD;14;1
-74;Ed;COMMON;EMERALD;14;1
-75;Flora;COMMON;EMERALD;12;0
+74;Ed;COMMON;EMERALD;15;1
+75;Flora;COMMON;EMERALD;13;0
 76;Pimprenelle;COMMON;EMERALD;11;0
-77;"Robin des Bois";COMMON;EMERALD;12;0
+77;"Robin des Bois";COMMON;EMERALD;13;0
 78;Pâquerette;COMMON;EMERALD;14;1
 79;Iago;RARE;EMERALD;4;0
 80;Banzaï;RARE;EMERALD;4;1
-81;Ed;UNCOMMON;EMERALD;6;1
+81;Ed;UNCOMMON;EMERALD;9;1
 82;Scroop;SUPER;EMERALD;2;0
 83;"Prince Philippe";SUPER;EMERALD;5;0
 84;Clarabelle;LEGENDARY;EMERALD;0;0
@@ -99,9 +99,9 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 90;Clarabelle;UNCOMMON;EMERALD;6;0
 91;Shenzi;RARE;EMERALD;3;0
 92;"Mère Gothel";SUPER;EMERALD;6;0
-93;Scar;RARE;EMERALD;4;1
-94;"Déduction sous Hypnose";COMMON;EMERALD;9;0
-95;"Rage du Hurleur Nocturne";COMMON;EMERALD;11;3
+93;Scar;RARE;EMERALD;5;1
+94;"Déduction sous Hypnose";COMMON;EMERALD;12;0
+95;"Rage du Hurleur Nocturne";COMMON;EMERALD;12;3
 96;"Pour les Hommes";UNCOMMON;EMERALD;8;1
 97;"N'oublie Pas Qui Tu Es";RARE;EMERALD;4;1
 98;"Miroir du Prince Jean";RARE;EMERALD;5;0
@@ -112,31 +112,31 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 103;"Taffyta Crème Brûlée";UNCOMMON;RUBY;11;0
 104;"Ralph la Casse";RARE;RUBY;4;0
 105;Maximus;SUPER;RUBY;3;0
-106;"Turbo le Pilote";UNCOMMON;RUBY;9;0
+106;"Turbo le Pilote";UNCOMMON;RUBY;10;0
 107;Donald;LEGENDARY;RUBY;1;1
 108;"Jean-Hubert Lingot";COMMON;RUBY;13;1
 109;Scar;UNCOMMON;RUBY;5;1
-110;"Ninou Gatine";COMMON;RUBY;12;1
-111;Daisy;COMMON;RUBY;12;2
+110;"Ninou Gatine";COMMON;RUBY;14;1
+111;Daisy;COMMON;RUBY;13;2
 112;"Mickey Mouse";COMMON;RUBY;11;1
 113;Ratigan;COMMON;RUBY;11;2
-114;"Taffyta Crème Brûlée";COMMON;RUBY;12;0
+114;"Taffyta Crème Brûlée";COMMON;RUBY;13;0
 115;Denahi;RARE;RUBY;6;1
-116;Pat;SUPER;RUBY;3;0
+116;Pat;SUPER;RUBY;4;0
 117;"Taffyta Crème Brûlée";UNCOMMON;RUBY;7;1
 118;"Robin des Bois";LEGENDARY;RUBY;0;0
-119;Gaston;RARE;RUBY;1;0
-120;Pat;COMMON;RUBY;15;0
-121;Arthur;UNCOMMON;RUBY;4;1
+119;Gaston;RARE;RUBY;2;0
+120;Pat;COMMON;RUBY;16;0
+121;Arthur;UNCOMMON;RUBY;6;1
 122;Donald;COMMON;RUBY;12;1
-123;Ratigan;RARE;RUBY;4;0
+123;Ratigan;RARE;RUBY;5;0
 124;"Vanellope Von Schweetz";RARE;RUBY;2;0
-125;Simba;COMMON;RUBY;12;0
+125;Simba;COMMON;RUBY;13;0
 126;Minnie;UNCOMMON;RUBY;9;0
 127;"Se Libérer";COMMON;RUBY;11;0
-128;"La Fin Est Proche";COMMON;RUBY;11;0
+128;"La Fin Est Proche";COMMON;RUBY;12;0
 129;"Endors-Toi sans Peine";RARE;RUBY;5;0
-130;"Glimmer contre Glimmer";UNCOMMON;RUBY;7;1
+130;"Glimmer contre Glimmer";UNCOMMON;RUBY;8;1
 131;"Qui Est avec Moi ?";SUPER;RUBY;2;0
 132;"Potion de Puissance";COMMON;RUBY;11;1
 133;"L'épée Libérée";RARE;RUBY;6;0
@@ -145,68 +145,68 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 136;"Fête de Ratigan";UNCOMMON;RUBY;8;1
 137;"Sa Sucrerie";COMMON;SAPPHIRE;11;1
 138;Chaca;COMMON;SAPPHIRE;12;1
-139;"La Reine";COMMON;SAPPHIRE;11;1
+139;"La Reine";COMMON;SAPPHIRE;13;1
 140;"Balthazar Picsou";RARE;SAPPHIRE;3;1
-141;"Prince Jean";COMMON;SAPPHIRE;13;1
+141;"Prince Jean";COMMON;SAPPHIRE;14;1
 142;Merlin;COMMON;SAPPHIRE;11;2
 143;Pacha;UNCOMMON;SAPPHIRE;9;1
-144;"La Reine";SUPER;SAPPHIRE;5;0
-145;"Shérif de Nottingham";RARE;SAPPHIRE;3;0
+144;"La Reine";SUPER;SAPPHIRE;6;0
+145;"Shérif de Nottingham";RARE;SAPPHIRE;4;0
 146;Chicha;RARE;SAPPHIRE;4;0
 147;"Prince Jean";SUPER;SAPPHIRE;1;0
 148;"La Reine";RARE;SAPPHIRE;6;2
 149;Kuzco;SUPER;SAPPHIRE;4;0
 150;Mufasa;LEGENDARY;SAPPHIRE;1;0
-151;"Ludwig Von Drake";UNCOMMON;SAPPHIRE;9;0
-152;Minnie;COMMON;SAPPHIRE;13;0
+151;"Ludwig Von Drake";UNCOMMON;SAPPHIRE;10;0
+152;Minnie;COMMON;SAPPHIRE;14;0
 153;Basil;COMMON;SAPPHIRE;13;0
-154;"Sa Sucrerie";UNCOMMON;SAPPHIRE;8;1
-155;Donald;COMMON;SAPPHIRE;12;1
+154;"Sa Sucrerie";UNCOMMON;SAPPHIRE;9;1
+155;Donald;COMMON;SAPPHIRE;14;1
 156;Nanaka;COMMON;SAPPHIRE;11;2
 157;Tipo;UNCOMMON;SAPPHIRE;5;1
 158;Belle;RARE;SAPPHIRE;4;0
-159;Merlin;LEGENDARY;SAPPHIRE;0;1
+159;Merlin;LEGENDARY;SAPPHIRE;0;2
 160;"Vision de L'avenir";COMMON;SAPPHIRE;13;1
 161;"Caprice Royal";RARE;SAPPHIRE;3;0
-162;"Rien N'est Plus Pareil";COMMON;SAPPHIRE;11;2
+162;"Rien N'est Plus Pareil";COMMON;SAPPHIRE;12;2
 163;Cachez-Vous;UNCOMMON;SAPPHIRE;6;0
 164;"Je Ne M'amuse Plus du Tout";UNCOMMON;SAPPHIRE;10;2
 165;"Médaille des Héros";COMMON;SAPPHIRE;12;0
 166;"Loupe de Basil";RARE;SAPPHIRE;3;1
 167;"Sac de Voyage de Merlin";UNCOMMON;SAPPHIRE;9;0
-168;"Chromicône de Saphir";UNCOMMON;SAPPHIRE;9;1
+168;"Chromicône de Saphir";UNCOMMON;SAPPHIRE;10;1
 169;"Le Grand Illuminarium";RARE;SAPPHIRE;3;0
 170;"Chaumière de Merlin";UNCOMMON;SAPPHIRE;7;0
 171;Stitch;UNCOMMON;STEEL;7;1
 172;Jafar;LEGENDARY;STEEL;1;0
-173;Simba;COMMON;STEEL;12;0
+173;Simba;COMMON;STEEL;13;0
 174;Rudy;COMMON;STEEL;11;2
-175;"Garde Royal";COMMON;STEEL;11;0
+175;"Garde Royal";COMMON;STEEL;12;0
 176;"Mickey Mouse";COMMON;STEEL;12;0
 177;Dormeur;UNCOMMON;STEEL;11;0
 178;Kronk;COMMON;STEEL;12;1
-179;Heihei;COMMON;STEEL;13;0
+179;Heihei;COMMON;STEEL;14;0
 180;Atchoum;COMMON;STEEL;12;3
-181;Simplet;COMMON;STEEL;11;2
+181;Simplet;COMMON;STEEL;12;2
 182;Namaari;RARE;STEEL;3;0
 183;Blanche-Neige;SUPER;STEEL;4;1
 184;Yzma;RARE;STEEL;3;0
-185;Kronk;SUPER;STEEL;1;1
+185;Kronk;SUPER;STEEL;2;1
 186;Grincheux;SUPER;STEEL;5;0
-187;Pat;RARE;STEEL;3;0
+187;Pat;RARE;STEEL;4;0
 188;"Seigneur Hector";RARE;STEEL;6;0
 189;Timide;UNCOMMON;STEEL;7;1
 190;Arthur;UNCOMMON;STEEL;6;0
 191;Joyeux;COMMON;STEEL;14;2
 192;Simba;UNCOMMON;STEEL;9;0
-193;Prof;RARE;STEEL;5;1
+193;Prof;RARE;STEEL;5;2
 194;Arthur;LEGENDARY;STEEL;2;1
-195;Pat;UNCOMMON;STEEL;5;1
+195;Pat;UNCOMMON;STEEL;7;1
 196;"Tir à la Corde";RARE;STEEL;4;0
-197;"Où Est la Vraie Vie ?";COMMON;STEEL;11;0
+197;"Où Est la Vraie Vie ?";COMMON;STEEL;13;0
 198;"Éviter le Canardage";COMMON;STEEL;13;0
 199;"Bataille de Nourriture !";UNCOMMON;STEEL;9;2
-200;"Bouclier D'arendelle";COMMON;STEEL;11;1
+200;"Bouclier D'arendelle";COMMON;STEEL;12;1
 201;"Armure de Plaques";RARE;STEEL;4;0
 202;"Chromicône D'acier";UNCOMMON;STEEL;8;0
 203;"Méchants Anonymes";RARE;STEEL;5;0
