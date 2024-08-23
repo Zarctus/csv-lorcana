@@ -19,7 +19,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 10;"Félix Fixe Junior";COMMON;AMBER;16;1
 11;Gazelle;COMMON;AMBER;12;1
 12;"Félix Fixe Junior";UNCOMMON;AMBER;6;1
-13;Kristoff;RARE;AMBER;7;2
+13;Kristoff;RARE;AMBER;8;2
 14;"Mirabel Madrigal";LEGENDARY;AMBER;2;0
 15;Minnie;SUPER;AMBER;5;0
 16;Daisy;SUPER;AMBER;2;1
@@ -41,18 +41,18 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 32;"Chromicône D'ambre";UNCOMMON;AMBER;11;1
 33;"Tour de Raiponce";UNCOMMON;AMBER;9;0
 34;"La Terre des Lions";RARE;AMBER;3;0
-35;Maléfique;SUPER;AMETHYST;4;0
+35;Maléfique;SUPER;AMETHYST;5;0
 36;Nokk;COMMON;AMETHYST;14;1
 37;"Big Ben";COMMON;AMETHYST;11;1
 38;Merlin;COMMON;AMETHYST;13;1
-39;Archimède;COMMON;AMETHYST;13;0
+39;Archimède;COMMON;AMETHYST;14;0
 40;Bruni;UNCOMMON;AMETHYST;7;0
 41;"Géant de la Terre";COMMON;AMETHYST;14;1
 42;"Courant D’air";COMMON;AMETHYST;13;3
 43;"Le Lapin Blanc";COMMON;AMETHYST;12;1
 44;"Madame Mime";SUPER;AMETHYST;2;1
 45;"Luisa Madrigal";RARE;AMETHYST;4;0
-46;Anna;RARE;AMETHYST;2;0
+46;Anna;RARE;AMETHYST;3;0
 47;Archimède;UNCOMMON;AMETHYST;10;1
 48;Elsa;SUPER;AMETHYST;6;0
 49;Génie;LEGENDARY;AMETHYST;3;0
@@ -85,9 +85,9 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 76;Pimprenelle;COMMON;EMERALD;11;1
 77;"Robin des Bois";COMMON;EMERALD;13;0
 78;Pâquerette;COMMON;EMERALD;14;1
-79;Iago;RARE;EMERALD;4;0
+79;Iago;RARE;EMERALD;5;0
 80;Banzaï;RARE;EMERALD;4;1
-81;Ed;UNCOMMON;EMERALD;9;1
+81;Ed;UNCOMMON;EMERALD;10;1
 82;Scroop;SUPER;EMERALD;2;0
 83;"Prince Philippe";SUPER;EMERALD;5;0
 84;Clarabelle;LEGENDARY;EMERALD;0;0
@@ -111,7 +111,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 102;"Forêt Tropicale";UNCOMMON;EMERALD;7;0
 103;"Taffyta Crème Brûlée";UNCOMMON;RUBY;11;0
 104;"Ralph la Casse";RARE;RUBY;4;0
-105;Maximus;SUPER;RUBY;3;0
+105;Maximus;SUPER;RUBY;4;0
 106;"Turbo le Pilote";UNCOMMON;RUBY;10;0
 107;Donald;LEGENDARY;RUBY;1;1
 108;"Jean-Hubert Lingot";COMMON;RUBY;13;1
@@ -149,16 +149,16 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 140;"Balthazar Picsou";RARE;SAPPHIRE;3;1
 141;"Prince Jean";COMMON;SAPPHIRE;14;1
 142;Merlin;COMMON;SAPPHIRE;11;2
-143;Pacha;UNCOMMON;SAPPHIRE;9;1
+143;Pacha;UNCOMMON;SAPPHIRE;10;1
 144;"La Reine";SUPER;SAPPHIRE;7;0
-145;"Shérif de Nottingham";RARE;SAPPHIRE;4;0
+145;"Shérif de Nottingham";RARE;SAPPHIRE;4;1
 146;Chicha;RARE;SAPPHIRE;4;0
 147;"Prince Jean";SUPER;SAPPHIRE;1;0
 148;"La Reine";RARE;SAPPHIRE;6;2
 149;Kuzco;SUPER;SAPPHIRE;4;0
 150;Mufasa;LEGENDARY;SAPPHIRE;1;0
 151;"Ludwig Von Drake";UNCOMMON;SAPPHIRE;10;0
-152;Minnie;COMMON;SAPPHIRE;14;0
+152;Minnie;COMMON;SAPPHIRE;15;0
 153;Basil;COMMON;SAPPHIRE;13;0
 154;"Sa Sucrerie";UNCOMMON;SAPPHIRE;9;1
 155;Donald;COMMON;SAPPHIRE;14;1
@@ -171,7 +171,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 162;"Rien N'est Plus Pareil";COMMON;SAPPHIRE;12;2
 163;Cachez-Vous;UNCOMMON;SAPPHIRE;6;0
 164;"Je Ne M'amuse Plus du Tout";UNCOMMON;SAPPHIRE;10;2
-165;"Médaille des Héros";COMMON;SAPPHIRE;12;0
+165;"Médaille des Héros";COMMON;SAPPHIRE;13;0
 166;"Loupe de Basil";RARE;SAPPHIRE;3;1
 167;"Sac de Voyage de Merlin";UNCOMMON;SAPPHIRE;9;0
 168;"Chromicône de Saphir";UNCOMMON;SAPPHIRE;10;1
@@ -188,7 +188,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 179;Heihei;COMMON;STEEL;14;0
 180;Atchoum;COMMON;STEEL;13;3
 181;Simplet;COMMON;STEEL;12;2
-182;Namaari;RARE;STEEL;3;0
+182;Namaari;RARE;STEEL;4;0
 183;Blanche-Neige;SUPER;STEEL;4;1
 184;Yzma;RARE;STEEL;3;0
 185;Kronk;SUPER;STEEL;2;1

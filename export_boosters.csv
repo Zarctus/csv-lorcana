@@ -1,4 +1,18 @@
 saison,number,nom,encre,rareté,is_foil
+
+"Premier Chapitre",110,Gaston,RUBY,COMMON,N
+"Premier Chapitre",27,"Hakuna Matata",AMBER,COMMON,N
+"Premier Chapitre",47,"Balais Magiques",AMETHYST,COMMON,N
+"Premier Chapitre",98,"Cruelle Diablesse",EMERALD,COMMON,N
+"Premier Chapitre",156,Philoctète,SAPPHIRE,COMMON,N
+"Premier Chapitre",196,Déchiqueté,STEEL,COMMON,N
+"Premier Chapitre",16,"Prince Philippe",AMBER,UNCOMMON,N
+"Premier Chapitre",200,"Fracasser !",STEEL,UNCOMMON,N
+"Premier Chapitre",130,"Feu du Dragon",RUBY,UNCOMMON,N
+"Premier Chapitre",114,Maui,RUBY,RARE,N
+"Premier Chapitre",193,"La Fée Clochette",STEEL,SUPER,N
+"Premier Chapitre",58,"La Fée Clochette",AMETHYST,COMMON,Y
+
 "Ciel Scintillant",112,"Mickey Mouse",RUBY,COMMON,N
 "Ciel Scintillant",99,Obscurospère,EMERALD,COMMON,N
 "Ciel Scintillant",62,"Rassembler Connaissance et Sagesse",AMETHYST,COMMON,N
@@ -2572,30 +2586,4 @@ saison,number,nom,encre,rareté,is_foil
 "Le retour d’Ursula",180,Hercule,STEEL,RARE,N
 "Le retour d’Ursula",175,Ariel,STEEL,SUPER,N
 "Le retour d’Ursula",188,"Mickey Mouse",STEEL,COMMON,Y
-
-"Le retour d’Ursula",151,Pascal,SAPPHIRE,COMMON,N
-"Le retour d’Ursula",25,Ursula,AMBER,COMMON,N
-"Le retour d’Ursula",134,"Sphère de Vitalité",RUBY,COMMON,N
-"Le retour d’Ursula",65,Rose-Lanterne,AMETHYST,COMMON,N
-"Le retour d’Ursula",101,"La Crique Cachée",EMERALD,COMMON,N
-"Le retour d’Ursula",199,"Décret de Triton",STEEL,COMMON,N
-"Le retour d’Ursula",44,"Flotsam & Jetsam",AMETHYST,UNCOMMON,N
-"Le retour d’Ursula",80,Mégara,EMERALD,UNCOMMON,N
-"Le retour d’Ursula",201,"Arc Impérial",STEEL,UNCOMMON,N
-"Le retour d’Ursula",11,"La Harpe Magique",AMBER,RARE,N
-"Le retour d’Ursula",85,Pat,EMERALD,SUPER,N
-"Le retour d’Ursula",77,Jac,EMERALD,COMMON,Y
-
-"Le retour d’Ursula",65,Rose-Lanterne,AMETHYST,COMMON,N
-"Le retour d’Ursula",89,"Les Moires",EMERALD,COMMON,N
-"Le retour d’Ursula",151,Pascal,SAPPHIRE,COMMON,N
-"Le retour d’Ursula",19,"Mirabel Madrigal",AMBER,COMMON,N
-"Le retour d’Ursula",79,Mégara,EMERALD,COMMON,N
-"Le retour d’Ursula",174,Ariel,STEEL,COMMON,N
-"Le retour d’Ursula",63,"Plan D'ursula",AMETHYST,UNCOMMON,N
-"Le retour d’Ursula",195,Avalanche,STEEL,UNCOMMON,N
-"Le retour d’Ursula",128,"La Vie D'un Pirate",RUBY,UNCOMMON,N
-"Le retour d’Ursula",113,Lumière,RUBY,RARE,N
-"Le retour d’Ursula",10,Gaston,AMBER,SUPER,N
-"Le retour d’Ursula",93,"Esquive !",EMERALD,COMMON,Y
 

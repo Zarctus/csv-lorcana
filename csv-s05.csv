@@ -16,7 +16,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 44;Jafar;RARE;AMETHYST;0;0
 44;"Balais Magiques";UNCOMMON;AMETHYST;6;1
 45;"Balais Magiques";COMMON;AMETHYST;11;1
-47;"Balais Magiques";COMMON;AMETHYST;9;0
+47;"Balais Magiques";COMMON;AMETHYST;10;0
 48;"Balais Magiques";COMMON;AMETHYST;17;1
 49;"Balais Magiques";COMMON;AMETHYST;17;2
 51;"Mickey Mouse";SUPER;AMETHYST;2;0
@@ -37,7 +37,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 120;Pégase;COMMON;RUBY;16;1
 122;Scar;COMMON;RUBY;11;0
 126;"Te Kā";SUPER;RUBY;1;0
-130;"Feu du Dragon";UNCOMMON;RUBY;5;0
+130;"Feu du Dragon";UNCOMMON;RUBY;6;0
 132;"Médaillons Lestés";UNCOMMON;RUBY;8;0
 134;"Sphère de Vitalité";COMMON;RUBY;17;2
 172;"La Bête";UNCOMMON;STEEL;8;0
@@ -52,7 +52,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 198;"Fonce !";COMMON;STEEL;8;1
 198;"Tous avec Moi !";UNCOMMON;STEEL;8;0
 199;"Perdue dans L'hiver";COMMON;STEEL;7;0
-200;"Fracasser !";UNCOMMON;STEEL;2;0
+200;"Fracasser !";UNCOMMON;STEEL;3;0
 200;"Choisir son Combat";UNCOMMON;STEEL;3;0
 201;"Plus Ardent Que le Feu des Volcans";RARE;STEEL;0;0
 203;"Armure de Souris";UNCOMMON;STEEL;8;0
