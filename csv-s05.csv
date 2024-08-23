@@ -1,7 +1,7 @@
 card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 4;"Cobra Bubbles";RARE;AMBER;4;0
 6;Hadès;RARE;AMBER;5;0
-7;Heihei;COMMON;AMBER;13;0
+7;Heihei;COMMON;AMBER;14;0
 15;Mulan;COMMON;AMBER;8;0
 17;Minnie;SUPER;AMBER;3;0
 20;Raiponce;COMMON;AMBER;7;0
@@ -9,14 +9,14 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 22;"La Fée Clochette";UNCOMMON;AMBER;6;0
 26;"Retour de Bruno";UNCOMMON;AMBER;12;0
 29;"J'ai Perdu le Nord";UNCOMMON;AMBER;12;0
-32;Zirgouflex;COMMON;AMBER;12;0
+32;Zirgouflex;COMMON;AMBER;13;0
 33;Lanterne;RARE;AMBER;1;0
 41;Elsa;UNCOMMON;AMETHYST;4;0
 42;Elsa;RARE;AMETHYST;3;0
-44;Jafar;RARE;AMETHYST;0;0
+44;Jafar;RARE;AMETHYST;1;0
 44;"Balais Magiques";UNCOMMON;AMETHYST;6;1
 45;"Balais Magiques";COMMON;AMETHYST;11;1
-47;"Balais Magiques";COMMON;AMETHYST;10;0
+47;"Balais Magiques";COMMON;AMETHYST;11;0
 48;"Balais Magiques";COMMON;AMETHYST;17;1
 49;"Balais Magiques";COMMON;AMETHYST;17;2
 51;"Mickey Mouse";SUPER;AMETHYST;2;0
@@ -25,7 +25,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 64;"Mes Amis de L'au-Delà";COMMON;AMETHYST;1;0
 65;"Le Chapeau de Sorcier";RARE;AMETHYST;0;0
 66;"Trident de Triton";UNCOMMON;AMETHYST;12;0
-67;"Chaudron D'ursula";UNCOMMON;AMETHYST;1;0
+67;"Chaudron D'ursula";UNCOMMON;AMETHYST;2;0
 107;Dingo;RARE;RUBY;3;0
 108;Hercule;COMMON;RUBY;14;1
 110;Khan;UNCOMMON;RUBY;10;0
@@ -37,7 +37,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 120;Pégase;COMMON;RUBY;16;1
 122;Scar;COMMON;RUBY;11;0
 126;"Te Kā";SUPER;RUBY;1;0
-130;"Feu du Dragon";UNCOMMON;RUBY;6;0
+130;"Feu du Dragon";UNCOMMON;RUBY;7;0
 132;"Médaillons Lestés";UNCOMMON;RUBY;8;0
 134;"Sphère de Vitalité";COMMON;RUBY;17;2
 172;"La Bête";UNCOMMON;STEEL;8;0
@@ -52,7 +52,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 198;"Fonce !";COMMON;STEEL;8;1
 198;"Tous avec Moi !";UNCOMMON;STEEL;8;0
 199;"Perdue dans L'hiver";COMMON;STEEL;7;0
-200;"Fracasser !";UNCOMMON;STEEL;3;0
+200;"Fracasser !";UNCOMMON;STEEL;4;0
 200;"Choisir son Combat";UNCOMMON;STEEL;3;0
 201;"Plus Ardent Que le Feu des Volcans";RARE;STEEL;0;0
 203;"Armure de Souris";UNCOMMON;STEEL;8;0
