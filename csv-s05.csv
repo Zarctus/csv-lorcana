@@ -19,10 +19,10 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 47;"Balais Magiques";COMMON;AMETHYST;11;0
 48;"Balais Magiques";COMMON;AMETHYST;17;1
 49;"Balais Magiques";COMMON;AMETHYST;17;2
-51;"Mickey Mouse";SUPER;AMETHYST;2;0
+51;"Mickey Mouse";SUPER;AMETHYST;3;0
 53;"Pepa Madrigal";RARE;AMETHYST;6;0
 61;"La Deuxième Étoile sur la Droite";RARE;AMETHYST;6;0
-64;"Mes Amis de L'au-Delà";COMMON;AMETHYST;1;0
+64;"Mes Amis de L'au-Delà";COMMON;AMETHYST;2;0
 65;"Le Chapeau de Sorcier";RARE;AMETHYST;0;0
 66;"Trident de Triton";UNCOMMON;AMETHYST;12;0
 67;"Chaudron D'ursula";UNCOMMON;AMETHYST;2;0
@@ -37,7 +37,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 120;Pégase;COMMON;RUBY;16;1
 122;Scar;COMMON;RUBY;11;0
 126;"Te Kā";SUPER;RUBY;1;0
-130;"Feu du Dragon";UNCOMMON;RUBY;7;0
+130;"Feu du Dragon";UNCOMMON;RUBY;9;0
 132;"Médaillons Lestés";UNCOMMON;RUBY;8;0
 134;"Sphère de Vitalité";COMMON;RUBY;17;2
 172;"La Bête";UNCOMMON;STEEL;8;0

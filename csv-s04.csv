@@ -21,7 +21,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 12;"Félix Fixe Junior";UNCOMMON;AMBER;6;1
 13;Kristoff;RARE;AMBER;8;2
 14;"Mirabel Madrigal";LEGENDARY;AMBER;2;0
-15;Minnie;SUPER;AMBER;5;0
+15;Minnie;SUPER;AMBER;6;0
 16;Daisy;SUPER;AMBER;2;1
 17;"Félix Fixe Junior";COMMON;AMBER;11;1
 18;Vaiana;RARE;AMBER;4;0
@@ -36,7 +36,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 27;Ranimer;RARE;AMBER;6;2
 28;"Un Mirage à Deux Visages";SUPER;AMBER;3;0
 29;"Invitation au Bal";UNCOMMON;AMBER;10;0
-30;"Philtre de Guérison";COMMON;AMBER;13;0
+30;"Philtre de Guérison";COMMON;AMBER;14;0
 31;"Cœur du Détecteur de la Reine";RARE;AMBER;4;0
 32;"Chromicône D'ambre";UNCOMMON;AMBER;11;1
 33;"Tour de Raiponce";UNCOMMON;AMBER;9;0
@@ -46,7 +46,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 37;"Big Ben";COMMON;AMETHYST;11;1
 38;Merlin;COMMON;AMETHYST;13;1
 39;Archimède;COMMON;AMETHYST;14;0
-40;Bruni;UNCOMMON;AMETHYST;7;0
+40;Bruni;UNCOMMON;AMETHYST;8;0
 41;"Géant de la Terre";COMMON;AMETHYST;14;1
 42;"Courant D’air";COMMON;AMETHYST;13;3
 43;"Le Lapin Blanc";COMMON;AMETHYST;12;1
@@ -61,7 +61,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 52;Monstro;UNCOMMON;AMETHYST;6;2
 53;"Miss Tick";RARE;AMETHYST;4;1
 54;Maléfique;COMMON;AMETHYST;11;1
-55;Rafiki;RARE;AMETHYST;6;0
+55;Rafiki;RARE;AMETHYST;7;0
 56;Anna;COMMON;AMETHYST;12;0
 57;"Le Roi de Cœur";UNCOMMON;AMETHYST;12;1
 58;"Camilo Madrigal";LEGENDARY;AMETHYST;2;1
@@ -95,16 +95,16 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 86;Clarabelle;COMMON;EMERALD;11;1
 87;Banzaï;COMMON;EMERALD;13;0
 88;"Robin des Bois";UNCOMMON;EMERALD;8;0
-89;"Mère Gothel";UNCOMMON;EMERALD;12;2
+89;"Mère Gothel";UNCOMMON;EMERALD;13;2
 90;Clarabelle;UNCOMMON;EMERALD;6;0
 91;Shenzi;RARE;EMERALD;3;0
 92;"Mère Gothel";SUPER;EMERALD;6;0
 93;Scar;RARE;EMERALD;5;1
 94;"Déduction sous Hypnose";COMMON;EMERALD;12;0
-95;"Rage du Hurleur Nocturne";COMMON;EMERALD;12;3
+95;"Rage du Hurleur Nocturne";COMMON;EMERALD;13;3
 96;"Pour les Hommes";UNCOMMON;EMERALD;8;1
 97;"N'oublie Pas Qui Tu Es";RARE;EMERALD;4;1
-98;"Miroir du Prince Jean";RARE;EMERALD;5;0
+98;"Miroir du Prince Jean";RARE;EMERALD;5;1
 99;Obscurospère;COMMON;EMERALD;12;2
 100;"Chromicône D'émeraude";UNCOMMON;EMERALD;7;0
 101;"Forêt de Sherwood";RARE;EMERALD;4;2
@@ -125,7 +125,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 116;Pat;SUPER;RUBY;4;0
 117;"Taffyta Crème Brûlée";UNCOMMON;RUBY;7;1
 118;"Robin des Bois";LEGENDARY;RUBY;0;0
-119;Gaston;RARE;RUBY;2;0
+119;Gaston;RARE;RUBY;3;0
 120;Pat;COMMON;RUBY;16;0
 121;Arthur;UNCOMMON;RUBY;6;1
 122;Donald;COMMON;RUBY;12;1
@@ -161,7 +161,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 152;Minnie;COMMON;SAPPHIRE;15;0
 153;Basil;COMMON;SAPPHIRE;13;0
 154;"Sa Sucrerie";UNCOMMON;SAPPHIRE;9;1
-155;Donald;COMMON;SAPPHIRE;14;1
+155;Donald;COMMON;SAPPHIRE;15;1
 156;Nanaka;COMMON;SAPPHIRE;12;2
 157;Tipo;UNCOMMON;SAPPHIRE;5;1
 158;Belle;RARE;SAPPHIRE;4;0
@@ -172,7 +172,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 163;Cachez-Vous;UNCOMMON;SAPPHIRE;6;0
 164;"Je Ne M'amuse Plus du Tout";UNCOMMON;SAPPHIRE;10;2
 165;"Médaille des Héros";COMMON;SAPPHIRE;13;0
-166;"Loupe de Basil";RARE;SAPPHIRE;3;1
+166;"Loupe de Basil";RARE;SAPPHIRE;4;1
 167;"Sac de Voyage de Merlin";UNCOMMON;SAPPHIRE;9;0
 168;"Chromicône de Saphir";UNCOMMON;SAPPHIRE;10;1
 169;"Le Grand Illuminarium";RARE;SAPPHIRE;3;0
@@ -204,10 +204,10 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 195;Pat;UNCOMMON;STEEL;7;1
 196;"Tir à la Corde";RARE;STEEL;4;0
 197;"Où Est la Vraie Vie ?";COMMON;STEEL;13;0
-198;"Éviter le Canardage";COMMON;STEEL;13;0
+198;"Éviter le Canardage";COMMON;STEEL;14;0
 199;"Bataille de Nourriture !";UNCOMMON;STEEL;9;2
 200;"Bouclier D'arendelle";COMMON;STEEL;12;1
-201;"Armure de Plaques";RARE;STEEL;4;0
+201;"Armure de Plaques";RARE;STEEL;5;0
 202;"Chromicône D'acier";UNCOMMON;STEEL;8;0
 203;"Méchants Anonymes";RARE;STEEL;5;0
 204;"Mine des Sept Nains";UNCOMMON;STEEL;10;0
