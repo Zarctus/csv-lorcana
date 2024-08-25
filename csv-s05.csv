@@ -1,7 +1,7 @@
 card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 4;"Cobra Bubbles";RARE;AMBER;4;0
 6;Hadès;RARE;AMBER;5;0
-7;Heihei;COMMON;AMBER;14;0
+7;Heihei;COMMON;AMBER;15;0
 15;Mulan;COMMON;AMBER;8;0
 17;Minnie;SUPER;AMBER;3;0
 20;Raiponce;COMMON;AMBER;7;0
@@ -9,14 +9,14 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 22;"La Fée Clochette";UNCOMMON;AMBER;6;0
 26;"Retour de Bruno";UNCOMMON;AMBER;12;0
 29;"J'ai Perdu le Nord";UNCOMMON;AMBER;12;0
-32;Zirgouflex;COMMON;AMBER;13;0
+32;Zirgouflex;COMMON;AMBER;14;0
 33;Lanterne;RARE;AMBER;1;0
 41;Elsa;UNCOMMON;AMETHYST;4;0
 42;Elsa;RARE;AMETHYST;3;0
 44;Jafar;RARE;AMETHYST;1;0
 44;"Balais Magiques";UNCOMMON;AMETHYST;6;1
 45;"Balais Magiques";COMMON;AMETHYST;11;1
-47;"Balais Magiques";COMMON;AMETHYST;11;0
+47;"Balais Magiques";COMMON;AMETHYST;12;0
 48;"Balais Magiques";COMMON;AMETHYST;17;1
 49;"Balais Magiques";COMMON;AMETHYST;17;2
 51;"Mickey Mouse";SUPER;AMETHYST;3;0
@@ -36,11 +36,11 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 117;Namaari;RARE;RUBY;4;1
 120;Pégase;COMMON;RUBY;16;1
 122;Scar;COMMON;RUBY;11;0
-126;"Te Kā";SUPER;RUBY;1;0
+126;"Te Kā";SUPER;RUBY;2;0
 130;"Feu du Dragon";UNCOMMON;RUBY;9;0
 132;"Médaillons Lestés";UNCOMMON;RUBY;8;0
 134;"Sphère de Vitalité";COMMON;RUBY;17;2
-172;"La Bête";UNCOMMON;STEEL;8;0
+172;"La Bête";UNCOMMON;STEEL;9;0
 174;Benja;COMMON;STEEL;5;0
 180;Lythos;UNCOMMON;STEEL;6;1
 185;"Balais Magiques";COMMON;STEEL;13;6
