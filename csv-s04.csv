@@ -7,7 +7,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 3;Nala;PROMO;AMBER;0;0
 4;Truc;COMMON;AMBER;12;3
 4;"Force Hypnotique";PROMO;AMETHYST;0;0
-5;Kenaï;COMMON;AMBER;11;2
+5;Kenaï;COMMON;AMBER;12;2
 5;Chicha;PROMO;SAPPHIRE;0;0
 5;"Vanellope Von Schweetz";PROMO;AMBER;0;0
 6;"Vanellope Von Schweetz";COMMON;AMBER;11;1
@@ -28,7 +28,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 19;"Vanellope Von Schweetz";RARE;AMBER;3;0
 20;"Adam de la Halle";UNCOMMON;AMBER;7;2
 21;"Ralph la Casse";RARE;AMBER;5;0
-22;"Belle Marianne";UNCOMMON;AMBER;11;1
+22;"Belle Marianne";UNCOMMON;AMBER;12;1
 23;Sven;UNCOMMON;AMBER;7;1
 24;Minnie;COMMON;AMBER;14;2
 25;"Try Everything";UNCOMMON;AMBER;7;1
@@ -37,12 +37,12 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 28;"Un Mirage à Deux Visages";SUPER;AMBER;3;0
 29;"Invitation au Bal";UNCOMMON;AMBER;10;0
 30;"Philtre de Guérison";COMMON;AMBER;14;0
-31;"Cœur du Détecteur de la Reine";RARE;AMBER;5;0
+31;"Cœur du Détecteur de la Reine";RARE;AMBER;6;0
 32;"Chromicône D'ambre";UNCOMMON;AMBER;11;1
 33;"Tour de Raiponce";UNCOMMON;AMBER;9;0
 34;"La Terre des Lions";RARE;AMBER;3;0
 35;Maléfique;SUPER;AMETHYST;5;0
-36;Nokk;COMMON;AMETHYST;14;1
+36;Nokk;COMMON;AMETHYST;15;1
 37;"Big Ben";COMMON;AMETHYST;11;1
 38;Merlin;COMMON;AMETHYST;14;1
 39;Archimède;COMMON;AMETHYST;14;0
@@ -77,7 +77,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 68;"La Bibliothèque";UNCOMMON;AMETHYST;7;0
 69;"Robin des Bois";RARE;EMERALD;4;0
 70;Shenzi;UNCOMMON;EMERALD;10;1
-71;"Petit Jean";UNCOMMON;EMERALD;11;0
+71;"Petit Jean";UNCOMMON;EMERALD;11;1
 72;Zazu;COMMON;EMERALD;12;2
 73;Ulf;COMMON;EMERALD;14;1
 74;Ed;COMMON;EMERALD;15;1
@@ -102,7 +102,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 93;Scar;RARE;EMERALD;5;1
 94;"Déduction sous Hypnose";COMMON;EMERALD;12;0
 95;"Rage du Hurleur Nocturne";COMMON;EMERALD;13;3
-96;"Pour les Hommes";UNCOMMON;EMERALD;8;1
+96;"Pour les Hommes";UNCOMMON;EMERALD;9;1
 97;"N'oublie Pas Qui Tu Es";RARE;EMERALD;4;1
 98;"Miroir du Prince Jean";RARE;EMERALD;5;1
 99;Obscurospère;COMMON;EMERALD;12;2
@@ -123,7 +123,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 114;"Taffyta Crème Brûlée";COMMON;RUBY;13;0
 115;Denahi;RARE;RUBY;6;1
 116;Pat;SUPER;RUBY;4;0
-117;"Taffyta Crème Brûlée";UNCOMMON;RUBY;8;1
+117;"Taffyta Crème Brûlée";UNCOMMON;RUBY;9;1
 118;"Robin des Bois";LEGENDARY;RUBY;0;0
 119;Gaston;RARE;RUBY;3;0
 120;Pat;COMMON;RUBY;16;0
@@ -139,7 +139,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 130;"Glimmer contre Glimmer";UNCOMMON;RUBY;8;1
 131;"Qui Est avec Moi ?";SUPER;RUBY;2;0
 132;"Potion de Puissance";COMMON;RUBY;11;1
-133;"L'épée Libérée";RARE;RUBY;6;0
+133;"L'épée Libérée";RARE;RUBY;7;0
 134;"Chromicône de Rubis";UNCOMMON;RUBY;10;2
 135;"Piste de Sugar Rush";RARE;RUBY;4;0
 136;"Fête de Ratigan";UNCOMMON;RUBY;8;1
@@ -171,7 +171,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 162;"Rien N'est Plus Pareil";COMMON;SAPPHIRE;12;2
 163;Cachez-Vous;UNCOMMON;SAPPHIRE;6;0
 164;"Je Ne M'amuse Plus du Tout";UNCOMMON;SAPPHIRE;10;2
-165;"Médaille des Héros";COMMON;SAPPHIRE;13;0
+165;"Médaille des Héros";COMMON;SAPPHIRE;14;0
 166;"Loupe de Basil";RARE;SAPPHIRE;4;1
 167;"Sac de Voyage de Merlin";UNCOMMON;SAPPHIRE;9;0
 168;"Chromicône de Saphir";UNCOMMON;SAPPHIRE;10;1
@@ -190,10 +190,10 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 181;Simplet;COMMON;STEEL;12;2
 182;Namaari;RARE;STEEL;4;0
 183;Blanche-Neige;SUPER;STEEL;4;1
-184;Yzma;RARE;STEEL;3;0
+184;Yzma;RARE;STEEL;4;0
 185;Kronk;SUPER;STEEL;2;1
 186;Grincheux;SUPER;STEEL;5;0
-187;Pat;RARE;STEEL;4;0
+187;Pat;RARE;STEEL;5;0
 188;"Seigneur Hector";RARE;STEEL;6;0
 189;Timide;UNCOMMON;STEEL;7;1
 190;Arthur;UNCOMMON;STEEL;6;0
@@ -209,7 +209,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 200;"Bouclier D'arendelle";COMMON;STEEL;12;1
 201;"Armure de Plaques";RARE;STEEL;5;0
 202;"Chromicône D'acier";UNCOMMON;STEEL;8;0
-203;"Méchants Anonymes";RARE;STEEL;5;0
+203;"Méchants Anonymes";RARE;STEEL;6;0
 204;"Mine des Sept Nains";UNCOMMON;STEEL;10;0
 205;"Prince Naveen";ENCHANTED;AMBER;0;0
 206;"Vanellope Von Schweetz";ENCHANTED;AMBER;0;0
