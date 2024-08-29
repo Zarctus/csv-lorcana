@@ -13,7 +13,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 33;Lanterne;RARE;AMBER;1;0
 41;Elsa;UNCOMMON;AMETHYST;5;0
 42;Elsa;RARE;AMETHYST;3;0
-44;Jafar;RARE;AMETHYST;1;0
+44;Jafar;RARE;AMETHYST;2;0
 44;"Balais Magiques";UNCOMMON;AMETHYST;6;1
 45;"Balais Magiques";COMMON;AMETHYST;11;1
 47;"Balais Magiques";COMMON;AMETHYST;13;0
@@ -22,7 +22,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 51;"Mickey Mouse";SUPER;AMETHYST;3;0
 53;"Pepa Madrigal";RARE;AMETHYST;6;0
 61;"La Deuxième Étoile sur la Droite";RARE;AMETHYST;6;0
-64;"Mes Amis de L'au-Delà";COMMON;AMETHYST;2;0
+64;"Mes Amis de L'au-Delà";COMMON;AMETHYST;3;0
 65;"Le Chapeau de Sorcier";RARE;AMETHYST;0;0
 66;"Trident de Triton";UNCOMMON;AMETHYST;12;0
 67;"Chaudron D'ursula";UNCOMMON;AMETHYST;2;0
