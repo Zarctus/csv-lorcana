@@ -1,34 +1,17 @@
 card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 1;Ariel;UNCOMMON;AMBER;8;0
-1;"Mickey Mouse";PROMO;RUBY;0;0
-1;"Mickey Mouse";PROMO;RUBY;0;0
-1;"Dragon Fire";PROMO;RUBY;0;0
 2;Ariel;SUPER;AMBER;0;0
-2;Stitch;PROMO;AMBER;0;0
-2;"Let It Go";PROMO;SAPPHIRE;0;0
 3;Cendrillon;UNCOMMON;AMBER;8;0
-3;Elsa;PROMO;AMETHYST;0;0
 4;Dingo;UNCOMMON;AMBER;10;0
-4;"Cruella de Vil";PROMO;EMERALD;0;0
-4;Rapunzel;PROMO;AMBER;0;0
 5;Hadès;RARE;AMBER;1;0
-5;Maleficent;PROMO;RUBY;0;0
 6;Hadès;RARE;AMBER;5;1
-6;"Robin Hood";PROMO;SAPPHIRE;0;0
 7;Heihei;COMMON;AMBER;16;0
-7;"Captain Hook";PROMO;STEEL;0;0
 8;"Le Fou";UNCOMMON;AMBER;6;0
-8;"Mickey Mouse";PROMO;SAPPHIRE;0;0
 9;Lilo;RARE;AMBER;1;0
-9;Heihei;PROMO;AMBER;0;0
 10;Maximus;SUPER;AMBER;1;0
-10;Yzma;PROMO;AMETHYST;0;0
 11;Maximus;UNCOMMON;AMBER;9;1
-11;"Mickey Mouse";PROMO;STEEL;0;0
 12;"Mickey Mouse";UNCOMMON;AMBER;13;0
-12;Goofy;PROMO;AMBER;0;0
 13;Minnie;COMMON;AMBER;16;0
-13;"Donald Duck";PROMO;STEEL;0;0
 14;Vaiana;RARE;AMBER;3;0
 15;"Monsieur Mouche";COMMON;AMBER;11;1
 16;"Prince Philippe";UNCOMMON;AMBER;3;0
@@ -36,15 +19,10 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 18;Raiponce;LEGENDARY;AMBER;1;0
 19;Sébastien;COMMON;AMBER;12;1
 20;Simba;COMMON;AMBER;7;0
-20;Génie;PROMO;EMERALD;0;0
 21;Stitch;LEGENDARY;AMBER;0;0
-21;Stitch;PROMO;RUBY;0;0
 22;Stitch;COMMON;AMBER;7;2
-22;Maléfique;PROMO;SAPPHIRE;0;0
 23;Stitch;SUPER;AMBER;0;0
-23;Maui;PROMO;STEEL;0;0
 24;Timon;COMMON;AMBER;10;1
-24;Gaston;PROMO;RUBY;0;0
 25;"C'est la Fête";UNCOMMON;AMBER;7;0
 26;"Très Mauvais Caractère !";COMMON;AMBER;12;0
 27;"Hakuna Matata";COMMON;AMBER;11;1
