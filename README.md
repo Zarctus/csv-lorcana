@@ -1,5 +1,5 @@
 **Personnal CSV files for my collection**
-*My vinted account : [Vinted](https://www.vinted.fr/member/23470106)*
+*My vinted account : [Vinted](https://www.vinted.fr/member/223153477)*
 
 **Quote request**
-*Please visit the website for all requests : [Zarctus.fr](https://www.zarctus.fr/)*
+*Please visit my website for all requests : [Zarctus.fr](https://www.zarctus.fr/)*

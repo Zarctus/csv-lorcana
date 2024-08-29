@@ -35,12 +35,12 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 116;Mulan;COMMON;RUBY;14;1
 117;Namaari;RARE;RUBY;4;1
 120;Pégase;COMMON;RUBY;16;1
-122;Scar;COMMON;RUBY;11;0
+122;Scar;COMMON;RUBY;12;0
 126;"Te Kā";SUPER;RUBY;2;0
-130;"Feu du Dragon";UNCOMMON;RUBY;10;0
+130;"Feu du Dragon";UNCOMMON;RUBY;8;0
 132;"Médaillons Lestés";UNCOMMON;RUBY;8;0
 134;"Sphère de Vitalité";COMMON;RUBY;17;2
-172;"La Bête";UNCOMMON;STEEL;10;0
+172;"La Bête";UNCOMMON;STEEL;11;0
 174;Benja;COMMON;STEEL;5;0
 180;Lythos;UNCOMMON;STEEL;6;1
 185;"Balais Magiques";COMMON;STEEL;13;6
@@ -52,7 +52,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 198;"Fonce !";COMMON;STEEL;8;1
 198;"Tous avec Moi !";UNCOMMON;STEEL;8;0
 199;"Perdue dans L'hiver";COMMON;STEEL;7;0
-200;"Fracasser !";UNCOMMON;STEEL;5;0
+200;"Fracasser !";UNCOMMON;STEEL;4;0
 200;"Choisir son Combat";UNCOMMON;STEEL;3;0
 201;"Plus Ardent Que le Feu des Volcans";RARE;STEEL;0;0
 203;"Armure de Souris";UNCOMMON;STEEL;8;0
