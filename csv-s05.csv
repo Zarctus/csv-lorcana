@@ -3,7 +3,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 2;Nala;UNCOMMON;AMBER;8;0
 3;"Prince Naveen";LEGENDARY;AMBER;2;0
 4;Truc;COMMON;AMBER;12;3
-5;Kenaï;COMMON;AMBER;12;2
+5;Kenaï;COMMON;AMBER;11;2
 6;"Vanellope Von Schweetz";COMMON;AMBER;11;1
 7;Muche;COMMON;AMBER;13;1
 8;Lilo;COMMON;AMBER;13;1
@@ -11,7 +11,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 10;"Félix Fixe Junior";COMMON;AMBER;16;1
 11;Gazelle;COMMON;AMBER;12;1
 12;"Félix Fixe Junior";UNCOMMON;AMBER;6;1
-13;Kristoff;RARE;AMBER;8;2
+13;Kristoff;RARE;AMBER;7;2
 14;"Mirabel Madrigal";LEGENDARY;AMBER;2;0
 15;Minnie;SUPER;AMBER;6;0
 16;Daisy;SUPER;AMBER;2;1
@@ -20,16 +20,16 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 19;"Vanellope Von Schweetz";RARE;AMBER;3;0
 20;"Adam de la Halle";UNCOMMON;AMBER;7;2
 21;"Ralph la Casse";RARE;AMBER;5;0
-22;"Belle Marianne";UNCOMMON;AMBER;12;1
+22;"Belle Marianne";UNCOMMON;AMBER;11;1
 23;Sven;UNCOMMON;AMBER;7;1
-24;Minnie;COMMON;AMBER;14;2
+24;Minnie;COMMON;AMBER;13;2
 25;"Try Everything";UNCOMMON;AMBER;7;1
 26;"Toucher Guérisseur";COMMON;AMBER;11;0
 27;Ranimer;RARE;AMBER;6;2
 28;"Un Mirage à Deux Visages";SUPER;AMBER;3;0
 29;"Invitation au Bal";UNCOMMON;AMBER;10;0
-30;"Philtre de Guérison";COMMON;AMBER;14;0
-31;"Cœur du Détecteur de la Reine";RARE;AMBER;6;0
+30;"Philtre de Guérison";COMMON;AMBER;13;0
+31;"Cœur du Détecteur de la Reine";RARE;AMBER;4;0
 32;"Chromicône D'ambre";UNCOMMON;AMBER;11;1
 33;"Tour de Raiponce";UNCOMMON;AMBER;9;0
 34;"La Terre des Lions";RARE;AMBER;3;0
