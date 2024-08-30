@@ -13,7 +13,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 12;"Félix Fixe Junior";UNCOMMON;AMBER;6;1
 13;Kristoff;RARE;AMBER;7;2
 14;"Mirabel Madrigal";LEGENDARY;AMBER;2;0
-15;Minnie;SUPER;AMBER;6;0
+15;Minnie;SUPER;AMBER;5;0
 16;Daisy;SUPER;AMBER;2;1
 17;"Félix Fixe Junior";COMMON;AMBER;11;1
 18;Vaiana;RARE;AMBER;4;0
@@ -33,18 +33,18 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 32;"Chromicône D'ambre";UNCOMMON;AMBER;11;1
 33;"Tour de Raiponce";UNCOMMON;AMBER;9;0
 34;"La Terre des Lions";RARE;AMBER;3;0
-35;Maléfique;SUPER;AMETHYST;5;0
-36;Nokk;COMMON;AMETHYST;15;1
+35;Maléfique;SUPER;AMETHYST;4;0
+36;Nokk;COMMON;AMETHYST;14;1
 37;"Big Ben";COMMON;AMETHYST;11;1
-38;Merlin;COMMON;AMETHYST;14;1
-39;Archimède;COMMON;AMETHYST;14;0
-40;Bruni;UNCOMMON;AMETHYST;8;0
+38;Merlin;COMMON;AMETHYST;13;1
+39;Archimède;COMMON;AMETHYST;13;0
+40;Bruni;UNCOMMON;AMETHYST;7;0
 41;"Géant de la Terre";COMMON;AMETHYST;14;1
 42;"Courant D’air";COMMON;AMETHYST;13;3
 43;"Le Lapin Blanc";COMMON;AMETHYST;12;1
 44;"Madame Mime";SUPER;AMETHYST;2;1
 45;"Luisa Madrigal";RARE;AMETHYST;4;0
-46;Anna;RARE;AMETHYST;3;0
+46;Anna;RARE;AMETHYST;2;0
 47;Archimède;UNCOMMON;AMETHYST;10;1
 48;Elsa;SUPER;AMETHYST;6;0
 49;Génie;LEGENDARY;AMETHYST;3;0
@@ -53,13 +53,13 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 52;Monstro;UNCOMMON;AMETHYST;6;2
 53;"Miss Tick";RARE;AMETHYST;4;1
 54;Maléfique;COMMON;AMETHYST;11;1
-55;Rafiki;RARE;AMETHYST;7;0
+55;Rafiki;RARE;AMETHYST;6;0
 56;Anna;COMMON;AMETHYST;12;0
 57;"Le Roi de Cœur";UNCOMMON;AMETHYST;12;1
 58;"Camilo Madrigal";LEGENDARY;AMETHYST;2;1
 59;"Force Hypnotique";COMMON;AMETHYST;12;1
 60;"Qui Trouve, Garde";UNCOMMON;AMETHYST;6;0
-61;L'explorateur;RARE;AMETHYST;5;1
+61;L'explorateur;RARE;AMETHYST;4;1
 62;"Rassembler Connaissance et Sagesse";COMMON;AMETHYST;12;2
 63;"Assistance Magique";UNCOMMON;AMETHYST;11;1
 64;Rétrosphère;COMMON;AMETHYST;13;1
