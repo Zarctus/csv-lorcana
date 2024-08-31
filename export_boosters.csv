@@ -1,4 +1,82 @@
 saison,number,nom,encre,rareté,is_foil
+"Premier Chapitre",120,Pongo,RUBY,COMMON,N
+"Premier Chapitre",7,Heihei,AMBER,COMMON,N
+"Premier Chapitre",63,Gel,AMETHYST,COMMON,N
+"Premier Chapitre",102,"Cimeterre Volé",EMERALD,COMMON,N
+"Premier Chapitre",161,"Développe ton Cerveau",SAPPHIRE,COMMON,N
+"Premier Chapitre",201,"Miroir de la Bête",STEEL,COMMON,N
+"Premier Chapitre",8,"Le Fou",AMBER,UNCOMMON,N
+"Premier Chapitre",199,"Sens Dessus Dessous",STEEL,UNCOMMON,N
+"Premier Chapitre",121,Raiponce,RUBY,UNCOMMON,N
+"Premier Chapitre",125,Stitch,RUBY,RARE,N
+"Premier Chapitre",195,"Ce Rêve Bleu",STEEL,SUPER,N
+"Premier Chapitre",133,Enchevêtré,RUBY,COMMON,Y
+
+"Premier Chapitre",105,Aladdin,RUBY,COMMON,N
+"Premier Chapitre",13,Minnie,AMBER,COMMON,N
+"Premier Chapitre",46,Jetsam,AMETHYST,COMMON,N
+"Premier Chapitre",79,Horace,EMERALD,COMMON,N
+"Premier Chapitre",165,"Travail D'équipe",SAPPHIRE,COMMON,N
+"Premier Chapitre",171,Aladdin,STEEL,COMMON,N
+"Premier Chapitre",41,Elsa,AMETHYST,UNCOMMON,N
+"Premier Chapitre",74,"Flynn Rider",EMERALD,UNCOMMON,N
+"Premier Chapitre",167,"Œil des Moires",SAPPHIRE,UNCOMMON,N
+"Premier Chapitre",39,"Dr. Facilier",AMETHYST,RARE,N
+"Premier Chapitre",128,"Soyez Prêtes !",RUBY,RARE,N
+"Premier Chapitre",29,"Juste à Temps",AMBER,RARE,Y
+
+"Premier Chapitre",109,Elsa,RUBY,COMMON,N
+"Premier Chapitre",28,"Lueur Réparatrice",AMBER,COMMON,N
+"Premier Chapitre",57,"Madame de Garderobe",AMETHYST,COMMON,N
+"Premier Chapitre",73,"Le Duc de Weselton",EMERALD,COMMON,N
+"Premier Chapitre",150,Maléfique,SAPPHIRE,COMMON,N
+"Premier Chapitre",194,"La Fée Clochette",STEEL,COMMON,N
+"Premier Chapitre",25,"C'est la Fête",AMBER,UNCOMMON,N
+"Premier Chapitre",202,"Poêle à Frire",STEEL,UNCOMMON,N
+"Premier Chapitre",131,"Attiser les Flammes",RUBY,UNCOMMON,N
+"Premier Chapitre",72,"Cruella D'enfer",EMERALD,RARE,N
+"Premier Chapitre",23,Stitch,AMBER,SUPER,N
+"Premier Chapitre",197,"Allumez les Mêches !",STEEL,COMMON,Y
+
+"Premier Chapitre",132,"Il A un Sabre !",RUBY,COMMON,N
+"Premier Chapitre",26,"Très Mauvais Caractère !",AMBER,COMMON,N
+"Premier Chapitre",64,"Mes Amis de L'au-Delà",AMETHYST,COMMON,N
+"Premier Chapitre",89,"Mickey Mouse",EMERALD,COMMON,N
+"Premier Chapitre",169,"Fleur aux Pétales D'or",SAPPHIRE,COMMON,N
+"Premier Chapitre",182,Kristoff,STEEL,COMMON,N
+"Premier Chapitre",55,Sven,AMETHYST,UNCOMMON,N
+"Premier Chapitre",95,"N'écoute Que Moi",EMERALD,UNCOMMON,N
+"Premier Chapitre",166,"Panier de Noix de Coco",SAPPHIRE,UNCOMMON,N
+"Premier Chapitre",173,"Capitaine Crochet",STEEL,RARE,N
+"Premier Chapitre",9,Lilo,AMBER,RARE,N
+"Premier Chapitre",56,"La Reine",AMETHYST,SUPER,Y
+
+"Premier Chapitre",132,"Il A un Sabre !",RUBY,COMMON,N
+"Premier Chapitre",26,"Très Mauvais Caractère !",AMBER,COMMON,N
+"Premier Chapitre",64,"Mes Amis de L'au-Delà",AMETHYST,COMMON,N
+"Premier Chapitre",89,"Mickey Mouse",EMERALD,COMMON,N
+"Premier Chapitre",169,"Fleur aux Pétales D'or",SAPPHIRE,COMMON,N
+"Premier Chapitre",181,Hercule,STEEL,COMMON,N
+"Premier Chapitre",53,Pascal,AMETHYST,UNCOMMON,N
+"Premier Chapitre",71,"Chat du Cheshire",EMERALD,UNCOMMON,N
+"Premier Chapitre",141,Belle,SAPPHIRE,UNCOMMON,N
+"Premier Chapitre",163,"Libérée, Délivrée",SAPPHIRE,RARE,N
+"Premier Chapitre",21,Stitch,AMBER,LEGENDARY,N
+"Premier Chapitre",96,Ruée,EMERALD,COMMON,Y
+
+"Premier Chapitre",122,Scar,RUBY,COMMON,N
+"Premier Chapitre",24,Timon,AMBER,COMMON,N
+"Premier Chapitre",38,"Dr. Facilier",AMETHYST,COMMON,N
+"Premier Chapitre",87,Mégara,EMERALD,COMMON,N
+"Premier Chapitre",154,"Mickey Mouse",SAPPHIRE,COMMON,N
+"Premier Chapitre",176,Cerbère,STEEL,COMMON,N
+"Premier Chapitre",1,Ariel,AMBER,UNCOMMON,N
+"Premier Chapitre",183,Kronk,STEEL,UNCOMMON,N
+"Premier Chapitre",129,"Droit au But",RUBY,UNCOMMON,N
+"Premier Chapitre",80,Iago,EMERALD,RARE,N
+"Premier Chapitre",10,Maximus,AMBER,SUPER,N
+"Premier Chapitre",164,"Je Vole",SAPPHIRE,UNCOMMON,Y
+
 "Premier Chapitre",122,Scar,RUBY,COMMON,N
 "Premier Chapitre",28,"Lueur Réparatrice",AMBER,COMMON,N
 "Premier Chapitre",38,"Dr. Facilier",AMETHYST,COMMON,N
@@ -2520,82 +2598,4 @@ saison,number,nom,encre,rareté,is_foil
 "Le retour d’Ursula",64,"Rose Mystique",AMETHYST,RARE,N
 "Le retour d’Ursula",165,"Tous ces Secrets",SAPPHIRE,RARE,N
 "Le retour d’Ursula",185,"Balais Magiques",STEEL,COMMON,Y
-
-"Le retour d’Ursula",133,"La Planche",RUBY,COMMON,N
-"Le retour d’Ursula",48,"Balais Magiques",AMETHYST,COMMON,N
-"Le retour d’Ursula",89,"Les Moires",EMERALD,COMMON,N
-"Le retour d’Ursula",168,"Bloc de Glace",SAPPHIRE,COMMON,N
-"Le retour d’Ursula",33,Atlantica,AMBER,COMMON,N
-"Le retour d’Ursula",199,"Décret de Triton",STEEL,COMMON,N
-"Le retour d’Ursula",35,"Antonio Madrigal",AMETHYST,UNCOMMON,N
-"Le retour d’Ursula",96,"Ruse D'ursula",EMERALD,UNCOMMON,N
-"Le retour d’Ursula",109,Hercule,RUBY,UNCOMMON,N
-"Le retour d’Ursula",102,"Jardin D'ursula",EMERALD,RARE,N
-"Le retour d’Ursula",191,Porcinet,STEEL,LEGENDARY,N
-"Le retour d’Ursula",80,Mégara,EMERALD,UNCOMMON,Y
-
-"Le retour d’Ursula",168,"Bloc de Glace",SAPPHIRE,COMMON,N
-"Le retour d’Ursula",33,Atlantica,AMBER,COMMON,N
-"Le retour d’Ursula",136,"Terrains D'entraînement",RUBY,COMMON,N
-"Le retour d’Ursula",67,"Casa Madrigal",AMETHYST,COMMON,N
-"Le retour d’Ursula",98,"Invocateur D'encre Caché",EMERALD,COMMON,N
-"Le retour d’Ursula",194,Yao,STEEL,COMMON,N
-"Le retour d’Ursula",26,"Retour de Bruno",AMBER,UNCOMMON,N
-"Le retour d’Ursula",63,"Plan D'ursula",AMETHYST,UNCOMMON,N
-"Le retour d’Ursula",167,"Grand Dragon de Pierre",SAPPHIRE,UNCOMMON,N
-"Le retour d’Ursula",202,"Canon du Rls Héritage",STEEL,RARE,N
-"Le retour d’Ursula",38,"Bruno Madrigal",AMETHYST,RARE,N
-"Le retour d’Ursula",173,Argès,STEEL,COMMON,Y
-
-"Le retour d’Ursula",7,Daisy,AMBER,COMMON,N
-"Le retour d’Ursula",126,Tong,RUBY,COMMON,N
-"Le retour d’Ursula",49,"Balais Magiques",AMETHYST,COMMON,N
-"Le retour d’Ursula",71,Diablo,EMERALD,COMMON,N
-"Le retour d’Ursula",137,Anna,SAPPHIRE,COMMON,N
-"Le retour d’Ursula",204,Thèbes,STEEL,COMMON,N
-"Le retour d’Ursula",83,Pégase,EMERALD,UNCOMMON,N
-"Le retour d’Ursula",15,"Mickey Mouse",AMBER,UNCOMMON,N
-"Le retour d’Ursula",183,Ling,STEEL,UNCOMMON,N
-"Le retour d’Ursula",97,"Ne Parlons Pas de Bruno",EMERALD,RARE,N
-"Le retour d’Ursula",59,"Yen Sid",AMETHYST,LEGENDARY,N
-"Le retour d’Ursula",176,"La Bête",STEEL,COMMON,Y
-
-"Le retour d’Ursula",19,"Mirabel Madrigal",AMBER,COMMON,N
-"Le retour d’Ursula",130,Bagarre,RUBY,COMMON,N
-"Le retour d’Ursula",60,"Pauvres Âmes en Perdition",AMETHYST,COMMON,N
-"Le retour d’Ursula",84,Pégase,EMERALD,COMMON,N
-"Le retour d’Ursula",170,"Camp D'hiver",SAPPHIRE,COMMON,N
-"Le retour d’Ursula",194,Yao,STEEL,COMMON,N
-"Le retour d’Ursula",75,Heihei,EMERALD,UNCOMMON,N
-"Le retour d’Ursula",6,Daisy,AMBER,UNCOMMON,N
-"Le retour d’Ursula",182,"Li Shang",STEEL,UNCOMMON,N
-"Le retour d’Ursula",127,"Tuk Tuk",RUBY,RARE,N
-"Le retour d’Ursula",159,Triton,SAPPHIRE,RARE,N
-"Le retour d’Ursula",71,Diablo,EMERALD,COMMON,Y
-
-"Le retour d’Ursula",126,Tong,RUBY,COMMON,N
-"Le retour d’Ursula",56,Tic-Tac,AMETHYST,COMMON,N
-"Le retour d’Ursula",72,Gunther,EMERALD,COMMON,N
-"Le retour d’Ursula",146,Hans,SAPPHIRE,COMMON,N
-"Le retour d’Ursula",1,"Agustín Madrigal",AMBER,COMMON,N
-"Le retour d’Ursula",199,"Décret de Triton",STEEL,COMMON,N
-"Le retour d’Ursula",29,"J'ai Perdu le Nord",AMBER,UNCOMMON,N
-"Le retour d’Ursula",162,"Creuse Encore et Encore",SAPPHIRE,UNCOMMON,N
-"Le retour d’Ursula",171,Aladdin,STEEL,UNCOMMON,N
-"Le retour d’Ursula",152,"Prince Philippe",SAPPHIRE,RARE,N
-"Le retour d’Ursula",138,Anna,SAPPHIRE,SUPER,N
-"Le retour d’Ursula",104,Benja,RUBY,COMMON,Y
-
-"Le retour d’Ursula",120,Pégase,RUBY,COMMON,N
-"Le retour d’Ursula",37,Belle,AMETHYST,COMMON,N
-"Le retour d’Ursula",73,Gus,EMERALD,COMMON,N
-"Le retour d’Ursula",168,"Bloc de Glace",SAPPHIRE,COMMON,N
-"Le retour d’Ursula",1,"Agustín Madrigal",AMBER,COMMON,N
-"Le retour d’Ursula",176,"La Bête",STEEL,COMMON,N
-"Le retour d’Ursula",99,"Contrat Signé",EMERALD,UNCOMMON,N
-"Le retour d’Ursula",13,"Julieta Madrigal",AMBER,UNCOMMON,N
-"Le retour d’Ursula",177,"Chi Fu",STEEL,UNCOMMON,N
-"Le retour d’Ursula",202,"Canon du Rls Héritage",STEEL,RARE,N
-"Le retour d’Ursula",10,Gaston,AMBER,SUPER,N
-"Le retour d’Ursula",174,Ariel,STEEL,COMMON,Y
 
