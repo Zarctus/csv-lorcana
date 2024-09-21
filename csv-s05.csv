@@ -103,7 +103,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 102;"Forêt Tropicale";UNCOMMON;EMERALD;7;0
 103;"Taffyta Crème Brûlée";UNCOMMON;RUBY;11;0
 104;"Ralph la Casse";RARE;RUBY;4;0
-105;Maximus;SUPER;RUBY;4;0
+105;Maximus;SUPER;RUBY;3;0
 106;"Turbo le Pilote";UNCOMMON;RUBY;10;0
 107;Donald;LEGENDARY;RUBY;1;1
 108;"Jean-Hubert Lingot";COMMON;RUBY;13;1
@@ -115,23 +115,23 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 114;"Taffyta Crème Brûlée";COMMON;RUBY;13;0
 115;Denahi;RARE;RUBY;6;0
 116;Pat;SUPER;RUBY;4;0
-117;"Taffyta Crème Brûlée";UNCOMMON;RUBY;11;1
+117;"Taffyta Crème Brûlée";UNCOMMON;RUBY;9;1
 118;"Robin des Bois";LEGENDARY;RUBY;0;0
-119;Gaston;RARE;RUBY;3;0
+119;Gaston;RARE;RUBY;2;0
 120;Pat;COMMON;RUBY;17;0
 121;Arthur;UNCOMMON;RUBY;7;1
-122;Donald;COMMON;RUBY;13;1
+122;Donald;COMMON;RUBY;12;1
 123;Ratigan;RARE;RUBY;6;0
 124;"Vanellope Von Schweetz";RARE;RUBY;2;0
 125;Simba;COMMON;RUBY;13;0
 126;Minnie;UNCOMMON;RUBY;9;0
 127;"Se Libérer";COMMON;RUBY;11;0
-128;"La Fin Est Proche";COMMON;RUBY;13;0
+128;"La Fin Est Proche";COMMON;RUBY;12;0
 129;"Endors-Toi sans Peine";RARE;RUBY;5;0
 130;"Glimmer contre Glimmer";UNCOMMON;RUBY;8;1
 131;"Qui Est avec Moi ?";SUPER;RUBY;2;0
 132;"Potion de Puissance";COMMON;RUBY;12;1
-133;"L'épée Libérée";RARE;RUBY;7;0
+133;"L'épée Libérée";RARE;RUBY;6;0
 134;"Chromicône de Rubis";UNCOMMON;RUBY;11;2
 135;"Piste de Sugar Rush";RARE;RUBY;4;0
 136;"Fête de Ratigan";UNCOMMON;RUBY;8;1
@@ -170,7 +170,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 169;"Le Grand Illuminarium";RARE;SAPPHIRE;3;0
 170;"Chaumière de Merlin";UNCOMMON;SAPPHIRE;7;0
 171;Stitch;UNCOMMON;STEEL;7;1
-172;Jafar;LEGENDARY;STEEL;2;0
+172;Jafar;LEGENDARY;STEEL;1;0
 173;Simba;COMMON;STEEL;14;0
 174;Rudy;COMMON;STEEL;11;2
 175;"Garde Royal";COMMON;STEEL;12;0
@@ -180,12 +180,12 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 179;Heihei;COMMON;STEEL;15;1
 180;Atchoum;COMMON;STEEL;13;3
 181;Simplet;COMMON;STEEL;12;2
-182;Namaari;RARE;STEEL;4;0
+182;Namaari;RARE;STEEL;3;0
 183;Blanche-Neige;SUPER;STEEL;4;1
-184;Yzma;RARE;STEEL;4;0
+184;Yzma;RARE;STEEL;3;0
 185;Kronk;SUPER;STEEL;2;1
 186;Grincheux;SUPER;STEEL;5;0
-187;Pat;RARE;STEEL;5;0
+187;Pat;RARE;STEEL;4;0
 188;"Seigneur Hector";RARE;STEEL;6;0
 189;Timide;UNCOMMON;STEEL;8;1
 190;Arthur;UNCOMMON;STEEL;6;0
@@ -195,13 +195,13 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 194;Arthur;LEGENDARY;STEEL;2;1
 195;Pat;UNCOMMON;STEEL;7;1
 196;"Tir à la Corde";RARE;STEEL;4;0
-197;"Où Est la Vraie Vie ?";COMMON;STEEL;14;0
-198;"Éviter le Canardage";COMMON;STEEL;14;0
+197;"Où Est la Vraie Vie ?";COMMON;STEEL;13;0
+198;"Éviter le Canardage";COMMON;STEEL;13;0
 199;"Bataille de Nourriture !";UNCOMMON;STEEL;9;2
 200;"Bouclier D'arendelle";COMMON;STEEL;13;1
-201;"Armure de Plaques";RARE;STEEL;5;0
+201;"Armure de Plaques";RARE;STEEL;4;0
 202;"Chromicône D'acier";UNCOMMON;STEEL;8;0
-203;"Méchants Anonymes";RARE;STEEL;6;0
+203;"Méchants Anonymes";RARE;STEEL;5;0
 204;"Mine des Sept Nains";UNCOMMON;STEEL;10;0
 205;"Prince Naveen";ENCHANTED;AMBER;0;0
 206;"Vanellope Von Schweetz";ENCHANTED;AMBER;0;0
