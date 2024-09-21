@@ -139,9 +139,9 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 138;Chaca;COMMON;SAPPHIRE;12;1
 139;"La Reine";COMMON;SAPPHIRE;13;1
 140;"Balthazar Picsou";RARE;SAPPHIRE;4;1
-141;"Prince Jean";COMMON;SAPPHIRE;14;2
+141;"Prince Jean";COMMON;SAPPHIRE;14;1
 142;Merlin;COMMON;SAPPHIRE;12;2
-143;Pacha;UNCOMMON;SAPPHIRE;11;1
+143;Pacha;UNCOMMON;SAPPHIRE;10;1
 144;"La Reine";SUPER;SAPPHIRE;8;0
 145;"Shérif de Nottingham";RARE;SAPPHIRE;5;1
 146;Chicha;RARE;SAPPHIRE;4;0
@@ -150,10 +150,10 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 149;Kuzco;SUPER;SAPPHIRE;4;0
 150;Mufasa;LEGENDARY;SAPPHIRE;0;0
 151;"Ludwig Von Drake";UNCOMMON;SAPPHIRE;10;0
-152;Minnie;COMMON;SAPPHIRE;15;0
+152;Minnie;COMMON;SAPPHIRE;14;0
 153;Basil;COMMON;SAPPHIRE;14;0
-154;"Sa Sucrerie";UNCOMMON;SAPPHIRE;10;1
-155;Donald;COMMON;SAPPHIRE;15;1
+154;"Sa Sucrerie";UNCOMMON;SAPPHIRE;9;1
+155;Donald;COMMON;SAPPHIRE;14;1
 156;Nanaka;COMMON;SAPPHIRE;12;2
 157;Tipo;UNCOMMON;SAPPHIRE;5;1
 158;Belle;RARE;SAPPHIRE;4;0
@@ -163,8 +163,8 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 162;"Rien N'est Plus Pareil";COMMON;SAPPHIRE;12;2
 163;Cachez-Vous;UNCOMMON;SAPPHIRE;7;0
 164;"Je Ne M'amuse Plus du Tout";UNCOMMON;SAPPHIRE;10;2
-165;"Médaille des Héros";COMMON;SAPPHIRE;15;0
-166;"Loupe de Basil";RARE;SAPPHIRE;4;1
+165;"Médaille des Héros";COMMON;SAPPHIRE;13;0
+166;"Loupe de Basil";RARE;SAPPHIRE;3;1
 167;"Sac de Voyage de Merlin";UNCOMMON;SAPPHIRE;9;0
 168;"Chromicône de Saphir";UNCOMMON;SAPPHIRE;10;1
 169;"Le Grand Illuminarium";RARE;SAPPHIRE;3;0
