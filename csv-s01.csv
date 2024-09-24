@@ -62,7 +62,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 61;Zeus;RARE;AMETHYST;3;0
 62;Emberlificotage;UNCOMMON;AMETHYST;3;0
 63;Gel;COMMON;AMETHYST;16;0
-64;"Mes Amis de L'au-Delà";COMMON;AMETHYST;5;0
+64;"Mes Amis de L'au-Delà";COMMON;AMETHYST;1;0
 65;Réflexion;UNCOMMON;AMETHYST;8;0
 66;"Miroir Magique";RARE;AMETHYST;0;1
 67;"Chaudron D'ursula";UNCOMMON;AMETHYST;3;0
@@ -112,7 +112,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 111;Dingo;COMMON;RUBY;12;1
 112;"Le Fou";RARE;RUBY;4;1
 113;Maléfique;LEGENDARY;RUBY;0;0
-114;Maui;RARE;RUBY;2;0
+114;Maui;RARE;RUBY;0;0
 115;"Mickey Mouse";LEGENDARY;RUBY;0;0
 116;Minnie;COMMON;RUBY;6;2
 117;Vaiana;UNCOMMON;RUBY;7;1
