@@ -60,7 +60,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 59;"Force Hypnotique";COMMON;AMETHYST;12;1
 60;"Qui Trouve, Garde";UNCOMMON;AMETHYST;6;0
 61;L'explorateur;RARE;AMETHYST;4;1
-62;"Rassembler Connaissance et Sagesse";COMMON;AMETHYST;12;2
+62;"Rassembler Connaissance et Sagesse";COMMON;AMETHYST;8;2
 63;"Assistance Magique";UNCOMMON;AMETHYST;11;1
 64;Rétrosphère;COMMON;AMETHYST;13;1
 65;"Moitié de la Couronne D'hexasort";RARE;AMETHYST;4;1
@@ -193,7 +193,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 192;Simba;UNCOMMON;STEEL;10;0
 193;Prof;RARE;STEEL;5;2
 194;Arthur;LEGENDARY;STEEL;2;1
-195;Pat;UNCOMMON;STEEL;7;1
+195;Pat;UNCOMMON;STEEL;4;0
 196;"Tir à la Corde";RARE;STEEL;4;0
 197;"Où Est la Vraie Vie ?";COMMON;STEEL;13;0
 198;"Éviter le Canardage";COMMON;STEEL;13;0
