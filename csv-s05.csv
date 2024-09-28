@@ -14,7 +14,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 13;Kristoff;RARE;AMBER;7;2
 14;"Mirabel Madrigal";LEGENDARY;AMBER;2;0
 15;Minnie;SUPER;AMBER;5;0
-16;Daisy;SUPER;AMBER;3;1
+16;Daisy;SUPER;AMBER;3;0
 17;"Félix Fixe Junior";COMMON;AMBER;11;1
 18;Vaiana;RARE;AMBER;4;0
 19;"Vanellope Von Schweetz";RARE;AMBER;3;0
@@ -192,7 +192,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 191;Joyeux;COMMON;STEEL;15;2
 192;Simba;UNCOMMON;STEEL;10;0
 193;Prof;RARE;STEEL;5;2
-194;Arthur;LEGENDARY;STEEL;2;1
+194;Arthur;LEGENDARY;STEEL;2;0
 195;Pat;UNCOMMON;STEEL;4;0
 196;"Tir à la Corde";RARE;STEEL;4;0
 197;"Où Est la Vraie Vie ?";COMMON;STEEL;13;0
