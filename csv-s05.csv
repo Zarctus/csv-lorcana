@@ -12,7 +12,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 11;Gazelle;COMMON;AMBER;12;1
 12;"Félix Fixe Junior";UNCOMMON;AMBER;6;1
 13;Kristoff;RARE;AMBER;7;1
-14;"Mirabel Madrigal";LEGENDARY;AMBER;2;0
+14;"Mirabel Madrigal";LEGENDARY;AMBER;1;0
 15;Minnie;SUPER;AMBER;5;0
 16;Daisy;SUPER;AMBER;3;0
 17;"Félix Fixe Junior";COMMON;AMBER;11;1
@@ -181,7 +181,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 180;Atchoum;COMMON;STEEL;13;3
 181;Simplet;COMMON;STEEL;12;2
 182;Namaari;RARE;STEEL;3;0
-183;Blanche-Neige;SUPER;STEEL;4;1
+183;Blanche-Neige;SUPER;STEEL;4;0
 184;Yzma;RARE;STEEL;3;0
 185;Kronk;SUPER;STEEL;2;1
 186;Grincheux;SUPER;STEEL;5;0
