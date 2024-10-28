@@ -11,7 +11,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 10;"Félix Fixe Junior";COMMON;AMBER;17;1
 11;Gazelle;COMMON;AMBER;12;1
 12;"Félix Fixe Junior";UNCOMMON;AMBER;6;1
-13;Kristoff;RARE;AMBER;7;1
+13;Kristoff;RARE;AMBER;7;0
 14;"Mirabel Madrigal";LEGENDARY;AMBER;1;0
 15;Minnie;SUPER;AMBER;5;0
 16;Daisy;SUPER;AMBER;3;0
@@ -25,7 +25,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 24;Minnie;COMMON;AMBER;13;2
 25;"Try Everything";UNCOMMON;AMBER;7;1
 26;"Toucher Guérisseur";COMMON;AMBER;11;0
-27;Ranimer;RARE;AMBER;7;2
+27;Ranimer;RARE;AMBER;7;1
 28;"Un Mirage à Deux Visages";SUPER;AMBER;3;0
 29;"Invitation au Bal";UNCOMMON;AMBER;10;0
 30;"Philtre de Guérison";COMMON;AMBER;13;0
@@ -91,7 +91,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 90;Clarabelle;UNCOMMON;EMERALD;6;0
 91;Shenzi;RARE;EMERALD;3;0
 92;"Mère Gothel";SUPER;EMERALD;4;0
-93;Scar;RARE;EMERALD;5;1
+93;Scar;RARE;EMERALD;5;0
 94;"Déduction sous Hypnose";COMMON;EMERALD;12;0
 95;"Rage du Hurleur Nocturne";COMMON;EMERALD;12;3
 96;"Pour les Hommes";UNCOMMON;EMERALD;5;0
@@ -99,7 +99,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 98;"Miroir du Prince Jean";RARE;EMERALD;5;0
 99;Obscurospère;COMMON;EMERALD;12;2
 100;"Chromicône D'émeraude";UNCOMMON;EMERALD;8;0
-101;"Forêt de Sherwood";RARE;EMERALD;4;2
+101;"Forêt de Sherwood";RARE;EMERALD;4;1
 102;"Forêt Tropicale";UNCOMMON;EMERALD;7;0
 103;"Taffyta Crème Brûlée";UNCOMMON;RUBY;11;0
 104;"Ralph la Casse";RARE;RUBY;4;0
