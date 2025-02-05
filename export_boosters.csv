@@ -1,4 +1,56 @@
 saison,number,nom,encre,rareté,is_foil
+"Ciel Scintillant",125,Simba,RUBY,COMMON,N
+"Ciel Scintillant",77,"Robin des Bois",EMERALD,COMMON,N
+"Ciel Scintillant",64,Rétrosphère,AMETHYST,COMMON,N
+"Ciel Scintillant",30,"Philtre de guérison",AMBER,COMMON,N
+"Ciel Scintillant",152,Minnie,SAPPHIRE,COMMON,N
+"Ciel Scintillant",200,"Bouclier d'Arendelle",STEEL,COMMON,N
+"Ciel Scintillant",90,Clarabelle,EMERALD,UNCOMMON,N
+"Ciel Scintillant",60,"Qui trouve, garde",AMETHYST,UNCOMMON,N
+"Ciel Scintillant",152,Minnie,SAPPHIRE,COMMON,N
+"Ciel Scintillant",123,Ratigan,RUBY,RARE,N
+"Ciel Scintillant",69,"Robin des Bois",EMERALD,RARE,N
+"Ciel Scintillant",141,"Prince Jean",SAPPHIRE,COMMON,Y
+
+"Ciel Scintillant",111,Daisy,RUBY,COMMON,N
+"Ciel Scintillant",95,"Rage du Hurleur nocturne",EMERALD,COMMON,N
+"Ciel Scintillant",42,"Courant d’Air",AMETHYST,COMMON,N
+"Ciel Scintillant",24,Minnie,AMBER,COMMON,N
+"Ciel Scintillant",162,"Rien n'est plus pareil",SAPPHIRE,COMMON,N
+"Ciel Scintillant",175,"Garde royal",STEEL,COMMON,N
+"Ciel Scintillant",25,"Try Everything",AMBER,UNCOMMON,N
+"Ciel Scintillant",195,Pat,STEEL,UNCOMMON,N
+"Ciel Scintillant",157,Tipo,SAPPHIRE,UNCOMMON,N
+"Ciel Scintillant",182,Namaari,STEEL,RARE,N
+"Ciel Scintillant",169,"Le grand Illuminarium",SAPPHIRE,RARE,N
+"Ciel Scintillant",65,"Moitié de la Couronne d'Hexasort",AMETHYST,RARE,Y
+
+"La Mer Azurite",11,"Chef Bogo",AMBER,COMMON,N
+"La Mer Azurite",45,Iago,AMETHYST,COMMON,N
+"La Mer Azurite",112,Aladdin,RUBY,COMMON,N
+"La Mer Azurite",170,"Institut de Technologie",SAPPHIRE,COMMON,N
+"La Mer Azurite",26,Stitch,EMERALD,COMMON,N
+"La Mer Azurite",197,"Tir jumelé",STEEL,COMMON,N
+"La Mer Azurite",83,"Prince Philippe",EMERALD,UNCOMMON,N
+"La Mer Azurite",144,Pikly,SAPPHIRE,UNCOMMON,N
+"La Mer Azurite",132,Chaloupe,RUBY,UNCOMMON,N
+"La Mer Azurite",161,Alice,SAPPHIRE,SUPER,N
+"La Mer Azurite",176,"Monsieur Mouche",STEEL,SUPER,N
+"La Mer Azurite",139,Gadget,SAPPHIRE,COMMON,Y
+
+"La Mer Azurite",40,"La Rose Blanche",AMETHYST,COMMON,N
+"La Mer Azurite",117,Vaiana,RUBY,COMMON,N
+"La Mer Azurite",164,"Coup de main",SAPPHIRE,COMMON,N
+"La Mer Azurite",77,Dawson,EMERALD,COMMON,N
+"La Mer Azurite",11,"Chef Bogo",AMBER,COMMON,N
+"La Mer Azurite",180,Hercule,STEEL,COMMON,N
+"La Mer Azurite",82,"Mertle Edmonds",EMERALD,UNCOMMON,N
+"La Mer Azurite",145,"Hiro Hamada",SAPPHIRE,UNCOMMON,N
+"La Mer Azurite",63,"Perdre son chemin",AMETHYST,UNCOMMON,N
+"La Mer Azurite",72,Stitch,EMERALD,RARE,N
+"La Mer Azurite",200,"Cœur du détecteur du roi",STEEL,RARE,N
+"La Mer Azurite",62,"Faire de la magie",AMETHYST,COMMON,Y
+
 "Le retour d’Ursula",163,Glaner,SAPPHIRE,COMMON,N
 "Le retour d’Ursula",20,Pluto,AMBER,COMMON,N
 "Le retour d’Ursula",108,Hercule,RUBY,COMMON,N
@@ -2546,56 +2598,4 @@ saison,number,nom,encre,rareté,is_foil
 "La Mer Azurite",140,Gadget,SAPPHIRE,SUPER,N
 "La Mer Azurite",16,Tiana,AMBER,LEGENDARY,N
 "La Mer Azurite",129,"Montrer la voie",RUBY,COMMON,Y
-
-"La Mer Azurite",66,"Théière du Chapelier Fou",AMETHYST,COMMON,N
-"La Mer Azurite",105,Kakamora,RUBY,COMMON,N
-"La Mer Azurite",138,"Tante Cassie",SAPPHIRE,COMMON,N
-"La Mer Azurite",87,"Alistair Krei",EMERALD,COMMON,N
-"La Mer Azurite",27,"Beau travail !",AMBER,COMMON,N
-"La Mer Azurite",197,"Tir jumelé",STEEL,COMMON,N
-"La Mer Azurite",98,Méga-Robot,EMERALD,UNCOMMON,N
-"La Mer Azurite",165,"Prépare ton robot",SAPPHIRE,UNCOMMON,N
-"La Mer Azurite",63,"Perdre son chemin",AMETHYST,UNCOMMON,N
-"La Mer Azurite",153,"Tadashi Hamada",SAPPHIRE,SUPER,N
-"La Mer Azurite",193,Jafar,STEEL,SUPER,N
-"La Mer Azurite",63,"Perdre son chemin",AMETHYST,UNCOMMON,Y
-
-"La Mer Azurite",38,Génie,AMETHYST,COMMON,N
-"La Mer Azurite",113,Markowski,RUBY,COMMON,N
-"La Mer Azurite",148,"Nick Wilde",SAPPHIRE,COMMON,N
-"La Mer Azurite",99,"Communicateur galactique",EMERALD,COMMON,N
-"La Mer Azurite",10,"Prince Naveen",AMBER,COMMON,N
-"La Mer Azurite",204,"Chambre du Conseil galactique",STEEL,COMMON,N
-"La Mer Azurite",83,"Prince Philippe",EMERALD,UNCOMMON,N
-"La Mer Azurite",144,Pikly,SAPPHIRE,UNCOMMON,N
-"La Mer Azurite",199,"Situation regrettable",STEEL,UNCOMMON,N
-"La Mer Azurite",122,Pat,RUBY,RARE,N
-"La Mer Azurite",127,Scar,RUBY,SUPER,N
-"La Mer Azurite",68,"Navire des Fées",AMETHYST,COMMON,Y
-
-"La Mer Azurite",44,"Le Charpentier",AMETHYST,COMMON,N
-"La Mer Azurite",117,Vaiana,RUBY,COMMON,N
-"La Mer Azurite",137,B.E.N.,SAPPHIRE,COMMON,N
-"La Mer Azurite",77,Dawson,EMERALD,COMMON,N
-"La Mer Azurite",31,"Ukulele de Naveen",AMBER,COMMON,N
-"La Mer Azurite",202,"Lunettes de soleil",STEEL,COMMON,N
-"La Mer Azurite",144,Pikly,SAPPHIRE,UNCOMMON,N
-"La Mer Azurite",199,"Situation regrettable",STEEL,UNCOMMON,N
-"La Mer Azurite",49,Diablo,AMETHYST,UNCOMMON,N
-"La Mer Azurite",172,Kakamora,STEEL,RARE,N
-"La Mer Azurite",162,"We Could Be Immortals",SAPPHIRE,RARE,N
-"La Mer Azurite",66,"Théière du Chapelier Fou",AMETHYST,COMMON,Y
-
-"La Mer Azurite",66,"Théière du Chapelier Fou",AMETHYST,COMMON,N
-"La Mer Azurite",105,Kakamora,RUBY,COMMON,N
-"La Mer Azurite",138,"Tante Cassie",SAPPHIRE,COMMON,N
-"La Mer Azurite",87,"Alistair Krei",EMERALD,COMMON,N
-"La Mer Azurite",27,"Beau travail !",AMBER,COMMON,N
-"La Mer Azurite",197,"Tir jumelé",STEEL,COMMON,N
-"La Mer Azurite",29,"Rangers du risque à la rescousse !",AMBER,UNCOMMON,N
-"La Mer Azurite",67,"Poussière de fée",AMETHYST,UNCOMMON,N
-"La Mer Azurite",106,Jasmine,RUBY,UNCOMMON,N
-"La Mer Azurite",15,"Judy Hopps",AMBER,RARE,N
-"La Mer Azurite",97,"Tu es revenu",EMERALD,RARE,N
-"La Mer Azurite",55,"Madame Mime",AMETHYST,SUPER,Y
 
