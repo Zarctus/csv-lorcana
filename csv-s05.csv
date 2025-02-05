@@ -1,7 +1,7 @@
 card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 1;Koda;RARE;AMBER;3;0
 2;Nala;UNCOMMON;AMBER;8;0
-3;"Prince Naveen";LEGENDARY;AMBER;1;0
+3;"Prince Naveen";LEGENDARY;AMBER;0;0
 4;Truc;COMMON;AMBER;12;3
 5;Kenaï;COMMON;AMBER;12;2
 6;"Vanellope von Schweetz";COMMON;AMBER;12;1
@@ -192,7 +192,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 191;Joyeux;COMMON;STEEL;15;2
 192;Simba;UNCOMMON;STEEL;11;0
 193;Prof;RARE;STEEL;0;0
-194;Arthur;LEGENDARY;STEEL;1;0
+194;Arthur;LEGENDARY;STEEL;0;0
 195;Pat;UNCOMMON;STEEL;2;0
 196;"Tir à la corde";RARE;STEEL;4;0
 197;"Où est la vraie vie ?";COMMON;STEEL;15;0

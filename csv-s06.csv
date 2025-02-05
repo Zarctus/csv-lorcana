@@ -140,7 +140,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 139;Gadget;COMMON;SAPPHIRE;8;2
 140;Gadget;SUPER;SAPPHIRE;2;0
 141;Ruzor;RARE;SAPPHIRE;2;1
-142;Oswald;LEGENDARY;SAPPHIRE;1;1
+142;Oswald;LEGENDARY;SAPPHIRE;0;1
 143;Yokai;UNCOMMON;SAPPHIRE;4;0
 144;Pikly;UNCOMMON;SAPPHIRE;6;1
 145;"Hiro Hamada";UNCOMMON;SAPPHIRE;8;0
@@ -155,7 +155,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 154;"Hiro Hamada";RARE;SAPPHIRE;4;1
 155;"Tadashi Hamada";RARE;SAPPHIRE;1;0
 156;Baymax;RARE;SAPPHIRE;3;0
-157;Baymax;LEGENDARY;SAPPHIRE;3;0
+157;Baymax;LEGENDARY;SAPPHIRE;2;0
 158;Yokai;COMMON;SAPPHIRE;10;0
 159;Flaversham;RARE;SAPPHIRE;2;1
 160;Yokai;RARE;SAPPHIRE;4;0
