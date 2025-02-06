@@ -12,7 +12,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 11;Gazelle;COMMON;AMBER;15;1
 12;"Félix Fixe Junior";UNCOMMON;AMBER;7;1
 13;Kristoff;RARE;AMBER;8;0
-14;"Mirabel Madrigal";LEGENDARY;AMBER;1;0
+14;"Mirabel Madrigal";LEGENDARY;AMBER;0;0
 15;Minnie;SUPER;AMBER;5;0
 16;Daisy;SUPER;AMBER;2;0
 17;"Félix Fixe Junior";COMMON;AMBER;13;1
@@ -56,7 +56,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 55;Rafiki;RARE;AMETHYST;6;0
 56;Anna;COMMON;AMETHYST;14;0
 57;"Le Roi de Cœur";UNCOMMON;AMETHYST;12;1
-58;"Camilo Madrigal";LEGENDARY;AMETHYST;2;0
+58;"Camilo Madrigal";LEGENDARY;AMETHYST;1;0
 59;"Force hypnotique";COMMON;AMETHYST;13;1
 60;"Qui trouve, garde";UNCOMMON;AMETHYST;7;0
 61;L'explorateur;RARE;AMETHYST;4;1
@@ -129,7 +129,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 128;"La fin est proche";COMMON;RUBY;13;0
 129;"Endors-toi sans peine";RARE;RUBY;5;0
 130;"Glimmer contre Glimmer";UNCOMMON;RUBY;9;1
-131;"Qui est avec moi ?";SUPER;RUBY;3;0
+131;"Qui est avec moi ?";SUPER;RUBY;2;0
 132;"Potion de puissance";COMMON;RUBY;13;1
 133;"L'Épée libérée";RARE;RUBY;6;0
 134;"Chromicône de Rubis";UNCOMMON;RUBY;12;3

@@ -22,7 +22,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 21;"Prince Eric";COMMON;AMBER;19;1
 22;"Prince Eric";UNCOMMON;AMBER;11;0
 23;Stitch;COMMON;AMBER;18;1
-24;Ursula;RARE;AMBER;3;0
+24;Ursula;RARE;AMBER;2;0
 25;Ursula;COMMON;AMBER;18;2
 26;"Retour de Bruno";UNCOMMON;AMBER;14;0
 27;"Premiers Secours";COMMON;AMBER;17;1
@@ -56,7 +56,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 55;Pico;COMMON;AMETHYST;17;2
 56;Tic-Tac;COMMON;AMETHYST;20;0
 57;Ursula;UNCOMMON;AMETHYST;10;0
-58;Ursula;LEGENDARY;AMETHYST;1;0
+58;Ursula;LEGENDARY;AMETHYST;0;0
 59;"Yen Sid";LEGENDARY;AMETHYST;1;0
 60;"Pauvres âmes en perdition";COMMON;AMETHYST;18;2
 61;"La Deuxième Étoile sur la Droite";RARE;AMETHYST;6;0
@@ -66,7 +66,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 65;Rose-Lanterne;COMMON;AMETHYST;16;2
 66;"Trident de Triton";UNCOMMON;AMETHYST;16;0
 67;"Casa Madrigal";COMMON;AMETHYST;17;0
-68;"Le Repaire d'Ursula";RARE;AMETHYST;5;0
+68;"Le Repaire d'Ursula";RARE;AMETHYST;4;0
 69;Cri-Kee;RARE;EMERALD;4;2
 70;Diablo;LEGENDARY;EMERALD;0;0
 71;Diablo;COMMON;EMERALD;20;1
@@ -85,7 +85,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 84;Pégase;COMMON;EMERALD;3;0
 85;Pat;SUPER;EMERALD;5;0
 86;Pat;UNCOMMON;EMERALD;12;0
-87;"Prince Philippe";SUPER;EMERALD;6;0
+87;"Prince Philippe";SUPER;EMERALD;5;0
 88;"Prince Philippe";RARE;EMERALD;6;2
 89;"Les Moires";COMMON;EMERALD;16;2
 90;"Les Muses";RARE;EMERALD;0;0
@@ -112,7 +112,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 111;"Li Shang";COMMON;RUBY;16;0
 112;"Li Shang";UNCOMMON;RUBY;10;0
 113;Lumière;RARE;RUBY;4;0
-114;Mulan;LEGENDARY;RUBY;2;0
+114;Mulan;LEGENDARY;RUBY;1;0
 115;Mulan;UNCOMMON;RUBY;12;1
 116;Mulan;COMMON;RUBY;15;1
 117;Namaari;RARE;RUBY;5;0
@@ -173,11 +173,11 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 172;Aladdin;COMMON;STEEL;21;6
 173;Argès;COMMON;STEEL;13;4
 174;Ariel;COMMON;STEEL;19;3
-175;Ariel;SUPER;STEEL;4;0
+175;Ariel;SUPER;STEEL;3;0
 176;"La Bête";COMMON;STEEL;15;6
 177;"Chi Fu";UNCOMMON;STEEL;13;0
 178;Chien-Po;COMMON;STEEL;24;2
-179;Donald;LEGENDARY;STEEL;2;0
+179;Donald;LEGENDARY;STEEL;1;0
 180;Hercule;RARE;STEEL;1;0
 181;"Le Fou";RARE;STEEL;5;0
 182;"Li Shang";UNCOMMON;STEEL;12;0
