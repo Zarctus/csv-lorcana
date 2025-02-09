@@ -159,7 +159,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 158;Yokai;COMMON;SAPPHIRE;10;0
 159;Flaversham;RARE;SAPPHIRE;2;1
 160;Yokai;RARE;SAPPHIRE;4;0
-161;Alice;SUPER;SAPPHIRE;3;0
+161;Alice;SUPER;SAPPHIRE;0;0
 162;"We Could Be Immortals";RARE;SAPPHIRE;3;0
 163;"Voguer sur la mer Azurite";COMMON;SAPPHIRE;4;0
 164;"Coup de main";COMMON;SAPPHIRE;9;0
@@ -192,7 +192,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 191;Calhoun;RARE;STEEL;1;0
 192;"Capitaine Amélia";SUPER;STEEL;2;0
 193;Jafar;SUPER;STEEL;2;0
-194;"John Silver";LEGENDARY;STEEL;1;0
+194;"John Silver";LEGENDARY;STEEL;0;0
 195;"Patate chaude";UNCOMMON;STEEL;5;1
 196;"Un homme libre";COMMON;STEEL;9;0
 197;"Tir jumelé";COMMON;STEEL;9;0
