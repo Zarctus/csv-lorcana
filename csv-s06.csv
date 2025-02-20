@@ -53,7 +53,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 52;Rafiki;RARE;AMETHYST;5;0
 53;Génie;RARE;AMETHYST;1;1
 54;Sisu;SUPER;AMETHYST;1;0
-55;"Madame Mime";SUPER;AMETHYST;4;1
+55;"Madame Mime";SUPER;AMETHYST;4;0
 56;Yzma;LEGENDARY;AMETHYST;0;1
 57;"Mama Odie";RARE;AMETHYST;2;1
 58;"Peter Pan";UNCOMMON;AMETHYST;8;0
@@ -83,7 +83,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 82;"Mertle Edmonds";UNCOMMON;EMERALD;5;0
 83;"Prince Philippe";UNCOMMON;EMERALD;5;0
 84;Jasmine;LEGENDARY;EMERALD;0;0
-85;"Peter Pan";SUPER;EMERALD;1;1
+85;"Peter Pan";SUPER;EMERALD;1;0
 86;Hercule;LEGENDARY;EMERALD;2;0
 87;"Alistair Krei";COMMON;EMERALD;7;1
 88;Gazelle;COMMON;EMERALD;11;0
