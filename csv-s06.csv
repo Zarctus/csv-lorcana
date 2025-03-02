@@ -47,11 +47,11 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 46;"Le Morse";UNCOMMON;AMETHYST;4;1
 47;Scar;UNCOMMON;AMETHYST;6;1
 48;"La Fée Clochette";UNCOMMON;AMETHYST;4;0
-49;Diablo;UNCOMMON;AMETHYST;2;2
+49;Diablo;UNCOMMON;AMETHYST;0;2
 50;"Le Lièvre de Mars";UNCOMMON;AMETHYST;5;0
 51;"Tapis Volant";UNCOMMON;AMETHYST;6;0
 52;Rafiki;RARE;AMETHYST;5;0
-53;Génie;RARE;AMETHYST;1;1
+53;Génie;RARE;AMETHYST;0;1
 54;Sisu;SUPER;AMETHYST;1;0
 55;"Madame Mime";SUPER;AMETHYST;4;0
 56;Yzma;LEGENDARY;AMETHYST;0;1
@@ -194,7 +194,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 193;Jafar;SUPER;STEEL;2;0
 194;"John Silver";LEGENDARY;STEEL;0;0
 195;"Patate chaude";UNCOMMON;STEEL;5;1
-196;"Un homme libre";COMMON;STEEL;9;0
+196;"Un homme libre";COMMON;STEEL;6;0
 197;"Tir jumelé";COMMON;STEEL;9;0
 198;"Embuscade !";RARE;STEEL;2;1
 199;"Situation regrettable";UNCOMMON;STEEL;4;0

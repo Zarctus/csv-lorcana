@@ -207,7 +207,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 206;"Vanellope von Schweetz";ENCHANTED;AMBER;0;0
 207;Ranimer;ENCHANTED;AMBER;0;0
 208;Archimède;ENCHANTED;AMETHYST;0;0
-209;Olaf;ENCHANTED;AMETHYST;0;1
+209;Olaf;ENCHANTED;AMETHYST;0;0
 210;"Qui trouve, garde";ENCHANTED;AMETHYST;0;0
 211;Clarabelle;ENCHANTED;EMERALD;0;0
 212;Scar;ENCHANTED;EMERALD;0;0
@@ -219,7 +219,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 218;"Sa Sucrerie";ENCHANTED;SAPPHIRE;0;0
 219;"Caprice royal";ENCHANTED;SAPPHIRE;0;0
 220;Blanche-Neige;ENCHANTED;STEEL;0;0
-221;Arthur;ENCHANTED;STEEL;0;1
+221;Arthur;ENCHANTED;STEEL;0;0
 222;"Méchants anonymes";ENCHANTED;STEEL;0;0
 223;"Moitié de la Couronne d'Hexasort";RARE;AMETHYST;0;0
 7;"Mirabel Madrigal";ENCHANTED;AMBER;0;0
