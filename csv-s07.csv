@@ -1,5 +1,4 @@
 card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
-26;Vaiana;Promo;Saphir;0;0
 1;Rhino;Rare;"Ambre, Acier";0;0
 2;Perdita;Rare;"Ambre, Saphir";0;0
 3;"Le Roi Stéphane";Commune;Ambre;0;0
@@ -222,10 +221,4 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 220;"La berceuse d'Ahtohallan";Enchantée;Saphir;0;0
 221;"Mickey Mouse";Enchantée;Acier;0;0
 222;"Reconstruire l’Atlantide";Enchantée;Acier;0;0
-19;Anna;Promo;"Améthyste, Saphir";0;0
-20;Kronk;Promo;"Améthyste, Émeraude";0;0
-21;Perdita;Promo;"Ambre, Saphir";0;0
-22;"Li Shang";Promo;"Rubis, Acier";0;0
-23;Blanche-Neige;Promo;Ambre;0;0
-24A;"Hiro Hamada";Promo;"Émeraude, Saphir";0;0
 24B;"Hiro Hamada";Enchantée;"Émeraude, Saphir";0;0
