@@ -1,229 +1,235 @@
 card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
-1;Baloo;RARE;AMBER;1;0
-2;Bernard;RARE;AMBER;4;0
-3;Chernabog;SUPER;AMBER;0;0
-4a;"Chiot dalmatien";COMMON;AMBER;1;0
-4b;"Chiot dalmatien";COMMON;AMBER;1;0
-4c;"Chiot dalmatien";COMMON;AMBER;1;0
-4d;"Chiot dalmatien";COMMON;AMBER;2;0
-4e;"Chiot dalmatien";COMMON;AMBER;2;1
-5;"Amadou Gentil";COMMON;AMBER;9;0
-6;Kida;COMMON;AMBER;6;0
-7;Kida;LEGENDARY;AMBER;0;0
-8;Lucky;RARE;AMBER;4;0
-9;Minnie;RARE;AMBER;4;1
-10;"Miss Bianca";COMMON;AMBER;8;0
-11;"Mr. Snoops";COMMON;AMBER;9;1
-12;Nani;UNCOMMON;AMBER;4;0
-13;Orville;COMMON;AMBER;12;0
-14;Patch;COMMON;AMBER;10;1
-15;Perdita;LEGENDARY;AMBER;0;0
-16;Porcinet;SUPER;AMBER;0;0
-17;Pluto;RARE;AMBER;5;0
-18;Pluto;UNCOMMON;AMBER;2;0
-19;Pongo;SUPER;AMBER;1;0
-20;"La Reine de Cœur";UNCOMMON;AMBER;6;0
-21;Rolly;UNCOMMON;AMBER;7;1
-22;"La Fée Clochette";UNCOMMON;AMBER;6;0
-23;"Wendy Darling";UNCOMMON;AMBER;4;0
-24;"99 chiots";UNCOMMON;AMBER;5;0
-25;"Ordres de la patronne";COMMON;AMBER;11;0
-26;"Guéris les blessures";COMMON;AMBER;8;0
-27;"Réparation de fortune";COMMON;AMBER;13;0
-28;"Il en faut peu pour être heureux";RARE;AMBER;0;0
-29;"Eau de pluie purifiante";COMMON;AMBER;9;0
-30;"Cœur de l'Atlantide";RARE;AMBER;4;1
-31;"Clé de Turbo";UNCOMMON;AMBER;11;1
-32;"Le Pays Imaginaire";COMMON;AMBER;9;0
-33;"La Terre des Lions";RARE;AMBER;0;0
-34;"Chez Tiana";UNCOMMON;AMBER;5;0
-35;Alice;SUPER;AMETHYST;0;0
-36;"Adeptes de Chernabog";UNCOMMON;AMETHYST;0;0
-37;Diablo;COMMON;AMETHYST;9;0
-38;Génie;SUPER;AMETHYST;1;0
-39;Hydros;UNCOMMON;AMETHYST;7;0
-40;Iago;COMMON;AMETHYST;12;0
-41;Jafar;UNCOMMON;AMETHYST;8;1
-42;Jafar;LEGENDARY;AMETHYST;0;0
-43;"Lena de Sortilège";COMMON;AMETHYST;9;0
-44;"Balais magiques";UNCOMMON;AMETHYST;7;1
-45;"Balais magiques";COMMON;AMETHYST;11;1
-46;"Balais magiques";COMMON;AMETHYST;10;0
-47;"Tapis volant";COMMON;AMETHYST;8;2
-48;"Miss Tick";COMMON;AMETHYST;6;1
-49;"Miss Tick";SUPER;AMETHYST;3;0
-50;"Miss Tick";UNCOMMON;AMETHYST;6;0
-51;Maléfique;LEGENDARY;AMETHYST;0;0
-52;"Mama Odie";UNCOMMON;AMETHYST;4;0
-53;Pua;COMMON;AMETHYST;8;0
-54;Rafiki;RARE;AMETHYST;0;0
-55;Stratos;RARE;AMETHYST;3;0
-56;"L'Oiseau de Feu";COMMON;AMETHYST;11;1
-57;"La Reine";COMMON;AMETHYST;10;0
-58;"Le Gardien du Trésor";RARE;AMETHYST;4;0
-59;Ursula;RARE;AMETHYST;4;0
-60;"Offrir un don";COMMON;AMETHYST;9;0
-61;"Il m'appelle";UNCOMMON;AMETHYST;5;0
-62;"Effort désespéré";UNCOMMON;AMETHYST;8;0
-63;"Je complète ma collection";RARE;AMETHYST;3;0
-64;"La lampe";RARE;AMETHYST;0;0
-65;"Le chapeau de sorcier";RARE;AMETHYST;0;0
-66;"Montagne Interdite";COMMON;AMETHYST;8;0
-67;"Château de la reine";RARE;AMETHYST;0;0
-68;"La Tour du Sorcier";UNCOMMON;AMETHYST;7;0
-69;"Le Frisé";COMMON;EMERALD;10;2
-70;"Ondins ensorcelés";RARE;EMERALD;0;0
-71;"Don Carnage";COMMON;EMERALD;9;0
-72;Flotsam;COMMON;EMERALD;10;0
-73;"Frère Tuck";UNCOMMON;EMERALD;5;0
-74;"Helga Sinclair";SUPER;EMERALD;1;0
-75;"Helga Sinclair";RARE;EMERALD;3;0
-76;Jetsam;COMMON;EMERALD;10;2
-77;Kit;UNCOMMON;EMERALD;2;0
-78;"Lyle Tiberius Rourke";SUPER;EMERALD;0;0
-79;"Milo Thatch";COMMON;EMERALD;9;0
-80;"Milo Thatch";LEGENDARY;EMERALD;0;0
-81;Morph;RARE;EMERALD;0;0
-82;"Peter Pan";RARE;EMERALD;1;0
-83;"Prince Jean";UNCOMMON;EMERALD;4;0
-84;"Robin des Bois";RARE;EMERALD;2;0
-85;Shenzi;SUPER;EMERALD;3;0
-86;"Triste Sire";COMMON;EMERALD;11;0
-87;Bobby;COMMON;EMERALD;9;0
-88;"Monsieur Starkey";UNCOMMON;EMERALD;7;0
-89;Stitch;RARE;EMERALD;4;1
-90;Ursula;UNCOMMON;EMERALD;0;0
-91;Ursula;LEGENDARY;EMERALD;0;0
-92;Turbo;UNCOMMON;EMERALD;6;0
-93;Zazu;COMMON;EMERALD;8;0
-94;"A touché mon cœuuuuur…";UNCOMMON;EMERALD;5;0
-95;"Je prends le chemin";COMMON;EMERALD;10;1
-96;"Crois-moi j'ai vu pire";COMMON;EMERALD;9;1
-97;Aéro-surf;COMMON;EMERALD;10;0
-98;"Arc de Robin";UNCOMMON;EMERALD;6;0
-99;"Fiole de lumière d'étoile";RARE;EMERALD;5;0
-100;"Le Manoir d'Enfer";COMMON;EMERALD;9;0
-101;"Croc du Dragon";RARE;EMERALD;1;0
-102;"Palais de Kuzco";UNCOMMON;EMERALD;9;0
-103;Ariel;SUPER;RUBY;1;0
-104;"Billy Bones";COMMON;RUBY;8;0
-105;"Capitaine Crochet";RARE;RUBY;3;0
-106;"Della Duck";COMMON;RUBY;9;1
-107;Heihei;UNCOMMON;RUBY;9;1
-108;L'Hydre;LEGENDARY;RUBY;0;0
-109;"Jim Hawkins";LEGENDARY;RUBY;0;0
-110;"Jim Hawkins";COMMON;RUBY;8;0
-111;Kakamora;COMMON;RUBY;11;1
-112;"Madame Médusa";SUPER;RUBY;0;0
-113;Maui;UNCOMMON;RUBY;6;0
-114;Maui;RARE;RUBY;4;2
-115;"Milo Thatch";COMMON;RUBY;11;0
-116;Vaiana;RARE;RUBY;3;0
-117;Vaiana;COMMON;RUBY;9;0
-118;Niquedouille;COMMON;RUBY;11;1
-119;"Peter Pan";COMMON;RUBY;10;0
-120;"Peter Pan";RARE;RUBY;4;0
-121;"Prince Eric";SUPER;RUBY;3;0
-122;Scroop;UNCOMMON;RUBY;6;0
-123;Simba;RARE;RUBY;1;0
-124;"La Plume";UNCOMMON;RUBY;8;0
-125;Stitch;COMMON;RUBY;9;1
-126;Pendard;UNCOMMON;RUBY;7;0
-127;Zaza;COMMON;RUBY;9;1
-128;"Bombardement en piqué !";UNCOMMON;RUBY;5;0
-129;"Moi, j'ai un rêve";UNCOMMON;RUBY;5;0
-130;"Debout ! Tout de suite !";RARE;RUBY;1;2
-131;Voyage;COMMON;RUBY;10;0
-132;"L'hameçon de Maui";RARE;RUBY;4;0
-133;"Talisman sumérien";UNCOMMON;RUBY;7;0
-134;Agrabah;COMMON;RUBY;5;1
-135;"Jolly Roger";UNCOMMON;RUBY;5;0
-136;"RLS Héritage";RARE;RUBY;0;0
-137;"Audrey Ramirez";RARE;SAPPHIRE;2;0
-138;"Capitaine Amélia";COMMON;SAPPHIRE;11;0
-139;Fifi;UNCOMMON;SAPPHIRE;5;0
-140;"Archibald Gripsou";UNCOMMON;SAPPHIRE;7;0
-141;Génie;UNCOMMON;SAPPHIRE;6;1
-142;"Grand-mère Tala";COMMON;SAPPHIRE;7;0
-143;"Grand-mère Tala";LEGENDARY;SAPPHIRE;0;0
-144;"Géo Trouvetou";RARE;SAPPHIRE;4;0
-145;Riri;RARE;SAPPHIRE;4;0
-146;"Roi Louie";COMMON;SAPPHIRE;10;1
-147;Kit;UNCOMMON;SAPPHIRE;6;1
-148;Kit;COMMON;SAPPHIRE;10;1
-149;Loulou;COMMON;SAPPHIRE;11;1
-150;"Belle Marianne";COMMON;SAPPHIRE;10;0
-151;"Mama Odie";RARE;SAPPHIRE;5;0
-152;Pluto;COMMON;SAPPHIRE;9;0
-153;Rufus;COMMON;SAPPHIRE;9;0
-154;"Balthazar Picsou";SUPER;SAPPHIRE;2;0
-155;"Balthazar Picsou";UNCOMMON;SAPPHIRE;10;0
-156;"La Reine";UNCOMMON;SAPPHIRE;8;0
-157;"La Fée Clochette";SUPER;SAPPHIRE;2;0
-158;"Wendy Darling";SUPER;SAPPHIRE;3;0
-159;Distraction;COMMON;SAPPHIRE;10;0
-160;"Je suis ton meilleur ami";RARE;SAPPHIRE;2;0
-161;"Le bleu lumière";UNCOMMON;SAPPHIRE;0;0
-162;Réparation;COMMON;SAPPHIRE;9;0
-163;"Gyroscope lumineux";RARE;SAPPHIRE;3;0
-164;"Le cœur de Te Fiti";RARE;SAPPHIRE;6;0
-165;"Sou fétiche";LEGENDARY;SAPPHIRE;0;0
-166;"Haut-de-forme de Picsou";UNCOMMON;SAPPHIRE;6;1
-167;"Porte du coffre";COMMON;SAPPHIRE;8;0
-168;"La maison de Belle";RARE;SAPPHIRE;4;0
-169;"Le Manoir de Picsou";COMMON;SAPPHIRE;3;0
-170;Motunui;UNCOMMON;SAPPHIRE;4;0
-171;Tui;COMMON;STEEL;10;0
-172;Bourriquet;COMMON;STEEL;8;0
-173;"Gustave le Géant";RARE;STEEL;4;0
-174;Hadès;RARE;STEEL;2;0
-175;"Helga Sinclair";COMMON;STEEL;11;0
-176;"John Silver";RARE;STEEL;0;0
-177;Kida;COMMON;STEEL;10;0
-178;"Petit Jean";SUPER;STEEL;2;0
-179;"Petit Jean";UNCOMMON;STEEL;7;0
-180;Lythos;UNCOMMON;STEEL;6;1
-181;"Mickey Mouse";COMMON;STEEL;8;0
-182;"Mickey Mouse";LEGENDARY;STEEL;0;0
-183;Minnie;COMMON;STEEL;9;0
-184;"Monsieur Mouche";UNCOMMON;STEEL;0;0
-185;Mufasa;RARE;STEEL;3;0
-186;Nala;UNCOMMON;STEEL;5;0
-187;Pyros;RARE;STEEL;0;0
-188;Razoul;COMMON;STEEL;9;0
-189;"Robin des Bois";COMMON;STEEL;4;0
-190;"Robin des Bois";LEGENDARY;STEEL;0;0
-191;"Shérif de Nottingham";SUPER;STEEL;2;0
-192;Simba;SUPER;STEEL;3;0
-193;Simba;UNCOMMON;STEEL;8;0
-194;"Gulliver Glas";UNCOMMON;STEEL;7;0
-195;"Quand soudain survint Zeus";RARE;STEEL;0;0
-196;"Ba-boum !";COMMON;STEEL;4;1
-197;"L'Olympe, ce serait pas plutôt par là ?";COMMON;STEEL;10;2
-198;"Libérer les Titans";UNCOMMON;STEEL;5;0
-199;"Rapière du Capitaine Crochet";UNCOMMON;STEEL;6;1
-200;"Le costume de Robotik";COMMON;STEEL;11;0
-201;"Carte de la Planète au Trésor";RARE;STEEL;4;0
-202;"Île d'exil de Maui";RARE;STEEL;0;0
-203;Nottingham;COMMON;STEEL;9;0
-204;"Le bayou";UNCOMMON;STEEL;4;0
-205;Chernabog;ENCHANTED;AMBER;0;0
-206;Kida;ENCHANTED;AMBER;0;0
-207;"La Terre des Lions";ENCHANTED;AMBER;0;0
-208;Jafar;ENCHANTED;AMETHYST;0;0
-209;Maléfique;ENCHANTED;AMETHYST;0;0
-210;"Le chapeau de sorcier";ENCHANTED;AMETHYST;0;0
-211;Morph;ENCHANTED;EMERALD;0;0
-212;Ursula;ENCHANTED;EMERALD;0;0
-213;"Palais de Kuzco";ENCHANTED;EMERALD;0;0
-214;"Capitaine Crochet";ENCHANTED;RUBY;0;0
-215;"Peter Pan";ENCHANTED;RUBY;0;0
-216;"RLS Héritage";ENCHANTED;RUBY;0;0
-217;"Grand-mère Tala";ENCHANTED;SAPPHIRE;0;0
-218;"Balthazar Picsou";ENCHANTED;SAPPHIRE;0;0
-219;"La maison de Belle";ENCHANTED;SAPPHIRE;0;0
-220;"Mickey Mouse";ENCHANTED;STEEL;0;0
-221;"Robin des Bois";ENCHANTED;STEEL;0;0
-222;"Quand soudain survint Zeus";ENCHANTED;STEEL;0;0
-30;Stitch;ENCHANTED;AMBER;0;0
-223;Porcinet;SUPER;AMBER;0;0
+1;Baloo;Rare;Ambre;0;0
+2;Bernard;Rare;Ambre;0;0
+3;Chernabog;"Super rare";Ambre;0;0
+4a;"Chiot dalmatien";Commune;Ambre;0;0
+4b;"Chiot dalmatien";Commune;Ambre;0;0
+4c;"Chiot dalmatien";Commune;Ambre;0;0
+4d;"Chiot dalmatien";Commune;Ambre;0;0
+4e;"Chiot dalmatien";Commune;Ambre;0;0
+5;"Amadou Gentil";Commune;Ambre;0;0
+6;Kida;Commune;Ambre;0;0
+7;Kida;Légendaire;Ambre;0;0
+8;Lucky;Rare;Ambre;0;0
+9;Minnie;Rare;Ambre;0;0
+10;"Miss Bianca";Commune;Ambre;0;0
+11;"Mr. Snoops";Commune;Ambre;0;0
+12;Nani;"Peu commune";Ambre;0;0
+13;Orville;Commune;Ambre;0;0
+14;Patch;Commune;Ambre;0;0
+15;Perdita;Légendaire;Ambre;0;0
+16;Porcinet;"Super rare";Ambre;0;0
+17;Pluto;Rare;Ambre;0;0
+18;Pluto;"Peu commune";Ambre;0;0
+19;Pongo;"Super rare";Ambre;0;0
+20;"La Reine de Cœur";"Peu commune";Ambre;0;0
+21;Rolly;"Peu commune";Ambre;0;0
+22;"La Fée Clochette";"Peu commune";Ambre;0;0
+23;"Wendy Darling";"Peu commune";Ambre;0;0
+24;"99 chiots";"Peu commune";Ambre;0;0
+25;"Ordres de la patronne";Commune;Ambre;0;0
+26;"Guéris les blessures";Commune;Ambre;0;0
+27;"Réparation de fortune";Commune;Ambre;0;0
+28;"Il en faut peu pour être heureux";Rare;Ambre;0;0
+29;"Eau de pluie purifiante";Commune;Ambre;0;0
+30;"Cœur de l'Atlantide";Rare;Ambre;0;0
+31;"Clé de Turbo";"Peu commune";Ambre;0;0
+32;"Le Pays Imaginaire";Commune;Ambre;0;0
+33;"La Terre des Lions";Rare;Ambre;0;0
+34;"Chez Tiana";"Peu commune";Ambre;0;0
+35;Alice;"Super rare";Améthyste;0;0
+36;"Adeptes de Chernabog";"Peu commune";Améthyste;0;0
+37;Diablo;Commune;Améthyste;0;0
+38;Génie;"Super rare";Améthyste;0;0
+39;Hydros;"Peu commune";Améthyste;0;0
+40;Iago;Commune;Améthyste;0;0
+41;Jafar;"Peu commune";Améthyste;0;0
+42;Jafar;Légendaire;Améthyste;0;0
+43;"Lena de Sortilège";Commune;Améthyste;0;0
+44;"Balais magiques";"Peu commune";Améthyste;0;0
+45;"Balais magiques";Commune;Améthyste;0;0
+46;"Balais magiques";Commune;Améthyste;0;0
+47;"Tapis volant";Commune;Améthyste;0;0
+48;"Miss Tick";Commune;Améthyste;0;0
+49;"Miss Tick";"Super rare";Améthyste;0;0
+50;"Miss Tick";"Peu commune";Améthyste;0;0
+51;Maléfique;Légendaire;Améthyste;0;0
+52;"Mama Odie";"Peu commune";Améthyste;0;0
+53;Pua;Commune;Améthyste;0;0
+54;Rafiki;Rare;Améthyste;0;0
+55;Stratos;Rare;Améthyste;0;0
+56;"L'Oiseau de Feu";Commune;Améthyste;0;0
+57;"La Reine";Commune;Améthyste;0;0
+58;"Le Gardien du Trésor";Rare;Améthyste;0;0
+59;Ursula;Rare;Améthyste;0;0
+60;"Offrir un don";Commune;Améthyste;0;0
+61;"Il m'appelle";"Peu commune";Améthyste;0;0
+62;"Effort désespéré";"Peu commune";Améthyste;0;0
+63;"Je complète ma collection";Rare;Améthyste;0;0
+64;"La lampe";Rare;Améthyste;0;0
+65;"Le chapeau de sorcier";Rare;Améthyste;0;0
+66;"Montagne Interdite";Commune;Améthyste;0;0
+67;"Château de la reine";Rare;Améthyste;0;0
+68;"La Tour du Sorcier";"Peu commune";Améthyste;0;0
+69;"Le Frisé";Commune;Émeraude;0;0
+70;"Ondins ensorcelés";Rare;Émeraude;0;0
+71;"Don Carnage";Commune;Émeraude;0;0
+72;Flotsam;Commune;Émeraude;0;0
+73;"Frère Tuck";"Peu commune";Émeraude;0;0
+74;"Helga Sinclair";"Super rare";Émeraude;0;0
+75;"Helga Sinclair";Rare;Émeraude;0;0
+76;Jetsam;Commune;Émeraude;0;0
+77;Kit;"Peu commune";Émeraude;0;0
+78;"Lyle Tiberius Rourke";"Super rare";Émeraude;0;0
+79;"Milo Thatch";Commune;Émeraude;0;0
+80;"Milo Thatch";Légendaire;Émeraude;0;0
+81;Morph;Rare;Émeraude;0;0
+82;"Peter Pan";Rare;Émeraude;0;0
+83;"Prince Jean";"Peu commune";Émeraude;0;0
+84;"Robin des Bois";Rare;Émeraude;0;0
+85;Shenzi;"Super rare";Émeraude;0;0
+86;"Triste Sire";Commune;Émeraude;0;0
+87;Bobby;Commune;Émeraude;0;0
+88;"Monsieur Starkey";"Peu commune";Émeraude;0;0
+89;Stitch;Rare;Émeraude;0;0
+90;Ursula;"Peu commune";Émeraude;0;0
+91;Ursula;Légendaire;Émeraude;0;0
+92;Turbo;"Peu commune";Émeraude;0;0
+93;Zazu;Commune;Émeraude;0;0
+94;"A touché mon cœuuuuur…";"Peu commune";Émeraude;0;0
+95;"Je prends le chemin";Commune;Émeraude;0;0
+96;"Crois-moi j'ai vu pire";Commune;Émeraude;0;0
+97;Aéro-surf;Commune;Émeraude;0;0
+98;"Arc de Robin";"Peu commune";Émeraude;0;0
+99;"Fiole de lumière d'étoile";Rare;Émeraude;0;0
+100;"Le Manoir d'Enfer";Commune;Émeraude;0;0
+101;"Croc du Dragon";Rare;Émeraude;0;0
+102;"Palais de Kuzco";"Peu commune";Émeraude;0;0
+103;Ariel;"Super rare";Rubis;0;0
+104;"Billy Bones";Commune;Rubis;0;0
+105;"Capitaine Crochet";Rare;Rubis;0;0
+106;"Della Duck";Commune;Rubis;0;0
+107;Heihei;"Peu commune";Rubis;0;0
+108;L'Hydre;Légendaire;Rubis;0;0
+109;"Jim Hawkins";Légendaire;Rubis;0;0
+110;"Jim Hawkins";Commune;Rubis;0;0
+111;Kakamora;Commune;Rubis;0;0
+112;"Madame Médusa";"Super rare";Rubis;0;0
+113;Maui;"Peu commune";Rubis;0;0
+114;Maui;Rare;Rubis;0;0
+115;"Milo Thatch";Commune;Rubis;0;0
+116;Vaiana;Rare;Rubis;0;0
+117;Vaiana;Commune;Rubis;0;0
+118;Niquedouille;Commune;Rubis;0;0
+119;"Peter Pan";Commune;Rubis;0;0
+120;"Peter Pan";Rare;Rubis;0;0
+121;"Prince Eric";"Super rare";Rubis;0;0
+122;Scroop;"Peu commune";Rubis;0;0
+123;Simba;Rare;Rubis;0;0
+124;"La Plume";"Peu commune";Rubis;0;0
+125;Stitch;Commune;Rubis;0;0
+126;Pendard;"Peu commune";Rubis;0;0
+127;Zaza;Commune;Rubis;0;0
+128;"Bombardement en piqué !";"Peu commune";Rubis;0;0
+129;"Moi, j'ai un rêve";"Peu commune";Rubis;0;0
+130;"Debout ! Tout de suite !";Rare;Rubis;0;0
+131;Voyage;Commune;Rubis;0;0
+132;"L'hameçon de Maui";Rare;Rubis;0;0
+133;"Talisman sumérien";"Peu commune";Rubis;0;0
+134;Agrabah;Commune;Rubis;0;0
+135;"Jolly Roger";"Peu commune";Rubis;0;0
+136;"RLS Héritage";Rare;Rubis;0;0
+137;"Audrey Ramirez";Rare;Saphir;0;0
+138;"Capitaine Amélia";Commune;Saphir;0;0
+139;Fifi;"Peu commune";Saphir;0;0
+140;"Archibald Gripsou";"Peu commune";Saphir;0;0
+141;Génie;"Peu commune";Saphir;0;0
+142;"Grand-mère Tala";Commune;Saphir;0;0
+143;"Grand-mère Tala";Légendaire;Saphir;0;0
+144;"Géo Trouvetou";Rare;Saphir;0;0
+145;Riri;Rare;Saphir;0;0
+146;"Roi Louie";Commune;Saphir;0;0
+147;Kit;"Peu commune";Saphir;0;0
+148;Kit;Commune;Saphir;0;0
+149;Loulou;Commune;Saphir;0;0
+150;"Belle Marianne";Commune;Saphir;0;0
+151;"Mama Odie";Rare;Saphir;0;0
+152;Pluto;Commune;Saphir;0;0
+153;Rufus;Commune;Saphir;0;0
+154;"Balthazar Picsou";"Super rare";Saphir;0;0
+155;"Balthazar Picsou";"Peu commune";Saphir;0;0
+156;"La Reine";"Peu commune";Saphir;0;0
+157;"La Fée Clochette";"Super rare";Saphir;0;0
+158;"Wendy Darling";"Super rare";Saphir;0;0
+159;Distraction;Commune;Saphir;0;0
+160;"Je suis ton meilleur ami";Rare;Saphir;0;0
+161;"Le bleu lumière";"Peu commune";Saphir;0;0
+162;Réparation;Commune;Saphir;0;0
+163;"Gyroscope lumineux";Rare;Saphir;0;0
+164;"Le cœur de Te Fiti";Rare;Saphir;0;0
+165;"Sou fétiche";Légendaire;Saphir;0;0
+166;"Haut-de-forme de Picsou";"Peu commune";Saphir;0;0
+167;"Porte du coffre";Commune;Saphir;0;0
+168;"La maison de Belle";Rare;Saphir;0;0
+169;"Le Manoir de Picsou";Commune;Saphir;0;0
+170;Motunui;"Peu commune";Saphir;0;0
+171;Tui;Commune;Acier;0;0
+172;Bourriquet;Commune;Acier;0;0
+173;"Gustave le Géant";Rare;Acier;0;0
+174;Hadès;Rare;Acier;0;0
+175;"Helga Sinclair";Commune;Acier;0;0
+176;"John Silver";Rare;Acier;0;0
+177;Kida;Commune;Acier;0;0
+178;"Petit Jean";"Super rare";Acier;0;0
+179;"Petit Jean";"Peu commune";Acier;0;0
+180;Lythos;"Peu commune";Acier;0;0
+181;"Mickey Mouse";Commune;Acier;0;0
+182;"Mickey Mouse";Légendaire;Acier;0;0
+183;Minnie;Commune;Acier;0;0
+184;"Monsieur Mouche";"Peu commune";Acier;0;0
+185;Mufasa;Rare;Acier;0;0
+186;Nala;"Peu commune";Acier;0;0
+187;Pyros;Rare;Acier;0;0
+188;Razoul;Commune;Acier;0;0
+189;"Robin des Bois";Commune;Acier;0;0
+190;"Robin des Bois";Légendaire;Acier;0;0
+191;"Shérif de Nottingham";"Super rare";Acier;0;0
+192;Simba;"Super rare";Acier;0;0
+193;Simba;"Peu commune";Acier;0;0
+194;"Gulliver Glas";"Peu commune";Acier;0;0
+195;"Quand soudain survint Zeus";Rare;Acier;0;0
+196;"Ba-boum !";Commune;Acier;0;0
+197;"L'Olympe, ce serait pas plutôt par là ?";Commune;Acier;0;0
+198;"Libérer les Titans";"Peu commune";Acier;0;0
+199;"Rapière du Capitaine Crochet";"Peu commune";Acier;0;0
+200;"Le costume de Robotik";Commune;Acier;0;0
+201;"Carte de la Planète au Trésor";Rare;Acier;0;0
+202;"Île d'exil de Maui";Rare;Acier;0;0
+203;Nottingham;Commune;Acier;0;0
+204;"Le bayou";"Peu commune";Acier;0;0
+205;Chernabog;Enchantée;Ambre;0;0
+206;Kida;Enchantée;Ambre;0;0
+207;"La Terre des Lions";Enchantée;Ambre;0;0
+208;Jafar;Enchantée;Améthyste;0;0
+209;Maléfique;Enchantée;Améthyste;0;0
+210;"Le chapeau de sorcier";Enchantée;Améthyste;0;0
+211;Morph;Enchantée;Émeraude;0;0
+212;Ursula;Enchantée;Émeraude;0;0
+213;"Palais de Kuzco";Enchantée;Émeraude;0;0
+214;"Capitaine Crochet";Enchantée;Rubis;0;0
+215;"Peter Pan";Enchantée;Rubis;0;0
+216;"RLS Héritage";Enchantée;Rubis;0;0
+217;"Grand-mère Tala";Enchantée;Saphir;0;0
+218;"Balthazar Picsou";Enchantée;Saphir;0;0
+219;"La maison de Belle";Enchantée;Saphir;0;0
+220;"Mickey Mouse";Enchantée;Acier;0;0
+221;"Robin des Bois";Enchantée;Acier;0;0
+222;"Quand soudain survint Zeus";Enchantée;Acier;0;0
+26;Kit;Promo;Émeraude;0;0
+27;"Jolly Roger";Promo;Rubis;0;0
+28;"Le bleu lumière";Promo;Saphir;0;0
+29;"John Silver";Promo;Acier;0;0
+30;Stitch;Enchantée;Ambre;0;0
+223;Porcinet;"Super rare";Ambre;0;0
+39;"Scrooge McDuck";Promo;Saphir;0;0
+3;Ursula;Promo;Émeraude;0;0

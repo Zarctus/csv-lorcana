@@ -1,225 +1,234 @@
 card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
-1;Koda;RARE;AMBER;3;0
-2;Nala;UNCOMMON;AMBER;8;0
-3;"Prince Naveen";LEGENDARY;AMBER;0;0
-4;Truc;COMMON;AMBER;12;3
-5;Kenaï;COMMON;AMBER;13;2
-6;"Vanellope von Schweetz";COMMON;AMBER;13;1
-7;Muche;COMMON;AMBER;14;1
-8;Lilo;COMMON;AMBER;14;1
-9;"Vanellope von Schweetz";COMMON;AMBER;14;0
-10;"Félix Fixe Junior";COMMON;AMBER;17;1
-11;Gazelle;COMMON;AMBER;15;1
-12;"Félix Fixe Junior";UNCOMMON;AMBER;7;1
-13;Kristoff;RARE;AMBER;8;0
-14;"Mirabel Madrigal";LEGENDARY;AMBER;0;0
-15;Minnie;SUPER;AMBER;5;0
-16;Daisy;SUPER;AMBER;2;0
-17;"Félix Fixe Junior";COMMON;AMBER;13;1
-18;Vaiana;RARE;AMBER;4;0
-19;"Vanellope von Schweetz";RARE;AMBER;4;0
-20;"Adam de la Halle";UNCOMMON;AMBER;8;2
-21;"Ralph la Casse";RARE;AMBER;5;0
-22;"Belle Marianne";UNCOMMON;AMBER;12;1
-23;Sven;UNCOMMON;AMBER;8;1
-24;Minnie;COMMON;AMBER;14;2
-25;"Try Everything";UNCOMMON;AMBER;8;1
-26;"Toucher guérisseur";COMMON;AMBER;12;0
-27;Ranimer;RARE;AMBER;7;1
-28;"Un mirage à deux visages";SUPER;AMBER;3;0
-29;"Invitation au bal";UNCOMMON;AMBER;14;0
-30;"Philtre de guérison";COMMON;AMBER;14;0
-31;"Cœur du détecteur de la Reine";RARE;AMBER;4;0
-32;"Chromicône d'Ambre";UNCOMMON;AMBER;11;1
-33;"Tour de Raiponce";UNCOMMON;AMBER;11;0
-34;"La Terre des Lions";RARE;AMBER;4;0
-35;Maléfique;SUPER;AMETHYST;4;0
-36;Nokk;COMMON;AMETHYST;16;1
-37;"Big Ben";COMMON;AMETHYST;13;1
-38;Merlin;COMMON;AMETHYST;15;1
-39;Archimède;COMMON;AMETHYST;13;0
-40;Bruni;UNCOMMON;AMETHYST;8;0
-41;"Géant de la Terre";COMMON;AMETHYST;14;2
-42;"Courant d’Air";COMMON;AMETHYST;14;3
-43;"Le lapin blanc";COMMON;AMETHYST;13;1
-44;"Madame Mime";SUPER;AMETHYST;3;1
-45;"Luisa Madrigal";RARE;AMETHYST;4;0
-46;Anna;RARE;AMETHYST;3;0
-47;Archimède;UNCOMMON;AMETHYST;12;0
-48;Elsa;SUPER;AMETHYST;0;0
-49;Génie;LEGENDARY;AMETHYST;0;0
-50;Olaf;RARE;AMETHYST;5;0
-51;Maléfique;UNCOMMON;AMETHYST;6;1
-52;Monstro;UNCOMMON;AMETHYST;6;2
-53;"Miss Tick";RARE;AMETHYST;5;0
-54;Maléfique;COMMON;AMETHYST;14;1
-55;Rafiki;RARE;AMETHYST;6;0
-56;Anna;COMMON;AMETHYST;14;0
-57;"Le Roi de Cœur";UNCOMMON;AMETHYST;12;1
-58;"Camilo Madrigal";LEGENDARY;AMETHYST;1;0
-59;"Force hypnotique";COMMON;AMETHYST;13;1
-60;"Qui trouve, garde";UNCOMMON;AMETHYST;7;0
-61;L'explorateur;RARE;AMETHYST;4;1
-62;"Rassembler Connaissance et Sagesse";COMMON;AMETHYST;8;2
-63;"Assistance magique";UNCOMMON;AMETHYST;11;1
-64;Rétrosphère;COMMON;AMETHYST;15;1
-65;"Moitié de la Couronne d'Hexasort";RARE;AMETHYST;5;1
-66;"Chromicône d'Améthyste";UNCOMMON;AMETHYST;4;0
-67;"Palais de Glace d'Elsa";RARE;AMETHYST;2;0
-68;"La Bibliothèque";UNCOMMON;AMETHYST;2;0
-69;"Robin des Bois";RARE;EMERALD;5;0
-70;Shenzi;UNCOMMON;EMERALD;10;1
-71;"Petit Jean";UNCOMMON;EMERALD;11;1
-72;Zazu;COMMON;EMERALD;13;2
-73;Ulf;COMMON;EMERALD;16;2
-74;Ed;COMMON;EMERALD;16;1
-75;Flora;COMMON;EMERALD;14;0
-76;Pimprenelle;COMMON;EMERALD;13;1
-77;"Robin des Bois";COMMON;EMERALD;14;0
-78;Pâquerette;COMMON;EMERALD;15;1
-79;Iago;RARE;EMERALD;4;1
-80;Banzaï;RARE;EMERALD;0;0
-81;Ed;UNCOMMON;EMERALD;10;1
-82;Scroop;SUPER;EMERALD;3;0
-83;"Prince Philippe";SUPER;EMERALD;6;0
-84;Clarabelle;LEGENDARY;EMERALD;0;0
-85;Anna;LEGENDARY;EMERALD;0;0
-86;Clarabelle;COMMON;EMERALD;6;1
-87;Banzaï;COMMON;EMERALD;15;0
-88;"Robin des Bois";UNCOMMON;EMERALD;9;0
-89;"Mère Gothel";UNCOMMON;EMERALD;13;2
-90;Clarabelle;UNCOMMON;EMERALD;7;0
-91;Shenzi;RARE;EMERALD;3;0
-92;"Mère Gothel";SUPER;EMERALD;2;0
-93;Scar;RARE;EMERALD;5;0
-94;"Déduction sous hypnose";COMMON;EMERALD;13;0
-95;"Rage du Hurleur nocturne";COMMON;EMERALD;13;3
-96;"Pour les hommes";UNCOMMON;EMERALD;6;0
-97;"N'oublie pas qui tu es";RARE;EMERALD;4;0
-98;"Miroir du Prince Jean";RARE;EMERALD;5;0
-99;Obscurosphère;COMMON;EMERALD;13;2
-100;"Chromicône d'Émeraude";UNCOMMON;EMERALD;8;0
-101;"Forêt de Sherwood";RARE;EMERALD;5;1
-102;"Forêt tropicale";UNCOMMON;EMERALD;7;0
-103;"Taffyta Crème Brûlée";UNCOMMON;RUBY;11;0
-104;"Ralph la Casse";RARE;RUBY;5;0
-105;Maximus;SUPER;RUBY;4;0
-106;"Turbo le Pilote";UNCOMMON;RUBY;10;0
-107;Donald;LEGENDARY;RUBY;0;0
-108;"Jean-Hubert Lingot";COMMON;RUBY;14;2
-109;Scar;UNCOMMON;RUBY;5;2
-110;"Ninou Gatine";COMMON;RUBY;15;1
-111;Daisy;COMMON;RUBY;14;2
-112;"Mickey Mouse";COMMON;RUBY;13;1
-113;Ratigan;COMMON;RUBY;13;3
-114;"Taffyta Crème Brûlée";COMMON;RUBY;14;0
-115;Denahi;RARE;RUBY;6;0
-116;Pat;SUPER;RUBY;4;0
-117;"Taffyta Crème Brûlée";UNCOMMON;RUBY;10;1
-118;"Robin des Bois";LEGENDARY;RUBY;0;0
-119;Gaston;RARE;RUBY;2;0
-120;Pat;COMMON;RUBY;18;0
-121;Arthur;UNCOMMON;RUBY;7;1
-122;Donald;COMMON;RUBY;14;1
-123;Ratigan;RARE;RUBY;7;0
-124;"Vanellope von Schweetz";RARE;RUBY;3;0
-125;Simba;COMMON;RUBY;14;0
-126;Minnie;UNCOMMON;RUBY;9;0
-127;"Se libérer";COMMON;RUBY;12;0
-128;"La fin est proche";COMMON;RUBY;13;0
-129;"Endors-toi sans peine";RARE;RUBY;5;0
-130;"Glimmer contre Glimmer";UNCOMMON;RUBY;9;1
-131;"Qui est avec moi ?";SUPER;RUBY;2;0
-132;"Potion de puissance";COMMON;RUBY;13;1
-133;"L'Épée libérée";RARE;RUBY;6;0
-134;"Chromicône de Rubis";UNCOMMON;RUBY;12;3
-135;"Piste de Sugar Rush";RARE;RUBY;4;0
-136;"Fête de Ratigan";UNCOMMON;RUBY;8;1
-137;"Sa Sucrerie";COMMON;SAPPHIRE;13;1
-138;Chaca;COMMON;SAPPHIRE;14;1
-139;"La Reine";COMMON;SAPPHIRE;14;1
-140;"Balthazar Picsou";RARE;SAPPHIRE;4;0
-141;"Prince Jean";COMMON;SAPPHIRE;15;2
-142;Merlin;COMMON;SAPPHIRE;13;2
-143;Pacha;UNCOMMON;SAPPHIRE;10;1
-144;"La Reine";SUPER;SAPPHIRE;9;0
-145;"Shérif de Nottingham";RARE;SAPPHIRE;5;0
-146;Chicha;RARE;SAPPHIRE;2;0
-147;"Prince Jean";SUPER;SAPPHIRE;1;0
-148;"La Reine";RARE;SAPPHIRE;6;2
-149;Kuzco;SUPER;SAPPHIRE;4;0
-150;Mufasa;LEGENDARY;SAPPHIRE;1;0
-151;"Ludwig von Drake";UNCOMMON;SAPPHIRE;10;0
-152;Minnie;COMMON;SAPPHIRE;17;0
-153;Basil;COMMON;SAPPHIRE;14;0
-154;"Sa Sucrerie";UNCOMMON;SAPPHIRE;9;1
-155;Donald;COMMON;SAPPHIRE;14;1
-156;Nanaka;COMMON;SAPPHIRE;12;3
-157;Tipo;UNCOMMON;SAPPHIRE;2;0
-158;Belle;RARE;SAPPHIRE;4;0
-159;Merlin;LEGENDARY;SAPPHIRE;1;0
-160;"Vision de l'Avenir";COMMON;SAPPHIRE;14;0
-161;"Caprice royal";RARE;SAPPHIRE;3;0
-162;"Rien n'est plus pareil";COMMON;SAPPHIRE;13;2
-163;Cachez-vous;UNCOMMON;SAPPHIRE;8;0
-164;"Je ne m'amuse plus du tout";UNCOMMON;SAPPHIRE;11;2
-165;"Médaille des Héros";COMMON;SAPPHIRE;15;0
-166;"Loupe de Basil";RARE;SAPPHIRE;4;1
-167;"Sac de voyage de Merlin";UNCOMMON;SAPPHIRE;10;0
-168;"Chromicône de Saphir";UNCOMMON;SAPPHIRE;11;2
-169;"Le grand Illuminarium";RARE;SAPPHIRE;4;0
-170;"Chaumière de Merlin";UNCOMMON;SAPPHIRE;7;0
-171;Stitch;UNCOMMON;STEEL;8;1
-172;Jafar;LEGENDARY;STEEL;0;0
-173;Simba;COMMON;STEEL;15;0
-174;Rudy;COMMON;STEEL;12;3
-175;"Garde royal";COMMON;STEEL;13;0
-176;"Mickey Mouse";COMMON;STEEL;12;0
-177;Dormeur;UNCOMMON;STEEL;12;1
-178;Kronk;COMMON;STEEL;12;1
-179;Heihei;COMMON;STEEL;16;1
-180;Atchoum;COMMON;STEEL;13;3
-181;Simplet;COMMON;STEEL;15;2
-182;Namaari;RARE;STEEL;4;0
-183;Blanche-Neige;SUPER;STEEL;4;0
-184;Yzma;RARE;STEEL;3;0
-185;Kronk;SUPER;STEEL;3;1
-186;Grincheux;SUPER;STEEL;5;0
-187;Pat;RARE;STEEL;4;0
-188;"Seigneur Hector";RARE;STEEL;6;0
-189;Timide;UNCOMMON;STEEL;9;1
-190;Arthur;UNCOMMON;STEEL;6;0
-191;Joyeux;COMMON;STEEL;16;2
-192;Simba;UNCOMMON;STEEL;11;0
-193;Prof;RARE;STEEL;0;0
-194;Arthur;LEGENDARY;STEEL;0;0
-195;Pat;UNCOMMON;STEEL;2;0
-196;"Tir à la corde";RARE;STEEL;4;0
-197;"Où est la vraie vie ?";COMMON;STEEL;15;0
-198;"Éviter le canardage";COMMON;STEEL;14;0
-199;"Bataille de nourriture !";UNCOMMON;STEEL;9;2
-200;"Bouclier d'Arendelle";COMMON;STEEL;14;1
-201;"Armure de plaques";RARE;STEEL;4;0
-202;"Chromicône d'Acier";UNCOMMON;STEEL;9;0
-203;"Méchants anonymes";RARE;STEEL;5;0
-204;"Mine des sept Nains";UNCOMMON;STEEL;11;0
-205;"Prince Naveen";ENCHANTED;AMBER;0;0
-206;"Vanellope von Schweetz";ENCHANTED;AMBER;0;0
-207;Ranimer;ENCHANTED;AMBER;0;0
-208;Archimède;ENCHANTED;AMETHYST;0;0
-209;Olaf;ENCHANTED;AMETHYST;0;0
-210;"Qui trouve, garde";ENCHANTED;AMETHYST;0;0
-211;Clarabelle;ENCHANTED;EMERALD;0;0
-212;Scar;ENCHANTED;EMERALD;0;0
-213;"Pour les hommes";ENCHANTED;EMERALD;0;0
-214;Donald;ENCHANTED;RUBY;0;0
-215;"Robin des Bois";ENCHANTED;RUBY;0;0
-216;"Fête de Ratigan";ENCHANTED;RUBY;0;0
-217;Mufasa;ENCHANTED;SAPPHIRE;0;0
-218;"Sa Sucrerie";ENCHANTED;SAPPHIRE;0;0
-219;"Caprice royal";ENCHANTED;SAPPHIRE;0;0
-220;Blanche-Neige;ENCHANTED;STEEL;0;0
-221;Arthur;ENCHANTED;STEEL;0;0
-222;"Méchants anonymes";ENCHANTED;STEEL;0;0
-223;"Moitié de la Couronne d'Hexasort";RARE;AMETHYST;0;0
-7;"Mirabel Madrigal";ENCHANTED;AMBER;0;0
+1;Koda;Rare;Ambre;0;0
+2;Nala;"Peu commune";Ambre;0;0
+3;"Prince Naveen";Légendaire;Ambre;0;0
+4;Truc;Commune;Ambre;0;0
+5;Kenaï;Commune;Ambre;0;0
+6;"Vanellope von Schweetz";Commune;Ambre;0;0
+7;Muche;Commune;Ambre;0;0
+8;Lilo;Commune;Ambre;0;0
+9;"Vanellope von Schweetz";Commune;Ambre;0;0
+10;"Félix Fixe Junior";Commune;Ambre;0;0
+11;Gazelle;Commune;Ambre;0;0
+12;"Félix Fixe Junior";"Peu commune";Ambre;0;0
+13;Kristoff;Rare;Ambre;0;0
+14;"Mirabel Madrigal";Légendaire;Ambre;0;0
+15;Minnie;"Super rare";Ambre;0;0
+16;Daisy;"Super rare";Ambre;0;0
+17;"Félix Fixe Junior";Commune;Ambre;0;0
+18;Vaiana;Rare;Ambre;0;0
+19;"Vanellope von Schweetz";Rare;Ambre;0;0
+20;"Adam de la Halle";"Peu commune";Ambre;0;0
+21;"Ralph la Casse";Rare;Ambre;0;0
+22;"Belle Marianne";"Peu commune";Ambre;0;0
+23;Sven;"Peu commune";Ambre;0;0
+24;Minnie;Commune;Ambre;0;0
+25;"Try Everything";"Peu commune";Ambre;0;0
+26;"Toucher guérisseur";Commune;Ambre;0;0
+27;Ranimer;Rare;Ambre;0;0
+28;"Un mirage à deux visages";"Super rare";Ambre;0;0
+29;"Invitation au bal";"Peu commune";Ambre;0;0
+30;"Philtre de guérison";Commune;Ambre;0;0
+31;"Cœur du détecteur de la Reine";Rare;Ambre;0;0
+32;"Chromicône d'Ambre";"Peu commune";Ambre;0;0
+33;"Tour de Raiponce";"Peu commune";Ambre;0;0
+34;"La Terre des Lions";Rare;Ambre;0;0
+35;Maléfique;"Super rare";Améthyste;0;0
+36;Nokk;Commune;Améthyste;0;0
+37;"Big Ben";Commune;Améthyste;0;0
+38;Merlin;Commune;Améthyste;0;0
+39;Archimède;Commune;Améthyste;0;0
+40;Bruni;"Peu commune";Améthyste;0;0
+41;"Géant de la Terre";Commune;Améthyste;0;0
+42;"Courant d’Air";Commune;Améthyste;0;0
+43;"Le lapin blanc";Commune;Améthyste;0;0
+44;"Madame Mime";"Super rare";Améthyste;0;0
+45;"Luisa Madrigal";Rare;Améthyste;0;0
+46;Anna;Rare;Améthyste;0;0
+47;Archimède;"Peu commune";Améthyste;0;0
+48;Elsa;"Super rare";Améthyste;0;0
+49;Génie;Légendaire;Améthyste;0;0
+50;Olaf;Rare;Améthyste;0;0
+51;Maléfique;"Peu commune";Améthyste;0;0
+52;Monstro;"Peu commune";Améthyste;0;0
+53;"Miss Tick";Rare;Améthyste;0;0
+54;Maléfique;Commune;Améthyste;0;0
+55;Rafiki;Rare;Améthyste;0;0
+56;Anna;Commune;Améthyste;0;0
+57;"Le Roi de Cœur";"Peu commune";Améthyste;0;0
+58;"Camilo Madrigal";Légendaire;Améthyste;0;0
+59;"Force hypnotique";Commune;Améthyste;0;0
+60;"Qui trouve, garde";"Peu commune";Améthyste;0;0
+61;L'explorateur;Rare;Améthyste;0;0
+62;"Rassembler Connaissance et Sagesse";Commune;Améthyste;0;0
+63;"Assistance magique";"Peu commune";Améthyste;0;0
+64;Rétrosphère;Commune;Améthyste;0;0
+65;"Moitié de la Couronne d'Hexasort";Rare;Améthyste;0;0
+66;"Chromicône d'Améthyste";"Peu commune";Améthyste;0;0
+67;"Palais de Glace d'Elsa";Rare;Améthyste;0;0
+68;"La Bibliothèque";"Peu commune";Améthyste;0;0
+69;"Robin des Bois";Rare;Émeraude;0;0
+70;Shenzi;"Peu commune";Émeraude;0;0
+71;"Petit Jean";"Peu commune";Émeraude;0;0
+72;Zazu;Commune;Émeraude;0;0
+73;Ulf;Commune;Émeraude;0;0
+74;Ed;Commune;Émeraude;0;0
+75;Flora;Commune;Émeraude;0;0
+76;Pimprenelle;Commune;Émeraude;0;0
+77;"Robin des Bois";Commune;Émeraude;0;0
+78;Pâquerette;Commune;Émeraude;0;0
+79;Iago;Rare;Émeraude;0;0
+80;Banzaï;Rare;Émeraude;0;0
+81;Ed;"Peu commune";Émeraude;0;0
+82;Scroop;"Super rare";Émeraude;0;0
+83;"Prince Philippe";"Super rare";Émeraude;0;0
+84;Clarabelle;Légendaire;Émeraude;0;0
+85;Anna;Légendaire;Émeraude;0;0
+86;Clarabelle;Commune;Émeraude;0;0
+87;Banzaï;Commune;Émeraude;0;0
+88;"Robin des Bois";"Peu commune";Émeraude;0;0
+89;"Mère Gothel";"Peu commune";Émeraude;0;0
+90;Clarabelle;"Peu commune";Émeraude;0;0
+91;Shenzi;Rare;Émeraude;0;0
+92;"Mère Gothel";"Super rare";Émeraude;0;0
+93;Scar;Rare;Émeraude;0;0
+94;"Déduction sous hypnose";Commune;Émeraude;0;0
+95;"Rage du Hurleur nocturne";Commune;Émeraude;0;0
+96;"Pour les hommes";"Peu commune";Émeraude;0;0
+97;"N'oublie pas qui tu es";Rare;Émeraude;0;0
+98;"Miroir du Prince Jean";Rare;Émeraude;0;0
+99;Obscurosphère;Commune;Émeraude;0;0
+100;"Chromicône d'Émeraude";"Peu commune";Émeraude;0;0
+101;"Forêt de Sherwood";Rare;Émeraude;0;0
+102;"Forêt tropicale";"Peu commune";Émeraude;0;0
+103;"Taffyta Crème Brûlée";"Peu commune";Rubis;0;0
+104;"Ralph la Casse";Rare;Rubis;0;0
+105;Maximus;"Super rare";Rubis;0;0
+106;"Turbo le Pilote";"Peu commune";Rubis;0;0
+107;Donald;Légendaire;Rubis;0;0
+108;"Jean-Hubert Lingot";Commune;Rubis;0;0
+109;Scar;"Peu commune";Rubis;0;0
+110;"Ninou Gatine";Commune;Rubis;0;0
+111;Daisy;Commune;Rubis;0;0
+112;"Mickey Mouse";Commune;Rubis;0;0
+113;Ratigan;Commune;Rubis;0;0
+114;"Taffyta Crème Brûlée";Commune;Rubis;0;0
+115;Denahi;Rare;Rubis;0;0
+116;Pat;"Super rare";Rubis;0;0
+117;"Taffyta Crème Brûlée";"Peu commune";Rubis;0;0
+118;"Robin des Bois";Légendaire;Rubis;0;0
+119;Gaston;Rare;Rubis;0;0
+120;Pat;Commune;Rubis;0;0
+121;Arthur;"Peu commune";Rubis;0;0
+122;Donald;Commune;Rubis;0;0
+123;Ratigan;Rare;Rubis;0;0
+124;"Vanellope von Schweetz";Rare;Rubis;0;0
+125;Simba;Commune;Rubis;0;0
+126;Minnie;"Peu commune";Rubis;0;0
+127;"Se libérer";Commune;Rubis;0;0
+128;"La fin est proche";Commune;Rubis;0;0
+129;"Endors-toi sans peine";Rare;Rubis;0;0
+130;"Glimmer contre Glimmer";"Peu commune";Rubis;0;0
+131;"Qui est avec moi ?";"Super rare";Rubis;0;0
+132;"Potion de puissance";Commune;Rubis;0;0
+133;"L'Épée libérée";Rare;Rubis;0;0
+134;"Chromicône de Rubis";"Peu commune";Rubis;0;0
+135;"Piste de Sugar Rush";Rare;Rubis;0;0
+136;"Fête de Ratigan";"Peu commune";Rubis;0;0
+137;"Sa Sucrerie";Commune;Saphir;0;0
+138;Chaca;Commune;Saphir;0;0
+139;"La Reine";Commune;Saphir;0;0
+140;"Balthazar Picsou";Rare;Saphir;0;0
+141;"Prince Jean";Commune;Saphir;0;0
+142;Merlin;Commune;Saphir;0;0
+143;Pacha;"Peu commune";Saphir;0;0
+144;"La Reine";"Super rare";Saphir;0;0
+145;"Shérif de Nottingham";Rare;Saphir;0;0
+146;Chicha;Rare;Saphir;0;0
+147;"Prince Jean";"Super rare";Saphir;0;0
+148;"La Reine";Rare;Saphir;0;0
+149;Kuzco;"Super rare";Saphir;0;0
+150;Mufasa;Légendaire;Saphir;0;0
+151;"Ludwig von Drake";"Peu commune";Saphir;0;0
+152;Minnie;Commune;Saphir;0;0
+153;Basil;Commune;Saphir;0;0
+154;"Sa Sucrerie";"Peu commune";Saphir;0;0
+155;Donald;Commune;Saphir;0;0
+156;Nanaka;Commune;Saphir;0;0
+157;Tipo;"Peu commune";Saphir;0;0
+158;Belle;Rare;Saphir;0;0
+159;Merlin;Légendaire;Saphir;0;0
+160;"Vision de l'Avenir";Commune;Saphir;0;0
+161;"Caprice royal";Rare;Saphir;0;0
+162;"Rien n'est plus pareil";Commune;Saphir;0;0
+163;Cachez-vous;"Peu commune";Saphir;0;0
+164;"Je ne m'amuse plus du tout";"Peu commune";Saphir;0;0
+165;"Médaille des Héros";Commune;Saphir;0;0
+166;"Loupe de Basil";Rare;Saphir;0;0
+167;"Sac de voyage de Merlin";"Peu commune";Saphir;0;0
+168;"Chromicône de Saphir";"Peu commune";Saphir;0;0
+169;"Le grand Illuminarium";Rare;Saphir;0;0
+170;"Chaumière de Merlin";"Peu commune";Saphir;0;0
+171;Stitch;"Peu commune";Acier;0;0
+172;Jafar;Légendaire;Acier;0;0
+173;Simba;Commune;Acier;0;0
+174;Rudy;Commune;Acier;0;0
+175;"Garde royal";Commune;Acier;0;0
+176;"Mickey Mouse";Commune;Acier;0;0
+177;Dormeur;"Peu commune";Acier;0;0
+178;Kronk;Commune;Acier;0;0
+179;Heihei;Commune;Acier;0;0
+180;Atchoum;Commune;Acier;0;0
+181;Simplet;Commune;Acier;0;0
+182;Namaari;Rare;Acier;0;0
+183;Blanche-Neige;"Super rare";Acier;0;0
+184;Yzma;Rare;Acier;0;0
+185;Kronk;"Super rare";Acier;0;0
+186;Grincheux;"Super rare";Acier;0;0
+187;Pat;Rare;Acier;0;0
+188;"Seigneur Hector";Rare;Acier;0;0
+189;Timide;"Peu commune";Acier;0;0
+190;Arthur;"Peu commune";Acier;0;0
+191;Joyeux;Commune;Acier;0;0
+192;Simba;"Peu commune";Acier;0;0
+193;Prof;Rare;Acier;0;0
+194;Arthur;Légendaire;Acier;0;0
+195;Pat;"Peu commune";Acier;0;0
+196;"Tir à la corde";Rare;Acier;0;0
+197;"Où est la vraie vie ?";Commune;Acier;0;0
+198;"Éviter le canardage";Commune;Acier;0;0
+199;"Bataille de nourriture !";"Peu commune";Acier;0;0
+200;"Bouclier d'Arendelle";Commune;Acier;0;0
+201;"Armure de plaques";Rare;Acier;0;0
+202;"Chromicône d'Acier";"Peu commune";Acier;0;0
+203;"Méchants anonymes";Rare;Acier;0;0
+204;"Mine des sept Nains";"Peu commune";Acier;0;0
+205;"Prince Naveen";Enchantée;Ambre;0;0
+206;"Vanellope von Schweetz";Enchantée;Ambre;0;0
+207;Ranimer;Enchantée;Ambre;0;0
+208;Archimède;Enchantée;Améthyste;0;0
+209;Olaf;Enchantée;Améthyste;0;0
+210;"Qui trouve, garde";Enchantée;Améthyste;0;0
+211;Clarabelle;Enchantée;Émeraude;0;0
+212;Scar;Enchantée;Émeraude;0;0
+213;"Pour les hommes";Enchantée;Émeraude;0;0
+214;Donald;Enchantée;Rubis;0;0
+215;"Robin des Bois";Enchantée;Rubis;0;0
+216;"Fête de Ratigan";Enchantée;Rubis;0;0
+217;Mufasa;Enchantée;Saphir;0;0
+218;"Sa Sucrerie";Enchantée;Saphir;0;0
+219;"Caprice royal";Enchantée;Saphir;0;0
+220;Blanche-Neige;Enchantée;Acier;0;0
+221;Arthur;Enchantée;Acier;0;0
+222;"Méchants anonymes";Enchantée;Acier;0;0
+223;"Moitié de la Couronne d'Hexasort";Rare;Améthyste;0;0
+1;"Prince Jean";Promo;Saphir;0;0
+2;Kristoff;Promo;Ambre;0;0
+3;Nala;Promo;Ambre;0;0
+4;"Force hypnotique";Promo;Améthyste;0;0
+5;Chicha;Promo;Saphir;0;0
+6;Stitch;Promo;Acier;0;0
+7;"Mirabel Madrigal";Enchantée;Ambre;0;0
+5;"Vanellope von Schweetz";Promo;Ambre;0;0
+6;"Invited to the Ball";Promo;Ambre;0;0
+7;"Elsa's Ice Palace";Promo;Améthyste;0;0
