@@ -1,4 +1,17 @@
 saison,number,nom,encre,rareté,is_foil
+"L’ile d' Archazia",38,"La vie nous a réunis",Ambre,Commune,N
+"L’ile d' Archazia",100,Lady,Émeraude,Commune,N
+"L’ile d' Archazia",75,Panique,Améthyste,Commune,N
+"L’ile d' Archazia",167,Pepper,Saphir,Commune,N
+"L’ile d' Archazia",121,"Grand-Mère Fa",Rubis,Commune,N
+"L’ile d' Archazia",191,Tic-Tac,Acier,Commune,N
+"L’ile d' Archazia",183,"Helga Sinclair",Acier,"Peu commune",N
+"L’ile d' Archazia",84,"Spirale d’améthyste",Améthyste,"Peu commune",N
+"L’ile d' Archazia",132,"Les Rapetou",Rubis,"Peu commune",N
+"L’ile d' Archazia",93,Basil,Émeraude,Rare,N
+"L’ile d' Archazia",40,"La Famille Madrigal",Ambre,Rare,N
+"L’ile d' Archazia",137,Mushu,Rubis,Rare,Y
+
 "L’ile d' Archazia",18,Volt,Ambre,Commune,N
 "L’ile d' Archazia",99,Berlioz,Émeraude,Commune,N
 "L’ile d' Archazia",47,"Le gardien du Trésor",Améthyste,Commune,N
@@ -2585,17 +2598,4 @@ saison,number,nom,encre,rareté,is_foil
 "Premier Chapitre",147,HADÈS,Saphir,Légendaire,N
 "Premier Chapitre",192,"TE KĀ",Acier,Légendaire,N
 "Premier Chapitre",133,ENCHEVÊTRÉ,Rubis,Commune,Y
-
-"Premier Chapitre",119,"PETER PAN",Rubis,Commune,N
-"Premier Chapitre",15,"MONSIEUR MOUCHE",Ambre,Commune,N
-"Premier Chapitre",40,ELSA,Améthyste,Commune,N
-"Premier Chapitre",89,"MICKEY MOUSE",Émeraude,Commune,N
-"Premier Chapitre",155,MUFASA,Saphir,Commune,N
-"Premier Chapitre",181,HERCULE,Acier,Commune,N
-"Premier Chapitre",108,DONALD,Rubis,"Peu commune",N
-"Premier Chapitre",54,RAFIKI,Améthyste,"Peu commune",N
-"Premier Chapitre",101,"CARTES DU DR. FACILIER",Émeraude,"Peu commune",N
-"Premier Chapitre",68,"MONTRE À GOUSSET",Améthyste,Rare,N
-"Premier Chapitre",157,"ROBIN DES BOIS",Saphir,"Super rare",N
-"Premier Chapitre",163,"LIBÉRÉE, DÉLIVRÉE",Saphir,Rare,Y
 
