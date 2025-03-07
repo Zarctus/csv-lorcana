@@ -1,4 +1,56 @@
 saison,number,nom,encre,rareté,is_foil
+"L’ile d' Archazia",6,César,Ambre,Commune,N
+"L’ile d' Archazia",101,Yzma,Émeraude,Commune,N
+"L’ile d' Archazia",55,Elsa,Améthyste,Commune,N
+"L’ile d' Archazia",168,Biscotte,Saphir,Commune,N
+"L’ile d' Archazia",122,"La Reine de Cœur",Rubis,Commune,N
+"L’ile d' Archazia",195,"Miss Bianca",Acier,Commune,N
+"L’ile d' Archazia",32,Perla,Ambre,"Peu commune",N
+"L’ile d' Archazia",65,Sven,Améthyste,"Peu commune",N
+"L’ile d' Archazia",72,Anna,Améthyste,"Peu commune",N
+"L’ile d' Archazia",45,Kuzco,Améthyste,Rare,N
+"L’ile d' Archazia",199,Gantu,Acier,"Super rare",N
+"L’ile d' Archazia",169,"Honey Lemon",Saphir,Commune,Y
+
+"L’ile d' Archazia",17,"Adèle Machandelle",Ambre,Commune,N
+"L’ile d' Archazia",90,"Hiro Hamada",Émeraude,Commune,N
+"L’ile d' Archazia",81,"C'est ma famille",Améthyste,Commune,N
+"L’ile d' Archazia",180,"Chargeur de Baymax",Saphir,Commune,N
+"L’ile d' Archazia",148,"Hors service",Rubis,Commune,N
+"L’ile d' Archazia",190,Jafar,Acier,Commune,N
+"L’ile d' Archazia",151,"Machine de Maurice",Rubis,"Peu commune",N
+"L’ile d' Archazia",11,"Le Troubadour",Ambre,"Peu commune",N
+"L’ile d' Archazia",132,"Les Rapetou",Rubis,"Peu commune",N
+"L’ile d' Archazia",52,Hadès,Améthyste,Rare,N
+"L’ile d' Archazia",137,Mushu,Rubis,Rare,N
+"L’ile d' Archazia",159,Belle,Saphir,Commune,Y
+
+"L’ile d' Archazia",17,"Adèle Machandelle",Ambre,Commune,N
+"L’ile d' Archazia",90,"Hiro Hamada",Émeraude,Commune,N
+"L’ile d' Archazia",81,"C'est ma famille",Améthyste,Commune,N
+"L’ile d' Archazia",180,"Chargeur de Baymax",Saphir,Commune,N
+"L’ile d' Archazia",148,"Hors service",Rubis,Commune,N
+"L’ile d' Archazia",182,Akela,Acier,Commune,N
+"L’ile d' Archazia",34,Koda,Ambre,"Peu commune",N
+"L’ile d' Archazia",149,"Spirale de Rubis",Rubis,"Peu commune",N
+"L’ile d' Archazia",133,"Li Shang",Rubis,"Peu commune",N
+"L’ile d' Archazia",161,Dawson,Saphir,Rare,N
+"L’ile d' Archazia",94,"Le Chapelier Fou",Émeraude,Rare,N
+"L’ile d' Archazia",24,"Le Prince",Ambre,"Peu commune",Y
+
+"L’ile d' Archazia",8,Suzy,Ambre,Commune,N
+"L’ile d' Archazia",116,"Réveille-toi, Alice !",Émeraude,Commune,N
+"L’ile d' Archazia",58,"TE KĀ",Améthyste,Commune,N
+"L’ile d' Archazia",167,Pepper,Saphir,Commune,N
+"L’ile d' Archazia",121,"Grand-Mère Fa",Rubis,Commune,N
+"L’ile d' Archazia",194,Orville,Acier,Commune,N
+"L’ile d' Archazia",32,Perla,Ambre,"Peu commune",N
+"L’ile d' Archazia",174,"Jebidiah Farnsworth",Saphir,"Peu commune",N
+"L’ile d' Archazia",105,Robotik,Émeraude,"Peu commune",N
+"L’ile d' Archazia",67,Merlin,Améthyste,Rare,N
+"L’ile d' Archazia",83,"Restaurer la Couronne",Améthyste,Rare,N
+"L’ile d' Archazia",87,Baymax,Émeraude,Commune,Y
+
 "L’ile d' Archazia",43,"Kanine Krunchies",Ambre,Commune,N
 "L’ile d' Archazia",89,Pat,Émeraude,Commune,N
 "L’ile d' Archazia",58,"TE KĀ",Améthyste,Commune,N
@@ -2546,56 +2598,4 @@ saison,number,nom,encre,rareté,is_foil
 "Premier Chapitre",66,"MIROIR MAGIQUE",Améthyste,Rare,N
 "Premier Chapitre",142,BELLE,Saphir,Légendaire,N
 "Premier Chapitre",16,"PRINCE PHILIPPE",Ambre,"Peu commune",Y
-
-"La Mer Azurite",44,"Le Charpentier",Améthyste,Commune,N
-"La Mer Azurite",114,Abu,Rubis,Commune,N
-"La Mer Azurite",158,Yokai,Saphir,Commune,N
-"La Mer Azurite",88,Gazelle,Émeraude,Commune,N
-"La Mer Azurite",23,"Petit Gourou",Ambre,Commune,N
-"La Mer Azurite",173,"Jim Hawkins",Acier,Commune,N
-"La Mer Azurite",80,Donald,Émeraude,"Peu commune",N
-"La Mer Azurite",58,"Peter Pan",Améthyste,"Peu commune",N
-"La Mer Azurite",134,"Lance de Garde carte",Rubis,"Peu commune",N
-"La Mer Azurite",52,Rafiki,Améthyste,Rare,N
-"La Mer Azurite",159,Flaversham,Saphir,Rare,N
-"La Mer Azurite",68,"Navire des Fées",Améthyste,Commune,Y
-
-"La Mer Azurite",39,Sisu,Améthyste,Commune,N
-"La Mer Azurite",128,Chapardage,Rubis,Commune,N
-"La Mer Azurite",151,Gadget,Saphir,Commune,N
-"La Mer Azurite",79,Basil,Émeraude,Commune,N
-"La Mer Azurite",5,Simba,Ambre,Commune,N
-"La Mer Azurite",182,"Monsieur Arrow",Acier,Commune,N
-"La Mer Azurite",82,"Mertle Edmonds",Émeraude,"Peu commune",N
-"La Mer Azurite",187,"Mickey Mouse",Acier,"Peu commune",N
-"La Mer Azurite",46,"Le Morse",Améthyste,"Peu commune",N
-"La Mer Azurite",176,"Monsieur Mouche",Acier,"Super rare",N
-"La Mer Azurite",55,"Madame Mime",Améthyste,"Super rare",N
-"La Mer Azurite",6,Tic,Ambre,Commune,Y
-
-"La Mer Azurite",41,Juju,Améthyste,Commune,N
-"La Mer Azurite",133,"Pièce d’or",Rubis,Commune,N
-"La Mer Azurite",139,Gadget,Saphir,Commune,N
-"La Mer Azurite",176,"Monsieur Mouche",Acier,"Super rare",N
-"La Mer Azurite",22,"Coco Lapin",Ambre,Commune,N
-"La Mer Azurite",171,Kakamora,Acier,Commune,N
-"La Mer Azurite",165,"Prépare ton robot",Saphir,"Peu commune",N
-"La Mer Azurite",18,Tac,Ambre,"Peu commune",N
-"La Mer Azurite",175,"Monsieur Mouche",Acier,"Peu commune",N
-"La Mer Azurite",92,"Olivia Flaversham",Émeraude,Rare,N
-"La Mer Azurite",123,Dingo,Rubis,Rare,N
-"La Mer Azurite",107,Raya,Rubis,Rare,Y
-
-"La Mer Azurite",41,Juju,Améthyste,Commune,N
-"La Mer Azurite",133,"Pièce d’or",Rubis,Commune,N
-"La Mer Azurite",139,Gadget,Saphir,Commune,N
-"La Mer Azurite",76,Putois,Émeraude,Commune,N
-"La Mer Azurite",22,"Coco Lapin",Ambre,Commune,N
-"La Mer Azurite",181,"John Silver",Acier,Commune,N
-"La Mer Azurite",152,"Dr. Delber Doppler",Saphir,"Peu commune",N
-"La Mer Azurite",17,"Présidente du Grand Conseil",Ambre,"Peu commune",N
-"La Mer Azurite",119,Aladdin,Rubis,"Peu commune",N
-"La Mer Azurite",154,"Hiro Hamada",Saphir,Rare,N
-"La Mer Azurite",32,"Bateau pirate de Winnie",Ambre,Rare,N
-"La Mer Azurite",26,Stitch,Émeraude,Commune,Y
 
