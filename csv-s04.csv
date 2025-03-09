@@ -1,208 +1,208 @@
 card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
-1;"Agustín Madrigal";Commune;Ambre;0;0
-2;"Alma Madrigal";Rare;Ambre;0;0
-3;Ariel;Rare;Ambre;0;0
+1;"Agustín Madrigal";Commune;Ambre;19;0
+2;"Alma Madrigal";Rare;Ambre;5;0
+3;Ariel;Rare;Ambre;5;0
 4;Cendrillon;Légendaire;Ambre;0;0
-5;"Big Ben";Commune;Ambre;0;0
-6;Daisy;"Peu commune";Ambre;0;0
-7;Daisy;Commune;Ambre;0;0
-8;Donald;"Peu commune";Ambre;0;0
-9;"Félix Madrigal";"Peu commune";Ambre;0;0
-10;Gaston;"Super rare";Ambre;0;0
-11;"La Harpe Magique";Rare;Ambre;0;0
-12;Dingo;Rare;Ambre;0;0
-13;"Julieta Madrigal";"Peu commune";Ambre;0;0
-14;Max;Commune;Ambre;0;0
-15;"Mickey Mouse";"Peu commune";Ambre;0;0
+5;"Big Ben";Commune;Ambre;15;0
+6;Daisy;"Peu commune";Ambre;13;0
+7;Daisy;Commune;Ambre;18;3
+8;Donald;"Peu commune";Ambre;2;0
+9;"Félix Madrigal";"Peu commune";Ambre;10;0
+10;Gaston;"Super rare";Ambre;6;0
+11;"La Harpe Magique";Rare;Ambre;6;1
+12;Dingo;Rare;Ambre;7;2
+13;"Julieta Madrigal";"Peu commune";Ambre;14;0
+14;Max;Commune;Ambre;15;2
+15;"Mickey Mouse";"Peu commune";Ambre;9;0
 16;"Mickey Mouse";Légendaire;Ambre;0;0
-17;Minnie;"Super rare";Ambre;0;0
-18;"Mirabel Madrigal";"Super rare";Ambre;0;0
-19;"Mirabel Madrigal";Commune;Ambre;0;0
-20;Pluto;Commune;Ambre;0;0
-21;"Prince Eric";Commune;Ambre;0;0
-22;"Prince Eric";"Peu commune";Ambre;0;0
-23;Stitch;Commune;Ambre;0;0
-24;Ursula;Rare;Ambre;0;0
-25;Ursula;Commune;Ambre;0;0
-26;"Retour de Bruno";"Peu commune";Ambre;0;0
-27;"Premiers Secours";Commune;Ambre;0;0
-28;"On est une Famille";Rare;Ambre;0;0
-29;"J'ai perdu le Nord";"Peu commune";Ambre;0;0
-30;"Signe le contrat";"Peu commune";Ambre;0;0
-31;"La Chandelle du Miracle";Rare;Ambre;0;0
-32;"Platine disque";Commune;Ambre;0;0
-33;Atlantica;Commune;Ambre;0;0
-34;"Les Enfers";Rare;Ambre;0;0
-35;"Antonio Madrigal";"Peu commune";Améthyste;0;0
+17;Minnie;"Super rare";Ambre;4;0
+18;"Mirabel Madrigal";"Super rare";Ambre;4;0
+19;"Mirabel Madrigal";Commune;Ambre;21;2
+20;Pluto;Commune;Ambre;19;2
+21;"Prince Eric";Commune;Ambre;19;1
+22;"Prince Eric";"Peu commune";Ambre;11;0
+23;Stitch;Commune;Ambre;18;1
+24;Ursula;Rare;Ambre;2;0
+25;Ursula;Commune;Ambre;18;2
+26;"Retour de Bruno";"Peu commune";Ambre;14;0
+27;"Premiers Secours";Commune;Ambre;17;1
+28;"On est une Famille";Rare;Ambre;6;1
+29;"J'ai perdu le Nord";"Peu commune";Ambre;12;0
+30;"Signe le contrat";"Peu commune";Ambre;12;0
+31;"La Chandelle du Miracle";Rare;Ambre;5;0
+32;"Platine disque";Commune;Ambre;20;2
+33;Atlantica;Commune;Ambre;17;0
+34;"Les Enfers";Rare;Ambre;6;0
+35;"Antonio Madrigal";"Peu commune";Améthyste;12;0
 36;Belle;"Super rare";Améthyste;0;0
-37;Belle;Commune;Améthyste;0;0
-38;"Bruno Madrigal";Rare;Améthyste;0;0
-39;"Bruno Madrigal";"Super rare";Améthyste;0;0
-40;"Camilo Madrigal";"Peu commune";Améthyste;0;0
-41;"Dolores Madrigal";Commune;Améthyste;0;0
-42;Elsa;Rare;Améthyste;0;0
-43;Flotsam;"Peu commune";Améthyste;0;0
-44;"Flotsam & Jetsam";"Peu commune";Améthyste;0;0
-45;"Isabela Madrigal";Rare;Améthyste;0;0
-46;Jetsam;Commune;Améthyste;0;0
-47;"Luisa Madrigal";Commune;Améthyste;0;0
-48;"Balais Magiques";Commune;Améthyste;0;0
-49;"Balais Magiques";Commune;Améthyste;0;0
-50;"Domestique Magique";"Peu commune";Améthyste;0;0
-51;Guimauve;"Peu commune";Améthyste;0;0
-52;"Madame Samovar";Rare;Améthyste;0;0
-53;"Pepa Madrigal";Rare;Améthyste;0;0
-54;"Peter Pan";"Super rare";Améthyste;0;0
-55;Pico;Commune;Améthyste;0;0
-56;Tic-Tac;Commune;Améthyste;0;0
-57;Ursula;"Peu commune";Améthyste;0;0
+37;Belle;Commune;Améthyste;16;4
+38;"Bruno Madrigal";Rare;Améthyste;8;0
+39;"Bruno Madrigal";"Super rare";Améthyste;4;0
+40;"Camilo Madrigal";"Peu commune";Améthyste;11;0
+41;"Dolores Madrigal";Commune;Améthyste;17;1
+42;Elsa;Rare;Améthyste;3;0
+43;Flotsam;"Peu commune";Améthyste;10;0
+44;"Flotsam & Jetsam";"Peu commune";Améthyste;11;0
+45;"Isabela Madrigal";Rare;Améthyste;4;0
+46;Jetsam;Commune;Améthyste;18;2
+47;"Luisa Madrigal";Commune;Améthyste;18;1
+48;"Balais Magiques";Commune;Améthyste;11;1
+49;"Balais Magiques";Commune;Améthyste;19;2
+50;"Domestique Magique";"Peu commune";Améthyste;12;0
+51;Guimauve;"Peu commune";Améthyste;15;0
+52;"Madame Samovar";Rare;Améthyste;4;0
+53;"Pepa Madrigal";Rare;Améthyste;6;0
+54;"Peter Pan";"Super rare";Améthyste;3;0
+55;Pico;Commune;Améthyste;17;2
+56;Tic-Tac;Commune;Améthyste;20;0
+57;Ursula;"Peu commune";Améthyste;10;0
 58;Ursula;Légendaire;Améthyste;0;0
-59;"Yen Sid";Légendaire;Améthyste;0;0
-60;"Pauvres âmes en perdition";Commune;Améthyste;0;0
-61;"La Deuxième Étoile sur la Droite";Rare;Améthyste;0;0
-62;"Passer à l'action";Commune;Améthyste;0;0
-63;"Plan d'Ursula";"Peu commune";Améthyste;0;0
-64;"Rose mystique";Rare;Améthyste;0;0
-65;Rose-Lanterne;Commune;Améthyste;0;0
-66;"Trident de Triton";"Peu commune";Améthyste;0;0
-67;"Casa Madrigal";Commune;Améthyste;0;0
-68;"Le Repaire d'Ursula";Rare;Améthyste;0;0
-69;Cri-Kee;Rare;Émeraude;0;0
+59;"Yen Sid";Légendaire;Améthyste;1;0
+60;"Pauvres âmes en perdition";Commune;Améthyste;18;2
+61;"La Deuxième Étoile sur la Droite";Rare;Améthyste;6;0
+62;"Passer à l'action";Commune;Améthyste;21;2
+63;"Plan d'Ursula";"Peu commune";Améthyste;13;0
+64;"Rose mystique";Rare;Améthyste;8;0
+65;Rose-Lanterne;Commune;Améthyste;16;2
+66;"Trident de Triton";"Peu commune";Améthyste;16;0
+67;"Casa Madrigal";Commune;Améthyste;17;0
+68;"Le Repaire d'Ursula";Rare;Améthyste;4;0
+69;Cri-Kee;Rare;Émeraude;4;2
 70;Diablo;Légendaire;Émeraude;0;0
-71;Diablo;Commune;Émeraude;0;0
-72;Gunther;Commune;Émeraude;0;0
-73;Gus;Commune;Émeraude;0;0
-74;Hadès;Légendaire;Émeraude;0;0
-75;Heihei;"Peu commune";Émeraude;0;0
-76;Héra;Rare;Émeraude;0;0
-77;Jac;Commune;Émeraude;0;0
-78;Jasmine;Rare;Émeraude;0;0
-79;Mégara;Commune;Émeraude;0;0
-80;Mégara;"Peu commune";Émeraude;0;0
-81;Peine;"Peu commune";Émeraude;0;0
-82;Panique;"Peu commune";Émeraude;0;0
-83;Pégase;"Peu commune";Émeraude;0;0
-84;Pégase;Commune;Émeraude;0;0
-85;Pat;"Super rare";Émeraude;0;0
-86;Pat;"Peu commune";Émeraude;0;0
-87;"Prince Philippe";"Super rare";Émeraude;0;0
-88;"Prince Philippe";Rare;Émeraude;0;0
-89;"Les Moires";Commune;Émeraude;0;0
+71;Diablo;Commune;Émeraude;20;1
+72;Gunther;Commune;Émeraude;20;2
+73;Gus;Commune;Émeraude;20;2
+74;Hadès;Légendaire;Émeraude;1;0
+75;Heihei;"Peu commune";Émeraude;16;0
+76;Héra;Rare;Émeraude;1;1
+77;Jac;Commune;Émeraude;18;3
+78;Jasmine;Rare;Émeraude;6;0
+79;Mégara;Commune;Émeraude;12;3
+80;Mégara;"Peu commune";Émeraude;7;0
+81;Peine;"Peu commune";Émeraude;8;0
+82;Panique;"Peu commune";Émeraude;5;0
+83;Pégase;"Peu commune";Émeraude;3;0
+84;Pégase;Commune;Émeraude;3;0
+85;Pat;"Super rare";Émeraude;5;0
+86;Pat;"Peu commune";Émeraude;12;0
+87;"Prince Philippe";"Super rare";Émeraude;5;0
+88;"Prince Philippe";Rare;Émeraude;6;2
+89;"Les Moires";Commune;Émeraude;16;2
 90;"Les Muses";Rare;Émeraude;0;0
-91;Tor;Commune;Émeraude;0;0
-92;Zeus;"Super rare";Émeraude;0;0
-93;"Esquive !";Commune;Émeraude;0;0
-94;"Concocter la Potion";Commune;Émeraude;0;0
-95;"Sous l'océan";Rare;Émeraude;0;0
-96;"Ruse d'Ursula";"Peu commune";Émeraude;0;0
+91;Tor;Commune;Émeraude;15;2
+92;Zeus;"Super rare";Émeraude;1;0
+93;"Esquive !";Commune;Émeraude;21;4
+94;"Concocter la Potion";Commune;Émeraude;16;1
+95;"Sous l'océan";Rare;Émeraude;6;0
+96;"Ruse d'Ursula";"Peu commune";Émeraude;13;0
 97;"Ne parlons pas de Bruno";Rare;Émeraude;0;0
-98;"Invocateur d'encre caché";Commune;Émeraude;0;0
-99;"Contrat signé";"Peu commune";Émeraude;0;0
-100;"Plaque de vision";"Peu commune";Émeraude;0;0
-101;"La crique cachée";Commune;Émeraude;0;0
-102;"Jardin d'Ursula";Rare;Émeraude;0;0
-103;"La Bête";"Peu commune";Rubis;0;0
-104;Benja;Commune;Rubis;0;0
-105;"Fa Zhou";Commune;Rubis;0;0
+98;"Invocateur d'encre caché";Commune;Émeraude;17;1
+99;"Contrat signé";"Peu commune";Émeraude;14;0
+100;"Plaque de vision";"Peu commune";Émeraude;12;0
+101;"La crique cachée";Commune;Émeraude;15;0
+102;"Jardin d'Ursula";Rare;Émeraude;6;1
+103;"La Bête";"Peu commune";Rubis;11;0
+104;Benja;Commune;Rubis;18;3
+105;"Fa Zhou";Commune;Rubis;18;2
 106;"Flynn Rider";"Super rare";Rubis;0;0
 107;Dingo;Rare;Rubis;0;0
-108;Hercule;Commune;Rubis;0;0
-109;Hercule;"Peu commune";Rubis;0;0
-110;Khan;"Peu commune";Rubis;0;0
-111;"Li Shang";Commune;Rubis;0;0
-112;"Li Shang";"Peu commune";Rubis;0;0
-113;Lumière;Rare;Rubis;0;0
-114;Mulan;Légendaire;Rubis;0;0
-115;Mulan;"Peu commune";Rubis;0;0
-116;Mulan;Commune;Rubis;0;0
-117;Namaari;Rare;Rubis;0;0
-118;Nessus;"Peu commune";Rubis;0;0
-119;"Bébé Noï";"Super rare";Rubis;0;0
-120;Pégase;Commune;Rubis;0;0
-121;Raya;"Super rare";Rubis;0;0
-122;Raya;Commune;Rubis;0;0
-123;Sisu;"Peu commune";Rubis;0;0
+108;Hercule;Commune;Rubis;19;1
+109;Hercule;"Peu commune";Rubis;12;0
+110;Khan;"Peu commune";Rubis;11;0
+111;"Li Shang";Commune;Rubis;16;0
+112;"Li Shang";"Peu commune";Rubis;10;0
+113;Lumière;Rare;Rubis;4;0
+114;Mulan;Légendaire;Rubis;1;0
+115;Mulan;"Peu commune";Rubis;12;1
+116;Mulan;Commune;Rubis;15;1
+117;Namaari;Rare;Rubis;5;0
+118;Nessus;"Peu commune";Rubis;14;0
+119;"Bébé Noï";"Super rare";Rubis;5;0
+120;Pégase;Commune;Rubis;18;1
+121;Raya;"Super rare";Rubis;6;0
+122;Raya;Commune;Rubis;17;0
+123;Sisu;"Peu commune";Rubis;4;0
 124;Sisu;Rare;Rubis;0;0
 125;Sisu;Légendaire;Rubis;0;0
-126;Tong;Commune;Rubis;0;0
-127;"Tuk Tuk";Rare;Rubis;0;0
-128;"La vie d'un pirate";"Peu commune";Rubis;0;0
-129;"Un roi incontesté";Rare;Rubis;0;0
-130;Bagarre;Commune;Rubis;0;0
-131;"Décret Impérial";Rare;Rubis;0;0
-132;"Médaillons Lestés";"Peu commune";Rubis;0;0
-133;"La Planche";Commune;Rubis;0;0
-134;"Sphère de Vitalité";Commune;Rubis;0;0
-135;"Le Canard Boiteux";Rare;Rubis;0;0
-136;"Terrains d'Entraînement";Commune;Rubis;0;0
-137;Anna;Commune;Saphir;0;0
-138;Anna;"Super rare";Saphir;0;0
+126;Tong;Commune;Rubis;20;3
+127;"Tuk Tuk";Rare;Rubis;6;1
+128;"La vie d'un pirate";"Peu commune";Rubis;11;0
+129;"Un roi incontesté";Rare;Rubis;3;0
+130;Bagarre;Commune;Rubis;3;0
+131;"Décret Impérial";Rare;Rubis;7;0
+132;"Médaillons Lestés";"Peu commune";Rubis;10;0
+133;"La Planche";Commune;Rubis;17;0
+134;"Sphère de Vitalité";Commune;Rubis;18;2
+135;"Le Canard Boiteux";Rare;Rubis;3;0
+136;"Terrains d'Entraînement";Commune;Rubis;17;2
+137;Anna;Commune;Saphir;17;0
+138;Anna;"Super rare";Saphir;2;0
 139;Ariel;"Super rare";Saphir;0;0
-140;Aurore;"Super rare";Saphir;0;0
-141;Aurore;Commune;Saphir;0;0
-142;"Dang Hu";Rare;Saphir;0;0
-143;"Fa Li";Commune;Saphir;0;0
-144;Polochon;"Peu commune";Saphir;0;0
-145;Hadès;"Peu commune";Saphir;0;0
-146;Hans;Commune;Saphir;0;0
-147;Iduna;"Peu commune";Saphir;0;0
-148;"John Silver";Rare;Saphir;0;0
-149;Olaf;"Peu commune";Saphir;0;0
-150;Olaf;Commune;Saphir;0;0
-151;Pascal;Commune;Saphir;0;0
-152;"Prince Philippe";Rare;Saphir;0;0
-153;Raiponce;Rare;Saphir;0;0
-154;Eurêka;"Peu commune";Saphir;0;0
-155;Sisu;"Peu commune";Saphir;0;0
-156;"La Reine";Légendaire;Saphir;0;0
-157;"Chef Transformé";Commune;Saphir;0;0
+140;Aurore;"Super rare";Saphir;4;0
+141;Aurore;Commune;Saphir;16;2
+142;"Dang Hu";Rare;Saphir;6;0
+143;"Fa Li";Commune;Saphir;16;2
+144;Polochon;"Peu commune";Saphir;12;0
+145;Hadès;"Peu commune";Saphir;13;0
+146;Hans;Commune;Saphir;19;0
+147;Iduna;"Peu commune";Saphir;13;0
+148;"John Silver";Rare;Saphir;5;0
+149;Olaf;"Peu commune";Saphir;13;0
+150;Olaf;Commune;Saphir;18;2
+151;Pascal;Commune;Saphir;17;2
+152;"Prince Philippe";Rare;Saphir;6;0
+153;Raiponce;Rare;Saphir;5;0
+154;Eurêka;"Peu commune";Saphir;5;0
+155;Sisu;"Peu commune";Saphir;13;0
+156;"La Reine";Légendaire;Saphir;1;0
+157;"Chef Transformé";Commune;Saphir;15;0
 158;Triton;Légendaire;Saphir;0;0
-159;Triton;Rare;Saphir;0;0
-160;Triton;"Peu commune";Saphir;0;0
-161;"Tuk Tuk";Commune;Saphir;0;0
-162;"Creuse encore et encore";"Peu commune";Saphir;0;0
-163;Glaner;Commune;Saphir;0;0
-164;"J'en ai Rêvé";Commune;Saphir;0;0
-165;"Tous ces Secrets";Rare;Saphir;0;0
-166;"Champ de Glace";Rare;Saphir;0;0
-167;"Grand Dragon de Pierre";"Peu commune";Saphir;0;0
-168;"Bloc de Glace";Commune;Saphir;0;0
-169;"La Grotte d'Ariel";Rare;Saphir;0;0
-170;"Camp d'Hiver";Commune;Saphir;0;0
-171;Aladdin;"Peu commune";Acier;0;0
-172;Aladdin;Commune;Acier;0;0
-173;Argès;Commune;Acier;0;0
-174;Ariel;Commune;Acier;0;0
-175;Ariel;"Super rare";Acier;0;0
-176;"La Bête";Commune;Acier;0;0
-177;"Chi Fu";"Peu commune";Acier;0;0
-178;Chien-Po;Commune;Acier;0;0
-179;Donald;Légendaire;Acier;0;0
-180;Hercule;Rare;Acier;0;0
-181;"Le Fou";Rare;Acier;0;0
-182;"Li Shang";"Peu commune";Acier;0;0
-183;Ling;"Peu commune";Acier;0;0
-184;"Luisa Madrigal";Commune;Acier;0;0
-185;"Balais Magiques";Commune;Acier;0;0
-186;"Balais Magiques";"Super rare";Acier;0;0
-187;"Mickey Mouse";Rare;Acier;0;0
-188;"Mickey Mouse";Commune;Acier;0;0
-189;Mulan;"Peu commune";Acier;0;0
+159;Triton;Rare;Saphir;7;2
+160;Triton;"Peu commune";Saphir;11;0
+161;"Tuk Tuk";Commune;Saphir;22;1
+162;"Creuse encore et encore";"Peu commune";Saphir;11;0
+163;Glaner;Commune;Saphir;16;0
+164;"J'en ai Rêvé";Commune;Saphir;16;1
+165;"Tous ces Secrets";Rare;Saphir;4;0
+166;"Champ de Glace";Rare;Saphir;5;0
+167;"Grand Dragon de Pierre";"Peu commune";Saphir;9;0
+168;"Bloc de Glace";Commune;Saphir;14;2
+169;"La Grotte d'Ariel";Rare;Saphir;6;0
+170;"Camp d'Hiver";Commune;Saphir;18;0
+171;Aladdin;"Peu commune";Acier;7;0
+172;Aladdin;Commune;Acier;21;6
+173;Argès;Commune;Acier;13;4
+174;Ariel;Commune;Acier;19;3
+175;Ariel;"Super rare";Acier;3;0
+176;"La Bête";Commune;Acier;15;6
+177;"Chi Fu";"Peu commune";Acier;13;0
+178;Chien-Po;Commune;Acier;24;2
+179;Donald;Légendaire;Acier;1;0
+180;Hercule;Rare;Acier;1;0
+181;"Le Fou";Rare;Acier;5;0
+182;"Li Shang";"Peu commune";Acier;12;0
+183;Ling;"Peu commune";Acier;14;0
+184;"Luisa Madrigal";Commune;Acier;17;4
+185;"Balais Magiques";Commune;Acier;13;6
+186;"Balais Magiques";"Super rare";Acier;4;1
+187;"Mickey Mouse";Rare;Acier;2;0
+188;"Mickey Mouse";Commune;Acier;14;4
+189;Mulan;"Peu commune";Acier;12;0
 190;Philoctète;Rare;Acier;0;0
 191;Porcinet;Légendaire;Acier;0;0
-192;Rajah;Rare;Acier;0;0
-193;Raya;"Super rare";Acier;0;0
-194;Yao;Commune;Acier;0;0
-195;Avalanche;"Peu commune";Acier;0;0
-196;"Ils cassent en deux comme je veux";"Peu commune";Acier;0;0
-197;"Il me reste un espoir";Rare;Acier;0;0
-198;"Tous avec moi !";"Peu commune";Acier;0;0
-199;"Décret de Triton";Commune;Acier;0;0
-200;"Sphère d'endurance";Commune;Acier;0;0
-201;"Arc Impérial";"Peu commune";Acier;0;0
-202;"Canon du RLS Héritage";Rare;Acier;0;0
-203;"La Muraille";Rare;Acier;0;0
-204;Thèbes;Commune;Acier;0;0
+192;Rajah;Rare;Acier;5;0
+193;Raya;"Super rare";Acier;2;0
+194;Yao;Commune;Acier;24;5
+195;Avalanche;"Peu commune";Acier;10;0
+196;"Ils cassent en deux comme je veux";"Peu commune";Acier;12;0
+197;"Il me reste un espoir";Rare;Acier;8;0
+198;"Tous avec moi !";"Peu commune";Acier;10;0
+199;"Décret de Triton";Commune;Acier;19;4
+200;"Sphère d'endurance";Commune;Acier;7;2
+201;"Arc Impérial";"Peu commune";Acier;10;0
+202;"Canon du RLS Héritage";Rare;Acier;9;1
+203;"La Muraille";Rare;Acier;5;0
+204;Thèbes;Commune;Acier;20;4
 205;Cendrillon;Enchantée;Ambre;0;0
 206;Minnie;Enchantée;Ambre;0;0
 207;"On est une Famille";Enchantée;Ambre;0;0
