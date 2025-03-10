@@ -6,7 +6,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 5;"Big Ben";Commune;Ambre;15;0
 6;Daisy;"Peu commune";Ambre;13;0
 7;Daisy;Commune;Ambre;18;3
-8;Donald;"Peu commune";Ambre;2;0
+8;Donald;"Peu commune";Ambre;3;0
 9;"Félix Madrigal";"Peu commune";Ambre;10;0
 10;Gaston;"Super rare";Ambre;6;0
 11;"La Harpe Magique";Rare;Ambre;6;1
@@ -25,13 +25,13 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 24;Ursula;Rare;Ambre;2;0
 25;Ursula;Commune;Ambre;18;2
 26;"Retour de Bruno";"Peu commune";Ambre;14;0
-27;"Premiers Secours";Commune;Ambre;17;1
+27;"Premiers Secours";Commune;Ambre;18;1
 28;"On est une Famille";Rare;Ambre;6;1
 29;"J'ai perdu le Nord";"Peu commune";Ambre;12;0
 30;"Signe le contrat";"Peu commune";Ambre;12;0
 31;"La Chandelle du Miracle";Rare;Ambre;5;0
 32;"Platine disque";Commune;Ambre;20;2
-33;Atlantica;Commune;Ambre;17;0
+33;Atlantica;Commune;Ambre;18;0
 34;"Les Enfers";Rare;Ambre;6;0
 35;"Antonio Madrigal";"Peu commune";Améthyste;12;0
 36;Belle;"Super rare";Améthyste;0;0
@@ -41,10 +41,10 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 40;"Camilo Madrigal";"Peu commune";Améthyste;11;0
 41;"Dolores Madrigal";Commune;Améthyste;17;1
 42;Elsa;Rare;Améthyste;3;0
-43;Flotsam;"Peu commune";Améthyste;10;0
-44;"Flotsam & Jetsam";"Peu commune";Améthyste;11;0
+43;Flotsam;"Peu commune";Améthyste;11;0
+44;"Flotsam & Jetsam";"Peu commune";Améthyste;12;0
 45;"Isabela Madrigal";Rare;Améthyste;4;0
-46;Jetsam;Commune;Améthyste;18;2
+46;Jetsam;Commune;Améthyste;19;2
 47;"Luisa Madrigal";Commune;Améthyste;18;1
 48;"Balais Magiques";Commune;Améthyste;11;1
 49;"Balais Magiques";Commune;Améthyste;19;2
@@ -53,7 +53,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 52;"Madame Samovar";Rare;Améthyste;4;0
 53;"Pepa Madrigal";Rare;Améthyste;6;0
 54;"Peter Pan";"Super rare";Améthyste;3;0
-55;Pico;Commune;Améthyste;17;2
+55;Pico;Commune;Améthyste;18;2
 56;Tic-Tac;Commune;Améthyste;20;0
 57;Ursula;"Peu commune";Améthyste;10;0
 58;Ursula;Légendaire;Améthyste;0;0
@@ -70,7 +70,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 69;Cri-Kee;Rare;Émeraude;4;2
 70;Diablo;Légendaire;Émeraude;0;0
 71;Diablo;Commune;Émeraude;20;1
-72;Gunther;Commune;Émeraude;20;2
+72;Gunther;Commune;Émeraude;21;2
 73;Gus;Commune;Émeraude;20;2
 74;Hadès;Légendaire;Émeraude;1;0
 75;Heihei;"Peu commune";Émeraude;16;0
@@ -80,9 +80,9 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 79;Mégara;Commune;Émeraude;12;3
 80;Mégara;"Peu commune";Émeraude;7;0
 81;Peine;"Peu commune";Émeraude;8;0
-82;Panique;"Peu commune";Émeraude;5;0
+82;Panique;"Peu commune";Émeraude;6;0
 83;Pégase;"Peu commune";Émeraude;3;0
-84;Pégase;Commune;Émeraude;3;0
+84;Pégase;Commune;Émeraude;4;0
 85;Pat;"Super rare";Émeraude;5;0
 86;Pat;"Peu commune";Émeraude;12;0
 87;"Prince Philippe";"Super rare";Émeraude;5;0
@@ -117,10 +117,10 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 116;Mulan;Commune;Rubis;15;1
 117;Namaari;Rare;Rubis;5;0
 118;Nessus;"Peu commune";Rubis;14;0
-119;"Bébé Noï";"Super rare";Rubis;5;0
+119;"Bébé Noï";"Super rare";Rubis;6;0
 120;Pégase;Commune;Rubis;18;1
 121;Raya;"Super rare";Rubis;6;0
-122;Raya;Commune;Rubis;17;0
+122;Raya;Commune;Rubis;18;0
 123;Sisu;"Peu commune";Rubis;4;0
 124;Sisu;Rare;Rubis;0;0
 125;Sisu;Légendaire;Rubis;0;0
@@ -130,13 +130,13 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 129;"Un roi incontesté";Rare;Rubis;3;0
 130;Bagarre;Commune;Rubis;3;0
 131;"Décret Impérial";Rare;Rubis;7;0
-132;"Médaillons Lestés";"Peu commune";Rubis;10;0
-133;"La Planche";Commune;Rubis;17;0
+132;"Médaillons Lestés";"Peu commune";Rubis;11;0
+133;"La Planche";Commune;Rubis;18;0
 134;"Sphère de Vitalité";Commune;Rubis;18;2
 135;"Le Canard Boiteux";Rare;Rubis;3;0
 136;"Terrains d'Entraînement";Commune;Rubis;17;2
 137;Anna;Commune;Saphir;17;0
-138;Anna;"Super rare";Saphir;2;0
+138;Anna;"Super rare";Saphir;3;0
 139;Ariel;"Super rare";Saphir;0;0
 140;Aurore;"Super rare";Saphir;4;0
 141;Aurore;Commune;Saphir;16;2
@@ -155,20 +155,20 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 154;Eurêka;"Peu commune";Saphir;5;0
 155;Sisu;"Peu commune";Saphir;13;0
 156;"La Reine";Légendaire;Saphir;1;0
-157;"Chef Transformé";Commune;Saphir;15;0
+157;"Chef Transformé";Commune;Saphir;16;0
 158;Triton;Légendaire;Saphir;0;0
 159;Triton;Rare;Saphir;7;2
 160;Triton;"Peu commune";Saphir;11;0
-161;"Tuk Tuk";Commune;Saphir;22;1
-162;"Creuse encore et encore";"Peu commune";Saphir;11;0
+161;"Tuk Tuk";Commune;Saphir;22;2
+162;"Creuse encore et encore";"Peu commune";Saphir;12;0
 163;Glaner;Commune;Saphir;16;0
 164;"J'en ai Rêvé";Commune;Saphir;16;1
-165;"Tous ces Secrets";Rare;Saphir;4;0
+165;"Tous ces Secrets";Rare;Saphir;5;0
 166;"Champ de Glace";Rare;Saphir;5;0
 167;"Grand Dragon de Pierre";"Peu commune";Saphir;9;0
 168;"Bloc de Glace";Commune;Saphir;14;2
 169;"La Grotte d'Ariel";Rare;Saphir;6;0
-170;"Camp d'Hiver";Commune;Saphir;18;0
+170;"Camp d'Hiver";Commune;Saphir;19;0
 171;Aladdin;"Peu commune";Acier;7;0
 172;Aladdin;Commune;Acier;21;6
 173;Argès;Commune;Acier;13;4
@@ -176,15 +176,15 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 175;Ariel;"Super rare";Acier;3;0
 176;"La Bête";Commune;Acier;15;6
 177;"Chi Fu";"Peu commune";Acier;13;0
-178;Chien-Po;Commune;Acier;24;2
+178;Chien-Po;Commune;Acier;25;2
 179;Donald;Légendaire;Acier;1;0
 180;Hercule;Rare;Acier;1;0
 181;"Le Fou";Rare;Acier;5;0
 182;"Li Shang";"Peu commune";Acier;12;0
 183;Ling;"Peu commune";Acier;14;0
-184;"Luisa Madrigal";Commune;Acier;17;4
+184;"Luisa Madrigal";Commune;Acier;18;4
 185;"Balais Magiques";Commune;Acier;13;6
-186;"Balais Magiques";"Super rare";Acier;4;1
+186;"Balais Magiques";"Super rare";Acier;5;1
 187;"Mickey Mouse";Rare;Acier;2;0
 188;"Mickey Mouse";Commune;Acier;14;4
 189;Mulan;"Peu commune";Acier;12;0
@@ -197,7 +197,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 196;"Ils cassent en deux comme je veux";"Peu commune";Acier;12;0
 197;"Il me reste un espoir";Rare;Acier;8;0
 198;"Tous avec moi !";"Peu commune";Acier;10;0
-199;"Décret de Triton";Commune;Acier;19;4
+199;"Décret de Triton";Commune;Acier;19;5
 200;"Sphère d'endurance";Commune;Acier;7;2
 201;"Arc Impérial";"Peu commune";Acier;10;0
 202;"Canon du RLS Héritage";Rare;Acier;9;1

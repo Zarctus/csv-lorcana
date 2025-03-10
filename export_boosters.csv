@@ -1,4 +1,69 @@
 saison,number,nom,encre,rareté,is_foil
+"Les Terres d'Encres",111,Kakamora,Rubis,Commune,N
+"Les Terres d'Encres",86,"Triste Sire",Émeraude,Commune,N
+"Les Terres d'Encres",40,Iago,Améthyste,Commune,N
+"Les Terres d'Encres",150,"Belle Marianne",Saphir,Commune,N
+"Les Terres d'Encres",200,"Le costume de Robotik",Acier,Commune,N
+"Les Terres d'Encres",10,"Miss Bianca",Ambre,Commune,N
+"Les Terres d'Encres",98,"Arc de Robin",Émeraude,"Peu commune",N
+"Les Terres d'Encres",39,Hydros,Améthyste,"Peu commune",N
+"Les Terres d'Encres",133,"Talisman sumérien",Rubis,"Peu commune",N
+"Les Terres d'Encres",164,"Le cœur de Te Fiti",Saphir,Rare,N
+"Les Terres d'Encres",35,Alice,Améthyste,"Super rare",N
+"Les Terres d'Encres",175,"Helga Sinclair",Acier,Commune,Y
+
+"Les Terres d'Encres",127,Zaza,Rubis,Commune,N
+"Les Terres d'Encres",79,"Milo Thatch",Émeraude,Commune,N
+"Les Terres d'Encres",46,"Balais magiques",Améthyste,Commune,N
+"Les Terres d'Encres",162,Réparation,Saphir,Commune,N
+"Les Terres d'Encres",181,"Mickey Mouse",Acier,Commune,N
+"Les Terres d'Encres",6,Kida,Ambre,Commune,N
+"Les Terres d'Encres",204,"Le bayou",Acier,"Peu commune",N
+"Les Terres d'Encres",52,"Mama Odie",Améthyste,"Peu commune",N
+"Les Terres d'Encres",129,"Moi, j'ai un rêve",Rubis,"Peu commune",N
+"Les Terres d'Encres",82,"Peter Pan",Émeraude,Rare,N
+"Les Terres d'Encres",201,"Carte de la Planète au Trésor",Acier,Rare,N
+"Les Terres d'Encres",36,"Adeptes de Chernabog",Améthyste,"Peu commune",Y
+
+"Le retour d’Ursula",84,Pégase,Émeraude,Commune,N
+"Le retour d’Ursula",170,"Camp d'Hiver",Saphir,Commune,N
+"Le retour d’Ursula",27,"Premiers Secours",Ambre,Commune,N
+"Le retour d’Ursula",122,Raya,Rubis,Commune,N
+"Le retour d’Ursula",55,Pico,Améthyste,Commune,N
+"Le retour d’Ursula",178,Chien-Po,Acier,Commune,N
+"Le retour d’Ursula",43,Flotsam,Améthyste,"Peu commune",N
+"Le retour d’Ursula",82,Panique,Émeraude,"Peu commune",N
+"Le retour d’Ursula",132,"Médaillons Lestés",Rubis,"Peu commune",N
+"Le retour d’Ursula",138,Anna,Saphir,"Super rare",N
+"Le retour d’Ursula",186,"Balais Magiques",Acier,"Super rare",N
+"Le retour d’Ursula",161,"Tuk Tuk",Saphir,Commune,Y
+
+"Le retour d’Ursula",72,Gunther,Émeraude,Commune,N
+"Le retour d’Ursula",157,"Chef Transformé",Saphir,Commune,N
+"Le retour d’Ursula",33,Atlantica,Ambre,Commune,N
+"Le retour d’Ursula",133,"La Planche",Rubis,Commune,N
+"Le retour d’Ursula",46,Jetsam,Améthyste,Commune,N
+"Le retour d’Ursula",184,"Luisa Madrigal",Acier,Commune,N
+"Le retour d’Ursula",8,Donald,Ambre,"Peu commune",N
+"Le retour d’Ursula",44,"Flotsam & Jetsam",Améthyste,"Peu commune",N
+"Le retour d’Ursula",162,"Creuse encore et encore",Saphir,"Peu commune",N
+"Le retour d’Ursula",165,"Tous ces Secrets",Saphir,Rare,N
+"Le retour d’Ursula",119,"Bébé Noï",Rubis,"Super rare",N
+"Le retour d’Ursula",199,"Décret de Triton",Acier,Commune,Y
+
+"L'Ascension des Floodborn",54,Merlin,Améthyste,Commune,N
+"L'Ascension des Floodborn",104,Boun,Rubis,Commune,N
+"L'Ascension des Floodborn",69,Arthur,Émeraude,Commune,N
+"L'Ascension des Floodborn",156,"Maître Hibou",Saphir,Commune,N
+"L'Ascension des Floodborn",22,Atchoum,Ambre,Commune,N
+"L'Ascension des Floodborn",174,Benja,Acier,Commune,N
+"L'Ascension des Floodborn",58,Pinocchio,Améthyste,"Peu commune",N
+"L'Ascension des Floodborn",116,"Mère Gothel",Rubis,"Peu commune",N
+"L'Ascension des Floodborn",203,"Armure de souris",Acier,"Peu commune",N
+"L'Ascension des Floodborn",162,"Chute dans le terrier du lapin",Saphir,Rare,N
+"L'Ascension des Floodborn",72,Belle,Émeraude,Légendaire,N
+"L'Ascension des Floodborn",151,Jasmine,Saphir,Commune,Y
+
 "L’ile d' Archazia",42,"Plat de spaghetti",Ambre,Commune,N
 "L’ile d' Archazia",99,Berlioz,Émeraude,Commune,N
 "L’ile d' Archazia",48,Honeymaren,Améthyste,Commune,N
@@ -2533,69 +2598,4 @@ saison,number,nom,encre,rareté,is_foil
 "Ciel Scintillant",34,"La Terre des Lions",Ambre,Rare,N
 "Ciel Scintillant",65,"Moitié de la Couronne d'Hexasort",Améthyste,Rare,N
 "Ciel Scintillant",1,Koda,Ambre,Rare,Y
-
-"Ciel Scintillant",11,Gazelle,Ambre,Commune,N
-"Ciel Scintillant",165,"Médaille des Héros",Saphir,Commune,N
-"Ciel Scintillant",122,Donald,Rubis,Commune,N
-"Ciel Scintillant",87,Banzaï,Émeraude,Commune,N
-"Ciel Scintillant",37,"Big Ben",Améthyste,Commune,N
-"Ciel Scintillant",179,Heihei,Acier,Commune,N
-"Ciel Scintillant",29,"Invitation au bal",Ambre,"Peu commune",N
-"Ciel Scintillant",171,Stitch,Acier,"Peu commune",N
-"Ciel Scintillant",163,Cachez-vous,Saphir,"Peu commune",N
-"Ciel Scintillant",13,Kristoff,Ambre,Rare,N
-"Ciel Scintillant",144,"La Reine",Saphir,"Super rare",N
-"Ciel Scintillant",156,Nanaka,Saphir,Commune,Y
-
-"Premier Chapitre",132,"IL A UN SABRE !",Rubis,Commune,N
-"Premier Chapitre",17,PUMBAA,Ambre,Commune,N
-"Premier Chapitre",45,JAFAR,Améthyste,Commune,N
-"Premier Chapitre",73,"LE DUC DE WESELTON",Émeraude,Commune,N
-"Premier Chapitre",150,MALÉFIQUE,Saphir,Commune,N
-"Premier Chapitre",176,CERBÈRE,Acier,Commune,N
-"Premier Chapitre",52,OLAF,Améthyste,"Peu commune",N
-"Premier Chapitre",83,"JUMBA JOOKIBA",Émeraude,"Peu commune",N
-"Premier Chapitre",164,"JE VOLE",Saphir,"Peu commune",N
-"Premier Chapitre",14,VAIANA,Ambre,Rare,N
-"Premier Chapitre",104,ALADDIN,Rubis,"Super rare",N
-"Premier Chapitre",119,"PETER PAN",Rubis,Commune,Y
-
-"Premier Chapitre",124,"SERGENT TIBS",Rubis,Commune,N
-"Premier Chapitre",32,ZIRGOUFLEX,Ambre,Commune,N
-"Premier Chapitre",60,YZMA,Améthyste,Commune,N
-"Premier Chapitre",102,"CIMETERRE VOLÉ",Émeraude,Commune,N
-"Premier Chapitre",138,AURORE,Saphir,Commune,N
-"Premier Chapitre",196,DÉCHIQUETÉ,Acier,Commune,N
-"Premier Chapitre",190,SIMBA,Acier,"Peu commune",N
-"Premier Chapitre",127,TIGROU,Rubis,"Peu commune",N
-"Premier Chapitre",53,PASCAL,Améthyste,"Peu commune",N
-"Premier Chapitre",123,SCAR,Rubis,Rare,N
-"Premier Chapitre",185,MAUI,Acier,Rare,N
-"Premier Chapitre",129,"DROIT AU BUT",Rubis,"Peu commune",Y
-
-"La Mer Azurite",10,"Prince Naveen",Ambre,Commune,N
-"La Mer Azurite",39,Sisu,Améthyste,Commune,N
-"La Mer Azurite",128,Chapardage,Rubis,Commune,N
-"La Mer Azurite",139,Gadget,Saphir,Commune,N
-"La Mer Azurite",95,"Éfélants et Nouifs",Émeraude,Commune,N
-"La Mer Azurite",171,Kakamora,Acier,Commune,N
-"La Mer Azurite",145,"Hiro Hamada",Saphir,"Peu commune",N
-"La Mer Azurite",4,Grignotin,Ambre,"Peu commune",N
-"La Mer Azurite",91,Basil,Émeraude,"Peu commune",N
-"La Mer Azurite",160,Yokai,Saphir,Rare,N
-"La Mer Azurite",176,"Monsieur Mouche",Acier,"Super rare",N
-"La Mer Azurite",73,"Go Go Tomago",Émeraude,Rare,Y
-
-"La Mer Azurite",168,"Jumbo Pop",Saphir,Commune,N
-"La Mer Azurite",75,Fred,Émeraude,Commune,N
-"La Mer Azurite",28,"I Won't Give In",Ambre,Commune,N
-"La Mer Azurite",40,"La Rose Blanche",Améthyste,Commune,N
-"La Mer Azurite",117,Vaiana,Rubis,Commune,N
-"La Mer Azurite",182,"Monsieur Arrow",Acier,Commune,N
-"La Mer Azurite",9,"Prince Naveen",Ambre,"Peu commune",N
-"La Mer Azurite",50,"Le Lièvre de Mars",Améthyste,"Peu commune",N
-"La Mer Azurite",119,Aladdin,Rubis,"Peu commune",N
-"La Mer Azurite",188,"Cobra Bubbles",Acier,Rare,N
-"La Mer Azurite",126,Tigrou,Rubis,Rare,N
-"La Mer Azurite",180,Hercule,Acier,Commune,Y
 
