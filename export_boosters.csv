@@ -1,4 +1,56 @@
 saison,number,nom,encre,rareté,is_foil
+"Premier Chapitre",58,"LA FÉE CLOCHETTE",Améthyste,Commune,N
+"Premier Chapitre",100,"TRAHISON BRUTALE",Émeraude,Commune,N
+"Premier Chapitre",155,MUFASA,Saphir,Commune,N
+"Premier Chapitre",103,ABU,Rubis,Commune,N
+"Premier Chapitre",24,TIMON,Ambre,Commune,N
+"Premier Chapitre",187,"PRINCE ERIC",Acier,Commune,N
+"Premier Chapitre",54,RAFIKI,Améthyste,"Peu commune",N
+"Premier Chapitre",101,"CARTES DU DR. FACILIER",Émeraude,"Peu commune",N
+"Premier Chapitre",160,TRITON,Saphir,"Peu commune",N
+"Premier Chapitre",5,HADÈS,Ambre,Rare,N
+"Premier Chapitre",180,HANS,Acier,"Super rare",N
+"Premier Chapitre",133,ENCHEVÊTRÉ,Rubis,Commune,Y
+
+"Premier Chapitre",47,"BALAIS MAGIQUES",Améthyste,Commune,N
+"Premier Chapitre",96,RUÉE,Émeraude,Commune,N
+"Premier Chapitre",145,POLOCHON,Saphir,Commune,N
+"Premier Chapitre",133,ENCHEVÊTRÉ,Rubis,Commune,N
+"Premier Chapitre",19,SÉBASTIEN,Ambre,Commune,N
+"Premier Chapitre",176,CERBÈRE,Acier,Commune,N
+"Premier Chapitre",4,DINGO,Ambre,"Peu commune",N
+"Premier Chapitre",177,DONALD,Acier,"Peu commune",N
+"Premier Chapitre",121,RAIPONCE,Rubis,"Peu commune",N
+"Premier Chapitre",204,"PISTOLET À PLASMA",Acier,Rare,N
+"Premier Chapitre",147,HADÈS,Saphir,Légendaire,N
+"Premier Chapitre",202,"POÊLE À FRIRE",Acier,"Peu commune",Y
+
+"Premier Chapitre",36,ARCHIMÈDE,Améthyste,Commune,N
+"Premier Chapitre",93,"LA FÉE CLOCHETTE",Émeraude,Commune,N
+"Premier Chapitre",153,MERLIN,Saphir,Commune,N
+"Premier Chapitre",110,GASTON,Rubis,Commune,N
+"Premier Chapitre",15,"MONSIEUR MOUCHE",Ambre,Commune,N
+"Premier Chapitre",188,SIMBA,Acier,Commune,N
+"Premier Chapitre",41,ELSA,Améthyste,"Peu commune",N
+"Premier Chapitre",74,"FLYNN RIDER",Émeraude,"Peu commune",N
+"Premier Chapitre",167,"ŒIL DES MOIRES",Saphir,"Peu commune",N
+"Premier Chapitre",157,"ROBIN DES BOIS",Saphir,"Super rare",N
+"Premier Chapitre",90,"MÈRE GOTHEL",Émeraude,"Super rare",N
+"Premier Chapitre",102,"CIMETERRE VOLÉ",Émeraude,Commune,Y
+
+"Premier Chapitre",46,JETSAM,Améthyste,Commune,N
+"Premier Chapitre",79,HORACE,Émeraude,Commune,N
+"Premier Chapitre",165,"TRAVAIL D'ÉQUIPE",Saphir,Commune,N
+"Premier Chapitre",120,PONGO,Rubis,Commune,N
+"Premier Chapitre",7,HEIHEI,Ambre,Commune,N
+"Premier Chapitre",201,"MIROIR DE LA BÊTE",Acier,Commune,N
+"Premier Chapitre",1,ARIEL,Ambre,"Peu commune",N
+"Premier Chapitre",183,KRONK,Acier,"Peu commune",N
+"Premier Chapitre",129,"DROIT AU BUT",Rubis,"Peu commune",N
+"Premier Chapitre",43,FLOTSAM,Améthyste,Rare,N
+"Premier Chapitre",70,"LA BÊTE",Émeraude,Légendaire,N
+"Premier Chapitre",60,YZMA,Améthyste,Commune,Y
+
 "Les Terres d'Encres",111,Kakamora,Rubis,Commune,N
 "Les Terres d'Encres",86,"Triste Sire",Émeraude,Commune,N
 "Les Terres d'Encres",40,Iago,Améthyste,Commune,N
@@ -2546,56 +2598,4 @@ saison,number,nom,encre,rareté,is_foil
 "Premier Chapitre",189,SIMBA,Acier,Rare,N
 "Premier Chapitre",14,VAIANA,Ambre,Rare,N
 "Premier Chapitre",202,"POÊLE À FRIRE",Acier,"Peu commune",Y
-
-"Premier Chapitre",109,ELSA,Rubis,Commune,N
-"Premier Chapitre",26,"TRÈS MAUVAIS CARACTÈRE !",Ambre,Commune,N
-"Premier Chapitre",49,MALÉFIQUE,Améthyste,Commune,N
-"Premier Chapitre",93,"LA FÉE CLOCHETTE",Émeraude,Commune,N
-"Premier Chapitre",169,"FLEUR AUX PÉTALES D'OR",Saphir,Commune,N
-"Premier Chapitre",196,DÉCHIQUETÉ,Acier,Commune,N
-"Premier Chapitre",53,PASCAL,Améthyste,"Peu commune",N
-"Premier Chapitre",71,"CHAT DU CHESHIRE",Émeraude,"Peu commune",N
-"Premier Chapitre",141,BELLE,Saphir,"Peu commune",N
-"Premier Chapitre",61,ZEUS,Améthyste,Rare,N
-"Premier Chapitre",90,"MÈRE GOTHEL",Émeraude,"Super rare",N
-"Premier Chapitre",95,"N'ÉCOUTE QUE MOI",Émeraude,"Peu commune",Y
-
-"La Mer Azurite",66,"Théière du Chapelier Fou",Améthyste,Commune,N
-"La Mer Azurite",129,"Montrer la voie",Rubis,Commune,N
-"La Mer Azurite",147,"Aigre Bill",Saphir,Commune,N
-"La Mer Azurite",88,Gazelle,Émeraude,Commune,N
-"La Mer Azurite",6,Tic,Ambre,Commune,N
-"La Mer Azurite",177,Mullins,Acier,Commune,N
-"La Mer Azurite",8,David,Ambre,"Peu commune",N
-"La Mer Azurite",91,Basil,Émeraude,"Peu commune",N
-"La Mer Azurite",132,Chaloupe,Rubis,"Peu commune",N
-"La Mer Azurite",189,Gantu,Acier,Rare,N
-"La Mer Azurite",120,Minnie,Rubis,"Super rare",N
-"La Mer Azurite",67,"Poussière de fée",Améthyste,"Peu commune",Y
-
-"La Mer Azurite",43,"La Fée Clochette",Améthyste,Commune,N
-"La Mer Azurite",115,"Mickey Mouse",Rubis,Commune,N
-"La Mer Azurite",158,Yokai,Saphir,Commune,N
-"La Mer Azurite",94,"Paré à l'abordage !",Émeraude,Commune,N
-"La Mer Azurite",27,"Beau travail !",Ambre,Commune,N
-"La Mer Azurite",202,"Lunettes de soleil",Acier,Commune,N
-"La Mer Azurite",47,Scar,Améthyste,"Peu commune",N
-"La Mer Azurite",134,"Lance de Garde carte",Rubis,"Peu commune",N
-"La Mer Azurite",185,"Billy Bones",Acier,"Peu commune",N
-"La Mer Azurite",15,"Judy Hopps",Ambre,Rare,N
-"La Mer Azurite",97,"Tu es revenu",Émeraude,Rare,N
-"La Mer Azurite",46,"Le Morse",Améthyste,"Peu commune",Y
-
-"Ciel Scintillant",141,"Prince Jean",Saphir,Commune,N
-"Ciel Scintillant",120,Pat,Rubis,Commune,N
-"Ciel Scintillant",73,Ulf,Émeraude,Commune,N
-"Ciel Scintillant",36,Nokk,Améthyste,Commune,N
-"Ciel Scintillant",26,"Toucher guérisseur",Ambre,Commune,N
-"Ciel Scintillant",197,"Où est la vraie vie ?",Acier,Commune,N
-"Ciel Scintillant",29,"Invitation au bal",Ambre,"Peu commune",N
-"Ciel Scintillant",177,Dormeur,Acier,"Peu commune",N
-"Ciel Scintillant",167,"Sac de voyage de Merlin",Saphir,"Peu commune",N
-"Ciel Scintillant",34,"La Terre des Lions",Ambre,Rare,N
-"Ciel Scintillant",65,"Moitié de la Couronne d'Hexasort",Améthyste,Rare,N
-"Ciel Scintillant",1,Koda,Ambre,Rare,Y
 
