@@ -67,7 +67,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 66;Diablo;"Peu commune";"Améthyste, Émeraude";7;0
 67;Merlin;Rare;"Améthyste, Saphir";3;0
 68;Yzma;"Super rare";"Améthyste, Émeraude";2;0
-69;Elsa;"Super rare";"Améthyste, Saphir";1;0
+69;Elsa;"Super rare";"Améthyste, Saphir";0;0
 70;Kinaï;Rare;Améthyste;5;0
 71;Kuzco;"Peu commune";"Améthyste, Émeraude";6;1
 72;Anna;"Peu commune";"Améthyste, Saphir";4;0
@@ -113,7 +113,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 112;Duchesse;"Peu commune";Émeraude;5;1
 113;Anastasie;"Peu commune";Émeraude;5;1
 114;Pat;"Super rare";"Émeraude, Acier";4;1
-115;"Madame de Trémaine";Légendaire;Émeraude;0;1
+115;"Madame de Trémaine";Légendaire;Émeraude;0;0
 116;"Réveille-toi, Alice !";Commune;Émeraude;8;1
 117;"Il se traîne";Commune;Émeraude;8;1
 118;"Le retour d’Hercule";Légendaire;Émeraude;1;0
@@ -141,7 +141,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 140;"Lyle Tiberius Rourke";Rare;Rubis;3;1
 141;Mulan;"Super rare";"Rubis, Acier";1;0
 142;Baloo;Légendaire;Rubis;0;0
-143;Ratigan;Légendaire;Rubis;2;0
+143;Ratigan;Légendaire;Rubis;1;0
 144;"Seigneur Kay";"Peu commune";Rubis;7;0
 145;"Milo Thatch";Rare;Rubis;2;0
 146;"Edgar Balthazar";Commune;Rubis;8;1
@@ -196,7 +196,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 195;"Miss Bianca";Commune;Acier;9;1
 196;Mufasa;"Peu commune";Acier;6;0
 197;Aladdin;Rare;Acier;4;1
-198;Bagheera;Légendaire;Acier;2;1
+198;Bagheera;Légendaire;Acier;2;0
 199;Gantu;"Super rare";Acier;2;1
 200;"Mickey Mouse";Légendaire;Acier;1;0
 201;"Reconstruire l’Atlantide";Rare;Acier;4;0
