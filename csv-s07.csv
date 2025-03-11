@@ -1,6 +1,6 @@
 card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 1;Rhino;Rare;"Ambre, Acier";3;0
-2;Perdita;Rare;"Ambre, Saphir";1;0
+2;Perdita;Rare;"Ambre, Saphir";0;0
 3;"Le Roi Stéphane";Commune;Ambre;8;1
 4;Volt;"Super rare";"Ambre, Acier";1;0
 5;"Roger Radcliffe";Commune;Ambre;8;1
@@ -27,7 +27,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 26;Calhoun;Rare;"Ambre, Rubis";3;0
 27;"Ralph la Casse";Rare;Ambre;2;1
 28;Lady;"Super rare";"Ambre, Émeraude";4;0
-29;Pongo;"Super rare";"Ambre, Saphir";2;0
+29;Pongo;"Super rare";"Ambre, Saphir";1;0
 30;Kinaï;Rare;Ambre;1;1
 31;Minnie;Légendaire;Ambre;1;0
 32;Perla;"Peu commune";"Ambre, Émeraude";5;0
@@ -60,7 +60,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 59;Yzma;Commune;Améthyste;9;0
 60;Bucky;Commune;Améthyste;8;1
 61;Peine;Commune;Améthyste;8;1
-62;Rajah;Commune;Améthyste;9;0
+62;Rajah;Commune;Améthyste;8;0
 63;Kronk;Rare;"Améthyste, Émeraude";3;0
 64;"Mère Gothel";"Peu commune";"Améthyste, Rubis";5;0
 65;Sven;"Peu commune";"Améthyste, Saphir";6;0
@@ -77,7 +77,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 76;Archimède;"Peu commune";Améthyste;7;1
 77;Kashekim;"Peu commune";Améthyste;6;0
 78;"Dolores Madrigal";Commune;Améthyste;9;1
-79;Mufasa;"Peu commune";"Améthyste, Acier";6;0
+79;Mufasa;"Peu commune";"Améthyste, Acier";5;0
 80;"Manœuvres magiques";"Peu commune";Améthyste;6;1
 81;"C'est ma famille";Commune;Améthyste;8;0
 82;"Montre-m’en davantage !";"Super rare";Améthyste;1;0
@@ -110,7 +110,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 109;"John Silver";Rare;"Émeraude, Acier";2;1
 110;Clochard;Rare;Émeraude;3;0
 111;"Le Roi de Cœur";Rare;Émeraude;3;0
-112;Duchesse;"Peu commune";Émeraude;5;1
+112;Duchesse;"Peu commune";Émeraude;4;0
 113;Anastasie;"Peu commune";Émeraude;5;1
 114;Pat;"Super rare";"Émeraude, Acier";4;1
 115;"Madame de Trémaine";Légendaire;Émeraude;0;0
@@ -135,7 +135,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 134;Vaiana;"Peu commune";Rubis;6;0
 135;"Le Fantôme Noir";"Peu commune";Rubis;5;1
 136;"La Bête";Rare;"Rubis, Saphir";2;0
-137;Mushu;Rare;"Rubis, Acier";1;1
+137;Mushu;Rare;"Rubis, Acier";0;0
 138;Maurice;Rare;Rubis;4;0
 139;Dingo;"Super rare";Rubis;2;0
 140;"Lyle Tiberius Rourke";Rare;Rubis;3;1
@@ -194,7 +194,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 193;Mulan;Commune;Acier;8;0
 194;Orville;Commune;Acier;8;1
 195;"Miss Bianca";Commune;Acier;9;1
-196;Mufasa;"Peu commune";Acier;6;0
+196;Mufasa;"Peu commune";Acier;5;0
 197;Aladdin;Rare;Acier;4;1
 198;Bagheera;Légendaire;Acier;2;0
 199;Gantu;"Super rare";Acier;2;1
