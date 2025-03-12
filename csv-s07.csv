@@ -49,7 +49,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 48;Honeymaren;Commune;Améthyste;8;1
 49;Iago;Rare;Améthyste;3;1
 50;Chernabog;Rare;Améthyste;3;1
-51;Jafar;"Super rare";"Améthyste, Acier";3;1
+51;Jafar;"Super rare";"Améthyste, Acier";3;0
 52;Hadès;Rare;"Améthyste, Rubis";2;0
 53;"Madame Médusa";"Peu commune";"Améthyste, Rubis";5;0
 54;"TE KĀ";"Super rare";"Améthyste, Rubis";4;0
@@ -90,7 +90,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 89;Pat;Commune;Émeraude;9;1
 90;"Hiro Hamada";Commune;Émeraude;9;1
 91;"Chat du Cheshire";Commune;Émeraude;9;1
-92;"Shere Khan";Rare;Émeraude;2;2
+92;"Shere Khan";Rare;Émeraude;2;1
 93;Basil;Rare;Émeraude;3;0
 94;"Le Chapelier Fou";Rare;"Émeraude, Rubis";4;1
 95;"La Reine de Cœur";"Super rare";"Émeraude, Rubis";3;0
@@ -112,7 +112,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 111;"Le Roi de Cœur";Rare;Émeraude;3;0
 112;Duchesse;"Peu commune";Émeraude;4;0
 113;Anastasie;"Peu commune";Émeraude;5;1
-114;Pat;"Super rare";"Émeraude, Acier";4;1
+114;Pat;"Super rare";"Émeraude, Acier";4;0
 115;"Madame de Trémaine";Légendaire;Émeraude;0;0
 116;"Réveille-toi, Alice !";Commune;Émeraude;8;1
 117;"Il se traîne";Commune;Émeraude;8;1
