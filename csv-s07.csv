@@ -90,7 +90,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 89;Pat;Commune;Émeraude;9;1
 90;"Hiro Hamada";Commune;Émeraude;9;1
 91;"Chat du Cheshire";Commune;Émeraude;9;1
-92;"Shere Khan";Rare;Émeraude;2;1
+92;"Shere Khan";Rare;Émeraude;2;0
 93;Basil;Rare;Émeraude;3;0
 94;"Le Chapelier Fou";Rare;"Émeraude, Rubis";4;1
 95;"La Reine de Cœur";"Super rare";"Émeraude, Rubis";3;0
@@ -190,7 +190,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 189;Razoul;Commune;Acier;9;1
 190;Jafar;Commune;Acier;8;0
 191;Tic-Tac;Commune;Acier;9;1
-192;Kakamora;Commune;Acier;8;0
+192;Kakamora;Commune;Acier;8;1
 193;Mulan;Commune;Acier;8;0
 194;Orville;Commune;Acier;8;1
 195;"Miss Bianca";Commune;Acier;9;1
