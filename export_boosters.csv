@@ -1,5 +1,57 @@
 saison,number,nom,encre,rareté,is_foil
 "Premier Chapitre",60,YZMA,Améthyste,Commune,N
+"Premier Chapitre",102,"CIMETERRE VOLÉ",Émeraude,Commune,N
+"Premier Chapitre",138,AURORE,Saphir,Commune,N
+"Premier Chapitre",133,ENCHEVÊTRÉ,Rubis,Commune,N
+"Premier Chapitre",22,STITCH,Ambre,Commune,N
+"Premier Chapitre",176,CERBÈRE,Acier,Commune,N
+"Premier Chapitre",41,ELSA,Améthyste,"Peu commune",N
+"Premier Chapitre",86,"LE CHAPELIER FOU",Émeraude,"Peu commune",N
+"Premier Chapitre",170,"SCEPTRE D'ARENDELLE",Saphir,"Peu commune",N
+"Premier Chapitre",203,"TABARD DE MOUSQUETAIRE",Acier,Rare,N
+"Premier Chapitre",56,"LA REINE",Améthyste,"Super rare",N
+"Premier Chapitre",92,TAMATOA,Émeraude,"Peu commune",Y
+
+"Premier Chapitre",40,ELSA,Améthyste,Commune,N
+"Premier Chapitre",89,"MICKEY MOUSE",Émeraude,Commune,N
+"Premier Chapitre",155,MUFASA,Saphir,Commune,N
+"Premier Chapitre",120,PONGO,Rubis,Commune,N
+"Premier Chapitre",20,SIMBA,Ambre,Commune,N
+"Premier Chapitre",197,"ALLUMEZ LES MÊCHES !",Acier,Commune,N
+"Premier Chapitre",65,Réflexion,Améthyste,"Peu commune",N
+"Premier Chapitre",92,TAMATOA,Émeraude,"Peu commune",N
+"Premier Chapitre",146,"GRAND-MÈRE TALA",Saphir,"Peu commune",N
+"Premier Chapitre",134,"POMME EMPOISONNÉE",Rubis,Rare,N
+"Premier Chapitre",126,"TE KĀ",Rubis,"Super rare",N
+"Premier Chapitre",135,"BOUCLIER DE VERTU",Rubis,"Peu commune",Y
+
+"Premier Chapitre",57,"MADAME DE GARDEROBE",Améthyste,Commune,N
+"Premier Chapitre",73,"LE DUC DE WESELTON",Émeraude,Commune,N
+"Premier Chapitre",150,MALÉFIQUE,Saphir,Commune,N
+"Premier Chapitre",105,ALADDIN,Rubis,Commune,N
+"Premier Chapitre",13,MINNIE,Ambre,Commune,N
+"Premier Chapitre",187,"PRINCE ERIC",Acier,Commune,N
+"Premier Chapitre",55,SVEN,Améthyste,"Peu commune",N
+"Premier Chapitre",95,"N'ÉCOUTE QUE MOI",Émeraude,"Peu commune",N
+"Premier Chapitre",166,"PANIER DE NOIX DE COCO",Saphir,"Peu commune",N
+"Premier Chapitre",149,JASMINE,Saphir,Rare,N
+"Premier Chapitre",50,GUIMAUVE,Améthyste,"Super rare",N
+"Premier Chapitre",72,"CRUELLA D'ENFER",Émeraude,Rare,Y
+
+"Premier Chapitre",63,GEL,Améthyste,Commune,N
+"Premier Chapitre",102,"CIMETERRE VOLÉ",Émeraude,Commune,N
+"Premier Chapitre",161,"DÉVELOPPE TON CERVEAU",Saphir,Commune,N
+"Premier Chapitre",103,ABU,Rubis,Commune,N
+"Premier Chapitre",17,PUMBAA,Ambre,Commune,N
+"Premier Chapitre",171,ALADDIN,Acier,Commune,N
+"Premier Chapitre",52,OLAF,Améthyste,"Peu commune",N
+"Premier Chapitre",99,"LA BÊTE EST À MOI !",Émeraude,"Peu commune",N
+"Premier Chapitre",146,"GRAND-MÈRE TALA",Saphir,"Peu commune",N
+"Premier Chapitre",123,SCAR,Rubis,Rare,N
+"Premier Chapitre",175,"CAPITAINE CROCHET",Acier,Rare,N
+"Premier Chapitre",8,"LE FOU",Ambre,"Peu commune",Y
+
+"Premier Chapitre",60,YZMA,Améthyste,Commune,N
 "Premier Chapitre",98,"CRUELLE DIABLESSE",Émeraude,Commune,N
 "Premier Chapitre",144,DONALD,Saphir,Commune,N
 "Premier Chapitre",111,DINGO,Rubis,Commune,N
@@ -2546,56 +2598,4 @@ saison,number,nom,encre,rareté,is_foil
 "Premier Chapitre",51,"MICKEY MOUSE",Améthyste,"Super rare",N
 "Premier Chapitre",10,MAXIMUS,Ambre,"Super rare",N
 "Premier Chapitre",93,"LA FÉE CLOCHETTE",Émeraude,Commune,Y
-
-"Premier Chapitre",17,PUMBAA,Ambre,Commune,N
-"Premier Chapitre",45,JAFAR,Améthyste,Commune,N
-"Premier Chapitre",73,"LE DUC DE WESELTON",Émeraude,Commune,N
-"Premier Chapitre",150,MALÉFIQUE,Saphir,Commune,N
-"Premier Chapitre",105,ALADDIN,Rubis,Commune,N
-"Premier Chapitre",176,CERBÈRE,Acier,Commune,N
-"Premier Chapitre",117,VAIANA,Rubis,"Peu commune",N
-"Premier Chapitre",52,OLAF,Améthyste,"Peu commune",N
-"Premier Chapitre",83,"JUMBA JOOKIBA",Émeraude,"Peu commune",N
-"Premier Chapitre",9,LILO,Ambre,Rare,N
-"Premier Chapitre",90,"MÈRE GOTHEL",Émeraude,"Super rare",N
-"Premier Chapitre",181,HERCULE,Acier,Commune,Y
-
-"Premier Chapitre",7,HEIHEI,Ambre,Commune,N
-"Premier Chapitre",63,GEL,Améthyste,Commune,N
-"Premier Chapitre",102,"CIMETERRE VOLÉ",Émeraude,Commune,N
-"Premier Chapitre",161,"DÉVELOPPE TON CERVEAU",Saphir,Commune,N
-"Premier Chapitre",103,ABU,Rubis,Commune,N
-"Premier Chapitre",201,"MIROIR DE LA BÊTE",Acier,Commune,N
-"Premier Chapitre",130,"FEU DU DRAGON",Rubis,"Peu commune",N
-"Premier Chapitre",55,SVEN,Améthyste,"Peu commune",N
-"Premier Chapitre",95,"N'ÉCOUTE QUE MOI",Émeraude,"Peu commune",N
-"Premier Chapitre",23,STITCH,Ambre,"Super rare",N
-"Premier Chapitre",75,GÉNIE,Émeraude,"Super rare",N
-"Premier Chapitre",53,PASCAL,Améthyste,"Peu commune",Y
-
-"Premier Chapitre",27,"HAKUNA MATATA",Ambre,Commune,N
-"Premier Chapitre",47,"BALAIS MAGIQUES",Améthyste,Commune,N
-"Premier Chapitre",96,RUÉE,Émeraude,Commune,N
-"Premier Chapitre",145,POLOCHON,Saphir,Commune,N
-"Premier Chapitre",133,ENCHEVÊTRÉ,Rubis,Commune,N
-"Premier Chapitre",182,KRISTOFF,Acier,Commune,N
-"Premier Chapitre",167,"ŒIL DES MOIRES",Saphir,"Peu commune",N
-"Premier Chapitre",12,"MICKEY MOUSE",Ambre,"Peu commune",N
-"Premier Chapitre",172,"LA BÊTE",Acier,"Peu commune",N
-"Premier Chapitre",173,"CAPITAINE CROCHET",Acier,Rare,N
-"Premier Chapitre",29,"JUSTE À TEMPS",Ambre,Rare,N
-"Premier Chapitre",71,"CHAT DU CHESHIRE",Émeraude,"Peu commune",Y
-
-"Premier Chapitre",20,SIMBA,Ambre,Commune,N
-"Premier Chapitre",57,"MADAME DE GARDEROBE",Améthyste,Commune,N
-"Premier Chapitre",69,Aladdin,Émeraude,Commune,N
-"Premier Chapitre",153,MERLIN,Saphir,Commune,N
-"Premier Chapitre",116,MINNIE,Rubis,Commune,N
-"Premier Chapitre",197,"ALLUMEZ LES MÊCHES !",Acier,Commune,N
-"Premier Chapitre",160,TRITON,Saphir,"Peu commune",N
-"Premier Chapitre",31,"TU M'AS OUBLIÉ",Ambre,"Peu commune",N
-"Premier Chapitre",184,LILO,Acier,"Peu commune",N
-"Premier Chapitre",198,"TUONS LA BÊTE !",Acier,Rare,N
-"Premier Chapitre",30,"PARTIR LÀ-BAS",Ambre,Rare,N
-"Premier Chapitre",91,"PETER PAN",Émeraude,Commune,Y
 
