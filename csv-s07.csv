@@ -139,7 +139,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 138;Maurice;Rare;Rubis;4;0
 139;Dingo;"Super rare";Rubis;2;0
 140;"Lyle Tiberius Rourke";Rare;Rubis;3;1
-141;Mulan;"Super rare";"Rubis, Acier";1;0
+141;Mulan;"Super rare";"Rubis, Acier";0;0
 142;Baloo;Légendaire;Rubis;0;0
 143;Ratigan;Légendaire;Rubis;1;0
 144;"Seigneur Kay";"Peu commune";Rubis;7;0
@@ -197,7 +197,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 196;Mufasa;"Peu commune";Acier;5;0
 197;Aladdin;Rare;Acier;4;1
 198;Bagheera;Légendaire;Acier;2;0
-199;Gantu;"Super rare";Acier;2;1
+199;Gantu;"Super rare";Acier;1;0
 200;"Mickey Mouse";Légendaire;Acier;1;0
 201;"Reconstruire l’Atlantide";Rare;Acier;4;0
 202;"Les problèmes vont par paire";"Peu commune";Acier;5;1
