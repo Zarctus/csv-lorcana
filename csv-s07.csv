@@ -157,7 +157,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 156;Vaiana;Commune;Saphir;7;0
 157;"Monsieur D'Arque";Commune;Saphir;7;0
 158;"Gaëtan Molière";"Peu commune";Saphir;7;1
-159;Belle;Commune;Saphir;3;0
+159;Belle;Commune;Saphir;0;0
 160;Lucky;Rare;Saphir;3;0
 161;Dawson;Rare;Saphir;3;0
 162;Tamatoa;Légendaire;Saphir;1;0
@@ -177,7 +177,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 176;"Belle Marianne";"Super rare";"Saphir, Acier";4;0
 177;"L’eau a de la mémoire";Commune;Saphir;8;0
 178;"La berceuse d'Ahtohallan";Rare;Saphir;2;0
-179;"Spirale de Saphir";"Peu commune";Saphir;4;0
+179;"Spirale de Saphir";"Peu commune";Saphir;2;0
 180;"Chargeur de Baymax";Commune;Saphir;8;0
 181;"Dr. Calico";Commune;Acier;8;1
 182;Akela;Commune;Acier;9;0
@@ -191,7 +191,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 190;Jafar;Commune;Acier;8;0
 191;Tic-Tac;Commune;Acier;9;1
 192;Kakamora;Commune;Acier;8;1
-193;Mulan;Commune;Acier;8;0
+193;Mulan;Commune;Acier;4;0
 194;Orville;Commune;Acier;8;1
 195;"Miss Bianca";Commune;Acier;9;1
 196;Mufasa;"Peu commune";Acier;5;0
