@@ -71,7 +71,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 70;Kinaï;Rare;Améthyste;5;0
 71;Kuzco;"Peu commune";"Améthyste, Émeraude";6;1
 72;Anna;"Peu commune";"Améthyste, Saphir";4;0
-73;Donald;Légendaire;Améthyste;1;0
+73;Donald;Légendaire;Améthyste;0;0
 74;"La Reine";Légendaire;Améthyste;0;0
 75;Panique;Commune;Améthyste;9;1
 76;Archimède;"Peu commune";Améthyste;7;1
@@ -141,7 +141,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 140;"Lyle Tiberius Rourke";Rare;Rubis;3;1
 141;Mulan;"Super rare";"Rubis, Acier";0;0
 142;Baloo;Légendaire;Rubis;0;0
-143;Ratigan;Légendaire;Rubis;1;0
+143;Ratigan;Légendaire;Rubis;0;0
 144;"Seigneur Kay";"Peu commune";Rubis;7;0
 145;"Milo Thatch";Rare;Rubis;2;0
 146;"Edgar Balthazar";Commune;Rubis;8;1
@@ -196,9 +196,9 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 195;"Miss Bianca";Commune;Acier;9;1
 196;Mufasa;"Peu commune";Acier;5;0
 197;Aladdin;Rare;Acier;4;1
-198;Bagheera;Légendaire;Acier;2;0
+198;Bagheera;Légendaire;Acier;1;0
 199;Gantu;"Super rare";Acier;1;0
-200;"Mickey Mouse";Légendaire;Acier;1;0
+200;"Mickey Mouse";Légendaire;Acier;0;0
 201;"Reconstruire l’Atlantide";Rare;Acier;4;0
 202;"Les problèmes vont par paire";"Peu commune";Acier;5;1
 203;"Spirale d’acier";"Peu commune";Acier;7;0
