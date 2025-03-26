@@ -54,7 +54,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 53;"Pepa Madrigal";Rare;Améthyste;6;0
 54;"Peter Pan";"Super rare";Améthyste;3;0
 55;Pico;Commune;Améthyste;18;2
-56;Tic-Tac;Commune;Améthyste;20;0
+56;Tic-Tac;Commune;Améthyste;21;0
 57;Ursula;"Peu commune";Améthyste;10;0
 58;Ursula;Légendaire;Améthyste;0;0
 59;"Yen Sid";Légendaire;Améthyste;1;0
@@ -154,7 +154,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 153;Raiponce;Rare;Saphir;5;0
 154;Eurêka;"Peu commune";Saphir;5;0
 155;Sisu;"Peu commune";Saphir;13;0
-156;"La Reine";Légendaire;Saphir;1;0
+156;"La Reine";Légendaire;Saphir;0;0
 157;"Chef Transformé";Commune;Saphir;16;0
 158;Triton;Légendaire;Saphir;0;0
 159;Triton;Rare;Saphir;7;2
