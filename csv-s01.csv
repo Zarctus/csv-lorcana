@@ -68,7 +68,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 67;"CHAUDRON D'URSULA";"Peu commune";Améthyste;12;1
 68;"MONTRE À GOUSSET";Rare;Améthyste;4;0
 69;Aladdin;Commune;Émeraude;28;2
-70;"LA BÊTE";Légendaire;Émeraude;1;1
+70;"LA BÊTE";Légendaire;Émeraude;1;0
 71;"CHAT DU CHESHIRE";"Peu commune";Émeraude;10;2
 72;"CRUELLA D'ENFER";Rare;Émeraude;4;1
 73;"LE DUC DE WESELTON";Commune;Émeraude;29;1
@@ -145,7 +145,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 144;DONALD;Commune;Saphir;27;2
 145;POLOCHON;Commune;Saphir;27;3
 146;"GRAND-MÈRE TALA";"Peu commune";Saphir;15;0
-147;HADÈS;Légendaire;Saphir;1;0
+147;HADÈS;Légendaire;Saphir;0;0
 148;JASMINE;Commune;Saphir;26;1
 149;JASMINE;Rare;Saphir;6;0
 150;MALÉFIQUE;Commune;Saphir;30;2
