@@ -1,4 +1,56 @@
 saison,number,nom,encre,rareté,is_foil
+"L’ile d' Archazia",16,"Mariano Guzmán",Ambre,Commune,N
+"L’ile d' Archazia",102,Pacha,Émeraude,Commune,N
+"L’ile d' Archazia",62,Rajah,Améthyste,Commune,N
+"L’ile d' Archazia",177,"L’eau a de la mémoire",Saphir,Commune,N
+"L’ile d' Archazia",127,Cybug,Rubis,Commune,N
+"L’ile d' Archazia",184,Volt,Acier,Commune,N
+"L’ile d' Archazia",166,Marie,Saphir,"Peu commune",N
+"L’ile d' Archazia",7,Peg,Ambre,"Peu commune",N
+"L’ile d' Archazia",80,"Manœuvres magiques",Améthyste,"Peu commune",N
+"L’ile d' Archazia",45,Kuzco,Améthyste,Rare,N
+"L’ile d' Archazia",138,Maurice,Rubis,Rare,N
+"L’ile d' Archazia",220,"La berceuse d'Ahtohallan",Saphir,Enchantée,Y
+
+"L’ile d' Archazia",85,Javotte,Émeraude,Commune,N
+"L’ile d' Archazia",60,Bucky,Améthyste,Commune,N
+"L’ile d' Archazia",165,Toulouse,Saphir,Commune,N
+"L’ile d' Archazia",150,"Outil inhabituel",Rubis,Commune,N
+"L’ile d' Archazia",42,"Plat de spaghetti",Ambre,Commune,N
+"L’ile d' Archazia",194,Orville,Acier,Commune,N
+"L’ile d' Archazia",107,"Monsieur Mouche",Émeraude,"Peu commune",N
+"L’ile d' Archazia",65,Sven,Améthyste,"Peu commune",N
+"L’ile d' Archazia",22,"Félix Fixe Junior",Ambre,"Peu commune",N
+"L’ile d' Archazia",152,"Le Diamant Œil-du-Diable",Rubis,Rare,N
+"L’ile d' Archazia",4,Volt,Ambre,"Super rare",N
+"L’ile d' Archazia",37,"Pepa Madrigal",Ambre,Commune,Y
+
+"L’ile d' Archazia",117,"Il se traîne",Émeraude,Commune,N
+"L’ile d' Archazia",61,Peine,Améthyste,Commune,N
+"L’ile d' Archazia",157,"Monsieur D'Arque",Saphir,Commune,N
+"L’ile d' Archazia",128,"Un frère Stabbington",Rubis,Commune,N
+"L’ile d' Archazia",8,Suzy,Ambre,Commune,N
+"L’ile d' Archazia",193,Mulan,Acier,Commune,N
+"L’ile d' Archazia",103,"Tweedledee et Tweedeldum",Émeraude,"Peu commune",N
+"L’ile d' Archazia",179,"Spirale de Saphir",Saphir,"Peu commune",N
+"L’ile d' Archazia",53,"Madame Médusa",Améthyste,"Peu commune",N
+"L’ile d' Archazia",52,Hadès,Améthyste,Rare,N
+"L’ile d' Archazia",111,"Le Roi de Cœur",Émeraude,Rare,N
+"L’ile d' Archazia",129,"Gardes cartes",Rubis,Commune,Y
+
+"L’ile d' Archazia",99,Berlioz,Émeraude,Commune,N
+"L’ile d' Archazia",48,Honeymaren,Améthyste,Commune,N
+"L’ile d' Archazia",157,"Monsieur D'Arque",Saphir,Commune,N
+"L’ile d' Archazia",150,"Outil inhabituel",Rubis,Commune,N
+"L’ile d' Archazia",43,"Kanine Krunchies",Ambre,Commune,N
+"L’ile d' Archazia",184,Volt,Acier,Commune,N
+"L’ile d' Archazia",32,Perla,Ambre,"Peu commune",N
+"L’ile d' Archazia",174,"Jebidiah Farnsworth",Saphir,"Peu commune",N
+"L’ile d' Archazia",134,Vaiana,Rubis,"Peu commune",N
+"L’ile d' Archazia",92,"Shere Khan",Émeraude,Rare,N
+"L’ile d' Archazia",140,"Lyle Tiberius Rourke",Rubis,Rare,N
+"L’ile d' Archazia",6,César,Ambre,Commune,Y
+
 "Premier Chapitre",58,"LA FÉE CLOCHETTE",Améthyste,Commune,N
 "Premier Chapitre",91,"PETER PAN",Émeraude,Commune,N
 "Premier Chapitre",154,"MICKEY MOUSE",Saphir,Commune,N
@@ -2546,56 +2598,4 @@ saison,number,nom,encre,rareté,is_foil
 "Premier Chapitre",80,IAGO,Émeraude,Rare,N
 "Premier Chapitre",137,ARIEL,Saphir,Rare,N
 "Premier Chapitre",94,"RECOMMENCE !",Émeraude,Rare,Y
-
-"Premier Chapitre",26,"TRÈS MAUVAIS CARACTÈRE !",Ambre,Commune,N
-"Premier Chapitre",64,"MES AMIS DE L'AU-DELÀ",Améthyste,Commune,N
-"Premier Chapitre",89,"MICKEY MOUSE",Émeraude,Commune,N
-"Premier Chapitre",169,"FLEUR AUX PÉTALES D'OR",Saphir,Commune,N
-"Premier Chapitre",122,SCAR,Rubis,Commune,N
-"Premier Chapitre",182,KRISTOFF,Acier,Commune,N
-"Premier Chapitre",170,"SCEPTRE D'ARENDELLE",Saphir,"Peu commune",N
-"Premier Chapitre",3,CENDRILLON,Ambre,"Peu commune",N
-"Premier Chapitre",190,SIMBA,Acier,"Peu commune",N
-"Premier Chapitre",5,HADÈS,Ambre,Rare,N
-"Premier Chapitre",84,KUZCO,Émeraude,Rare,N
-"Premier Chapitre",90,"MÈRE GOTHEL",Émeraude,"Super rare",Y
-
-"Premier Chapitre",20,SIMBA,Ambre,Commune,N
-"Premier Chapitre",45,JAFAR,Améthyste,Commune,N
-"Premier Chapitre",69,Aladdin,Émeraude,Commune,N
-"Premier Chapitre",148,JASMINE,Saphir,Commune,N
-"Premier Chapitre",109,ELSA,Rubis,Commune,N
-"Premier Chapitre",187,"PRINCE ERIC",Acier,Commune,N
-"Premier Chapitre",167,"ŒIL DES MOIRES",Saphir,"Peu commune",N
-"Premier Chapitre",11,MAXIMUS,Ambre,"Peu commune",N
-"Premier Chapitre",200,"FRACASSER !",Acier,"Peu commune",N
-"Premier Chapitre",61,ZEUS,Améthyste,Rare,N
-"Premier Chapitre",142,BELLE,Saphir,Légendaire,N
-"Premier Chapitre",131,"ATTISER LES FLAMMES",Rubis,"Peu commune",Y
-
-"Premier Chapitre",28,"LUEUR RÉPARATRICE",Ambre,Commune,N
-"Premier Chapitre",38,"DR. FACILIER",Améthyste,Commune,N
-"Premier Chapitre",79,HORACE,Émeraude,Commune,N
-"Premier Chapitre",148,JASMINE,Saphir,Commune,N
-"Premier Chapitre",109,ELSA,Rubis,Commune,N
-"Premier Chapitre",194,"LA FÉE CLOCHETTE",Acier,Commune,N
-"Premier Chapitre",146,"GRAND-MÈRE TALA",Saphir,"Peu commune",N
-"Premier Chapitre",12,"MICKEY MOUSE",Ambre,"Peu commune",N
-"Premier Chapitre",191,"MONSIEUR STARKEY",Acier,"Peu commune",N
-"Premier Chapitre",158,SCAR,Saphir,Rare,N
-"Premier Chapitre",37,"DR. FACILIER",Améthyste,Rare,N
-"Premier Chapitre",116,MINNIE,Rubis,Commune,Y
-
-"Premier Chapitre",19,SÉBASTIEN,Ambre,Commune,N
-"Premier Chapitre",58,"LA FÉE CLOCHETTE",Améthyste,Commune,N
-"Premier Chapitre",100,"TRAHISON BRUTALE",Émeraude,Commune,N
-"Premier Chapitre",155,MUFASA,Saphir,Commune,N
-"Premier Chapitre",103,ABU,Rubis,Commune,N
-"Premier Chapitre",201,"MIROIR DE LA BÊTE",Acier,Commune,N
-"Premier Chapitre",106,CAPITAINE,Rubis,"Peu commune",N
-"Premier Chapitre",62,EMBERLIFICOTAGE,Améthyste,"Peu commune",N
-"Premier Chapitre",81,JASPER,Émeraude,"Peu commune",N
-"Premier Chapitre",76,GÉNIE,Émeraude,Rare,N
-"Premier Chapitre",104,ALADDIN,Rubis,"Super rare",N
-"Premier Chapitre",49,MALÉFIQUE,Améthyste,Commune,Y
 
