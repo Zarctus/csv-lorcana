@@ -1,4 +1,43 @@
 saison,number,nom,encre,rareté,is_foil
+"L’ile d' Archazia",101,Yzma,Émeraude,Commune,N
+"L’ile d' Archazia",62,Rajah,Améthyste,Commune,N
+"L’ile d' Archazia",155,Mattias,Saphir,Commune,N
+"L’ile d' Archazia",122,"La Reine de Cœur",Rubis,Commune,N
+"L’ile d' Archazia",6,César,Ambre,Commune,N
+"L’ile d' Archazia",191,Tic-Tac,Acier,Commune,N
+"L’ile d' Archazia",39,"Restituer le Cœur",Ambre,"Peu commune",N
+"L’ile d' Archazia",41,"Spirale d’ambre",Ambre,"Peu commune",N
+"L’ile d' Archazia",72,Anna,Améthyste,"Peu commune",N
+"L’ile d' Archazia",109,"John Silver",Émeraude,Rare,N
+"L’ile d' Archazia",96,"Hiro Hamada",Émeraude,"Super rare",N
+"L’ile d' Archazia",155,Mattias,Saphir,Commune,Y
+
+"L’ile d' Archazia",99,Berlioz,Émeraude,Commune,N
+"L’ile d' Archazia",47,"Le gardien du Trésor",Améthyste,Commune,N
+"L’ile d' Archazia",156,Vaiana,Saphir,Commune,N
+"L’ile d' Archazia",131,Toby,Rubis,Commune,N
+"L’ile d' Archazia",3,"Le Roi Stéphane",Ambre,Commune,N
+"L’ile d' Archazia",189,Razoul,Acier,Commune,N
+"L’ile d' Archazia",104,Baymax,Émeraude,"Peu commune",N
+"L’ile d' Archazia",34,Koda,Ambre,"Peu commune",N
+"L’ile d' Archazia",57,"Cobra géant",Améthyste,"Peu commune",N
+"L’ile d' Archazia",25,"Isabela Madrigal",Ambre,Rare,N
+"L’ile d' Archazia",29,Pongo,Ambre,"Super rare",N
+"L’ile d' Archazia",190,Jafar,Acier,Commune,Y
+
+"L’ile d' Archazia",102,Pacha,Émeraude,Commune,N
+"L’ile d' Archazia",62,Rajah,Améthyste,Commune,N
+"L’ile d' Archazia",177,"L’eau a de la mémoire",Saphir,Commune,N
+"L’ile d' Archazia",127,Cybug,Rubis,Commune,N
+"L’ile d' Archazia",36,Calhoun,Ambre,Commune,N
+"L’ile d' Archazia",195,"Miss Bianca",Acier,Commune,N
+"L’ile d' Archazia",80,"Manœuvres magiques",Améthyste,"Peu commune",N
+"L’ile d' Archazia",132,"Les Rapetou",Rubis,"Peu commune",N
+"L’ile d' Archazia",202,"Les problèmes vont par paire",Acier,"Peu commune",N
+"L’ile d' Archazia",10,Clochard,Ambre,Rare,N
+"L’ile d' Archazia",2,Perdita,Ambre,Rare,N
+"L’ile d' Archazia",35,"Mirabel Madrigal",Ambre,"Super rare",Y
+
 "L’ile d' Archazia",16,"Mariano Guzmán",Ambre,Commune,N
 "L’ile d' Archazia",102,Pacha,Émeraude,Commune,N
 "L’ile d' Archazia",62,Rajah,Améthyste,Commune,N
@@ -2559,43 +2598,4 @@ saison,number,nom,encre,rareté,is_foil
 "Premier Chapitre",94,"RECOMMENCE !",Émeraude,Rare,N
 "Premier Chapitre",139,AURORE,Saphir,"Super rare",N
 "Premier Chapitre",156,PHILOCTÈTE,Saphir,Commune,Y
-
-"Premier Chapitre",32,ZIRGOUFLEX,Ambre,Commune,N
-"Premier Chapitre",60,YZMA,Améthyste,Commune,N
-"Premier Chapitre",102,"CIMETERRE VOLÉ",Émeraude,Commune,N
-"Premier Chapitre",138,AURORE,Saphir,Commune,N
-"Premier Chapitre",133,ENCHEVÊTRÉ,Rubis,Commune,N
-"Premier Chapitre",174,"CAPITAINE CROCHET",Acier,Commune,N
-"Premier Chapitre",131,"ATTISER LES FLAMMES",Rubis,"Peu commune",N
-"Premier Chapitre",35,ANNA,Améthyste,"Peu commune",N
-"Premier Chapitre",81,JASPER,Émeraude,"Peu commune",N
-"Premier Chapitre",44,JAFAR,Améthyste,Rare,N
-"Premier Chapitre",126,"TE KĀ",Rubis,"Super rare",N
-"Premier Chapitre",191,"MONSIEUR STARKEY",Acier,"Peu commune",Y
-
-"Premier Chapitre",17,PUMBAA,Ambre,Commune,N
-"Premier Chapitre",49,MALÉFIQUE,Améthyste,Commune,N
-"Premier Chapitre",91,"PETER PAN",Émeraude,Commune,N
-"Premier Chapitre",156,PHILOCTÈTE,Saphir,Commune,N
-"Premier Chapitre",116,MINNIE,Rubis,Commune,N
-"Premier Chapitre",174,"CAPITAINE CROCHET",Acier,Commune,N
-"Premier Chapitre",166,"PANIER DE NOIX DE COCO",Saphir,"Peu commune",N
-"Premier Chapitre",1,ARIEL,Ambre,"Peu commune",N
-"Premier Chapitre",183,KRONK,Acier,"Peu commune",N
-"Premier Chapitre",6,HADÈS,Ambre,Rare,N
-"Premier Chapitre",147,HADÈS,Saphir,Légendaire,N
-"Premier Chapitre",182,KRISTOFF,Acier,Commune,Y
-
-"Premier Chapitre",13,MINNIE,Ambre,Commune,N
-"Premier Chapitre",64,"MES AMIS DE L'AU-DELÀ",Améthyste,Commune,N
-"Premier Chapitre",87,MÉGARA,Émeraude,Commune,N
-"Premier Chapitre",145,POLOCHON,Saphir,Commune,N
-"Premier Chapitre",124,"SERGENT TIBS",Rubis,Commune,N
-"Premier Chapitre",179,CRÉATURES,Acier,Commune,N
-"Premier Chapitre",164,"JE VOLE",Saphir,"Peu commune",N
-"Premier Chapitre",25,"C'EST LA FÊTE",Ambre,"Peu commune",N
-"Premier Chapitre",202,"POÊLE À FRIRE",Acier,"Peu commune",N
-"Premier Chapitre",80,IAGO,Émeraude,Rare,N
-"Premier Chapitre",137,ARIEL,Saphir,Rare,N
-"Premier Chapitre",94,"RECOMMENCE !",Émeraude,Rare,Y
 
