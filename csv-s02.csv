@@ -184,7 +184,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 183;Jafar;"Peu commune";Acier;0;0
 184;Jafar;Commune;Acier;7;0
 185;Kronk;Rare;Acier;8;0
-186;Lawrence;"Peu commune";Acier;4;1
+186;Lawrence;"Peu commune";Acier;1;1
 187;"Li Shang";"Peu commune";Acier;12;0
 188;"Balais magiques";Commune;Acier;12;0
 189;Namaari;Légendaire;Acier;0;0
@@ -197,7 +197,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 196;Tiana;"Super rare";Acier;0;0
 197;Tiana;Commune;Acier;13;0
 198;"Fonce !";Commune;Acier;8;1
-199;"Perdue dans l'hiver";Commune;Acier;3;0
+199;"Perdue dans l'hiver";Commune;Acier;0;0
 200;"Choisir son combat";"Peu commune";Acier;3;0
 201;"Plus ardent que le feu des volcans";Rare;Acier;0;0
 202;"Dernier canon";Commune;Acier;11;2
