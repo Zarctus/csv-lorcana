@@ -71,7 +71,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 70;Kinaï;Rare;Améthyste;6;0
 71;Kuzco;"Peu commune";"Améthyste, Émeraude";8;1
 72;Anna;"Peu commune";"Améthyste, Saphir";5;0
-73;Donald;Légendaire;Améthyste;1;0
+73;Donald;Légendaire;Améthyste;0;0
 74;"La Reine";Légendaire;Améthyste;1;0
 75;Panique;Commune;Améthyste;9;1
 76;Archimède;"Peu commune";Améthyste;7;1
@@ -124,7 +124,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 123;"La Dame marieuse";Commune;Rubis;11;1
 124;Denahi;"Peu commune";"Rubis, Acier";5;0
 125;"Un frère Stabbington";Commune;Rubis;10;0
-126;Belle;"Super rare";"Rubis, Saphir";1;0
+126;Belle;"Super rare";"Rubis, Saphir";0;0
 127;Cybug;Commune;Rubis;12;1
 128;"Un frère Stabbington";Commune;Rubis;10;1
 129;"Gardes cartes";Commune;Rubis;10;1
@@ -140,7 +140,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 139;Dingo;"Super rare";Rubis;4;0
 140;"Lyle Tiberius Rourke";Rare;Rubis;4;1
 141;Mulan;"Super rare";"Rubis, Acier";0;0
-142;Baloo;Légendaire;Rubis;1;0
+142;Baloo;Légendaire;Rubis;0;0
 143;Ratigan;Légendaire;Rubis;0;0
 144;"Seigneur Kay";"Peu commune";Rubis;9;0
 145;"Milo Thatch";Rare;Rubis;2;0
@@ -177,7 +177,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 176;"Belle Marianne";"Super rare";"Saphir, Acier";5;0
 177;"L’eau a de la mémoire";Commune;Saphir;11;0
 178;"La berceuse d'Ahtohallan";Rare;Saphir;3;1
-179;"Spirale de Saphir";"Peu commune";Saphir;4;0
+179;"Spirale de Saphir";"Peu commune";Saphir;1;0
 180;"Chargeur de Baymax";Commune;Saphir;12;0
 181;"Dr. Calico";Commune;Acier;10;1
 182;Akela;Commune;Acier;10;0
