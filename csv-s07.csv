@@ -26,7 +26,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 25;"Isabela Madrigal";Rare;Ambre;4;0
 26;Calhoun;Rare;"Ambre, Rubis";3;0
 27;"Ralph la Casse";Rare;Ambre;3;1
-28;Lady;"Super rare";"Ambre, Émeraude";5;0
+28;Lady;"Super rare";"Ambre, Émeraude";3;0
 29;Pongo;"Super rare";"Ambre, Saphir";3;0
 30;Kinaï;Rare;Ambre;2;1
 31;Minnie;Légendaire;Ambre;0;0
@@ -113,7 +113,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 112;Duchesse;"Peu commune";Émeraude;6;0
 113;Anastasie;"Peu commune";Émeraude;6;1
 114;Pat;"Super rare";"Émeraude, Acier";4;0
-115;"Madame de Trémaine";Légendaire;Émeraude;1;0
+115;"Madame de Trémaine";Légendaire;Émeraude;0;0
 116;"Réveille-toi, Alice !";Commune;Émeraude;11;1
 117;"Il se traîne";Commune;Émeraude;11;1
 118;"Le retour d’Hercule";Légendaire;Émeraude;0;0
@@ -135,7 +135,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 134;Vaiana;"Peu commune";Rubis;7;0
 135;"Le Fantôme Noir";"Peu commune";Rubis;7;2
 136;"La Bête";Rare;"Rubis, Saphir";2;0
-137;Mushu;Rare;"Rubis, Acier";1;0
+137;Mushu;Rare;"Rubis, Acier";0;0
 138;Maurice;Rare;Rubis;5;0
 139;Dingo;"Super rare";Rubis;4;0
 140;"Lyle Tiberius Rourke";Rare;Rubis;4;1
