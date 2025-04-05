@@ -57,7 +57,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 56;Tic-Tac;Commune;Améthyste;21;0
 57;Ursula;"Peu commune";Améthyste;10;0
 58;Ursula;Légendaire;Améthyste;0;0
-59;"Yen Sid";Légendaire;Améthyste;1;0
+59;"Yen Sid";Légendaire;Améthyste;0;0
 60;"Pauvres âmes en perdition";Commune;Améthyste;18;2
 61;"La Deuxième Étoile sur la Droite";Rare;Améthyste;6;0
 62;"Passer à l'action";Commune;Améthyste;21;2
@@ -177,7 +177,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 176;"La Bête";Commune;Acier;15;6
 177;"Chi Fu";"Peu commune";Acier;13;0
 178;Chien-Po;Commune;Acier;25;2
-179;Donald;Légendaire;Acier;1;0
+179;Donald;Légendaire;Acier;0;0
 180;Hercule;Rare;Acier;1;0
 181;"Le Fou";Rare;Acier;5;0
 182;"Li Shang";"Peu commune";Acier;12;0
