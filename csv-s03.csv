@@ -116,7 +116,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 111;Kakamora;Commune;Rubis;12;1
 112;"Madame Médusa";"Super rare";Rubis;0;0
 113;Maui;"Peu commune";Rubis;6;0
-114;Maui;Rare;Rubis;4;2
+114;Maui;Rare;Rubis;4;1
 115;"Milo Thatch";Commune;Rubis;11;0
 116;Vaiana;Rare;Rubis;3;0
 117;Vaiana;Commune;Rubis;9;0
@@ -132,7 +132,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 127;Zaza;Commune;Rubis;10;1
 128;"Bombardement en piqué !";"Peu commune";Rubis;5;0
 129;"Moi, j'ai un rêve";"Peu commune";Rubis;6;0
-130;"Debout ! Tout de suite !";Rare;Rubis;1;2
+130;"Debout ! Tout de suite !";Rare;Rubis;1;1
 131;Voyage;Commune;Rubis;10;0
 132;"L'hameçon de Maui";Rare;Rubis;4;0
 133;"Talisman sumérien";"Peu commune";Rubis;8;0
