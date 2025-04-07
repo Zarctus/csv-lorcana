@@ -141,7 +141,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 140;"Lyle Tiberius Rourke";Rare;Rubis;5;1
 141;Mulan;"Super rare";"Rubis, Acier";0;0
 142;Baloo;Légendaire;Rubis;0;0
-143;Ratigan;Légendaire;Rubis;1;0
+143;Ratigan;Légendaire;Rubis;0;0
 144;"Seigneur Kay";"Peu commune";Rubis;9;0
 145;"Milo Thatch";Rare;Rubis;2;0
 146;"Edgar Balthazar";Commune;Rubis;11;1
@@ -174,7 +174,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 173;Jasmine;Rare;"Saphir, Acier";4;0
 174;"Jebidiah Farnsworth";"Peu commune";Saphir;7;1
 175;Baymax;Rare;Saphir;4;1
-176;"Belle Marianne";"Super rare";"Saphir, Acier";6;0
+176;"Belle Marianne";"Super rare";"Saphir, Acier";5;0
 177;"L’eau a de la mémoire";Commune;Saphir;13;0
 178;"La berceuse d'Ahtohallan";Rare;Saphir;3;1
 179;"Spirale de Saphir";"Peu commune";Saphir;1;0
