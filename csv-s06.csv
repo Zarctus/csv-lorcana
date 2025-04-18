@@ -122,7 +122,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 121;Vaiana;Rare;Rubis;1;0
 122;Pat;Rare;Rubis;4;1
 123;Dingo;Rare;Rubis;2;0
-124;Maui;Légendaire;Rubis;1;0
+124;Maui;Légendaire;Rubis;0;0
 125;Hadès;Légendaire;Rubis;0;0
 126;Tigrou;Rare;Rubis;4;0
 127;Scar;"Super rare";Rubis;2;0
@@ -155,7 +155,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 154;"Hiro Hamada";Rare;Saphir;4;1
 155;"Tadashi Hamada";Rare;Saphir;1;0
 156;Baymax;Rare;Saphir;3;0
-157;Baymax;Légendaire;Saphir;2;0
+157;Baymax;Légendaire;Saphir;0;0
 158;Yokai;Commune;Saphir;10;0
 159;Flaversham;Rare;Saphir;2;1
 160;Yokai;Rare;Saphir;4;0

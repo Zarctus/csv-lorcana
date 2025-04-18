@@ -16,7 +16,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 15;"MONSIEUR MOUCHE";Commune;Ambre;27;3
 16;"PRINCE PHILIPPE";"Peu commune";Ambre;9;2
 17;PUMBAA;Commune;Ambre;28;1
-18;RAIPONCE;Légendaire;Ambre;3;0
+18;RAIPONCE;Légendaire;Ambre;2;0
 19;SÉBASTIEN;Commune;Ambre;24;2
 20;SIMBA;Commune;Ambre;21;1
 21;STITCH;Légendaire;Ambre;0;1
@@ -40,7 +40,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 39;"DR. FACILIER";Rare;Améthyste;9;1
 40;ELSA;Commune;Améthyste;26;1
 41;ELSA;"Peu commune";Améthyste;18;0
-42;ELSA;Légendaire;Améthyste;2;0
+42;ELSA;Légendaire;Améthyste;1;0
 43;FLOTSAM;Rare;Améthyste;10;0
 44;JAFAR;Rare;Améthyste;7;0
 45;JAFAR;Commune;Améthyste;28;2
@@ -80,7 +80,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 79;HORACE;Commune;Émeraude;28;1
 80;IAGO;Rare;Émeraude;11;0
 81;JASPER;"Peu commune";Émeraude;22;1
-82;"JOHN SILVER";Légendaire;Émeraude;1;0
+82;"JOHN SILVER";Légendaire;Émeraude;0;0
 83;"JUMBA JOOKIBA";"Peu commune";Émeraude;19;2
 84;KUZCO;Rare;Émeraude;6;1
 85;"MADAME DE TRÉMAINE";Rare;Émeraude;8;1
@@ -111,7 +111,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 110;GASTON;Commune;Rubis;23;1
 111;DINGO;Commune;Rubis;26;1
 112;"LE FOU";Rare;Rubis;8;1
-113;MALÉFIQUE;Légendaire;Rubis;3;0
+113;MALÉFIQUE;Légendaire;Rubis;2;0
 114;MAUI;Rare;Rubis;5;0
 115;"MICKEY MOUSE";Légendaire;Rubis;0;0
 116;MINNIE;Commune;Rubis;20;3
