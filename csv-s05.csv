@@ -6,7 +6,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 5;Kenaï;Commune;Ambre;13;2
 6;"Vanellope von Schweetz";Commune;Ambre;13;1
 7;Muche;Commune;Ambre;14;1
-8;Lilo;Commune;Ambre;14;1
+8;Lilo;Commune;Ambre;15;1
 9;"Vanellope von Schweetz";Commune;Ambre;14;0
 10;"Félix Fixe Junior";Commune;Ambre;17;1
 11;Gazelle;Commune;Ambre;15;1
@@ -14,9 +14,9 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 13;Kristoff;Rare;Ambre;8;0
 14;"Mirabel Madrigal";Légendaire;Ambre;0;0
 15;Minnie;"Super rare";Ambre;5;0
-16;Daisy;"Super rare";Ambre;2;0
+16;Daisy;"Super rare";Ambre;3;0
 17;"Félix Fixe Junior";Commune;Ambre;13;1
-18;Vaiana;Rare;Ambre;4;0
+18;Vaiana;Rare;Ambre;5;0
 19;"Vanellope von Schweetz";Rare;Ambre;4;0
 20;"Adam de la Halle";"Peu commune";Ambre;8;2
 21;"Ralph la Casse";Rare;Ambre;5;0
@@ -28,16 +28,16 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 27;Ranimer;Rare;Ambre;7;1
 28;"Un mirage à deux visages";"Super rare";Ambre;3;0
 29;"Invitation au bal";"Peu commune";Ambre;14;0
-30;"Philtre de guérison";Commune;Ambre;14;0
+30;"Philtre de guérison";Commune;Ambre;15;0
 31;"Cœur du détecteur de la Reine";Rare;Ambre;4;0
 32;"Chromicône d'Ambre";"Peu commune";Ambre;11;1
-33;"Tour de Raiponce";"Peu commune";Ambre;11;0
+33;"Tour de Raiponce";"Peu commune";Ambre;12;0
 34;"La Terre des Lions";Rare;Ambre;4;0
 35;Maléfique;"Super rare";Améthyste;4;0
 36;Nokk;Commune;Améthyste;16;1
-37;"Big Ben";Commune;Améthyste;13;1
+37;"Big Ben";Commune;Améthyste;14;1
 38;Merlin;Commune;Améthyste;15;1
-39;Archimède;Commune;Améthyste;13;0
+39;Archimède;Commune;Améthyste;14;0
 40;Bruni;"Peu commune";Améthyste;8;0
 41;"Géant de la Terre";Commune;Améthyste;14;2
 42;"Courant d’Air";Commune;Améthyste;14;3
@@ -55,7 +55,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 54;Maléfique;Commune;Améthyste;14;1
 55;Rafiki;Rare;Améthyste;6;0
 56;Anna;Commune;Améthyste;14;0
-57;"Le Roi de Cœur";"Peu commune";Améthyste;12;1
+57;"Le Roi de Cœur";"Peu commune";Améthyste;13;1
 58;"Camilo Madrigal";Légendaire;Améthyste;1;0
 59;"Force hypnotique";Commune;Améthyste;13;1
 60;"Qui trouve, garde";"Peu commune";Améthyste;7;0
@@ -68,12 +68,12 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 67;"Palais de Glace d'Elsa";Rare;Améthyste;2;0
 68;"La Bibliothèque";"Peu commune";Améthyste;0;0
 69;"Robin des Bois";Rare;Émeraude;5;0
-70;Shenzi;"Peu commune";Émeraude;10;1
+70;Shenzi;"Peu commune";Émeraude;11;1
 71;"Petit Jean";"Peu commune";Émeraude;11;1
 72;Zazu;Commune;Émeraude;13;2
 73;Ulf;Commune;Émeraude;16;2
 74;Ed;Commune;Émeraude;16;1
-75;Flora;Commune;Émeraude;14;0
+75;Flora;Commune;Émeraude;15;0
 76;Pimprenelle;Commune;Émeraude;13;1
 77;"Robin des Bois";Commune;Émeraude;14;0
 78;Pâquerette;Commune;Émeraude;15;1
@@ -85,9 +85,9 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 84;Clarabelle;Légendaire;Émeraude;0;0
 85;Anna;Légendaire;Émeraude;0;0
 86;Clarabelle;Commune;Émeraude;3;1
-87;Banzaï;Commune;Émeraude;15;0
+87;Banzaï;Commune;Émeraude;16;0
 88;"Robin des Bois";"Peu commune";Émeraude;9;0
-89;"Mère Gothel";"Peu commune";Émeraude;13;2
+89;"Mère Gothel";"Peu commune";Émeraude;14;2
 90;Clarabelle;"Peu commune";Émeraude;7;0
 91;Shenzi;Rare;Émeraude;3;0
 92;"Mère Gothel";"Super rare";Émeraude;2;0
@@ -96,7 +96,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 95;"Rage du Hurleur nocturne";Commune;Émeraude;13;3
 96;"Pour les hommes";"Peu commune";Émeraude;3;0
 97;"N'oublie pas qui tu es";Rare;Émeraude;4;0
-98;"Miroir du Prince Jean";Rare;Émeraude;5;0
+98;"Miroir du Prince Jean";Rare;Émeraude;6;0
 99;Obscurosphère;Commune;Émeraude;13;2
 100;"Chromicône d'Émeraude";"Peu commune";Émeraude;8;0
 101;"Forêt de Sherwood";Rare;Émeraude;5;1
@@ -112,15 +112,15 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 111;Daisy;Commune;Rubis;14;2
 112;"Mickey Mouse";Commune;Rubis;13;1
 113;Ratigan;Commune;Rubis;13;3
-114;"Taffyta Crème Brûlée";Commune;Rubis;14;0
+114;"Taffyta Crème Brûlée";Commune;Rubis;15;0
 115;Denahi;Rare;Rubis;6;0
 116;Pat;"Super rare";Rubis;4;0
-117;"Taffyta Crème Brûlée";"Peu commune";Rubis;10;1
+117;"Taffyta Crème Brûlée";"Peu commune";Rubis;11;1
 118;"Robin des Bois";Légendaire;Rubis;0;0
-119;Gaston;Rare;Rubis;2;1
+119;Gaston;Rare;Rubis;3;1
 120;Pat;Commune;Rubis;18;0
 121;Arthur;"Peu commune";Rubis;7;1
-122;Donald;Commune;Rubis;14;1
+122;Donald;Commune;Rubis;15;1
 123;Ratigan;Rare;Rubis;7;0
 124;"Vanellope von Schweetz";Rare;Rubis;3;0
 125;Simba;Commune;Rubis;14;0
@@ -150,12 +150,12 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 149;Kuzco;"Super rare";Saphir;4;0
 150;Mufasa;Légendaire;Saphir;0;0
 151;"Ludwig von Drake";"Peu commune";Saphir;10;0
-152;Minnie;Commune;Saphir;17;0
+152;Minnie;Commune;Saphir;18;0
 153;Basil;Commune;Saphir;14;0
 154;"Sa Sucrerie";"Peu commune";Saphir;9;1
 155;Donald;Commune;Saphir;14;1
 156;Nanaka;Commune;Saphir;12;3
-157;Tipo;"Peu commune";Saphir;2;0
+157;Tipo;"Peu commune";Saphir;2;1
 158;Belle;Rare;Saphir;4;0
 159;Merlin;Légendaire;Saphir;0;0
 160;"Vision de l'Avenir";Commune;Saphir;14;0
@@ -163,9 +163,9 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 162;"Rien n'est plus pareil";Commune;Saphir;13;2
 163;Cachez-vous;"Peu commune";Saphir;8;0
 164;"Je ne m'amuse plus du tout";"Peu commune";Saphir;11;2
-165;"Médaille des Héros";Commune;Saphir;15;0
+165;"Médaille des Héros";Commune;Saphir;16;0
 166;"Loupe de Basil";Rare;Saphir;4;1
-167;"Sac de voyage de Merlin";"Peu commune";Saphir;10;0
+167;"Sac de voyage de Merlin";"Peu commune";Saphir;11;0
 168;"Chromicône de Saphir";"Peu commune";Saphir;11;2
 169;"Le grand Illuminarium";Rare;Saphir;4;0
 170;"Chaumière de Merlin";"Peu commune";Saphir;7;0
@@ -176,8 +176,8 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 175;"Garde royal";Commune;Acier;13;0
 176;"Mickey Mouse";Commune;Acier;12;0
 177;Dormeur;"Peu commune";Acier;12;1
-178;Kronk;Commune;Acier;12;1
-179;Heihei;Commune;Acier;16;1
+178;Kronk;Commune;Acier;12;2
+179;Heihei;Commune;Acier;17;1
 180;Atchoum;Commune;Acier;13;3
 181;Simplet;Commune;Acier;15;2
 182;Namaari;Rare;Acier;4;0
@@ -195,7 +195,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 194;Arthur;Légendaire;Acier;0;0
 195;Pat;"Peu commune";Acier;2;0
 196;"Tir à la corde";Rare;Acier;4;0
-197;"Où est la vraie vie ?";Commune;Acier;15;0
+197;"Où est la vraie vie ?";Commune;Acier;16;0
 198;"Éviter le canardage";Commune;Acier;14;0
 199;"Bataille de nourriture !";"Peu commune";Acier;9;2
 200;"Bouclier d'Arendelle";Commune;Acier;14;1
