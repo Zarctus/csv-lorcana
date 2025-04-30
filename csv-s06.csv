@@ -18,7 +18,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 17;"Présidente du Grand Conseil";"Peu commune";Ambre;6;0
 18;Tac;"Peu commune";Ambre;9;0
 19;Nani;Rare;Ambre;3;0
-20;Simba;Légendaire;Ambre;1;0
+20;Simba;Légendaire;Ambre;0;0
 21;"Maman Gourou";Rare;Ambre;4;1
 22;"Coco Lapin";Commune;Ambre;8;1
 23;"Petit Gourou";Commune;Ambre;9;0
@@ -125,7 +125,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 124;Maui;Légendaire;Rubis;0;0
 125;Hadès;Légendaire;Rubis;0;0
 126;Tigrou;Rare;Rubis;4;0
-127;Scar;"Super rare";Rubis;2;0
+127;Scar;"Super rare";Rubis;1;0
 128;Chapardage;Commune;Rubis;9;1
 129;"Montrer la voie";Commune;Rubis;9;1
 130;"Poser des îles sur l'océan";"Peu commune";Rubis;3;1
