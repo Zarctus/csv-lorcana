@@ -2,14 +2,21 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 1;Loulou;"Peu commune";Ambre;0;0
 2;Fifi;Commune;Ambre;0;0
 3;Riri;"Peu commune";Ambre;0;0
+5;"Antonio Madrigal";Rare;"Ambre, Améthyste";0;0
 6;Minnie;Rare;"Ambre, Rubis";0;0
 9;Tiana;Rare;Ambre;0;0
+10;"Mirabel Madrigal";Commune;Ambre;0;0
 11;Lady;Rare;Ambre;0;0
 12;"Jim Chéri";Commune;Ambre;0;0
+13;Gene;Commune;Ambre;0;0
 14;Perdita;Commune;Ambre;0;0
+15;Rhino;Commune;Ambre;0;0
+16;Darling;Commune;Ambre;0;0
+17;"Le Colonel";Rare;Ambre;0;0
 18;"Chef Bogo";Légendaire;Ambre;0;0
 19;Pua;"Peu commune";"Ambre, Améthyste";0;0
 20;"Bruno Madrigal";"Super rare";"Ambre, Améthyste";0;0
+21;Kaa;"Peu commune";"Ambre, Émeraude";0;0
 22;Clochard;"Super rare";"Ambre, Émeraude";0;0
 23;"Sa Sucrerie";"Peu commune";"Ambre, Rubis";0;0
 25;Patch;"Peu commune";"Ambre, Saphir";0;0
@@ -21,78 +28,135 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 32;Calhoun;Commune;Ambre;0;0
 33;Lady;Rare;"Ambre, Émeraude";0;0
 34;"Alma Madrigal";"Peu commune";"Ambre, Améthyste";0;0
+35;Clawhauser;Rare;Ambre;0;0
+36;"Joey le pigeon";Commune;Ambre;0;0
 37;Donald;"Super rare";Ambre;0;0
 38;"Chiot Dalmatien";Commune;Ambre;0;0
 39;"Dérapage sucré";"Peu commune";"Ambre, Rubis";0;0
+40;"C’est ta maîtresse";"Peu commune";"Ambre, Acier";0;0
+41;"Qu’une toute petite place";"Peu commune";"Ambre, Émeraude";0;0
+42;"Sans aucun souci";Rare;Ambre;0;0
 43;"Je travaillerai sans trêve";"Peu commune";Ambre;0;0
 44;"La tirelire des neveux";"Peu commune";Ambre;0;0
 45;"Garde du palais";Commune;Améthyste;0;0
 47;"Madame Médusa";"Peu commune";"Améthyste, Rubis";0;0
 48;Hadès;"Super rare";"Améthyste, Rubis";0;0
+49;"Lena de Sortilège";"Peu commune";"Améthyste, Acier";0;0
 50;Abu;"Peu commune";"Améthyste, Acier";0;0
 51;"Bruno Madrigal";Commune;Améthyste;0;0
+52;"Garde royal";Commune;Améthyste;0;0
+53;Kuzco;Commune;Améthyste;0;0
 54;Mégara;Commune;Améthyste;0;0
 55;Yelena;Commune;Améthyste;0;0
 56;Ryder;Commune;Améthyste;0;0
 57;Bambi;Commune;Améthyste;0;0
 58;"Poe De Sortilège";Commune;Améthyste;0;0
+59;"Madame Mime";"Peu commune";Améthyste;0;0
+60;Elsa;Rare;Améthyste;0;0
 61;Pinocchio;Légendaire;Améthyste;0;0
+62;"Jiminy Cricket";Rare;Améthyste;0;0
 63;Bambi;Légendaire;Améthyste;0;0
+64;Monstro;Rare;Améthyste;0;0
 65;Néron;Commune;Améthyste;0;0
+67;Kuzco;Rare;"Améthyste, Émeraude";0;0
 69;"Madame Mime";"Peu commune";"Améthyste, Rubis";0;0
 70;"Mère Gothel";Rare;"Améthyste, Rubis";0;0
+71;"La Fée Bleue";"Peu commune";"Améthyste, Saphir";0;0
+72;Anna;Rare;"Améthyste, Saphir";0;0
 74;Jafar;"Super rare";"Améthyste, Acier";0;0
 75;"Camilo Madrigal";Commune;Améthyste;0;0
 76;Fleur;Rare;Améthyste;0;0
 77;"Duel en Forêt";"Peu commune";Améthyste;0;0
+79;"Miraculeux et merveilleux";Rare;Améthyste;0;0
 80;"Abaisse le levier !";"Peu commune";"Améthyste, Émeraude";0;0
+81;"Dans un autre monde";"Super rare";"Améthyste, Saphir";0;0
 83;Scarabée;Commune;Améthyste;0;0
 84;"Pics de glace";"Peu commune";"Améthyste, Saphir";0;0
+85;"Wilhelmina Placard";Commune;Émeraude;0;0
+86;Basil;Rare;Émeraude;0;0
 87;Clochard;Commune;Émeraude;0;0
+88;Chaca;Commune;Émeraude;0;0
 91;"Le Lièvre de Mars";Commune;Émeraude;0;0
+92;Fred;Commune;Émeraude;0;0
 94;Tac;Commune;Émeraude;0;0
 97;Tic;"Peu commune";Émeraude;0;0
+99;Gadget;Rare;Émeraude;0;0
+100;Raya;Légendaire;Émeraude;0;0
 101;Raiponce;Légendaire;Émeraude;0;0
 102;"Flynn Rider";"Super rare";Émeraude;0;0
 103;"Le Loir";"Peu commune";"Émeraude, Rubis";0;0
+104;Alice;Rare;"Émeraude, Rubis";0;0
 106;"Hiro Hamada";"Peu commune";"Émeraude, Saphir";0;0
 108;"Don Carnage";"Peu commune";"Émeraude, Acier";0;0
 109;"Capitaine Crochet";Rare;"Émeraude, Acier";0;0
 110;Maui;"Super rare";"Émeraude, Acier";0;0
 111;"Honey Lemon";Rare;"Émeraude, Saphir";0;0
 112;Jock;Commune;Émeraude;0;0
+113;Archimède;Rare;Émeraude;0;0
+116;"Pas ce levier-là !";Rare;Émeraude;0;0
 117;Bousillage;"Peu commune";"Émeraude, Rubis";0;0
+118;"Sur la planche !";"Peu commune";"Émeraude, Acier";0;0
 119;Nano-sac;Commune;Émeraude;0;0
+121;"Arnold Trufforange";Commune;Rubis;0;0
+123;"Géo Trouvetou";Rare;"Rubis, Saphir";0;0
 124;"Vanellope von Schweetz";Commune;Rubis;0;0
 125;Brutus;Commune;Rubis;0;0
+126;Dodo;Commune;Rubis;0;0
+127;Alice;Commune;Rubis;0;0
 128;Lumière;Commune;Rubis;0;0
+130;Mushu;Commune;Rubis;0;0
+131;Cri-Kee;Commune;Rubis;0;0
+132;Lafayette;Commune;Rubis;0;0
 134;Panpan;"Peu commune";Rubis;0;0
 138;"Le Fou";"Peu commune";"Rubis, Saphir";0;0
+140;"Le Cocher";"Peu commune";"Rubis, Acier";0;0
 141;Mulan;"Super rare";"Rubis, Acier";0;0
+142;Mushu;Rare;"Rubis, Acier";0;0
 144;"Monsieur Hibou";Commune;Rubis;0;0
 145;Féline;Rare;Rubis;0;0
+146;"Prince Jean";Rare;Rubis;0;0
 147;"Il n'est rien de plus beau !";Rare;Rubis;0;0
 148;"Allez-vous-en !";"Peu commune";"Rubis, Saphir";0;0
+149;"Mettre le feu aux poudres";"Peu commune";"Rubis, Acier";0;0
 150;Batifolage;"Peu commune";Rubis;0;0
 151;"Tout le monde est fou ici";Rare;Rubis;0;0
+152;"L’épée de Shan-Yu";Rare;Rubis;0;0
 153;"La Reine Moustoria";Commune;Saphir;0;0
+156;Olaf;Commune;Saphir;0;0
+157;Anna;Commune;Saphir;0;0
 158;Wasabi;Commune;Saphir;0;0
 160;"Madame De Garderobe";Commune;Saphir;0;0
+161;"Madame Samovar";Commune;Saphir;0;0
 162;Jasmine;Commune;Saphir;0;0
+164;"Adélaïde De Bonnefamille";Commune;Saphir;0;0
+165;Nani;Rare;Saphir;0;0
 167;Ratigan;Légendaire;Saphir;0;0
 169;Bernard;"Peu commune";"Saphir, Acier";0;0
 170;Aladdin;Rare;"Saphir, Acier";0;0
 171;Jasmine;"Super rare";"Saphir, Acier";0;0
 173;"Jumba Jookiba";"Peu commune";Saphir;0;0
 175;"Nous sommes là pour vous aider";Rare;Saphir;0;0
+176;"Entraînement au bond";"Peu commune";Saphir;0;0
+179;"Le livre préféré de Belle";Rare;Saphir;0;0
+182;"Bobby le pigeon";Commune;Acier;0;0
 183;"Tapis Volant";Commune;Acier;0;0
 186;"Capitaine Crochet";Commune;Acier;0;0
 187;"Général Li";Commune;Acier;0;0
+188;"Jack le Costaud";Commune;Acier;0;0
+191;Arianna;Commune;Acier;0;0
 192;Ruzor;"Peu commune";Acier;0;0
 193;Khan;Commune;Acier;0;0
+194;"Vinnie le pigeon";Rare;Acier;0;0
+195;Iago;Rare;Acier;0;0
 197;"Vincenzo Santorini";Rare;Acier;0;0
 199;"Mickey Mouse";Légendaire;Acier;0;0
 200;Stitch;Rare;Acier;0;0
+201;"Plan désespéré";Rare;Acier;0;0
+202;"Beyond the Horizon";"Peu commune";Acier;0;0
 203;"Tir rapide";"Peu commune";Acier;0;0
+204;"Boule de hamster";Commune;Acier;0;0
+209;Bambi;Enchantée;Améthyste;0;0
+214;Raiponce;Enchantée;Émeraude;0;0
+220;Stitch;Enchantée;Saphir;0;0
 221;Jasmine;Enchantée;"Saphir, Acier";0;0
 33;Jafar;Enchantée;"Améthyste, Acier";0;0
