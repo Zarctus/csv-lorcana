@@ -203,11 +203,14 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 202;"Beyond the Horizon";"Peu commune";Acier;0;0
 203;"Tir rapide";"Peu commune";Acier;0;0
 204;"Boule de hamster";Commune;Acier;0;0
+207;Perdita;Enchantée;"Ambre, Saphir";0;0
 208;"Sans aucun souci";Enchantée;Ambre;0;0
 209;Bambi;Enchantée;Améthyste;0;0
+211;"Mère Gothel";Enchantée;"Améthyste, Rubis";0;0
 212;"Miraculeux et merveilleux";Enchantée;Améthyste;0;0
 214;Raiponce;Enchantée;Émeraude;0;0
 216;"Pas ce levier-là !";Enchantée;Émeraude;0;0
+218;Mushu;Enchantée;"Rubis, Acier";0;0
 219;"L’épée de Shan-Yu";Enchantée;Rubis;0;0
 220;Stitch;Enchantée;Saphir;0;0
 221;Jasmine;Enchantée;"Saphir, Acier";0;0
