@@ -1,4 +1,56 @@
 saison,number,nom,encre,rareté,is_foil
+"Ciel Scintillant",141,"Prince Jean",Saphir,Commune,N
+"Ciel Scintillant",120,Pat,Rubis,Commune,N
+"Ciel Scintillant",73,Ulf,Émeraude,Commune,N
+"Ciel Scintillant",36,Nokk,Améthyste,Commune,N
+"Ciel Scintillant",26,"Toucher guérisseur",Ambre,Commune,N
+"Ciel Scintillant",174,Rudy,Acier,Commune,N
+"Ciel Scintillant",70,Shenzi,Émeraude,"Peu commune",N
+"Ciel Scintillant",63,"Assistance magique",Améthyste,"Peu commune",N
+"Ciel Scintillant",130,"Glimmer contre Glimmer",Rubis,"Peu commune",N
+"Ciel Scintillant",145,"Shérif de Nottingham",Saphir,Rare,N
+"Ciel Scintillant",27,Ranimer,Ambre,Rare,N
+"Ciel Scintillant",45,"Luisa Madrigal",Améthyste,Rare,Y
+
+"Ciel Scintillant",139,"La Reine",Saphir,Commune,N
+"Ciel Scintillant",132,"Potion de puissance",Rubis,Commune,N
+"Ciel Scintillant",76,Pimprenelle,Émeraude,Commune,N
+"Ciel Scintillant",59,"Force hypnotique",Améthyste,Commune,N
+"Ciel Scintillant",8,Lilo,Ambre,Commune,N
+"Ciel Scintillant",178,Kronk,Acier,Commune,N
+"Ciel Scintillant",52,Monstro,Améthyste,"Peu commune",N
+"Ciel Scintillant",2,Nala,Ambre,"Peu commune",N
+"Ciel Scintillant",167,"Sac de voyage de Merlin",Saphir,"Peu commune",N
+"Ciel Scintillant",146,Chicha,Saphir,Rare,N
+"Ciel Scintillant",16,Daisy,Ambre,"Super rare",N
+"Ciel Scintillant",78,Pâquerette,Émeraude,Commune,Y
+
+"L’ile d' Archazia",128,"Un frère Stabbington",Rubis,Commune,N
+"L’ile d' Archazia",8,Suzy,Ambre,Commune,N
+"L’ile d' Archazia",116,"Réveille-toi, Alice !",Émeraude,Commune,N
+"L’ile d' Archazia",48,Honeymaren,Améthyste,Commune,N
+"L’ile d' Archazia",159,Belle,Saphir,Commune,N
+"L’ile d' Archazia",181,"Dr. Calico",Acier,Commune,N
+"L’ile d' Archazia",71,Kuzco,Améthyste,"Peu commune",N
+"L’ile d' Archazia",65,Sven,Améthyste,"Peu commune",N
+"L’ile d' Archazia",76,Archimède,Améthyste,"Peu commune",N
+"L’ile d' Archazia",188,"Fa Zhou",Acier,Rare,N
+"L’ile d' Archazia",164,Kida,Saphir,Rare,N
+"L’ile d' Archazia",67,Merlin,Améthyste,Rare,Y
+
+"L’ile d' Archazia",155,Mattias,Saphir,Commune,N
+"L’ile d' Archazia",123,"La Dame marieuse",Rubis,Commune,N
+"L’ile d' Archazia",37,"Pepa Madrigal",Ambre,Commune,N
+"L’ile d' Archazia",91,"Chat du Cheshire",Émeraude,Commune,N
+"L’ile d' Archazia",75,Panique,Améthyste,Commune,N
+"L’ile d' Archazia",193,Mulan,Acier,Commune,N
+"L’ile d' Archazia",7,Peg,Ambre,"Peu commune",N
+"L’ile d' Archazia",103,"Tweedledee et Tweedeldum",Émeraude,"Peu commune",N
+"L’ile d' Archazia",80,"Manœuvres magiques",Améthyste,"Peu commune",N
+"L’ile d' Archazia",108,Daisy,Émeraude,Rare,N
+"L’ile d' Archazia",175,Baymax,Saphir,Rare,N
+"L’ile d' Archazia",144,"Seigneur Kay",Rubis,"Peu commune",Y
+
 "L’ile d' Archazia",127,Cybug,Rubis,Commune,N
 "L’ile d' Archazia",38,"La vie nous a réunis",Ambre,Commune,N
 "L’ile d' Archazia",100,Lady,Émeraude,Commune,N
@@ -2546,56 +2598,4 @@ saison,number,nom,encre,rareté,is_foil
 "Ciel Scintillant",150,Mufasa,Saphir,Légendaire,N
 "Ciel Scintillant",58,"Camilo Madrigal",Améthyste,Légendaire,N
 "Ciel Scintillant",113,Ratigan,Rubis,Commune,Y
-
-"La Mer Azurite",66,"Théière du Chapelier Fou",Améthyste,Commune,N
-"La Mer Azurite",129,"Montrer la voie",Rubis,Commune,N
-"La Mer Azurite",147,"Aigre Bill",Saphir,Commune,N
-"La Mer Azurite",88,Gazelle,Émeraude,Commune,N
-"La Mer Azurite",6,Tic,Ambre,Commune,N
-"La Mer Azurite",177,Mullins,Acier,Commune,N
-"La Mer Azurite",8,David,Ambre,"Peu commune",N
-"La Mer Azurite",104,Kakamora,Rubis,"Peu commune",N
-"La Mer Azurite",175,"Monsieur Mouche",Acier,"Peu commune",N
-"La Mer Azurite",2,Lilo,Ambre,"Super rare",N
-"La Mer Azurite",86,Hercule,Émeraude,Légendaire,N
-"La Mer Azurite",180,Hercule,Acier,Commune,Y
-
-"La Mer Azurite",41,Juju,Améthyste,Commune,N
-"La Mer Azurite",133,"Pièce d’or",Rubis,Commune,N
-"La Mer Azurite",163,"Voguer sur la mer Azurite",Saphir,Commune,N
-"La Mer Azurite",76,Putois,Émeraude,Commune,N
-"La Mer Azurite",24,"M. Litwak",Ambre,Commune,N
-"La Mer Azurite",178,Kohut,Acier,Commune,N
-"La Mer Azurite",48,"La Fée Clochette",Améthyste,"Peu commune",N
-"La Mer Azurite",110,"Vanellope von Schweetz",Rubis,"Peu commune",N
-"La Mer Azurite",201,"Mannequin d'entraînement",Acier,"Peu commune",N
-"La Mer Azurite",59,"Le Chapelier Fou",Améthyste,"Super rare",N
-"La Mer Azurite",157,Baymax,Saphir,Légendaire,N
-"La Mer Azurite",60,"Un Joyeux non-anniversaire",Améthyste,Commune,Y
-
-"Premier Chapitre",45,JAFAR,Améthyste,Commune,N
-"Premier Chapitre",69,Aladdin,Émeraude,Commune,N
-"Premier Chapitre",148,JASMINE,Saphir,Commune,N
-"Premier Chapitre",109,ELSA,Rubis,Commune,N
-"Premier Chapitre",28,"LUEUR RÉPARATRICE",Ambre,Commune,N
-"Premier Chapitre",197,"ALLUMEZ LES MÊCHES !",Acier,Commune,N
-"Premier Chapitre",12,"MICKEY MOUSE",Ambre,"Peu commune",N
-"Premier Chapitre",191,"MONSIEUR STARKEY",Acier,"Peu commune",N
-"Premier Chapitre",127,TIGROU,Rubis,"Peu commune",N
-"Premier Chapitre",66,"MIROIR MAGIQUE",Améthyste,Rare,N
-"Premier Chapitre",112,"LE FOU",Rubis,Rare,N
-"Premier Chapitre",160,TRITON,Saphir,"Peu commune",Y
-
-"Premier Chapitre",36,ARCHIMÈDE,Améthyste,Commune,N
-"Premier Chapitre",96,RUÉE,Émeraude,Commune,N
-"Premier Chapitre",165,"TRAVAIL D'ÉQUIPE",Saphir,Commune,N
-"Premier Chapitre",110,GASTON,Rubis,Commune,N
-"Premier Chapitre",27,"HAKUNA MATATA",Ambre,Commune,N
-"Premier Chapitre",174,"CAPITAINE CROCHET",Acier,Commune,N
-"Premier Chapitre",25,"C'EST LA FÊTE",Ambre,"Peu commune",N
-"Premier Chapitre",190,SIMBA,Acier,"Peu commune",N
-"Premier Chapitre",127,TIGROU,Rubis,"Peu commune",N
-"Premier Chapitre",14,VAIANA,Ambre,Rare,N
-"Premier Chapitre",72,"CRUELLA D'ENFER",Émeraude,Rare,N
-"Premier Chapitre",145,POLOCHON,Saphir,Commune,Y
 
