@@ -1,4 +1,56 @@
 saison,number,nom,encre,rareté,is_foil
+"La Mer Azurite",164,"Coup de main",Saphir,Commune,N
+"La Mer Azurite",77,Dawson,Émeraude,Commune,N
+"La Mer Azurite",11,"Chef Bogo",Ambre,Commune,N
+"La Mer Azurite",45,Iago,Améthyste,Commune,N
+"La Mer Azurite",112,Aladdin,Rubis,Commune,N
+"La Mer Azurite",196,"Un homme libre",Acier,Commune,N
+"La Mer Azurite",33,Souillon,Ambre,"Peu commune",N
+"La Mer Azurite",49,Diablo,Améthyste,"Peu commune",N
+"La Mer Azurite",130,"Poser des îles sur l'océan",Rubis,"Peu commune",N
+"La Mer Azurite",36,Hadès,Améthyste,Rare,N
+"La Mer Azurite",160,Yokai,Saphir,Rare,N
+"La Mer Azurite",98,Méga-Robot,Émeraude,"Peu commune",Y
+
+"La Mer Azurite",168,"Jumbo Pop",Saphir,Commune,N
+"La Mer Azurite",75,Fred,Émeraude,Commune,N
+"La Mer Azurite",28,"I Won't Give In",Ambre,Commune,N
+"La Mer Azurite",40,"La Rose Blanche",Améthyste,Commune,N
+"La Mer Azurite",117,Vaiana,Rubis,Commune,N
+"La Mer Azurite",179,"Le Roi Hubert",Acier,Commune,N
+"La Mer Azurite",74,"Honey Lemon",Émeraude,"Peu commune",N
+"La Mer Azurite",146,Heihei,Saphir,"Peu commune",N
+"La Mer Azurite",199,"Situation regrettable",Acier,"Peu commune",N
+"La Mer Azurite",188,"Cobra Bubbles",Acier,Rare,N
+"La Mer Azurite",192,"Capitaine Amélia",Acier,"Super rare",N
+"La Mer Azurite",128,Chapardage,Rubis,Commune,Y
+
+"La Mer Azurite",60,"Un Joyeux non-anniversaire",Améthyste,Commune,N
+"La Mer Azurite",136,"Rocher du crâne",Rubis,Commune,N
+"La Mer Azurite",148,"Nick Wilde",Saphir,Commune,N
+"La Mer Azurite",79,Basil,Émeraude,Commune,N
+"La Mer Azurite",5,Simba,Ambre,Commune,N
+"La Mer Azurite",171,Kakamora,Acier,Commune,N
+"La Mer Azurite",146,Heihei,Saphir,"Peu commune",N
+"La Mer Azurite",199,"Situation regrettable",Acier,"Peu commune",N
+"La Mer Azurite",58,"Peter Pan",Améthyste,"Peu commune",N
+"La Mer Azurite",169,"Sous-marin des Rangers du Risque",Saphir,Rare,N
+"La Mer Azurite",191,Calhoun,Acier,Rare,N
+"La Mer Azurite",79,Basil,Émeraude,Commune,Y
+
+"La Mer Azurite",138,"Tante Cassie",Saphir,Commune,N
+"La Mer Azurite",87,"Alistair Krei",Émeraude,Commune,N
+"La Mer Azurite",27,"Beau travail !",Ambre,Commune,N
+"La Mer Azurite",44,"Le Charpentier",Améthyste,Commune,N
+"La Mer Azurite",114,Abu,Rubis,Commune,N
+"La Mer Azurite",181,"John Silver",Acier,Commune,N
+"La Mer Azurite",149,Wasabi,Saphir,"Peu commune",N
+"La Mer Azurite",4,Grignotin,Ambre,"Peu commune",N
+"La Mer Azurite",119,Aladdin,Rubis,"Peu commune",N
+"La Mer Azurite",102,"Île de la Chouette",Émeraude,Rare,N
+"La Mer Azurite",126,Tigrou,Rubis,Rare,N
+"La Mer Azurite",180,Hercule,Acier,Commune,Y
+
 "Ciel Scintillant",141,"Prince Jean",Saphir,Commune,N
 "Ciel Scintillant",120,Pat,Rubis,Commune,N
 "Ciel Scintillant",73,Ulf,Émeraude,Commune,N
@@ -2546,56 +2598,4 @@ saison,number,nom,encre,rareté,is_foil
 "Les Terres d'Encres",89,Stitch,Émeraude,Rare,N
 "Les Terres d'Encres",190,"Robin des Bois",Acier,Légendaire,N
 "Les Terres d'Encres",95,"Je prends le chemin",Émeraude,Commune,Y
-
-"Les Terres d'Encres",138,"Capitaine Amélia",Saphir,Commune,N
-"Les Terres d'Encres",175,"Helga Sinclair",Acier,Commune,N
-"Les Terres d'Encres",118,Niquedouille,Rubis,Commune,N
-"Les Terres d'Encres",87,Bobby,Émeraude,Commune,N
-"Les Terres d'Encres",40,Iago,Améthyste,Commune,N
-"Les Terres d'Encres",27,"Réparation de fortune",Ambre,Commune,N
-"Les Terres d'Encres",102,"Palais de Kuzco",Émeraude,"Peu commune",N
-"Les Terres d'Encres",31,"Clé de Turbo",Ambre,"Peu commune",N
-"Les Terres d'Encres",107,Heihei,Rubis,"Peu commune",N
-"Les Terres d'Encres",164,"Le cœur de Te Fiti",Saphir,Rare,N
-"Les Terres d'Encres",55,Stratos,Améthyste,Rare,N
-"Les Terres d'Encres",9,Minnie,Ambre,Rare,Y
-
-"Les Terres d'Encres",150,"Belle Marianne",Saphir,Commune,N
-"Les Terres d'Encres",200,"Le costume de Robotik",Acier,Commune,N
-"Les Terres d'Encres",127,Zaza,Rubis,Commune,N
-"Les Terres d'Encres",79,"Milo Thatch",Émeraude,Commune,N
-"Les Terres d'Encres",46,"Balais magiques",Améthyste,Commune,N
-"Les Terres d'Encres",5,"Amadou Gentil",Ambre,Commune,N
-"Les Terres d'Encres",18,Pluto,Ambre,"Peu commune",N
-"Les Terres d'Encres",31,"Clé de Turbo",Ambre,"Peu commune",N
-"Les Terres d'Encres",68,"La Tour du Sorcier",Améthyste,"Peu commune",N
-"Les Terres d'Encres",101,"Croc du Dragon",Émeraude,Rare,N
-"Les Terres d'Encres",49,"Miss Tick",Améthyste,"Super rare",N
-"Les Terres d'Encres",21,Rolly,Ambre,"Peu commune",Y
-
-"Ciel Scintillant",108,"Jean-Hubert Lingot",Rubis,Commune,N
-"Ciel Scintillant",73,Ulf,Émeraude,Commune,N
-"Ciel Scintillant",38,Merlin,Améthyste,Commune,N
-"Ciel Scintillant",11,Gazelle,Ambre,Commune,N
-"Ciel Scintillant",165,"Médaille des Héros",Saphir,Commune,N
-"Ciel Scintillant",197,"Où est la vraie vie ?",Acier,Commune,N
-"Ciel Scintillant",96,"Pour les hommes",Émeraude,"Peu commune",N
-"Ciel Scintillant",40,Bruni,Améthyste,"Peu commune",N
-"Ciel Scintillant",164,"Je ne m'amuse plus du tout",Saphir,"Peu commune",N
-"Ciel Scintillant",101,"Forêt de Sherwood",Émeraude,Rare,N
-"Ciel Scintillant",53,"Miss Tick",Améthyste,Rare,N
-"Ciel Scintillant",174,Rudy,Acier,Commune,Y
-
-"Ciel Scintillant",54,Maléfique,Améthyste,Commune,N
-"Ciel Scintillant",17,"Félix Fixe Junior",Ambre,Commune,N
-"Ciel Scintillant",138,Chaca,Saphir,Commune,N
-"Ciel Scintillant",112,"Mickey Mouse",Rubis,Commune,N
-"Ciel Scintillant",99,Obscurosphère,Émeraude,Commune,N
-"Ciel Scintillant",173,Simba,Acier,Commune,N
-"Ciel Scintillant",117,"Taffyta Crème Brûlée",Rubis,"Peu commune",N
-"Ciel Scintillant",189,Timide,Acier,"Peu commune",N
-"Ciel Scintillant",157,Tipo,Saphir,"Peu commune",N
-"Ciel Scintillant",150,Mufasa,Saphir,Légendaire,N
-"Ciel Scintillant",58,"Camilo Madrigal",Améthyste,Légendaire,N
-"Ciel Scintillant",113,Ratigan,Rubis,Commune,Y
 
