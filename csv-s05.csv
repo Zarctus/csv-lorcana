@@ -13,8 +13,8 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 12;"Félix Fixe Junior";"Peu commune";Ambre;7;1
 13;Kristoff;Rare;Ambre;8;0
 14;"Mirabel Madrigal";Légendaire;Ambre;0;0
-15;Minnie;"Super rare";Ambre;5;0
-16;Daisy;"Super rare";Ambre;4;0
+15;Minnie;"Super rare";Ambre;4;0
+16;Daisy;"Super rare";Ambre;3;0
 17;"Félix Fixe Junior";Commune;Ambre;13;1
 18;Vaiana;Rare;Ambre;5;0
 19;"Vanellope von Schweetz";Rare;Ambre;4;0
@@ -31,7 +31,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 30;"Philtre de guérison";Commune;Ambre;15;0
 31;"Cœur du détecteur de la Reine";Rare;Ambre;4;0
 32;"Chromicône d'Ambre";"Peu commune";Ambre;11;1
-33;"Tour de Raiponce";"Peu commune";Ambre;12;0
+33;"Tour de Raiponce";"Peu commune";Ambre;11;0
 34;"La Terre des Lions";Rare;Ambre;4;0
 35;Maléfique;"Super rare";Améthyste;4;0
 36;Nokk;Commune;Améthyste;17;1
@@ -42,8 +42,8 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 41;"Géant de la Terre";Commune;Améthyste;14;2
 42;"Courant d’Air";Commune;Améthyste;14;3
 43;"Le lapin blanc";Commune;Améthyste;13;1
-44;"Madame Mime";"Super rare";Améthyste;3;1
-45;"Luisa Madrigal";Rare;Améthyste;4;1
+44;"Madame Mime";"Super rare";Améthyste;3;0
+45;"Luisa Madrigal";Rare;Améthyste;4;0
 46;Anna;Rare;Améthyste;3;0
 47;Archimède;"Peu commune";Améthyste;12;0
 48;Elsa;"Super rare";Améthyste;0;0
@@ -56,7 +56,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 55;Rafiki;Rare;Améthyste;6;0
 56;Anna;Commune;Améthyste;14;0
 57;"Le Roi de Cœur";"Peu commune";Améthyste;13;1
-58;"Camilo Madrigal";Légendaire;Améthyste;1;0
+58;"Camilo Madrigal";Légendaire;Améthyste;0;0
 59;"Force hypnotique";Commune;Améthyste;14;1
 60;"Qui trouve, garde";"Peu commune";Améthyste;7;0
 61;L'explorateur;Rare;Améthyste;4;1
@@ -77,11 +77,11 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 76;Pimprenelle;Commune;Émeraude;14;1
 77;"Robin des Bois";Commune;Émeraude;14;0
 78;Pâquerette;Commune;Émeraude;15;2
-79;Iago;Rare;Émeraude;4;1
+79;Iago;Rare;Émeraude;4;0
 80;Banzaï;Rare;Émeraude;0;0
 81;Ed;"Peu commune";Émeraude;10;1
 82;Scroop;"Super rare";Émeraude;3;0
-83;"Prince Philippe";"Super rare";Émeraude;6;0
+83;"Prince Philippe";"Super rare";Émeraude;5;0
 84;Clarabelle;Légendaire;Émeraude;0;0
 85;Anna;Légendaire;Émeraude;0;0
 86;Clarabelle;Commune;Émeraude;3;1
@@ -90,7 +90,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 89;"Mère Gothel";"Peu commune";Émeraude;14;2
 90;Clarabelle;"Peu commune";Émeraude;7;0
 91;Shenzi;Rare;Émeraude;3;0
-92;"Mère Gothel";"Super rare";Émeraude;2;0
+92;"Mère Gothel";"Super rare";Émeraude;0;0
 93;Scar;Rare;Émeraude;5;0
 94;"Déduction sous hypnose";Commune;Émeraude;13;0
 95;"Rage du Hurleur nocturne";Commune;Émeraude;13;3
@@ -99,11 +99,11 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 98;"Miroir du Prince Jean";Rare;Émeraude;6;0
 99;Obscurosphère;Commune;Émeraude;13;2
 100;"Chromicône d'Émeraude";"Peu commune";Émeraude;8;0
-101;"Forêt de Sherwood";Rare;Émeraude;5;1
+101;"Forêt de Sherwood";Rare;Émeraude;5;0
 102;"Forêt tropicale";"Peu commune";Émeraude;7;0
 103;"Taffyta Crème Brûlée";"Peu commune";Rubis;11;0
 104;"Ralph la Casse";Rare;Rubis;5;0
-105;Maximus;"Super rare";Rubis;4;0
+105;Maximus;"Super rare";Rubis;3;0
 106;"Turbo le Pilote";"Peu commune";Rubis;10;0
 107;Donald;Légendaire;Rubis;0;0
 108;"Jean-Hubert Lingot";Commune;Rubis;14;2
@@ -117,7 +117,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 116;Pat;"Super rare";Rubis;4;0
 117;"Taffyta Crème Brûlée";"Peu commune";Rubis;11;1
 118;"Robin des Bois";Légendaire;Rubis;0;0
-119;Gaston;Rare;Rubis;3;1
+119;Gaston;Rare;Rubis;3;0
 120;Pat;Commune;Rubis;19;0
 121;Arthur;"Peu commune";Rubis;7;1
 122;Donald;Commune;Rubis;15;1
@@ -184,7 +184,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 183;Blanche-Neige;"Super rare";Acier;4;0
 184;Yzma;Rare;Acier;3;0
 185;Kronk;"Super rare";Acier;3;1
-186;Grincheux;"Super rare";Acier;5;0
+186;Grincheux;"Super rare";Acier;4;0
 187;Pat;Rare;Acier;4;0
 188;"Seigneur Hector";Rare;Acier;6;0
 189;Timide;"Peu commune";Acier;9;1
