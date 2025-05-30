@@ -1,4 +1,43 @@
 saison,number,nom,encre,rareté,is_foil
+"Le Règne de Jafar",129,Gaston,Rubis,Commune,N
+"Le Règne de Jafar",160,"Madame De Garderobe",Saphir,Commune,N
+"Le Règne de Jafar",185,Nazo,Acier,Commune,N
+"Le Règne de Jafar",75,"Camilo Madrigal",Améthyste,Commune,N
+"Le Règne de Jafar",92,Fred,Émeraude,Commune,N
+"Le Règne de Jafar",12,"Jim Chéri",Ambre,Commune,N
+"Le Règne de Jafar",108,"Don Carnage",Émeraude,"Peu commune",N
+"Le Règne de Jafar",133,Figaro,Rubis,"Peu commune",N
+"Le Règne de Jafar",203,"Tir rapide",Acier,"Peu commune",N
+"Le Règne de Jafar",42,"Sans aucun souci",Ambre,Rare,N
+"Le Règne de Jafar",74,Jafar,Améthyste,"Super rare",N
+"Le Règne de Jafar",93,Truffe,Émeraude,Commune,Y
+
+"Le Règne de Jafar",124,"Vanellope von Schweetz",Rubis,Commune,N
+"Le Règne de Jafar",162,Jasmine,Saphir,Commune,N
+"Le Règne de Jafar",188,"Jack le Costaud",Acier,Commune,N
+"Le Règne de Jafar",58,"Poe De Sortilège",Améthyste,Commune,N
+"Le Règne de Jafar",85,"Wilhelmina Placard",Émeraude,Commune,N
+"Le Règne de Jafar",16,Darling,Ambre,Commune,N
+"Le Règne de Jafar",59,"Madame Mime",Améthyste,"Peu commune",N
+"Le Règne de Jafar",25,Patch,Ambre,"Peu commune",N
+"Le Règne de Jafar",84,"Pics de glace",Améthyste,"Peu commune",N
+"Le Règne de Jafar",72,Anna,Améthyste,Rare,N
+"Le Règne de Jafar",201,"Plan désespéré",Acier,Rare,N
+"Le Règne de Jafar",127,Alice,Rubis,Commune,Y
+
+"Le Règne de Jafar",131,Cri-Kee,Rubis,Commune,N
+"Le Règne de Jafar",161,"Madame Samovar",Saphir,Commune,N
+"Le Règne de Jafar",193,Khan,Acier,Commune,N
+"Le Règne de Jafar",51,"Bruno Madrigal",Améthyste,Commune,N
+"Le Règne de Jafar",119,Nano-sac,Émeraude,Commune,N
+"Le Règne de Jafar",38,"Chiot Dalmatien",Ambre,Commune,N
+"Le Règne de Jafar",46,Druun,Améthyste,"Peu commune",N
+"Le Règne de Jafar",23,"Sa Sucrerie",Ambre,"Peu commune",N
+"Le Règne de Jafar",120,"Collier incrusté",Émeraude,"Peu commune",N
+"Le Règne de Jafar",79,"Miraculeux et merveilleux",Améthyste,Rare,N
+"Le Règne de Jafar",102,"Flynn Rider",Émeraude,"Super rare",N
+"Le Règne de Jafar",101,Raiponce,Émeraude,Légendaire,Y
+
 "La Mer Azurite",164,"Coup de main",Saphir,Commune,N
 "La Mer Azurite",77,Dawson,Émeraude,Commune,N
 "La Mer Azurite",11,"Chef Bogo",Ambre,Commune,N
@@ -2559,43 +2598,4 @@ saison,number,nom,encre,rareté,is_foil
 "Ciel Scintillant",19,"Vanellope von Schweetz",Ambre,Rare,N
 "Ciel Scintillant",124,"Vanellope von Schweetz",Rubis,Rare,N
 "Ciel Scintillant",108,"Jean-Hubert Lingot",Rubis,Commune,Y
-
-"Ciel Scintillant",127,"Se libérer",Rubis,Commune,N
-"Ciel Scintillant",72,Zazu,Émeraude,Commune,N
-"Ciel Scintillant",59,"Force hypnotique",Améthyste,Commune,N
-"Ciel Scintillant",17,"Félix Fixe Junior",Ambre,Commune,N
-"Ciel Scintillant",138,Chaca,Saphir,Commune,N
-"Ciel Scintillant",174,Rudy,Acier,Commune,N
-"Ciel Scintillant",33,"Tour de Raiponce",Ambre,"Peu commune",N
-"Ciel Scintillant",134,"Chromicône de Rubis",Rubis,"Peu commune",N
-"Ciel Scintillant",202,"Chromicône d'Acier",Acier,"Peu commune",N
-"Ciel Scintillant",166,"Loupe de Basil",Saphir,Rare,N
-"Ciel Scintillant",159,Merlin,Saphir,Légendaire,N
-"Ciel Scintillant",73,Ulf,Émeraude,Commune,Y
-
-"Les Terres d'Encres",152,Pluto,Saphir,Commune,N
-"Les Terres d'Encres",177,Kida,Acier,Commune,N
-"Les Terres d'Encres",111,Kakamora,Rubis,Commune,N
-"Les Terres d'Encres",86,"Triste Sire",Émeraude,Commune,N
-"Les Terres d'Encres",40,Iago,Améthyste,Commune,N
-"Les Terres d'Encres",13,Orville,Ambre,Commune,N
-"Les Terres d'Encres",140,"Archibald Gripsou",Saphir,"Peu commune",N
-"Les Terres d'Encres",92,Turbo,Émeraude,"Peu commune",N
-"Les Terres d'Encres",198,"Libérer les Titans",Acier,"Peu commune",N
-"Les Terres d'Encres",67,"Château de la reine",Améthyste,Rare,N
-"Les Terres d'Encres",144,"Géo Trouvetou",Saphir,Rare,N
-"Les Terres d'Encres",114,Maui,Rubis,Rare,Y
-
-"Les Terres d'Encres",150,"Belle Marianne",Saphir,Commune,N
-"Les Terres d'Encres",188,Razoul,Acier,Commune,N
-"Les Terres d'Encres",127,Zaza,Rubis,Commune,N
-"Les Terres d'Encres",86,"Triste Sire",Émeraude,Commune,N
-"Les Terres d'Encres",57,"La Reine",Améthyste,Commune,N
-"Les Terres d'Encres",25,"Ordres de la patronne",Ambre,Commune,N
-"Les Terres d'Encres",21,Rolly,Ambre,"Peu commune",N
-"Les Terres d'Encres",155,"Balthazar Picsou",Saphir,"Peu commune",N
-"Les Terres d'Encres",44,"Balais magiques",Améthyste,"Peu commune",N
-"Les Terres d'Encres",89,Stitch,Émeraude,Rare,N
-"Les Terres d'Encres",190,"Robin des Bois",Acier,Légendaire,N
-"Les Terres d'Encres",95,"Je prends le chemin",Émeraude,Commune,Y
 
