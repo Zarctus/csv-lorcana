@@ -1,4 +1,43 @@
 saison,number,nom,encre,rareté,is_foil
+"Le Règne de Jafar",204,"Boule de hamster",Acier,Commune,N
+"Le Règne de Jafar",53,Kuzco,Améthyste,Commune,N
+"Le Règne de Jafar",94,Tac,Émeraude,Commune,N
+"Le Règne de Jafar",126,Dodo,Rubis,Commune,N
+"Le Règne de Jafar",159,"Go Go Tomago",Saphir,Commune,N
+"Le Règne de Jafar",14,Perdita,Ambre,Commune,N
+"Le Règne de Jafar",97,Tic,Émeraude,"Peu commune",N
+"Le Règne de Jafar",77,"Duel en Forêt",Améthyste,"Peu commune",N
+"Le Règne de Jafar",149,"Mettre le feu aux poudres",Rubis,"Peu commune",N
+"Le Règne de Jafar",64,Monstro,Améthyste,Rare,N
+"Le Règne de Jafar",29,Volt,Ambre,Rare,N
+"Le Règne de Jafar",57,Bambi,Améthyste,Commune,Y
+
+"Le Règne de Jafar",88,Chaca,Émeraude,Commune,N
+"Le Règne de Jafar",130,Mushu,Rubis,Commune,N
+"Le Règne de Jafar",155,"Anita Radcliffe",Saphir,Commune,N
+"Le Règne de Jafar",189,Génie,Acier,Commune,N
+"Le Règne de Jafar",54,Mégara,Améthyste,Commune,N
+"Le Règne de Jafar",16,Darling,Ambre,Commune,N
+"Le Règne de Jafar",103,"Le Loir",Émeraude,"Peu commune",N
+"Le Règne de Jafar",71,"La Fée Bleue",Améthyste,"Peu commune",N
+"Le Règne de Jafar",181,Atitaya,Acier,"Peu commune",N
+"Le Règne de Jafar",123,"Géo Trouvetou",Rubis,Rare,N
+"Le Règne de Jafar",141,Mulan,Rubis,"Super rare",N
+"Le Règne de Jafar",139,Lumière,Rubis,"Super rare",Y
+
+"Le Règne de Jafar",191,Arianna,Acier,Commune,N
+"Le Règne de Jafar",55,Yelena,Améthyste,Commune,N
+"Le Règne de Jafar",93,Truffe,Émeraude,Commune,N
+"Le Règne de Jafar",144,"Monsieur Hibou",Rubis,Commune,N
+"Le Règne de Jafar",159,"Go Go Tomago",Saphir,Commune,N
+"Le Règne de Jafar",38,"Chiot Dalmatien",Ambre,Commune,N
+"Le Règne de Jafar",66,"Miss Tick",Améthyste,"Peu commune",N
+"Le Règne de Jafar",28,Pluto,Ambre,"Peu commune",N
+"Le Règne de Jafar",69,"Madame Mime",Améthyste,"Peu commune",N
+"Le Règne de Jafar",76,Fleur,Améthyste,Rare,N
+"Le Règne de Jafar",99,Gadget,Émeraude,Rare,N
+"Le Règne de Jafar",125,Brutus,Rubis,Commune,Y
+
 "Le Règne de Jafar",94,Tac,Émeraude,Commune,N
 "Le Règne de Jafar",126,Dodo,Rubis,Commune,N
 "Le Règne de Jafar",159,"Go Go Tomago",Saphir,Commune,N
@@ -2559,43 +2598,4 @@ saison,number,nom,encre,rareté,is_foil
 "L’ile d' Archazia",98,Donald,Émeraude,Rare,N
 "L’ile d' Archazia",20,"Sa Sucrerie",Ambre,"Super rare",N
 "L’ile d' Archazia",7,Peg,Ambre,"Peu commune",Y
-
-"L’ile d' Archazia",150,"Outil inhabituel",Rubis,Commune,N
-"L’ile d' Archazia",42,"Plat de spaghetti",Ambre,Commune,N
-"L’ile d' Archazia",87,Baymax,Émeraude,Commune,N
-"L’ile d' Archazia",78,"Dolores Madrigal",Améthyste,Commune,N
-"L’ile d' Archazia",170,"Robin des Bois",Saphir,Commune,N
-"L’ile d' Archazia",195,"Miss Bianca",Acier,Commune,N
-"L’ile d' Archazia",39,"Restituer le Cœur",Ambre,"Peu commune",N
-"L’ile d' Archazia",12,"Wendy Darling",Ambre,"Peu commune",N
-"L’ile d' Archazia",132,"Les Rapetou",Rubis,"Peu commune",N
-"L’ile d' Archazia",67,Merlin,Améthyste,Rare,N
-"L’ile d' Archazia",110,Clochard,Émeraude,Rare,N
-"L’ile d' Archazia",41,"Spirale d’ambre",Ambre,"Peu commune",Y
-
-"L’ile d' Archazia",129,"Gardes cartes",Rubis,Commune,N
-"L’ile d' Archazia",37,"Pepa Madrigal",Ambre,Commune,N
-"L’ile d' Archazia",101,Yzma,Émeraude,Commune,N
-"L’ile d' Archazia",62,Rajah,Améthyste,Commune,N
-"L’ile d' Archazia",155,Mattias,Saphir,Commune,N
-"L’ile d' Archazia",191,Tic-Tac,Acier,Commune,N
-"L’ile d' Archazia",158,"Gaëtan Molière",Saphir,"Peu commune",N
-"L’ile d' Archazia",24,"Le Prince",Ambre,"Peu commune",N
-"L’ile d' Archazia",203,"Spirale d’acier",Acier,"Peu commune",N
-"L’ile d' Archazia",201,"Reconstruire l’Atlantide",Acier,Rare,N
-"L’ile d' Archazia",15,Cendrillon,Ambre,Rare,N
-"L’ile d' Archazia",6,César,Ambre,Commune,Y
-
-"L’ile d' Archazia",125,"Un frère Stabbington",Rubis,Commune,N
-"L’ile d' Archazia",17,"Adèle Machandelle",Ambre,Commune,N
-"L’ile d' Archazia",102,Pacha,Émeraude,Commune,N
-"L’ile d' Archazia",59,Yzma,Améthyste,Commune,N
-"L’ile d' Archazia",165,Toulouse,Saphir,Commune,N
-"L’ile d' Archazia",204,"Bâton d’entraînement",Acier,Commune,N
-"L’ile d' Archazia",41,"Spirale d’ambre",Ambre,"Peu commune",N
-"L’ile d' Archazia",22,"Félix Fixe Junior",Ambre,"Peu commune",N
-"L’ile d' Archazia",79,Mufasa,Améthyste,"Peu commune",N
-"L’ile d' Archazia",114,Pat,Émeraude,"Super rare",N
-"L’ile d' Archazia",54,"TE KĀ",Améthyste,"Super rare",N
-"L’ile d' Archazia",91,"Chat du Cheshire",Émeraude,Commune,Y
 
