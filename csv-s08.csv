@@ -61,7 +61,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 60;Elsa;Rare;Améthyste;1;0
 61;Pinocchio;Légendaire;Améthyste;1;0
 62;"Jiminy Cricket";Rare;Améthyste;2;0
-63;Bambi;Légendaire;Améthyste;2;0
+63;Bambi;Légendaire;Améthyste;1;0
 64;Monstro;Rare;Améthyste;3;1
 65;Néron;Commune;Améthyste;7;1
 66;"Miss Tick";"Peu commune";"Améthyste, Émeraude";6;1
@@ -164,8 +164,8 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 163;"Soeur de Bobby";Commune;Saphir;8;0
 164;"Adélaïde De Bonnefamille";Commune;Saphir;6;0
 165;Nani;Rare;Saphir;2;1
-166;Stitch;Légendaire;Saphir;1;0
-167;Ratigan;Légendaire;Saphir;1;0
+166;Stitch;Légendaire;Saphir;0;0
+167;Ratigan;Légendaire;Saphir;0;0
 168;Arthur;"Peu commune";"Saphir, Acier";3;0
 169;Bernard;"Peu commune";"Saphir, Acier";5;0
 170;Aladdin;Rare;"Saphir, Acier";2;0
