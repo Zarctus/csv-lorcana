@@ -1,4 +1,30 @@
 saison,number,nom,encre,rareté,is_foil
+"Le Règne de Jafar",161,"Madame Samovar",Saphir,Commune,N
+"Le Règne de Jafar",193,Khan,Acier,Commune,N
+"Le Règne de Jafar",51,"Bruno Madrigal",Améthyste,Commune,N
+"Le Règne de Jafar",119,Nano-sac,Émeraude,Commune,N
+"Le Règne de Jafar",129,Gaston,Rubis,Commune,N
+"Le Règne de Jafar",13,Gene,Ambre,Commune,N
+"Le Règne de Jafar",173,"Jumba Jookiba",Saphir,"Peu commune",N
+"Le Règne de Jafar",122,"Grand Coquin",Rubis,"Peu commune",N
+"Le Règne de Jafar",169,Bernard,Saphir,"Peu commune",N
+"Le Règne de Jafar",104,Alice,Émeraude,Rare,N
+"Le Règne de Jafar",60,Elsa,Améthyste,Rare,N
+"Le Règne de Jafar",59,"Madame Mime",Améthyste,"Peu commune",Y
+
+"Le Règne de Jafar",127,Alice,Rubis,Commune,N
+"Le Règne de Jafar",164,"Adélaïde De Bonnefamille",Saphir,Commune,N
+"Le Règne de Jafar",186,"Capitaine Crochet",Acier,Commune,N
+"Le Règne de Jafar",54,Mégara,Améthyste,Commune,N
+"Le Règne de Jafar",88,Chaca,Émeraude,Commune,N
+"Le Règne de Jafar",8,"Charlotte Lebœuf",Ambre,Commune,N
+"Le Règne de Jafar",77,"Duel en Forêt",Améthyste,"Peu commune",N
+"Le Règne de Jafar",19,Pua,Ambre,"Peu commune",N
+"Le Règne de Jafar",84,"Pics de glace",Améthyste,"Peu commune",N
+"Le Règne de Jafar",135,"Ralph la Casse",Rubis,Rare,N
+"Le Règne de Jafar",5,"Antonio Madrigal",Ambre,Rare,N
+"Le Règne de Jafar",46,Druun,Améthyste,"Peu commune",Y
+
 "Le Règne de Jafar",162,Jasmine,Saphir,Commune,N
 "Le Règne de Jafar",188,"Jack le Costaud",Acier,Commune,N
 "Le Règne de Jafar",58,"Poe De Sortilège",Améthyste,Commune,N
@@ -2572,30 +2598,4 @@ saison,number,nom,encre,rareté,is_foil
 "L’ile d' Archazia",70,Kinaï,Améthyste,Rare,N
 "L’ile d' Archazia",98,Donald,Émeraude,Rare,N
 "L’ile d' Archazia",131,Toby,Rubis,Commune,Y
-
-"L’ile d' Archazia",43,"Kanine Krunchies",Ambre,Commune,N
-"L’ile d' Archazia",89,Pat,Émeraude,Commune,N
-"L’ile d' Archazia",58,"TE KĀ",Améthyste,Commune,N
-"L’ile d' Archazia",168,Biscotte,Saphir,Commune,N
-"L’ile d' Archazia",123,"La Dame marieuse",Rubis,Commune,N
-"L’ile d' Archazia",189,Razoul,Acier,Commune,N
-"L’ile d' Archazia",34,Koda,Ambre,"Peu commune",N
-"L’ile d' Archazia",124,Denahi,Rubis,"Peu commune",N
-"L’ile d' Archazia",203,"Spirale d’acier",Acier,"Peu commune",N
-"L’ile d' Archazia",26,Calhoun,Ambre,Rare,N
-"L’ile d' Archazia",4,Volt,Ambre,"Super rare",N
-"L’ile d' Archazia",88,"Thomas O’Malley",Émeraude,"Peu commune",Y
-
-"L’ile d' Archazia",5,"Roger Radcliffe",Ambre,Commune,N
-"L’ile d' Archazia",89,Pat,Émeraude,Commune,N
-"L’ile d' Archazia",47,"Le gardien du Trésor",Améthyste,Commune,N
-"L’ile d' Archazia",159,Belle,Saphir,Commune,N
-"L’ile d' Archazia",128,"Un frère Stabbington",Rubis,Commune,N
-"L’ile d' Archazia",184,Volt,Acier,Commune,N
-"L’ile d' Archazia",65,Sven,Améthyste,"Peu commune",N
-"L’ile d' Archazia",34,Koda,Ambre,"Peu commune",N
-"L’ile d' Archazia",106,Fidget,Émeraude,"Peu commune",N
-"L’ile d' Archazia",50,Chernabog,Améthyste,Rare,N
-"L’ile d' Archazia",111,"Le Roi de Cœur",Émeraude,Rare,N
-"L’ile d' Archazia",128,"Un frère Stabbington",Rubis,Commune,Y
 
