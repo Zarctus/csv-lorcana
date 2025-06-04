@@ -1,4 +1,30 @@
 saison,number,nom,encre,rareté,is_foil
+"Le Règne de Jafar",153,"La Reine Moustoria",Saphir,Commune,N
+"Le Règne de Jafar",187,"Général Li",Acier,Commune,N
+"Le Règne de Jafar",75,"Camilo Madrigal",Améthyste,Commune,N
+"Le Règne de Jafar",90,"Bill le Lézard",Émeraude,Commune,N
+"Le Règne de Jafar",129,Gaston,Rubis,Commune,N
+"Le Règne de Jafar",10,"Mirabel Madrigal",Ambre,Commune,N
+"Le Règne de Jafar",133,Figaro,Rubis,"Peu commune",N
+"Le Règne de Jafar",40,"C’est ta maîtresse",Ambre,"Peu commune",N
+"Le Règne de Jafar",120,"Collier incrusté",Émeraude,"Peu commune",N
+"Le Règne de Jafar",99,Gadget,Émeraude,Rare,N
+"Le Règne de Jafar",139,Lumière,Rubis,"Super rare",N
+"Le Règne de Jafar",86,Basil,Émeraude,Rare,Y
+
+"Le Règne de Jafar",156,Olaf,Saphir,Commune,N
+"Le Règne de Jafar",190,"Toby la Tortue",Acier,Commune,N
+"Le Règne de Jafar",52,"Garde royal",Améthyste,Commune,N
+"Le Règne de Jafar",112,Jock,Émeraude,Commune,N
+"Le Règne de Jafar",127,Alice,Rubis,Commune,N
+"Le Règne de Jafar",2,Fifi,Ambre,Commune,N
+"Le Règne de Jafar",21,Kaa,Ambre,"Peu commune",N
+"Le Règne de Jafar",149,"Mettre le feu aux poudres",Rubis,"Peu commune",N
+"Le Règne de Jafar",172,Roquefort,Saphir,"Peu commune",N
+"Le Règne de Jafar",107,"Go Go Tomago",Émeraude,"Super rare",N
+"Le Règne de Jafar",100,Raya,Émeraude,Légendaire,N
+"Le Règne de Jafar",23,"Sa Sucrerie",Ambre,"Peu commune",Y
+
 "Le Règne de Jafar",159,"Go Go Tomago",Saphir,Commune,N
 "Le Règne de Jafar",183,"Tapis Volant",Acier,Commune,N
 "Le Règne de Jafar",53,Kuzco,Améthyste,Commune,N
@@ -2572,30 +2598,4 @@ saison,number,nom,encre,rareté,is_foil
 "L’ile d' Archazia",96,"Hiro Hamada",Émeraude,"Super rare",N
 "L’ile d' Archazia",14,Aurore,Ambre,Légendaire,N
 "L’ile d' Archazia",157,"Monsieur D'Arque",Saphir,Commune,Y
-
-"L’ile d' Archazia",38,"La vie nous a réunis",Ambre,Commune,N
-"L’ile d' Archazia",100,Lady,Émeraude,Commune,N
-"L’ile d' Archazia",75,Panique,Améthyste,Commune,N
-"L’ile d' Archazia",167,Pepper,Saphir,Commune,N
-"L’ile d' Archazia",121,"Grand-Mère Fa",Rubis,Commune,N
-"L’ile d' Archazia",195,"Miss Bianca",Acier,Commune,N
-"L’ile d' Archazia",23,Ouragan,Ambre,"Peu commune",N
-"L’ile d' Archazia",112,Duchesse,Émeraude,"Peu commune",N
-"L’ile d' Archazia",144,"Seigneur Kay",Rubis,"Peu commune",N
-"L’ile d' Archazia",109,"John Silver",Émeraude,Rare,N
-"L’ile d' Archazia",118,"Le retour d’Hercule",Émeraude,Légendaire,N
-"L’ile d' Archazia",195,"Miss Bianca",Acier,Commune,Y
-
-"L’ile d' Archazia",43,"Kanine Krunchies",Ambre,Commune,N
-"L’ile d' Archazia",89,Pat,Émeraude,Commune,N
-"L’ile d' Archazia",58,"TE KĀ",Améthyste,Commune,N
-"L’ile d' Archazia",168,Biscotte,Saphir,Commune,N
-"L’ile d' Archazia",123,"La Dame marieuse",Rubis,Commune,N
-"L’ile d' Archazia",192,Kakamora,Acier,Commune,N
-"L’ile d' Archazia",166,Marie,Saphir,"Peu commune",N
-"L’ile d' Archazia",80,"Manœuvres magiques",Améthyste,"Peu commune",N
-"L’ile d' Archazia",134,Vaiana,Rubis,"Peu commune",N
-"L’ile d' Archazia",93,Basil,Émeraude,Rare,N
-"L’ile d' Archazia",20,"Sa Sucrerie",Ambre,"Super rare",N
-"L’ile d' Archazia",117,"Il se traîne",Émeraude,Commune,Y
 
