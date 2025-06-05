@@ -28,7 +28,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 27;Perdita;"Super rare";"Ambre, Saphir";3;0
 28;Pluto;"Peu commune";"Ambre, Acier";6;0
 29;Volt;Rare;"Ambre, Acier";4;0
-30;Rhino;"Super rare";"Ambre, Acier";4;0
+30;Rhino;"Super rare";"Ambre, Acier";0;0
 31;"Jaguar d’Antonio";Commune;Ambre;9;0
 32;Calhoun;Commune;Ambre;10;1
 33;Lady;Rare;"Ambre, Émeraude";0;0
@@ -114,7 +114,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 113;Archimède;Rare;Émeraude;6;1
 114;"Qui prend son avion de chassage";Commune;Émeraude;9;1
 115;"Foudroyant d'un éclair ces brutes";"Peu commune";Émeraude;5;1
-116;"Pas ce levier-là !";Rare;Émeraude;2;1
+116;"Pas ce levier-là !";Rare;Émeraude;2;0
 117;Bousillage;"Peu commune";"Émeraude, Rubis";8;1
 118;"Sur la planche !";"Peu commune";"Émeraude, Acier";6;0
 119;Nano-sac;Commune;Émeraude;11;1
@@ -150,7 +150,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 149;"Mettre le feu aux poudres";"Peu commune";"Rubis, Acier";6;0
 150;Batifolage;"Peu commune";Rubis;7;0
 151;"Tout le monde est fou ici";Rare;Rubis;3;0
-152;"L’épée de Shan-Yu";Rare;Rubis;4;1
+152;"L’épée de Shan-Yu";Rare;Rubis;4;0
 153;"La Reine Moustoria";Commune;Saphir;10;2
 154;"Seigneur Pélinore";"Peu commune";Saphir;5;1
 155;"Anita Radcliffe";Commune;Saphir;9;1
@@ -200,7 +200,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 199;"Mickey Mouse";Légendaire;Acier;1;0
 200;Stitch;Rare;Acier;3;0
 201;"Plan désespéré";Rare;Acier;4;0
-202;"Beyond the Horizon";"Peu commune";Acier;5;1
+202;"Beyond the Horizon";"Peu commune";Acier;5;0
 203;"Tir rapide";"Peu commune";Acier;6;1
 204;"Boule de hamster";Commune;Acier;9;1
 205;Lady;Enchantée;"Ambre, Émeraude";0;0

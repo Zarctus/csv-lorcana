@@ -19,7 +19,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 18;Volt;Commune;Ambre;12;0
 19;Pascal;"Peu commune";"Ambre, Améthyste";7;2
 20;"Sa Sucrerie";"Super rare";"Ambre, Rubis";4;2
-21;Penny;"Peu commune";"Ambre, Acier";5;3
+21;Penny;"Peu commune";"Ambre, Acier";5;2
 22;"Félix Fixe Junior";"Peu commune";"Ambre, Rubis";8;0
 23;Ouragan;"Peu commune";"Ambre, Saphir";5;0
 24;"Le Prince";"Peu commune";Ambre;7;1
@@ -92,8 +92,8 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 91;"Chat du Cheshire";Commune;Émeraude;12;2
 92;"Shere Khan";Rare;Émeraude;3;0
 93;Basil;Rare;Émeraude;3;0
-94;"Le Chapelier Fou";Rare;"Émeraude, Rubis";5;1
-95;"La Reine de Cœur";"Super rare";"Émeraude, Rubis";3;1
+94;"Le Chapelier Fou";Rare;"Émeraude, Rubis";5;0
+95;"La Reine de Cœur";"Super rare";"Émeraude, Rubis";3;0
 96;"Hiro Hamada";"Super rare";"Émeraude, Saphir";5;0
 97;Yokai;"Peu commune";"Émeraude, Saphir";6;0
 98;Donald;Rare;Émeraude;4;0
