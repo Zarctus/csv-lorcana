@@ -165,7 +165,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 164;"Adélaïde De Bonnefamille";Commune;Saphir;10;2
 165;Nani;Rare;Saphir;3;1
 166;Stitch;Légendaire;Saphir;0;0
-167;Ratigan;Légendaire;Saphir;1;0
+167;Ratigan;Légendaire;Saphir;0;0
 168;Arthur;"Peu commune";"Saphir, Acier";5;0
 169;Bernard;"Peu commune";"Saphir, Acier";7;0
 170;Aladdin;Rare;"Saphir, Acier";3;0
@@ -197,7 +197,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 196;"Nathaniel Flint";Rare;Acier;2;0
 197;"Vincenzo Santorini";Rare;Acier;4;1
 198;Namaari;Légendaire;Acier;2;1
-199;"Mickey Mouse";Légendaire;Acier;1;0
+199;"Mickey Mouse";Légendaire;Acier;0;0
 200;Stitch;Rare;Acier;3;0
 201;"Plan désespéré";Rare;Acier;5;0
 202;"Beyond the Horizon";"Peu commune";Acier;5;0
