@@ -59,7 +59,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 58;"Poe De Sortilège";Commune;Améthyste;12;1
 59;"Madame Mime";"Peu commune";Améthyste;8;1
 60;Elsa;Rare;Améthyste;3;0
-61;Pinocchio;Légendaire;Améthyste;2;0
+61;Pinocchio;Légendaire;Améthyste;1;0
 62;"Jiminy Cricket";Rare;Améthyste;2;0
 63;Bambi;Légendaire;Améthyste;1;0
 64;Monstro;Rare;Améthyste;4;0
@@ -68,7 +68,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 67;Kuzco;Rare;"Améthyste, Émeraude";3;0
 68;Yzma;"Super rare";"Améthyste, Émeraude";2;0
 69;"Madame Mime";"Peu commune";"Améthyste, Rubis";6;0
-70;"Mère Gothel";Rare;"Améthyste, Rubis";2;2
+70;"Mère Gothel";Rare;"Améthyste, Rubis";2;1
 71;"La Fée Bleue";"Peu commune";"Améthyste, Saphir";9;2
 72;Anna;Rare;"Améthyste, Saphir";6;0
 73;"Le Sultan";Rare;"Améthyste, Acier";6;1
@@ -99,7 +99,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 98;Fred;Rare;Émeraude;4;0
 99;Gadget;Rare;Émeraude;4;1
 100;Raya;Légendaire;Émeraude;1;0
-101;Raiponce;Légendaire;Émeraude;1;2
+101;Raiponce;Légendaire;Émeraude;1;1
 102;"Flynn Rider";"Super rare";Émeraude;4;0
 103;"Le Loir";"Peu commune";"Émeraude, Rubis";10;2
 104;Alice;Rare;"Émeraude, Rubis";2;0
@@ -113,7 +113,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 112;Jock;Commune;Émeraude;11;0
 113;Archimède;Rare;Émeraude;7;1
 114;"Qui prend son avion de chassage";Commune;Émeraude;10;1
-115;"Foudroyant d'un éclair ces brutes";"Peu commune";Émeraude;7;2
+115;"Foudroyant d'un éclair ces brutes";"Peu commune";Émeraude;7;1
 116;"Pas ce levier-là !";Rare;Émeraude;3;0
 117;Bousillage;"Peu commune";"Émeraude, Rubis";9;1
 118;"Sur la planche !";"Peu commune";"Émeraude, Acier";8;0
@@ -140,7 +140,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 139;Lumière;"Super rare";"Rubis, Saphir";4;0
 140;"Le Cocher";"Peu commune";"Rubis, Acier";7;0
 141;Mulan;"Super rare";"Rubis, Acier";2;0
-142;Mushu;Rare;"Rubis, Acier";3;1
+142;Mushu;Rare;"Rubis, Acier";3;0
 143;"Mr. Snoops";Commune;Rubis;10;1
 144;"Monsieur Hibou";Commune;Rubis;15;2
 145;Féline;Rare;Rubis;3;0
