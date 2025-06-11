@@ -98,8 +98,8 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 97;Tic;"Peu commune";Émeraude;10;1
 98;Fred;Rare;Émeraude;4;0
 99;Gadget;Rare;Émeraude;4;1
-100;Raya;Légendaire;Émeraude;1;0
-101;Raiponce;Légendaire;Émeraude;1;0
+100;Raya;Légendaire;Émeraude;0;0
+101;Raiponce;Légendaire;Émeraude;0;0
 102;"Flynn Rider";"Super rare";Émeraude;5;0
 103;"Le Loir";"Peu commune";"Émeraude, Rubis";10;2
 104;Alice;Rare;"Émeraude, Rubis";3;0
@@ -164,7 +164,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 163;"Soeur de Bobby";Commune;Saphir;13;0
 164;"Adélaïde De Bonnefamille";Commune;Saphir;12;2
 165;Nani;Rare;Saphir;4;1
-166;Stitch;Légendaire;Saphir;1;0
+166;Stitch;Légendaire;Saphir;0;0
 167;Ratigan;Légendaire;Saphir;1;0
 168;Arthur;"Peu commune";"Saphir, Acier";6;0
 169;Bernard;"Peu commune";"Saphir, Acier";8;0
@@ -197,7 +197,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 196;"Nathaniel Flint";Rare;Acier;3;0
 197;"Vincenzo Santorini";Rare;Acier;5;1
 198;Namaari;Légendaire;Acier;2;1
-199;"Mickey Mouse";Légendaire;Acier;1;0
+199;"Mickey Mouse";Légendaire;Acier;0;0
 200;Stitch;Rare;Acier;3;0
 201;"Plan désespéré";Rare;Acier;3;0
 202;"Beyond the Horizon";"Peu commune";Acier;5;0
