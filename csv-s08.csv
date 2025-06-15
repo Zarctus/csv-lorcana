@@ -1,8 +1,8 @@
 card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 1;Loulou;"Peu commune";Ambre;8;1
 2;Fifi;Commune;Ambre;14;0
-3;Riri;"Peu commune";Ambre;9;1
-4;Dingo;Légendaire;Ambre;0;1
+3;Riri;"Peu commune";Ambre;9;0
+4;Dingo;Légendaire;Ambre;0;0
 5;"Antonio Madrigal";Rare;"Ambre, Améthyste";4;2
 6;Minnie;Rare;"Ambre, Rubis";4;0
 7;"Ludwig von Drake";Rare;"Ambre, Saphir";5;1
@@ -59,9 +59,9 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 58;"Poe De Sortilège";Commune;Améthyste;14;1
 59;"Madame Mime";"Peu commune";Améthyste;8;2
 60;Elsa;Rare;Améthyste;4;0
-61;Pinocchio;Légendaire;Améthyste;1;0
+61;Pinocchio;Légendaire;Améthyste;0;0
 62;"Jiminy Cricket";Rare;Améthyste;3;0
-63;Bambi;Légendaire;Améthyste;1;0
+63;Bambi;Légendaire;Améthyste;0;0
 64;Monstro;Rare;Améthyste;0;0
 65;Néron;Commune;Améthyste;13;3
 66;"Miss Tick";"Peu commune";"Améthyste, Émeraude";9;1
