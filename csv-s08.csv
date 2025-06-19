@@ -1,5 +1,5 @@
 card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
-1;Loulou;"Peu commune";Ambre;8;1
+1;Loulou;"Peu commune";Ambre;8;0
 2;Fifi;Commune;Ambre;14;0
 3;Riri;"Peu commune";Ambre;9;0
 4;Dingo;Légendaire;Ambre;0;0
@@ -63,7 +63,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 62;"Jiminy Cricket";Rare;Améthyste;3;0
 63;Bambi;Légendaire;Améthyste;0;0
 64;Monstro;Rare;Améthyste;0;0
-65;Néron;Commune;Améthyste;13;3
+65;Néron;Commune;Améthyste;13;2
 66;"Miss Tick";"Peu commune";"Améthyste, Émeraude";9;1
 67;Kuzco;Rare;"Améthyste, Émeraude";4;0
 68;Yzma;"Super rare";"Améthyste, Émeraude";2;0
@@ -123,7 +123,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 122;"Grand Coquin";"Peu commune";Rubis;8;0
 123;"Géo Trouvetou";Rare;"Rubis, Saphir";4;2
 124;"Vanellope von Schweetz";Commune;Rubis;13;0
-125;Brutus;Commune;Rubis;13;1
+125;Brutus;Commune;Rubis;13;0
 126;Dodo;Commune;Rubis;13;1
 127;Alice;Commune;Rubis;12;2
 128;Lumière;Commune;Rubis;11;0
