@@ -9,7 +9,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 8;"Charlotte Lebœuf";Commune;Ambre;13;1
 9;Tiana;Rare;Ambre;2;0
 10;"Mirabel Madrigal";Commune;Ambre;13;1
-11;Lady;Rare;Ambre;5;0
+11;Lady;Rare;Ambre;4;0
 12;"Jim Chéri";Commune;Ambre;13;0
 13;Gene;Commune;Ambre;11;2
 14;Perdita;Commune;Ambre;12;1
@@ -25,7 +25,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 24;"Ralph la Casse";"Super rare";"Ambre, Rubis";4;0
 25;Patch;"Peu commune";"Ambre, Saphir";8;1
 26;Rolly;"Peu commune";"Ambre, Saphir";7;0
-27;Perdita;"Super rare";"Ambre, Saphir";4;0
+27;Perdita;"Super rare";"Ambre, Saphir";1;0
 28;Pluto;"Peu commune";"Ambre, Acier";9;0
 29;Volt;Rare;"Ambre, Acier";5;0
 30;Rhino;"Super rare";"Ambre, Acier";0;0
@@ -35,7 +35,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 34;"Alma Madrigal";"Peu commune";"Ambre, Améthyste";8;0
 35;Clawhauser;Rare;Ambre;3;0
 36;"Joey le pigeon";Commune;Ambre;13;3
-37;Donald;"Super rare";Ambre;6;0
+37;Donald;"Super rare";Ambre;3;0
 38;"Chiot Dalmatien";Commune;Ambre;11;1
 39;"Dérapage sucré";"Peu commune";"Ambre, Rubis";7;0
 40;"C’est ta maîtresse";"Peu commune";"Ambre, Acier";7;2
@@ -71,7 +71,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 70;"Mère Gothel";Rare;"Améthyste, Rubis";3;1
 71;"La Fée Bleue";"Peu commune";"Améthyste, Saphir";10;2
 72;Anna;Rare;"Améthyste, Saphir";6;0
-73;"Le Sultan";Rare;"Améthyste, Acier";6;1
+73;"Le Sultan";Rare;"Améthyste, Acier";6;0
 74;Jafar;"Super rare";"Améthyste, Acier";7;0
 75;"Camilo Madrigal";Commune;Améthyste;14;0
 76;Fleur;Rare;Améthyste;3;0
@@ -107,7 +107,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 106;"Hiro Hamada";"Peu commune";"Émeraude, Saphir";9;0
 107;"Go Go Tomago";"Super rare";"Émeraude, Saphir";3;0
 108;"Don Carnage";"Peu commune";"Émeraude, Acier";8;1
-109;"Capitaine Crochet";Rare;"Émeraude, Acier";5;1
+109;"Capitaine Crochet";Rare;"Émeraude, Acier";5;0
 110;Maui;"Super rare";"Émeraude, Acier";3;2
 111;"Honey Lemon";Rare;"Émeraude, Saphir";4;0
 112;Jock;Commune;Émeraude;13;0
