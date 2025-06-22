@@ -28,7 +28,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 27;"Ralph la Casse";Rare;Ambre;3;1
 28;Lady;"Super rare";"Ambre, Émeraude";3;0
 29;Pongo;"Super rare";"Ambre, Saphir";4;0
-30;Kinaï;Rare;Ambre;2;1
+30;Kinaï;Rare;Ambre;2;0
 31;Minnie;Légendaire;Ambre;0;0
 32;Perla;"Peu commune";"Ambre, Émeraude";6;0
 33;Blanche-Neige;"Peu commune";Ambre;6;0
@@ -48,7 +48,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 47;"Le gardien du Trésor";Commune;Améthyste;10;1
 48;Honeymaren;Commune;Améthyste;11;1
 49;Iago;Rare;Améthyste;1;0
-50;Chernabog;Rare;Améthyste;4;1
+50;Chernabog;Rare;Améthyste;4;0
 51;Jafar;"Super rare";"Améthyste, Acier";4;0
 52;Hadès;Rare;"Améthyste, Rubis";3;0
 53;"Madame Médusa";"Peu commune";"Améthyste, Rubis";7;0
