@@ -9,7 +9,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 8;"Charlotte Lebœuf";Commune;Ambre;13;1
 9;Tiana;Rare;Ambre;2;0
 10;"Mirabel Madrigal";Commune;Ambre;13;1
-11;Lady;Rare;Ambre;4;0
+11;Lady;Rare;Ambre;1;0
 12;"Jim Chéri";Commune;Ambre;13;0
 13;Gene;Commune;Ambre;11;2
 14;Perdita;Commune;Ambre;12;1
@@ -20,7 +20,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 19;Pua;"Peu commune";"Ambre, Améthyste";9;0
 20;"Bruno Madrigal";"Super rare";"Ambre, Améthyste";5;1
 21;Kaa;"Peu commune";"Ambre, Émeraude";10;1
-22;Clochard;"Super rare";"Ambre, Émeraude";4;1
+22;Clochard;"Super rare";"Ambre, Émeraude";1;1
 23;"Sa Sucrerie";"Peu commune";"Ambre, Rubis";7;1
 24;"Ralph la Casse";"Super rare";"Ambre, Rubis";4;0
 25;Patch;"Peu commune";"Ambre, Saphir";8;1
