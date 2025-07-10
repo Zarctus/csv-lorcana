@@ -4,9 +4,10 @@
 **Quote request**  
 *Please visit my website for all requests : [Zarctus.fr](https://www.zarctus.fr/)*
 
+
 **Quelques liens aléatoires / Some random links**
-- *[Lorcana - Le retour d'Ursula - Bébé Noï 119/204 - Super rare - ID=810](https://www.vinted.fr/items/5835836414-lorcana-le-retour-dursula-bebe-noi-119204-super-rare-id810)*
-- *[Lorcana - La Mer Azurite - Patate Chaude 195/204 - Peu commune Foil - ID=1394](https://www.vinted.fr/items/6374209373-lorcana-la-mer-azurite-patate-chaude-195204-peu-commune-foil-id1394)*
-- *[Disney Lorcana - Le retour d'Ursula - Deck box + Sleeves Blanche-Neige](https://www.vinted.fr/items/5259219294-disney-lorcana-le-retour-dursula-deck-box-sleeves-blanche-neige)*
-- *[Lorcana - Premier Chapitre - Plume En Forme D'Arête 168/204 - Rare - ID=168](https://www.vinted.fr/items/5405010693-lorcana-premier-chapitre-plume-en-forme-darete-168204-rare-id168)*
-- *[Lorcana - Le Règne de Jafar - Namaari 198/204 - Légendaire - ID=1862](https://www.vinted.fr/items/6424586186-lorcana-le-regne-de-jafar-namaari-198204-legendaire-id1862)*
+- *[Lorcana - Le Règne de Jafar - 3x Capitaine Crochet 109/204 - Rare - ID=1773](https://www.vinted.fr/items/6539912963-lorcana-le-regne-de-jafar-3x-capitaine-crochet-109204-rare-id1773)*
+- *[Lorcana - Ciel Scintillant - 2x Kuzco 149/204 - Super rare - ID=1105](https://www.vinted.fr/items/6095506081-lorcana-ciel-scintillant-2x-kuzco-149204-super-rare-id1105)*
+- *[Lorcana - L'ile d' Archazia - 2x La Reine De Cœur 122/204 - Commune - ID=1555](https://www.vinted.fr/items/6452308658-lorcana-lile-d-archazia-2x-la-reine-de-coeur-122204-commune-id1555)*
+- *[Lorcana - Les Terres d'Encres - 3x Grand-Mère Tala 142/204 - Commune - ID=578](https://www.vinted.fr/items/5646745621-lorcana-les-terres-dencres-3x-grand-mere-tala-142204-commune-id578)*
+- *[Lorcana - Premier Chapitre - La Fée Clochette 193/204 - Super rare - ID=193](https://www.vinted.fr/items/5912602338-lorcana-premier-chapitre-la-fee-clochette-193204-super-rare-id193)*
