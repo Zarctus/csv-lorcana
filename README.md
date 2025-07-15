@@ -6,8 +6,8 @@
 
 
 **Quelques liens aléatoires / Some random links**
-- *[Lorcana - L'ile d' Archazia - Geyser D’encre 119/204 - Rare - ID=1552](https://www.vinted.fr/items/5954115109-lorcana-lile-d-archazia-geyser-dencre-119204-rare-id1552)*
-- *[Lorcana - Les Terres d'Encres - Alice 35/204 - Super rare - ID=471](https://www.vinted.fr/items/5996460419-lorcana-les-terres-dencres-alice-35204-super-rare-id471)*
-- *[Lorcana - L'ile d' Archazia - 3x Rajah 62/204 - Commune - ID=1495](https://www.vinted.fr/items/6651475505-lorcana-lile-d-archazia-3x-rajah-62204-commune-id1495)*
-- *[Lorcana - Les Terres d'Encres - 2x Triste Sire 86/204 - Commune - ID=522](https://www.vinted.fr/items/6220765218-lorcana-les-terres-dencres-2x-triste-sire-86204-commune-id522)*
-- *[Lorcana - Les Terres d'Encres - Debout ! Tout De Suite ! 130/204 - Rare Foil - ID=566](https://www.vinted.fr/items/6545004237-lorcana-les-terres-dencres-debout-tout-de-suite-130204-rare-foil-id566)*
+- *[Lorcana - Le Règne de Jafar - Namaari 198/204 - Légendaire - ID=1862](https://www.vinted.fr/items/6424586186-lorcana-le-regne-de-jafar-namaari-198204-legendaire-id1862)*
+- *[Lorcana - Premier Chapitre - Tamatoa 159/204 - Super rare Foil - ID=159](https://www.vinted.fr/items/5948877016-lorcana-premier-chapitre-tamatoa-159204-super-rare-foil-id159)*
+- *[Lorcana - Le Règne de Jafar - Elsa 60/204 - Rare - ID=1724](https://www.vinted.fr/items/6474976939-lorcana-le-regne-de-jafar-elsa-60204-rare-id1724)*
+- *[Lorcana - Ciel Scintillant - 3x Donald 155/204 - Commune - ID=1111](https://www.vinted.fr/items/4959712939-lorcana-ciel-scintillant-3x-donald-155204-commune-id1111)*
+- *[Lorcana - L'ile d' Archazia - Te Kā 54/204 - Super rare - ID=1487](https://www.vinted.fr/items/6294219292-lorcana-lile-d-archazia-te-ka-54204-super-rare-id1487)*
