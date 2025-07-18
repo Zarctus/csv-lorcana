@@ -6,8 +6,8 @@
 
 
 **Quelques liens aléatoires / Some random links**
-- *[Lorcana - Premier Chapitre - Pistolet À Plasma 204/204 - Rare Foil - ID=204](https://www.vinted.fr/items/5786451184-lorcana-premier-chapitre-pistolet-a-plasma-204204-rare-foil-id204)*
-- *[Lorcana - Premier Chapitre - 3x Maui 114/204 - Rare - ID=114](https://www.vinted.fr/items/5955917919-lorcana-premier-chapitre-3x-maui-114204-rare-id114)*
-- *[Lorcana - Les Terres d'Encres - Minnie 9/204 - Rare Foil - ID=445](https://www.vinted.fr/items/6192146361-lorcana-les-terres-dencres-minnie-9204-rare-foil-id445)*
-- *[Lorcana - Le Règne de Jafar - 2x Tout Le Monde A Une Faiblesse 82/204 - Rare - ID=1746](https://www.vinted.fr/items/6651455758-lorcana-le-regne-de-jafar-2x-tout-le-monde-a-une-faiblesse-82204-rare-id1746)*
-- *[Lorcana - Premier Chapitre - 3x C'Est La Fête 25/204 - Peu commune - ID=25](https://www.vinted.fr/items/6567162423-lorcana-premier-chapitre-3x-cest-la-fete-25204-peu-commune-id25)*
+- *[Lorcana - Le Règne de Jafar - Jafar 74/204 - Super rare - ID=1738](https://www.vinted.fr/items/6457604853-lorcana-le-regne-de-jafar-jafar-74204-super-rare-id1738)*
+- *[Lorcana - Le retour d'Ursula - 4x Balais Magiques 185/204 - Commune - ID=876](https://www.vinted.fr/items/6604742301-lorcana-le-retour-dursula-4x-balais-magiques-185204-commune-id876)*
+- *[Lorcana - Le retour d'Ursula - 3x Balais Magiques 48/204 - Commune - ID=739](https://www.vinted.fr/items/5543623550-lorcana-le-retour-dursula-3x-balais-magiques-48204-commune-id739)*
+- *[Lorcana - Ciel Scintillant - 2x Banzaï 87/204 - Commune - ID=1043](https://www.vinted.fr/items/5085534898-lorcana-ciel-scintillant-2x-banzai-87204-commune-id1043)*
+- *[Lorcana - Le retour d'Ursula - 2x Sisu 123/204 - Peu commune - ID=814](https://www.vinted.fr/items/6005813880-lorcana-le-retour-dursula-2x-sisu-123204-peu-commune-id814)*
