@@ -6,8 +6,8 @@
 
 
 **Quelques liens aléatoires / Some random links**
-- *[Lorcana - Premier Chapitre - Simba 189/204 - Rare Foil - ID=189](https://www.vinted.fr/items/5786557110-lorcana-premier-chapitre-simba-189204-rare-foil-id189)*
-- *[Lorcana - Le Règne de Jafar - Mère Gothel 70/204 - Rare Foil - ID=1734](https://www.vinted.fr/items/6495417771-lorcana-le-regne-de-jafar-mere-gothel-70204-rare-foil-id1734)*
-- *[Lorcana - Le retour d'Ursula - 2x Sisu 123/204 - Peu commune - ID=814](https://www.vinted.fr/items/6005813880-lorcana-le-retour-dursula-2x-sisu-123204-peu-commune-id814)*
-- *[Lorcana - Les Terres d'Encres - Minnie 9/204 - Rare Foil - ID=445](https://www.vinted.fr/items/6192146361-lorcana-les-terres-dencres-minnie-9204-rare-foil-id445)*
-- *[Lorcana - L'ile d' Archazia - 3x Le Prince 24/204 - Peu commune - ID=1457](https://www.vinted.fr/items/6604625777-lorcana-lile-d-archazia-3x-le-prince-24204-peu-commune-id1457)*
+- *[Lorcana - Le Règne de Jafar - Géo Trouvetou 123/204 - Rare Foil - ID=1787](https://www.vinted.fr/items/6549814684-lorcana-le-regne-de-jafar-geo-trouvetou-123204-rare-foil-id1787)*
+- *[Lorcana - Premier Chapitre - Belle 142/204 - Légendaire Foil - ID=142](https://www.vinted.fr/items/5405140704-lorcana-premier-chapitre-belle-142204-legendaire-foil-id142)*
+- *[Lorcana - Premier Chapitre - Dr. Facilier 39/204 - Rare Foil - ID=39](https://www.vinted.fr/items/6313072566-lorcana-premier-chapitre-dr-facilier-39204-rare-foil-id39)*
+- *[Lorcana - L'Ascension des Floodborn - La Reine 26/204 - Super rare Foil - ID=242](https://www.vinted.fr/items/5687542462-lorcana-lascension-des-floodborn-la-reine-26204-super-rare-foil-id242)*
+- *[Lorcana - Premier Chapitre - 2x Génie 75/204 - Super rare - ID=75](https://www.vinted.fr/items/6197836960-lorcana-premier-chapitre-2x-genie-75204-super-rare-id75)*
