@@ -6,8 +6,8 @@
 
 
 **Quelques liens aléatoires / Some random links**
-- *[Lorcana - La Mer Azurite - Communicateur Galactique 99/204 - Commune Foil - ID=1298](https://www.vinted.fr/items/6374256664-lorcana-la-mer-azurite-communicateur-galactique-99204-commune-foil-id1298)*
-- *[Lorcana - Les Terres d'Encres - Stitch 89/204 - Rare Foil - ID=525](https://www.vinted.fr/items/5882474021-lorcana-les-terres-dencres-stitch-89204-rare-foil-id525)*
-- *[Lorcana - Le retour d'Ursula - 2x Contrat Signé 99/204 - Peu commune - ID=790](https://www.vinted.fr/items/6604763497-lorcana-le-retour-dursula-2x-contrat-signe-99204-peu-commune-id790)*
-- *[Lorcana - Premier Chapitre - Te Kā 192/204 - Légendaire - ID=192](https://www.vinted.fr/items/5719775951-lorcana-premier-chapitre-te-ka-192204-legendaire-id192)*
-- *[Lorcana - La Mer Azurite - 3x Madame Mime 37/204 - Rare - ID=1236](https://www.vinted.fr/items/6232941927-lorcana-la-mer-azurite-3x-madame-mime-37204-rare-id1236)*
+- *[Lorcana - Les Terres d'Encres - Minnie 9/204 - Rare Foil - ID=445](https://www.vinted.fr/items/6192146361-lorcana-les-terres-dencres-minnie-9204-rare-foil-id445)*
+- *[Lorcana - Les Terres d'Encres - 2x Triste Sire 86/204 - Commune - ID=522](https://www.vinted.fr/items/6220765218-lorcana-les-terres-dencres-2x-triste-sire-86204-commune-id522)*
+- *[Lorcana - La Mer Azurite - Diablo 49/204 - Peu commune - ID=1248](https://www.vinted.fr/items/6468434656-lorcana-la-mer-azurite-diablo-49204-peu-commune-id1248)*
+- *[Lorcana - Le Règne de Jafar - 2x Hadès 48/204 - Super rare - ID=1712](https://www.vinted.fr/items/6482256610-lorcana-le-regne-de-jafar-2x-hades-48204-super-rare-id1712)*
+- *[Lorcana - La Mer Azurite - 2x Communicateur Galactique 99/204 - Commune - ID=1298](https://www.vinted.fr/items/6604650201-lorcana-la-mer-azurite-2x-communicateur-galactique-99204-commune-id1298)*
