@@ -6,8 +6,8 @@
 
 
 **Quelques liens aléatoires / Some random links**
-- *[Lorcana - L'Ascension des Floodborn - 4x Kuzco 45/204 - Commune - ID=261](https://www.vinted.fr/items/5290625429-lorcana-lascension-des-floodborn-4x-kuzco-45204-commune-id261)*
-- *[Lorcana - Ciel Scintillant - 3x Force Hypnotique 59/204 - Commune - ID=1015](https://www.vinted.fr/items/6232694116-lorcana-ciel-scintillant-3x-force-hypnotique-59204-commune-id1015)*
-- *[Lorcana - La Mer Azurite - Communicateur Galactique 99/204 - Commune Foil - ID=1298](https://www.vinted.fr/items/6374256664-lorcana-la-mer-azurite-communicateur-galactique-99204-commune-foil-id1298)*
-- *[Lorcana - La Mer Azurite - 2x Soumettez-Vous À Ma Volonté 93/204 - Super rare - ID=1292](https://www.vinted.fr/items/6294200089-lorcana-la-mer-azurite-2x-soumettez-vous-a-ma-volonte-93204-super-rare-id1292)*
-- *[Lorcana - Ciel Scintillant - Clarabelle 86/204 - Commune Foil - ID=1042](https://www.vinted.fr/items/5132996622-lorcana-ciel-scintillant-clarabelle-86204-commune-foil-id1042)*
+- *[Lorcana - Premier Chapitre - 4x Lilo 9/204 - Rare - ID=9](https://www.vinted.fr/items/6377836085-lorcana-premier-chapitre-4x-lilo-9204-rare-id9)*
+- *[Lorcana - La Mer Azurite - 3x Un Homme Libre 196/204 - Commune - ID=1395](https://www.vinted.fr/items/6294103452-lorcana-la-mer-azurite-3x-un-homme-libre-196204-commune-id1395)*
+- *[Lorcana - Le retour d'Ursula - 3x Diablo 71/204 - Commune - ID=762](https://www.vinted.fr/items/6261501184-lorcana-le-retour-dursula-3x-diablo-71204-commune-id762)*
+- *[Lorcana - La Mer Azurite - Calhoun 191/204 - Rare - ID=1390](https://www.vinted.fr/items/6404361183-lorcana-la-mer-azurite-calhoun-191204-rare-id1390)*
+- *[Lorcana - Le retour d'Ursula - Triton 159/204 - Rare Foil - ID=850](https://www.vinted.fr/items/6116825839-lorcana-le-retour-dursula-triton-159204-rare-foil-id850)*
