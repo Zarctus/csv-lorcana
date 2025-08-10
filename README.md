@@ -6,8 +6,8 @@
 
 
 **Quelques liens aléatoires / Some random links**
-- *[Lorcana - Le retour d'Ursula - 4x Anna 137/204 - Commune - ID=828](https://www.vinted.fr/items/5364886449-lorcana-le-retour-dursula-4x-anna-137204-commune-id828)*
-- *[Lorcana - L'ile d' Archazia - 3x Le Troubadour 11/204 - Peu commune - ID=1444](https://www.vinted.fr/items/6761354025-lorcana-lile-d-archazia-3x-le-troubadour-11204-peu-commune-id1444)*
-- *[Lorcana - Les Terres d'Encres - 2x Diablo 37/204 - Commune - ID=473](https://www.vinted.fr/items/6506304190-lorcana-les-terres-dencres-2x-diablo-37204-commune-id473)*
-- *[Lorcana - Le Règne de Jafar - Figaro 133/204 - Peu commune Foil - ID=1797](https://www.vinted.fr/items/6631652165-lorcana-le-regne-de-jafar-figaro-133204-peu-commune-foil-id1797)*
-- *[Lorcana - L'ile d' Archazia - 3x Baymax 104/204 - Peu commune - ID=1537](https://www.vinted.fr/items/6770983804-lorcana-lile-d-archazia-3x-baymax-104204-peu-commune-id1537)*
+- *[Lorcana - Le Règne de Jafar - 3x Fred 98/204 - Rare - ID=1762](https://www.vinted.fr/items/6463132789-lorcana-le-regne-de-jafar-3x-fred-98204-rare-id1762)*
+- *[Lorcana - Les Terres d'Encres - Maui 114/204 - Rare Foil - ID=550](https://www.vinted.fr/items/6545034526-lorcana-les-terres-dencres-maui-114204-rare-foil-id550)*
+- *[Lorcana - L'ile d' Archazia - Baymax 104/204 - Peu commune Foil - ID=1537](https://www.vinted.fr/items/5950867688-lorcana-lile-d-archazia-baymax-104204-peu-commune-foil-id1537)*
+- *[Lorcana - La Mer Azurite - 3x Navire Des Fées 68/204 - Commune - ID=1267](https://www.vinted.fr/items/6046251949-lorcana-la-mer-azurite-3x-navire-des-fees-68204-commune-id1267)*
+- *[Lorcana - L'ile d' Archazia - Le Retour D’hercule 118/204 - Légendaire Foil - ID=1551](https://www.vinted.fr/items/6208749408-lorcana-lile-d-archazia-le-retour-dhercule-118204-legendaire-foil-id1551)*
