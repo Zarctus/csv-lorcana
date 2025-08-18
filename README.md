@@ -6,8 +6,8 @@
 
 
 **Quelques liens aléatoires / Some random links**
-- *[Lorcana - La Mer Azurite - Génie 53/204 - Rare - ID=1252](https://www.vinted.fr/items/6781508381-lorcana-la-mer-azurite-genie-53204-rare-id1252)*
-- *[Lorcana - L'ile d' Archazia - 3x Le Prince 24/204 - Peu commune - ID=1457](https://www.vinted.fr/items/6604625777-lorcana-lile-d-archazia-3x-le-prince-24204-peu-commune-id1457)*
-- *[Lorcana - Ciel Scintillant - 2x Vision De L'Avenir 160/204 - Commune - ID=1116](https://www.vinted.fr/items/5449269699-lorcana-ciel-scintillant-2x-vision-de-lavenir-160204-commune-id1116)*
-- *[Lorcana - La Mer Azurite - 3x Voguer Sur La Mer Azurite 163/204 - Commune - ID=1362](https://www.vinted.fr/items/5675903361-lorcana-la-mer-azurite-3x-voguer-sur-la-mer-azurite-163204-commune-id1362)*
-- *[Lorcana - Le Règne de Jafar - 4x Ludwig Von Drake 7/204 - Rare - ID=1671](https://www.vinted.fr/items/6631505014-lorcana-le-regne-de-jafar-4x-ludwig-von-drake-7204-rare-id1671)*
+- *[Lorcana - La Mer Azurite - Hiro Hamada 154/204 - Rare Foil - ID=1353](https://www.vinted.fr/items/6192274157-lorcana-la-mer-azurite-hiro-hamada-154204-rare-foil-id1353)*
+- *[Lorcana - L'ile d' Archazia - 2x Kida 164/204 - Rare - ID=1597](https://www.vinted.fr/items/6452141983-lorcana-lile-d-archazia-2x-kida-164204-rare-id1597)*
+- *[Lorcana - Le retour d'Ursula - Canon Du Rls Héritage 202/204 - Rare Foil - ID=893](https://www.vinted.fr/items/6036543448-lorcana-le-retour-dursula-canon-du-rls-heritage-202204-rare-foil-id893)*
+- *[Lorcana - Le Règne de Jafar - 2x Le Loir 103/204 - Peu commune - ID=1767](https://www.vinted.fr/items/6771011035-lorcana-le-regne-de-jafar-2x-le-loir-103204-peu-commune-id1767)*
+- *[Lorcana - Le Règne de Jafar - Maui 110/204 - Super rare Foil - ID=1774](https://www.vinted.fr/items/6441047251-lorcana-le-regne-de-jafar-maui-110204-super-rare-foil-id1774)*
