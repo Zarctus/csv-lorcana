@@ -1,15 +1,15 @@
 card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
-1;"La Reine";Rare;Ambre;1;0
-2;Pongo;"Super rare";Ambre;1;0
-3;Stitch;"Super rare";Ambre;1;0
-4;"La Bête";Rare;Ambre;1;0
-5;Minnie;"Super rare";Ambre;1;0
-6;Aurore;"Peu commune";Ambre;1;0
-7;"La Reine";Commune;Ambre;1;0
-8;Raiponce;Commune;Ambre;1;0
-9;Stitch;Commune;Ambre;1;0
-10;Mulan;Commune;Ambre;1;0
-11;Daisy;Commune;Ambre;1;0
+1;"La Reine";Rare;Ambre;0;0
+2;Pongo;"Super rare";Ambre;0;0
+3;Stitch;"Super rare";Ambre;0;0
+4;"La Bête";Rare;Ambre;0;0
+5;Minnie;"Super rare";Ambre;0;0
+6;Aurore;"Peu commune";Ambre;0;0
+7;"La Reine";Commune;Ambre;0;0
+8;Raiponce;Commune;Ambre;0;0
+9;Stitch;Commune;Ambre;0;0
+10;Mulan;Commune;Ambre;0;0
+11;Daisy;Commune;Ambre;0;0
 12;"La Fée Clochette";"Peu commune";Ambre;0;0
 13;"Mickey Mouse";"Peu commune";Ambre;0;0
 14;Pluto;Rare;Ambre;0;0
