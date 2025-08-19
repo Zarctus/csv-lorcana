@@ -73,7 +73,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 72;Belle;Légendaire;Émeraude;0;0
 73;Bucky;"Peu commune";Émeraude;1;0
 74;"Chat du Cheshire";"Peu commune";Émeraude;7;0
-75;"Chat du Cheshire";"Super rare";Émeraude;2;0
+75;"Chat du Cheshire";"Super rare";Émeraude;1;0
 76;Daisy;"Peu commune";Émeraude;4;0
 77;Donald;"Peu commune";Émeraude;9;0
 78;Donald;Commune;Émeraude;11;2
@@ -114,7 +114,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 113;Minnie;"Peu commune";Rubis;1;0
 114;Minnie;Rare;Rubis;2;0
 115;Minnie;Commune;Rubis;12;0
-116;"Mère Gothel";"Peu commune";Rubis;7;0
+116;"Mère Gothel";"Peu commune";Rubis;4;0
 117;Mulan;Commune;Rubis;6;0
 118;Namaari;"Super rare";Rubis;4;0
 119;"La Reine de Cœur";"Peu commune";Rubis;8;1
@@ -146,7 +146,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 145;"Cruella d'Enfer";"Peu commune";Saphir;7;0
 146;"Duke Weaselton";Commune;Saphir;12;4
 147;Gaston;Rare;Saphir;2;1
-148;"Grand Pabbie";"Super rare";Saphir;2;0
+148;"Grand Pabbie";"Super rare";Saphir;1;0
 149;Flaversham;Rare;Saphir;0;0
 150;James;Commune;Saphir;10;2
 151;Jasmine;Commune;Saphir;10;2
@@ -184,7 +184,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 183;Jafar;"Peu commune";Acier;0;0
 184;Jafar;Commune;Acier;7;0
 185;Kronk;Rare;Acier;8;0
-186;Lawrence;"Peu commune";Acier;1;1
+186;Lawrence;"Peu commune";Acier;1;0
 187;"Li Shang";"Peu commune";Acier;12;0
 188;"Balais magiques";Commune;Acier;12;0
 189;Namaari;Légendaire;Acier;0;0
@@ -215,3 +215,69 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 214;Sisu;Enchantée;Saphir;0;0
 215;Hercule;Enchantée;Acier;0;0
 216;Namaari;Enchantée;Acier;0;0
+6;"Vanellope von Schweetz";Commune;Ambre;13;1
+25;"Try Everything";"Peu commune";Ambre;8;1
+26;"Toucher guérisseur";Commune;Ambre;13;0
+27;Ranimer;Rare;Ambre;8;1
+29;"Invitation au bal";"Peu commune";Ambre;14;0
+32;"Chromicône d'Ambre";"Peu commune";Ambre;11;1
+36;Nokk;Commune;Améthyste;17;1
+40;Bruni;"Peu commune";Améthyste;8;0
+46;Anna;Rare;Améthyste;3;0
+48;Elsa;"Super rare";Améthyste;0;0
+50;Olaf;Rare;Améthyste;5;0
+137;"Sa Sucrerie";Commune;Saphir;13;1
+151;"Ludwig von Drake";"Peu commune";Saphir;10;0
+157;Tipo;"Peu commune";Saphir;2;0
+173;Simba;Commune;Acier;15;0
+192;Simba;"Peu commune";Acier;11;0
+193;Prof;Rare;Acier;0;0
+2;Lilo;"Super rare";Ambre;0;0
+13;"Jack le Costaud";Rare;Ambre;4;0
+19;Nani;Rare;Ambre;3;0
+39;Sisu;Commune;Améthyste;9;1
+137;B.E.N.;Commune;Saphir;8;2
+180;Hercule;Commune;Acier;7;3
+195;"Patate chaude";"Peu commune";Acier;5;1
+1;Rhino;Rare;"Ambre, Acier";4;0
+6;César;Commune;Ambre;11;3
+18;Volt;Commune;Ambre;12;0
+21;Penny;"Peu commune";"Ambre, Acier";5;1
+48;Honeymaren;Commune;Améthyste;11;1
+55;Elsa;Commune;Améthyste;10;0
+65;Sven;"Peu commune";"Améthyste, Saphir";11;0
+72;Anna;"Peu commune";"Améthyste, Saphir";6;0
+177;"L’eau a de la mémoire";Commune;Saphir;13;0
+178;"La berceuse d'Ahtohallan";Rare;Saphir;1;1
+179;"Spirale de Saphir";"Peu commune";Saphir;1;0
+181;"Dr. Calico";Commune;Acier;14;1
+184;Volt;Commune;Acier;11;2
+186;Raya;Rare;Acier;2;0
+193;Mulan;Commune;Acier;8;0
+204;"Bâton d’entraînement";Commune;Acier;12;0
+15;Rhino;Commune;Ambre;10;0
+28;Pluto;"Peu commune";"Ambre, Acier";10;0
+29;Volt;Rare;"Ambre, Acier";5;0
+30;Rhino;"Super rare";"Ambre, Acier";0;0
+55;Yelena;Commune;Améthyste;12;1
+56;Ryder;Commune;Améthyste;13;2
+60;Elsa;Rare;Améthyste;4;0
+72;Anna;Rare;"Améthyste, Saphir";4;0
+77;"Duel en Forêt";"Peu commune";Améthyste;11;0
+78;"Jamais plus des enfants";"Peu commune";Améthyste;8;1
+81;"Dans un autre monde";"Super rare";"Améthyste, Saphir";2;0
+84;"Pics de glace";"Peu commune";"Améthyste, Saphir";10;0
+154;"Seigneur Pélinore";"Peu commune";Saphir;6;1
+156;Olaf;Commune;Saphir;12;1
+157;Anna;Commune;Saphir;12;0
+175;"Nous sommes là pour vous aider";Rare;Saphir;4;0
+180;"Cristal atlante";Rare;Saphir;4;0
+181;Atitaya;"Peu commune";Acier;9;0
+192;Ruzor;"Peu commune";Acier;10;0
+197;"Vincenzo Santorini";Rare;Acier;5;1
+200;Stitch;Rare;Acier;3;0
+202;"Beyond the Horizon";"Peu commune";Acier;4;0
+223;Volt;"Super rare";"Ambre, Acier";0;0
+224;Elsa;"Super rare";"Améthyste, Saphir";0;0
+223;Dingo;Légendaire;Ambre;0;0
+224;Pinocchio;Légendaire;Améthyste;0;0

@@ -23,7 +23,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 22;"Prince Eric";"Peu commune";Ambre;11;0
 23;Stitch;Commune;Ambre;18;1
 24;Ursula;Rare;Ambre;2;0
-25;Ursula;Commune;Ambre;18;2
+25;Ursula;Commune;Ambre;18;1
 26;"Retour de Bruno";"Peu commune";Ambre;14;0
 27;"Premiers Secours";Commune;Ambre;18;1
 28;"On est une Famille";Rare;Ambre;6;1
@@ -52,7 +52,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 51;Guimauve;"Peu commune";Améthyste;15;0
 52;"Madame Samovar";Rare;Améthyste;4;0
 53;"Pepa Madrigal";Rare;Améthyste;6;0
-54;"Peter Pan";"Super rare";Améthyste;1;0
+54;"Peter Pan";"Super rare";Améthyste;0;0
 55;Pico;Commune;Améthyste;18;2
 56;Tic-Tac;Commune;Améthyste;21;0
 57;Ursula;"Peu commune";Améthyste;7;0
@@ -100,7 +100,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 99;"Contrat signé";"Peu commune";Émeraude;14;0
 100;"Plaque de vision";"Peu commune";Émeraude;12;0
 101;"La crique cachée";Commune;Émeraude;15;0
-102;"Jardin d'Ursula";Rare;Émeraude;6;1
+102;"Jardin d'Ursula";Rare;Émeraude;6;0
 103;"La Bête";"Peu commune";Rubis;11;0
 104;Benja;Commune;Rubis;18;3
 105;"Fa Zhou";Commune;Rubis;18;2
@@ -173,7 +173,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 172;Aladdin;Commune;Acier;21;6
 173;Argès;Commune;Acier;13;4
 174;Ariel;Commune;Acier;19;3
-175;Ariel;"Super rare";Acier;1;0
+175;Ariel;"Super rare";Acier;0;0
 176;"La Bête";Commune;Acier;15;6
 177;"Chi Fu";"Peu commune";Acier;13;0
 178;Chien-Po;Commune;Acier;25;2

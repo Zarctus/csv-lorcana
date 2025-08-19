@@ -52,7 +52,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 51;Maléfique;"Peu commune";Améthyste;6;1
 52;Monstro;"Peu commune";Améthyste;7;2
 53;"Miss Tick";Rare;Améthyste;5;0
-54;Maléfique;Commune;Améthyste;14;1
+54;Maléfique;Commune;Améthyste;14;0
 55;Rafiki;Rare;Améthyste;6;0
 56;Anna;Commune;Améthyste;14;0
 57;"Le Roi de Cœur";"Peu commune";Améthyste;13;1
@@ -189,11 +189,11 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 188;"Seigneur Hector";Rare;Acier;6;0
 189;Timide;"Peu commune";Acier;9;1
 190;Arthur;"Peu commune";Acier;6;0
-191;Joyeux;Commune;Acier;16;2
+191;Joyeux;Commune;Acier;14;1
 192;Simba;"Peu commune";Acier;11;0
 193;Prof;Rare;Acier;0;0
 194;Arthur;Légendaire;Acier;0;0
-195;Pat;"Peu commune";Acier;2;0
+195;Pat;"Peu commune";Acier;0;0
 196;"Tir à la corde";Rare;Acier;4;0
 197;"Où est la vraie vie ?";Commune;Acier;16;0
 198;"Éviter le canardage";Commune;Acier;14;0

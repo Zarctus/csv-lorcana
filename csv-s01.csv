@@ -7,7 +7,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 6;HADÈS;Rare;Ambre;8;0
 7;HEIHEI;Commune;Ambre;31;1
 8;"LE FOU";"Peu commune";Ambre;16;1
-9;LILO;Rare;Ambre;4;0
+9;LILO;Rare;Ambre;0;0
 10;MAXIMUS;"Super rare";Ambre;5;0
 11;MAXIMUS;"Peu commune";Ambre;19;2
 12;"MICKEY MOUSE";"Peu commune";Ambre;22;0
@@ -18,10 +18,10 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 17;PUMBAA;Commune;Ambre;28;1
 18;RAIPONCE;Légendaire;Ambre;2;0
 19;SÉBASTIEN;Commune;Ambre;24;2
-20;SIMBA;Commune;Ambre;21;1
+20;SIMBA;Commune;Ambre;18;1
 21;STITCH;Légendaire;Ambre;0;0
 22;STITCH;Commune;Ambre;23;3
-23;STITCH;"Super rare";Ambre;4;0
+23;STITCH;"Super rare";Ambre;3;0
 24;TIMON;Commune;Ambre;24;2
 25;"C'EST LA FÊTE";"Peu commune";Ambre;15;1
 26;"TRÈS MAUVAIS CARACTÈRE !";Commune;Ambre;28;1
@@ -40,13 +40,13 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 39;"DR. FACILIER";Rare;Améthyste;9;1
 40;ELSA;Commune;Améthyste;26;1
 41;ELSA;"Peu commune";Améthyste;18;0
-42;ELSA;Légendaire;Améthyste;1;0
+42;ELSA;Légendaire;Améthyste;0;0
 43;FLOTSAM;Rare;Améthyste;10;0
 44;JAFAR;Rare;Améthyste;7;0
 45;JAFAR;Commune;Améthyste;28;2
 46;JETSAM;Commune;Améthyste;26;1
 47;"BALAIS MAGIQUES";Commune;Améthyste;25;1
-48;MALÉFIQUE;Rare;Améthyste;1;0
+48;MALÉFIQUE;Rare;Améthyste;0;0
 49;MALÉFIQUE;Commune;Améthyste;23;1
 50;GUIMAUVE;"Super rare";Améthyste;6;0
 51;"MICKEY MOUSE";"Super rare";Améthyste;7;0
@@ -60,7 +60,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 59;URSULA;Légendaire;Améthyste;2;0
 60;YZMA;Commune;Améthyste;28;3
 61;ZEUS;Rare;Améthyste;8;0
-62;EMBERLIFICOTAGE;"Peu commune";Améthyste;12;1
+62;EMBERLIFICOTAGE;"Peu commune";Améthyste;9;1
 63;GEL;Commune;Améthyste;30;0
 64;"MES AMIS DE L'AU-DELÀ";Commune;Améthyste;11;0
 65;Réflexion;"Peu commune";Améthyste;16;0
@@ -111,8 +111,8 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 110;GASTON;Commune;Rubis;23;1
 111;DINGO;Commune;Rubis;26;1
 112;"LE FOU";Rare;Rubis;8;1
-113;MALÉFIQUE;Légendaire;Rubis;2;0
-114;MAUI;Rare;Rubis;5;0
+113;MALÉFIQUE;Légendaire;Rubis;0;0
+114;MAUI;Rare;Rubis;0;0
 115;"MICKEY MOUSE";Légendaire;Rubis;0;0
 116;MINNIE;Commune;Rubis;20;3
 117;VAIANA;"Peu commune";Rubis;18;1
@@ -126,7 +126,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 125;STITCH;Rare;Rubis;8;1
 126;"TE KĀ";"Super rare";Rubis;7;0
 127;TIGROU;"Peu commune";Rubis;15;2
-128;"SOYEZ PRÊTES !";Rare;Rubis;9;1
+128;"SOYEZ PRÊTES !";Rare;Rubis;6;1
 129;"DROIT AU BUT";"Peu commune";Rubis;18;2
 130;"FEU DU DRAGON";"Peu commune";Rubis;16;1
 131;"ATTISER LES FLAMMES";"Peu commune";Rubis;14;1
@@ -166,7 +166,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 165;"TRAVAIL D'ÉQUIPE";Commune;Saphir;25;1
 166;"PANIER DE NOIX DE COCO";"Peu commune";Saphir;10;1
 167;"ŒIL DES MOIRES";"Peu commune";Saphir;21;0
-168;"PLUME EN FORME D'ARÊTE";Rare;Saphir;4;0
+168;"PLUME EN FORME D'ARÊTE";Rare;Saphir;3;0
 169;"FLEUR AUX PÉTALES D'OR";Commune;Saphir;29;0
 170;"SCEPTRE D'ARENDELLE";"Peu commune";Saphir;15;0
 171;ALADDIN;Commune;Acier;26;1
@@ -176,7 +176,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 175;"CAPITAINE CROCHET";Rare;Acier;8;1
 176;CERBÈRE;Commune;Acier;26;0
 177;DONALD;"Peu commune";Acier;18;2
-178;GANTU;Légendaire;Acier;1;0
+178;GANTU;Légendaire;Acier;0;0
 179;CRÉATURES;Commune;Acier;26;4
 180;HANS;"Super rare";Acier;5;1
 181;HERCULE;Commune;Acier;23;3
@@ -191,9 +191,9 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 190;SIMBA;"Peu commune";Acier;18;0
 191;"MONSIEUR STARKEY";"Peu commune";Acier;14;4
 192;"TE KĀ";Légendaire;Acier;3;0
-193;"LA FÉE CLOCHETTE";"Super rare";Acier;2;1
+193;"LA FÉE CLOCHETTE";"Super rare";Acier;1;1
 194;"LA FÉE CLOCHETTE";Commune;Acier;22;0
-195;"CE RÊVE BLEU";"Super rare";Acier;2;0
+195;"CE RÊVE BLEU";"Super rare";Acier;0;0
 196;DÉCHIQUETÉ;Commune;Acier;30;0
 197;"ALLUMEZ LES MÊCHES !";Commune;Acier;25;4
 198;"TUONS LA BÊTE !";Rare;Acier;3;0
@@ -215,3 +215,50 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 214;BELLE;Enchantée;Saphir;0;0
 215;SIMBA;Enchantée;Acier;0;0
 216;"LA FÉE CLOCHETTE";Enchantée;Acier;0;0
+4;"Cobra Bubbles";Rare;Ambre;4;0
+15;Mulan;Commune;Ambre;8;0
+20;Raiponce;Commune;Ambre;7;0
+174;Benja;Commune;Acier;4;0
+188;"Balais magiques";Commune;Acier;12;0
+198;"Fonce !";Commune;Acier;8;1
+199;"Perdue dans l'hiver";Commune;Acier;0;0
+200;"Choisir son combat";"Peu commune";Acier;3;0
+201;"Plus ardent que le feu des volcans";Rare;Acier;0;0
+203;"Armure de souris";"Peu commune";Acier;9;0
+21;Rolly;"Peu commune";Ambre;7;1
+22;"La Fée Clochette";"Peu commune";Ambre;6;0
+44;"Balais magiques";"Peu commune";Améthyste;7;1
+45;"Balais magiques";Commune;Améthyste;11;1
+65;"Le chapeau de sorcier";Rare;Améthyste;0;0
+114;Maui;Rare;Rubis;4;1
+180;Lythos;"Peu commune";Acier;6;1
+187;Pyros;Rare;Acier;0;0
+17;Minnie;"Super rare";Ambre;3;0
+26;"Retour de Bruno";"Peu commune";Ambre;14;0
+29;"J'ai perdu le Nord";"Peu commune";Ambre;12;0
+42;Elsa;Rare;Améthyste;3;0
+48;"Balais Magiques";Commune;Améthyste;11;0
+49;"Balais Magiques";Commune;Améthyste;19;2
+53;"Pepa Madrigal";Rare;Améthyste;6;0
+61;"La Deuxième Étoile sur la Droite";Rare;Améthyste;6;0
+66;"Trident de Triton";"Peu commune";Améthyste;16;0
+107;Dingo;Rare;Rubis;0;0
+108;Hercule;Commune;Rubis;19;1
+110;Khan;"Peu commune";Rubis;11;0
+113;Lumière;Rare;Rubis;4;0
+115;Mulan;"Peu commune";Rubis;12;1
+116;Mulan;Commune;Rubis;15;1
+117;Namaari;Rare;Rubis;5;0
+120;Pégase;Commune;Rubis;18;1
+132;"Médaillons Lestés";"Peu commune";Rubis;11;0
+134;"Sphère de Vitalité";Commune;Rubis;18;2
+185;"Balais Magiques";Commune;Acier;13;6
+186;"Balais Magiques";"Super rare";Acier;5;1
+193;Raya;"Super rare";Acier;2;0
+197;"Il me reste un espoir";Rare;Acier;8;0
+198;"Tous avec moi !";"Peu commune";Acier;10;0
+223;Porcinet;"Super rare";Ambre;0;0
+223;"Yen Sid";Légendaire;Améthyste;0;0
+224;Mulan;Légendaire;Rubis;0;0
+225;"Mickey Mouse";Rare;Acier;0;0
+223;"Moitié de la Couronne d'Hexasort";Rare;Améthyste;0;0
