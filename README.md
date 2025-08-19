@@ -6,8 +6,8 @@
 
 
 **Quelques liens aléatoires / Some random links**
-- *[Lorcana - La Mer Azurite - Hiro Hamada 154/204 - Rare Foil - ID=1353](https://www.vinted.fr/items/6192274157-lorcana-la-mer-azurite-hiro-hamada-154204-rare-foil-id1353)*
-- *[Lorcana - L'ile d' Archazia - 2x Kida 164/204 - Rare - ID=1597](https://www.vinted.fr/items/6452141983-lorcana-lile-d-archazia-2x-kida-164204-rare-id1597)*
-- *[Lorcana - Le retour d'Ursula - Canon Du Rls Héritage 202/204 - Rare Foil - ID=893](https://www.vinted.fr/items/6036543448-lorcana-le-retour-dursula-canon-du-rls-heritage-202204-rare-foil-id893)*
-- *[Lorcana - Le Règne de Jafar - 2x Le Loir 103/204 - Peu commune - ID=1767](https://www.vinted.fr/items/6771011035-lorcana-le-regne-de-jafar-2x-le-loir-103204-peu-commune-id1767)*
-- *[Lorcana - Le Règne de Jafar - Maui 110/204 - Super rare Foil - ID=1774](https://www.vinted.fr/items/6441047251-lorcana-le-regne-de-jafar-maui-110204-super-rare-foil-id1774)*
+- *[Lorcana - Le retour d'Ursula - Dingo 12/204 - Rare Foil - ID=703](https://www.vinted.fr/items/6116798107-lorcana-le-retour-dursula-dingo-12204-rare-foil-id703)*
+- *[Lorcana - L'Ascension des Floodborn - 4x La Reine 27/204 - Commune - ID=243](https://www.vinted.fr/items/6115768740-lorcana-lascension-des-floodborn-4x-la-reine-27204-commune-id243)*
+- *[Lorcana - Les Terres d'Encres - 3x Grand-Mère Tala 142/204 - Commune - ID=578](https://www.vinted.fr/items/5646745621-lorcana-les-terres-dencres-3x-grand-mere-tala-142204-commune-id578)*
+- *[Lorcana - Le retour d'Ursula - 3x Pégase 120/204 - Commune - ID=811](https://www.vinted.fr/items/6145976838-lorcana-le-retour-dursula-3x-pegase-120204-commune-id811)*
+- *[Lorcana - Ciel Scintillant - 2x Basil 153/204 - Commune - ID=1109](https://www.vinted.fr/items/5301411131-lorcana-ciel-scintillant-2x-basil-153204-commune-id1109)*
