@@ -6,8 +6,8 @@
 
 
 **Quelques liens aléatoires / Some random links**
-- *[Lorcana - Le retour d'Ursula - Dingo 12/204 - Rare Foil - ID=703](https://www.vinted.fr/items/6116798107-lorcana-le-retour-dursula-dingo-12204-rare-foil-id703)*
-- *[Lorcana - L'Ascension des Floodborn - 4x La Reine 27/204 - Commune - ID=243](https://www.vinted.fr/items/6115768740-lorcana-lascension-des-floodborn-4x-la-reine-27204-commune-id243)*
-- *[Lorcana - Les Terres d'Encres - 3x Grand-Mère Tala 142/204 - Commune - ID=578](https://www.vinted.fr/items/5646745621-lorcana-les-terres-dencres-3x-grand-mere-tala-142204-commune-id578)*
-- *[Lorcana - Le retour d'Ursula - 3x Pégase 120/204 - Commune - ID=811](https://www.vinted.fr/items/6145976838-lorcana-le-retour-dursula-3x-pegase-120204-commune-id811)*
-- *[Lorcana - Ciel Scintillant - 2x Basil 153/204 - Commune - ID=1109](https://www.vinted.fr/items/5301411131-lorcana-ciel-scintillant-2x-basil-153204-commune-id1109)*
+- *[Lorcana - L'Ascension des Floodborn - 2x Dernier Canon 202/204 - Commune - ID=418](https://www.vinted.fr/items/6046223252-lorcana-lascension-des-floodborn-2x-dernier-canon-202204-commune-id418)*
+- *[Lorcana - Premier Chapitre - Ariel 2/204 - Super rare Foil - ID=2](https://www.vinted.fr/items/5640808772-lorcana-premier-chapitre-ariel-2204-super-rare-foil-id2)*
+- *[Lorcana - Premier Chapitre - La Reine 56/204 - Super rare - ID=56](https://www.vinted.fr/items/5766811202-lorcana-premier-chapitre-la-reine-56204-super-rare-id56)*
+- *[Lorcana - Premier Chapitre - 3x Lanterne 33/204 - Rare - ID=33](https://www.vinted.fr/items/6191811932-lorcana-premier-chapitre-3x-lanterne-33204-rare-id33)*
+- *[Lorcana - Le Règne de Jafar - 4x Jasmine 162/204 - Commune - ID=1826](https://www.vinted.fr/items/6495278043-lorcana-le-regne-de-jafar-4x-jasmine-162204-commune-id1826)*
