@@ -6,8 +6,8 @@
 
 
 **Quelques liens aléatoires / Some random links**
-- *[Lorcana - Ciel Scintillant - 3x Big Ben 37/204 - Commune - ID=993](https://www.vinted.fr/items/5054613297-lorcana-ciel-scintillant-3x-big-ben-37204-commune-id993)*
-- *[Lorcana - L'ile d' Archazia - 2x Kida 164/204 - Rare - ID=1597](https://www.vinted.fr/items/6452141983-lorcana-lile-d-archazia-2x-kida-164204-rare-id1597)*
-- *[Lorcana - Ciel Scintillant - Kuzco 149/204 - Super rare - ID=1105](https://www.vinted.fr/items/6005883437-lorcana-ciel-scintillant-kuzco-149204-super-rare-id1105)*
-- *[Lorcana - Premier Chapitre - Robin Des Bois 157/204 - Super rare - ID=157](https://www.vinted.fr/items/5697353763-lorcana-premier-chapitre-robin-des-bois-157204-super-rare-id157)*
-- *[Lorcana - Les Terres d'Encres - Debout ! Tout De Suite ! 130/204 - Rare Foil - ID=566](https://www.vinted.fr/items/6545004237-lorcana-les-terres-dencres-debout-tout-de-suite-130204-rare-foil-id566)*
+- *[Lorcana - Les Terres d'Encres - 2x Crois-Moi J'Ai Vu Pire 96/204 - Commune - ID=532](https://www.vinted.fr/items/6539748201-lorcana-les-terres-dencres-2x-crois-moi-jai-vu-pire-96204-commune-id532)*
+- *[Lorcana - L'ile d' Archazia - Le Retour D’hercule 118/204 - Légendaire Foil - ID=1551](https://www.vinted.fr/items/6208749408-lorcana-lile-d-archazia-le-retour-dhercule-118204-legendaire-foil-id1551)*
+- *[Lorcana - Les Terres d'Encres - Génie 38/204 - Super rare - ID=474](https://www.vinted.fr/items/6146627132-lorcana-les-terres-dencres-genie-38204-super-rare-id474)*
+- *[Lorcana - Le retour d'Ursula - 3x Balais Magiques 48/204 - Commune - ID=739](https://www.vinted.fr/items/5543623550-lorcana-le-retour-dursula-3x-balais-magiques-48204-commune-id739)*
+- *[Lorcana - Le retour d'Ursula - 3x Lumière 113/204 - Rare - ID=804](https://www.vinted.fr/items/6197784644-lorcana-le-retour-dursula-3x-lumiere-113204-rare-id804)*
