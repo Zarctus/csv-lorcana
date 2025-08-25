@@ -6,8 +6,8 @@
 
 
 **Quelques liens aléatoires / Some random links**
-- *[Lorcana - Les Terres d'Encres - 2x Crois-Moi J'Ai Vu Pire 96/204 - Commune - ID=532](https://www.vinted.fr/items/6539748201-lorcana-les-terres-dencres-2x-crois-moi-jai-vu-pire-96204-commune-id532)*
-- *[Lorcana - L'ile d' Archazia - Le Retour D’hercule 118/204 - Légendaire Foil - ID=1551](https://www.vinted.fr/items/6208749408-lorcana-lile-d-archazia-le-retour-dhercule-118204-legendaire-foil-id1551)*
-- *[Lorcana - Les Terres d'Encres - Génie 38/204 - Super rare - ID=474](https://www.vinted.fr/items/6146627132-lorcana-les-terres-dencres-genie-38204-super-rare-id474)*
-- *[Lorcana - Le retour d'Ursula - 3x Balais Magiques 48/204 - Commune - ID=739](https://www.vinted.fr/items/5543623550-lorcana-le-retour-dursula-3x-balais-magiques-48204-commune-id739)*
-- *[Lorcana - Le retour d'Ursula - 3x Lumière 113/204 - Rare - ID=804](https://www.vinted.fr/items/6197784644-lorcana-le-retour-dursula-3x-lumiere-113204-rare-id804)*
+- *[Lorcana - L'Ascension des Floodborn - 2x Improviser 99/204 - Commune - ID=315](https://www.vinted.fr/items/6069528334-lorcana-lascension-des-floodborn-2x-improviser-99204-commune-id315)*
+- *[Lorcana - Le Règne de Jafar - 4x Patch 25/204 - Peu commune - ID=1689](https://www.vinted.fr/items/6631544397-lorcana-le-regne-de-jafar-4x-patch-25204-peu-commune-id1689)*
+- *[Lorcana - L'ile d' Archazia - 3x Baymax 104/204 - Peu commune - ID=1537](https://www.vinted.fr/items/6770983804-lorcana-lile-d-archazia-3x-baymax-104204-peu-commune-id1537)*
+- *[Lorcana - L'ile d' Archazia - Baymax 104/204 - Peu commune Foil - ID=1537](https://www.vinted.fr/items/5950867688-lorcana-lile-d-archazia-baymax-104204-peu-commune-foil-id1537)*
+- *[Lorcana - La Mer Azurite - Flaversham 159/204 - Rare Foil - ID=1358](https://www.vinted.fr/items/5537368511-lorcana-la-mer-azurite-flaversham-159204-rare-foil-id1358)*
