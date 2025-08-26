@@ -6,8 +6,8 @@
 
 
 **Quelques liens aléatoires / Some random links**
-- *[Lorcana - L'Ascension des Floodborn - 2x Improviser 99/204 - Commune - ID=315](https://www.vinted.fr/items/6069528334-lorcana-lascension-des-floodborn-2x-improviser-99204-commune-id315)*
-- *[Lorcana - Le Règne de Jafar - 4x Patch 25/204 - Peu commune - ID=1689](https://www.vinted.fr/items/6631544397-lorcana-le-regne-de-jafar-4x-patch-25204-peu-commune-id1689)*
-- *[Lorcana - L'ile d' Archazia - 3x Baymax 104/204 - Peu commune - ID=1537](https://www.vinted.fr/items/6770983804-lorcana-lile-d-archazia-3x-baymax-104204-peu-commune-id1537)*
-- *[Lorcana - L'ile d' Archazia - Baymax 104/204 - Peu commune Foil - ID=1537](https://www.vinted.fr/items/5950867688-lorcana-lile-d-archazia-baymax-104204-peu-commune-foil-id1537)*
-- *[Lorcana - La Mer Azurite - Flaversham 159/204 - Rare Foil - ID=1358](https://www.vinted.fr/items/5537368511-lorcana-la-mer-azurite-flaversham-159204-rare-foil-id1358)*
+- *[Lorcana - Premier Chapitre - Kuzco 84/204 - Rare Foil - ID=84](https://www.vinted.fr/items/5462200947-lorcana-premier-chapitre-kuzco-84204-rare-foil-id84)*
+- *[Lorcana - L'Ascension des Floodborn - 3x Piège Génial De Ratigan 102/204 - Rare - ID=318](https://www.vinted.fr/items/6567085863-lorcana-lascension-des-floodborn-3x-piege-genial-de-ratigan-102204-rare-id318)*
+- *[Lorcana - Le retour d'Ursula - Mirabel Madrigal 18/204 - Super rare - ID=709](https://www.vinted.fr/items/5809027792-lorcana-le-retour-dursula-mirabel-madrigal-18204-super-rare-id709)*
+- *[Lorcana - L'Ascension des Floodborn - 3x Jasmine 151/204 - Commune - ID=367](https://www.vinted.fr/items/6495230738-lorcana-lascension-des-floodborn-3x-jasmine-151204-commune-id367)*
+- *[Lorcana - Premier Chapitre - Mère Gothel 90/204 - Super rare - ID=90](https://www.vinted.fr/items/5749670727-lorcana-premier-chapitre-mere-gothel-90204-super-rare-id90)*
