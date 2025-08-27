@@ -6,8 +6,8 @@
 
 
 **Quelques liens aléatoires / Some random links**
-- *[Lorcana - Premier Chapitre - Kuzco 84/204 - Rare Foil - ID=84](https://www.vinted.fr/items/5462200947-lorcana-premier-chapitre-kuzco-84204-rare-foil-id84)*
-- *[Lorcana - L'Ascension des Floodborn - 3x Piège Génial De Ratigan 102/204 - Rare - ID=318](https://www.vinted.fr/items/6567085863-lorcana-lascension-des-floodborn-3x-piege-genial-de-ratigan-102204-rare-id318)*
-- *[Lorcana - Le retour d'Ursula - Mirabel Madrigal 18/204 - Super rare - ID=709](https://www.vinted.fr/items/5809027792-lorcana-le-retour-dursula-mirabel-madrigal-18204-super-rare-id709)*
-- *[Lorcana - L'Ascension des Floodborn - 3x Jasmine 151/204 - Commune - ID=367](https://www.vinted.fr/items/6495230738-lorcana-lascension-des-floodborn-3x-jasmine-151204-commune-id367)*
-- *[Lorcana - Premier Chapitre - Mère Gothel 90/204 - Super rare - ID=90](https://www.vinted.fr/items/5749670727-lorcana-premier-chapitre-mere-gothel-90204-super-rare-id90)*
+- *[Lorcana - Premier Chapitre - 3x Tamatoa 159/204 - Super rare - ID=159](https://www.vinted.fr/items/5646786101-lorcana-premier-chapitre-3x-tamatoa-159204-super-rare-id159)*
+- *[Lorcana - Le Règne de Jafar - 3x Capitaine Crochet 186/204 - Commune - ID=1850](https://www.vinted.fr/items/6758309783-lorcana-le-regne-de-jafar-3x-capitaine-crochet-186204-commune-id1850)*
+- *[Lorcana - Premier Chapitre - La Fée Clochette 193/204 - Super rare Foil - ID=193](https://www.vinted.fr/items/5719743349-lorcana-premier-chapitre-la-fee-clochette-193204-super-rare-foil-id193)*
+- *[Lorcana - L'ile d' Archazia - 3x Pascal 19/204 - Peu commune - ID=1452](https://www.vinted.fr/items/6294251090-lorcana-lile-d-archazia-3x-pascal-19204-peu-commune-id1452)*
+- *[Lorcana - Premier Chapitre - 4x Cruelle Diablesse 98/204 - Commune - ID=98](https://www.vinted.fr/items/6179423580-lorcana-premier-chapitre-4x-cruelle-diablesse-98204-commune-id98)*
