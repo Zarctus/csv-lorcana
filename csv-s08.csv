@@ -22,7 +22,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 21;Kaa;"Peu commune";"Ambre, Émeraude";11;1
 22;Clochard;"Super rare";"Ambre, Émeraude";1;1
 23;"Sa Sucrerie";"Peu commune";"Ambre, Rubis";8;1
-24;"Ralph la Casse";"Super rare";"Ambre, Rubis";4;0
+24;"Ralph la Casse";"Super rare";"Ambre, Rubis";3;0
 25;Patch;"Peu commune";"Ambre, Saphir";8;1
 26;Rolly;"Peu commune";"Ambre, Saphir";8;0
 27;Perdita;"Super rare";"Ambre, Saphir";1;0
@@ -70,7 +70,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 69;"Madame Mime";"Peu commune";"Améthyste, Rubis";7;0
 70;"Mère Gothel";Rare;"Améthyste, Rubis";3;1
 71;"La Fée Bleue";"Peu commune";"Améthyste, Saphir";10;2
-72;Anna;Rare;"Améthyste, Saphir";4;0
+72;Anna;Rare;"Améthyste, Saphir";2;0
 73;"Le Sultan";Rare;"Améthyste, Acier";6;0
 74;Jafar;"Super rare";"Améthyste, Acier";3;0
 75;"Camilo Madrigal";Commune;Améthyste;14;0
@@ -84,7 +84,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 83;Scarabée;Commune;Améthyste;14;2
 84;"Pics de glace";"Peu commune";"Améthyste, Saphir";10;0
 85;"Wilhelmina Placard";Commune;Émeraude;12;2
-86;Basil;Rare;Émeraude;3;1
+86;Basil;Rare;Émeraude;0;0
 87;Clochard;Commune;Émeraude;13;2
 88;Chaca;Commune;Émeraude;11;2
 89;Tipo;Commune;Émeraude;15;1
