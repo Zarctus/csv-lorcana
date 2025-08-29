@@ -19,14 +19,14 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 18;Volt;Commune;Ambre;12;0
 19;Pascal;"Peu commune";"Ambre, Améthyste";7;2
 20;"Sa Sucrerie";"Super rare";"Ambre, Rubis";4;2
-21;Penny;"Peu commune";"Ambre, Acier";5;1
+21;Penny;"Peu commune";"Ambre, Acier";3;1
 22;"Félix Fixe Junior";"Peu commune";"Ambre, Rubis";8;1
 23;Ouragan;"Peu commune";"Ambre, Saphir";5;0
 24;"Le Prince";"Peu commune";Ambre;8;1
 25;"Isabela Madrigal";Rare;Ambre;4;0
 26;Calhoun;Rare;"Ambre, Rubis";4;0
 27;"Ralph la Casse";Rare;Ambre;3;1
-28;Lady;"Super rare";"Ambre, Émeraude";3;0
+28;Lady;"Super rare";"Ambre, Émeraude";0;0
 29;Pongo;"Super rare";"Ambre, Saphir";4;0
 30;Kinaï;Rare;Ambre;2;0
 31;Minnie;Légendaire;Ambre;0;0
@@ -64,7 +64,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 63;Kronk;Rare;"Améthyste, Émeraude";3;0
 64;"Mère Gothel";"Peu commune";"Améthyste, Rubis";7;0
 65;Sven;"Peu commune";"Améthyste, Saphir";11;0
-66;Diablo;"Peu commune";"Améthyste, Émeraude";8;0
+66;Diablo;"Peu commune";"Améthyste, Émeraude";5;0
 67;Merlin;Rare;"Améthyste, Saphir";3;1
 68;Yzma;"Super rare";"Améthyste, Émeraude";4;0
 69;Elsa;"Super rare";"Améthyste, Saphir";1;0
@@ -120,7 +120,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 119;"Geyser d’encre";Rare;"Émeraude, Saphir";3;0
 120;"Spirale d’Émeraude";"Peu commune";Émeraude;7;0
 121;"Grand-Mère Fa";Commune;Rubis;12;1
-122;"La Reine de Cœur";Commune;Rubis;11;2
+122;"La Reine de Cœur";Commune;Rubis;6;2
 123;"La Dame marieuse";Commune;Rubis;14;1
 124;Denahi;"Peu commune";"Rubis, Acier";5;0
 125;"Un frère Stabbington";Commune;Rubis;11;0

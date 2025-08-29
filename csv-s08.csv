@@ -93,7 +93,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 92;Fred;Commune;Émeraude;15;0
 93;Truffe;Commune;Émeraude;12;2
 94;Tac;Commune;Émeraude;13;0
-95;Louis;"Peu commune";Émeraude;7;0
+95;Louis;"Peu commune";Émeraude;4;0
 96;Napoléon;"Peu commune";Émeraude;9;0
 97;Tic;"Peu commune";Émeraude;10;1
 98;Fred;Rare;Émeraude;4;0
@@ -114,7 +114,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 113;Archimède;Rare;Émeraude;7;1
 114;"Qui prend son avion de chassage";Commune;Émeraude;12;1
 115;"Foudroyant d'un éclair ces brutes";"Peu commune";Émeraude;8;2
-116;"Pas ce levier-là !";Rare;Émeraude;3;0
+116;"Pas ce levier-là !";Rare;Émeraude;1;0
 117;Bousillage;"Peu commune";"Émeraude, Rubis";12;1
 118;"Sur la planche !";"Peu commune";"Émeraude, Acier";8;1
 119;Nano-sac;Commune;Émeraude;13;1

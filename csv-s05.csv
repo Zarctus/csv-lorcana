@@ -1,6 +1,6 @@
 card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 1;Koda;Rare;Ambre;3;0
-2;Nala;"Peu commune";Ambre;9;0
+2;Nala;"Peu commune";Ambre;6;0
 3;"Prince Naveen";Légendaire;Ambre;0;0
 4;Truc;Commune;Ambre;12;3
 5;Kenaï;Commune;Ambre;13;2
@@ -84,7 +84,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 83;"Prince Philippe";"Super rare";Émeraude;5;0
 84;Clarabelle;Légendaire;Émeraude;0;0
 85;Anna;Légendaire;Émeraude;0;0
-86;Clarabelle;Commune;Émeraude;3;0
+86;Clarabelle;Commune;Émeraude;0;0
 87;Banzaï;Commune;Émeraude;16;0
 88;"Robin des Bois";"Peu commune";Émeraude;9;0
 89;"Mère Gothel";"Peu commune";Émeraude;14;2
