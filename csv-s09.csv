@@ -1,4 +1,5 @@
 card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
+0;"Bruno Madrigal";"Super rare";Améthyste;1;0
 1;"La Reine";Rare;Ambre;1;0
 2;Pongo;"Super rare";Ambre;0;0
 3;Stitch;"Super rare";Ambre;1;0
@@ -26,7 +27,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 25;"On est une Famille";Rare;Ambre;2;0
 26;"L'histoire de la vie";Légendaire;Ambre;0;0
 27;"Guéris les blessures";Commune;Ambre;1;0
-28;"J'ai perdu le Nord";Commune;Ambre;2;0
+28;"J'ai perdu le Nord";Commune;Ambre;1;0
 29;"Retour de Bruno";"Peu commune";Ambre;2;0
 30;"Le Grand Génie du Mal";"Peu commune";Ambre;2;0
 31;"C'est la Fête";Commune;Ambre;3;0
