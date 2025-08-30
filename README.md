@@ -6,8 +6,8 @@
 
 
 **Quelques liens aléatoires / Some random links**
-- *[Lorcana - L'ile d' Archazia - Tamatoa 162/204 - Légendaire - ID=1595](https://www.vinted.fr/items/5928627193-lorcana-lile-d-archazia-tamatoa-162204-legendaire-id1595)*
-- *[Lorcana - Ciel Scintillant - 4x Qui Trouve, Garde 60/204 - Peu commune - ID=1016](https://www.vinted.fr/items/5290649533-lorcana-ciel-scintillant-4x-qui-trouve-garde-60204-peu-commune-id1016)*
-- *[Lorcana - L'ile d' Archazia - 3x Peine 61/204 - Commune - ID=1494](https://www.vinted.fr/items/6404506083-lorcana-lile-d-archazia-3x-peine-61204-commune-id1494)*
-- *[Lorcana - Les Terres d'Encres - Debout ! Tout De Suite ! 130/204 - Rare Foil - ID=566](https://www.vinted.fr/items/6545004237-lorcana-les-terres-dencres-debout-tout-de-suite-130204-rare-foil-id566)*
-- *[Lorcana - Les Terres d'Encres - Cœur De L'Atlantide 30/204 - Rare Foil - ID=466](https://www.vinted.fr/items/6544975825-lorcana-les-terres-dencres-coeur-de-latlantide-30204-rare-foil-id466)*
+- *[Lorcana - Ciel Scintillant - Kuzco 149/204 - Super rare - ID=1105](https://www.vinted.fr/items/6005883437-lorcana-ciel-scintillant-kuzco-149204-super-rare-id1105)*
+- *[Lorcana - La Mer Azurite - 2x John Silver 181/204 - Commune - ID=1380](https://www.vinted.fr/items/5949448442-lorcana-la-mer-azurite-2x-john-silver-181204-commune-id1380)*
+- *[Disney Lorcana - Le retour d'Ursula - 3x Cartes Sphère D'Endurance VF 200/204 - Commune](https://www.vinted.fr/items/5921415763-disney-lorcana-le-retour-dursula-3x-cartes-sphere-dendurance-vf-200204-commune)*
+- *[Lorcana - Les Terres d'Encres - Pongo 19/204 - Super rare - ID=455](https://www.vinted.fr/items/6174175814-lorcana-les-terres-dencres-pongo-19204-super-rare-id455)*
+- *[Lorcana - Ciel Scintillant - 3x Joyeux 191/204 - Commune - ID=1147](https://www.vinted.fr/items/5682102109-lorcana-ciel-scintillant-3x-joyeux-191204-commune-id1147)*
