@@ -3,7 +3,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 2;ARIEL;"Super rare";Ambre;6;1
 3;CENDRILLON;"Peu commune";Ambre;21;0
 4;DINGO;"Peu commune";Ambre;20;1
-5;HADÈS;Rare;Ambre;8;2
+5;HADÈS;Rare;Ambre;8;1
 6;HADÈS;Rare;Ambre;8;0
 7;HEIHEI;Commune;Ambre;31;1
 8;"LE FOU";"Peu commune";Ambre;16;1
@@ -60,7 +60,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 59;URSULA;Légendaire;Améthyste;2;0
 60;YZMA;Commune;Améthyste;28;3
 61;ZEUS;Rare;Améthyste;8;0
-62;EMBERLIFICOTAGE;"Peu commune";Améthyste;9;1
+62;EMBERLIFICOTAGE;"Peu commune";Améthyste;9;0
 63;GEL;Commune;Améthyste;30;0
 64;"MES AMIS DE L'AU-DELÀ";Commune;Améthyste;11;0
 65;Réflexion;"Peu commune";Améthyste;16;0
@@ -126,7 +126,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 125;STITCH;Rare;Rubis;8;1
 126;"TE KĀ";"Super rare";Rubis;7;0
 127;TIGROU;"Peu commune";Rubis;15;2
-128;"SOYEZ PRÊTES !";Rare;Rubis;6;1
+128;"SOYEZ PRÊTES !";Rare;Rubis;6;0
 129;"DROIT AU BUT";"Peu commune";Rubis;18;2
 130;"FEU DU DRAGON";"Peu commune";Rubis;16;1
 131;"ATTISER LES FLAMMES";"Peu commune";Rubis;14;1

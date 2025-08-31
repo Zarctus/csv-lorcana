@@ -116,7 +116,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 115;"Madame de Trémaine";Légendaire;Émeraude;0;0
 116;"Réveille-toi, Alice !";Commune;Émeraude;12;1
 117;"Il se traîne";Commune;Émeraude;11;1
-118;"Le retour d’Hercule";Légendaire;Émeraude;0;1
+118;"Le retour d’Hercule";Légendaire;Émeraude;0;0
 119;"Geyser d’encre";Rare;"Émeraude, Saphir";3;0
 120;"Spirale d’Émeraude";"Peu commune";Émeraude;7;0
 121;"Grand-Mère Fa";Commune;Rubis;12;1
@@ -174,7 +174,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 173;Jasmine;Rare;"Saphir, Acier";4;0
 174;"Jebidiah Farnsworth";"Peu commune";Saphir;8;1
 175;Baymax;Rare;Saphir;5;1
-176;"Belle Marianne";"Super rare";"Saphir, Acier";5;0
+176;"Belle Marianne";"Super rare";"Saphir, Acier";4;0
 177;"L’eau a de la mémoire";Commune;Saphir;13;0
 178;"La berceuse d'Ahtohallan";Rare;Saphir;1;1
 179;"Spirale de Saphir";"Peu commune";Saphir;1;0
