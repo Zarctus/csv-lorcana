@@ -6,8 +6,8 @@
 
 
 **Quelques liens aléatoires / Some random links**
-- *[Lorcana - L'ile d' Archazia - Spirale D’ambre 41/204 - Peu commune Foil - ID=1474](https://www.vinted.fr/items/6631878294-lorcana-lile-d-archazia-spirale-dambre-41204-peu-commune-foil-id1474)*
-- *[Lorcana - Le retour d'Ursula - 3x Balais Magiques 48/204 - Commune - ID=739](https://www.vinted.fr/items/5543623550-lorcana-le-retour-dursula-3x-balais-magiques-48204-commune-id739)*
-- *[Lorcana - Premier Chapitre - 2x Soyez Prêtes ! 128/204 - Rare - ID=128](https://www.vinted.fr/items/4965711199-lorcana-premier-chapitre-2x-soyez-pretes-128204-rare-id128)*
-- *[Lorcana - La Mer Azurite - John Silver 181/204 - Commune Foil - ID=1380](https://www.vinted.fr/items/6005924803-lorcana-la-mer-azurite-john-silver-181204-commune-foil-id1380)*
-- *[Lorcana - La Mer Azurite - 3x Navire Des Fées 68/204 - Commune - ID=1267](https://www.vinted.fr/items/6046251949-lorcana-la-mer-azurite-3x-navire-des-fees-68204-commune-id1267)*
+- *[Lorcana - L'ile d' Archazia - Balthazar Picsou 154/204 - Légendaire - ID=1587](https://www.vinted.fr/items/5954085333-lorcana-lile-d-archazia-balthazar-picsou-154204-legendaire-id1587)*
+- *[Lorcana - Premier Chapitre - Hans 180/204 - Super rare Foil - ID=180](https://www.vinted.fr/items/5576996277-lorcana-premier-chapitre-hans-180204-super-rare-foil-id180)*
+- *[Lorcana - Premier Chapitre - 3x C'Est La Fête 25/204 - Peu commune - ID=25](https://www.vinted.fr/items/6567162423-lorcana-premier-chapitre-3x-cest-la-fete-25204-peu-commune-id25)*
+- *[Lorcana - Ciel Scintillant - 3x Vision De L'Avenir 160/204 - Commune - ID=1116](https://www.vinted.fr/items/4981057764-lorcana-ciel-scintillant-3x-vision-de-lavenir-160204-commune-id1116)*
+- *[Lorcana - Le Règne de Jafar - 2x Darling 16/204 - Commune - ID=1680](https://www.vinted.fr/items/6475011231-lorcana-le-regne-de-jafar-2x-darling-16204-commune-id1680)*
