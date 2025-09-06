@@ -6,8 +6,8 @@
 
 
 **Quelques liens aléatoires / Some random links**
-- *[Lorcana - Ciel Scintillant - Un Mirage À Deux Visages 28/204 - Super rare - ID=984](https://www.vinted.fr/items/5809077482-lorcana-ciel-scintillant-un-mirage-a-deux-visages-28204-super-rare-id984)*
-- *[Lorcana - Les Terres d'Encres - Chiot Dalmatien 4e/204 - Commune Foil - ID=440](https://www.vinted.fr/items/5536626435-lorcana-les-terres-dencres-chiot-dalmatien-4e204-commune-foil-id440)*
-- *[Lorcana - L'ile d' Archazia - 3x Outil Inhabituel 150/204 - Commune - ID=1583](https://www.vinted.fr/items/6000400252-lorcana-lile-d-archazia-3x-outil-inhabituel-150204-commune-id1583)*
-- *[Lorcana - Premier Chapitre - 2x Génie 75/204 - Super rare - ID=75](https://www.vinted.fr/items/6197836960-lorcana-premier-chapitre-2x-genie-75204-super-rare-id75)*
-- *[Lorcana - Le Règne de Jafar - 3x Capitaine Crochet 186/204 - Commune - ID=1850](https://www.vinted.fr/items/6758309783-lorcana-le-regne-de-jafar-3x-capitaine-crochet-186204-commune-id1850)*
+- *[Lorcana - Les Terres d'Encres - 2x Kit 77/204 - Peu commune - ID=513](https://www.vinted.fr/items/6770959924-lorcana-les-terres-dencres-2x-kit-77204-peu-commune-id513)*
+- *[Lorcana - Fabuleux - Lilo 174/204 - Super rare Foil - ID=2110](https://www.vinted.fr/items/6979593559-lorcana-fabuleux-lilo-174204-super-rare-foil-id2110)*
+- *[Lorcana - Le retour d'Ursula - On Est Une Famille 28/204 - Rare Foil - ID=719](https://www.vinted.fr/items/6036056720-lorcana-le-retour-dursula-on-est-une-famille-28204-rare-foil-id719)*
+- *[Lorcana - Le Règne de Jafar - Mère Gothel 70/204 - Rare Foil - ID=1734](https://www.vinted.fr/items/6495417771-lorcana-le-regne-de-jafar-mere-gothel-70204-rare-foil-id1734)*
+- *[Lorcana - Fabuleux - Dumbo 45/204 - Légendaire - ID=1981](https://www.vinted.fr/items/6979544426-lorcana-fabuleux-dumbo-45204-legendaire-id1981)*
