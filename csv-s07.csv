@@ -176,7 +176,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 175;Baymax;Rare;Saphir;5;1
 176;"Belle Marianne";"Super rare";"Saphir, Acier";4;0
 177;"L’eau a de la mémoire";Commune;Saphir;13;0
-178;"La berceuse d'Ahtohallan";Rare;Saphir;1;1
+178;"La berceuse d'Ahtohallan";Rare;Saphir;1;0
 179;"Spirale de Saphir";"Peu commune";Saphir;1;0
 180;"Chargeur de Baymax";Commune;Saphir;12;0
 181;"Dr. Calico";Commune;Acier;14;1

@@ -248,7 +248,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 65;Sven;"Peu commune";"Améthyste, Saphir";11;0
 72;Anna;"Peu commune";"Améthyste, Saphir";6;0
 177;"L’eau a de la mémoire";Commune;Saphir;13;0
-178;"La berceuse d'Ahtohallan";Rare;Saphir;1;1
+178;"La berceuse d'Ahtohallan";Rare;Saphir;1;0
 179;"Spirale de Saphir";"Peu commune";Saphir;1;0
 181;"Dr. Calico";Commune;Acier;14;1
 184;Volt;Commune;Acier;11;2
