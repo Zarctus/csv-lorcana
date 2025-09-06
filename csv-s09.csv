@@ -23,7 +23,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 21;Pluto;Commune;Ambre;10;0
 22;Ursula;Commune;Ambre;11;1
 23;"La Reine de Cœur";"Peu commune";Ambre;8;0
-24;Stitch;Légendaire;Ambre;1;0
+24;Stitch;Légendaire;Ambre;0;0
 25;"On est une Famille";Rare;Ambre;5;1
 26;"L'histoire de la vie";Légendaire;Ambre;0;0
 27;"Guéris les blessures";Commune;Ambre;11;0
@@ -42,7 +42,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 40;Belle;"Super rare";Améthyste;4;0
 41;"Winnie l'ourson";Commune;Améthyste;11;1
 42;"Ombre de Peter Pan";"Super rare";Améthyste;5;0
-43;Elsa;Légendaire;Améthyste;1;0
+43;Elsa;Légendaire;Améthyste;0;0
 44;Ursula;"Super rare";Améthyste;2;1
 45;Dumbo;Légendaire;Améthyste;2;0
 46;Dumbo;"Peu commune";Améthyste;9;0
@@ -76,7 +76,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 74;Dingo;Rare;Émeraude;3;0
 75;"Max Dingo";Rare;Émeraude;5;1
 76;Génie;"Super rare";Émeraude;3;1
-77;"Max Dingo";Légendaire;Émeraude;2;0
+77;"Max Dingo";Légendaire;Émeraude;1;0
 78;"Bobby Zimmeruski";"Peu commune";Émeraude;7;1
 79;Mégara;Commune;Émeraude;11;0
 80;"Mickey Mouse";Commune;Émeraude;11;2
@@ -176,7 +176,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 174;Lilo;"Super rare";Acier;0;1
 175;Scar;Légendaire;Acier;1;1
 176;"Petit Jean";"Peu commune";Acier;8;0
-177;"Robin des Bois";Légendaire;Acier;1;1
+177;"Robin des Bois";Légendaire;Acier;0;1
 178;Jasmine;Rare;Acier;3;0
 179;Tiana;Commune;Acier;8;0
 180;Benja;Commune;Acier;12;0
