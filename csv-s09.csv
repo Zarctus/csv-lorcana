@@ -173,8 +173,8 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 171;Philoctète;Rare;Acier;5;0
 172;"Mickey Mouse";"Super rare";Acier;3;0
 173;Nala;Rare;Acier;1;0
-174;Lilo;"Super rare";Acier;1;1
-175;Scar;Légendaire;Acier;1;1
+174;Lilo;"Super rare";Acier;0;1
+175;Scar;Légendaire;Acier;0;1
 176;"Petit Jean";"Peu commune";Acier;10;0
 177;"Robin des Bois";Légendaire;Acier;0;1
 178;Jasmine;Rare;Acier;3;0
