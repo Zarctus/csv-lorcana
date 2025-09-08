@@ -6,8 +6,8 @@
 
 
 **Quelques liens aléatoires / Some random links**
-- *[Lorcana - Fabuleux - Génie 76/204 - Super rare Foil - ID=2012](https://www.vinted.fr/items/6992687271-lorcana-fabuleux-genie-76204-super-rare-foil-id2012)*
-- *[Lorcana - Ciel Scintillant - 2x Vision De L'Avenir 160/204 - Commune - ID=1116](https://www.vinted.fr/items/5449269699-lorcana-ciel-scintillant-2x-vision-de-lavenir-160204-commune-id1116)*
-- *[Lorcana - Le Règne de Jafar - 3x Bousillage 117/204 - Peu commune - ID=1781](https://www.vinted.fr/items/6567142006-lorcana-le-regne-de-jafar-3x-bousillage-117204-peu-commune-id1781)*
-- *[Lorcana - Le Règne de Jafar - 3x Jafar 74/204 - Super rare - ID=1738](https://www.vinted.fr/items/6761477385-lorcana-le-regne-de-jafar-3x-jafar-74204-super-rare-id1738)*
-- *[Lorcana - L'ile d' Archazia - 3x Mère Gothel 64/204 - Peu commune - ID=1497](https://www.vinted.fr/items/6620715616-lorcana-lile-d-archazia-3x-mere-gothel-64204-peu-commune-id1497)*
+- *[Lorcana - La Mer Azurite - 2x Raya 107/204 - Rare - ID=1306](https://www.vinted.fr/items/6197973236-lorcana-la-mer-azurite-2x-raya-107204-rare-id1306)*
+- *[Lorcana - L'Ascension des Floodborn - 2x Benja 174/204 - Commune - ID=390](https://www.vinted.fr/items/5989654466-lorcana-lascension-des-floodborn-2x-benja-174204-commune-id390)*
+- *[Lorcana - Le Règne de Jafar - 2x Le Loir 103/204 - Peu commune - ID=1767](https://www.vinted.fr/items/6771011035-lorcana-le-regne-de-jafar-2x-le-loir-103204-peu-commune-id1767)*
+- *[Lorcana - Le retour d'Ursula - 3x Prince Philippe 87/204 - Super rare - ID=778](https://www.vinted.fr/items/6539796515-lorcana-le-retour-dursula-3x-prince-philippe-87204-super-rare-id778)*
+- *[Lorcana - Fabuleux - John Silver 89/204 - Légendaire Foil - ID=2025](https://www.vinted.fr/items/6969079549-lorcana-fabuleux-john-silver-89204-legendaire-foil-id2025)*
