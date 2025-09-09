@@ -6,8 +6,8 @@
 
 
 **Quelques liens aléatoires / Some random links**
-- *[Lorcana - La Mer Azurite - 2x Raya 107/204 - Rare - ID=1306](https://www.vinted.fr/items/6197973236-lorcana-la-mer-azurite-2x-raya-107204-rare-id1306)*
-- *[Lorcana - L'Ascension des Floodborn - 2x Benja 174/204 - Commune - ID=390](https://www.vinted.fr/items/5989654466-lorcana-lascension-des-floodborn-2x-benja-174204-commune-id390)*
-- *[Lorcana - Le Règne de Jafar - 2x Le Loir 103/204 - Peu commune - ID=1767](https://www.vinted.fr/items/6771011035-lorcana-le-regne-de-jafar-2x-le-loir-103204-peu-commune-id1767)*
-- *[Lorcana - Le retour d'Ursula - 3x Prince Philippe 87/204 - Super rare - ID=778](https://www.vinted.fr/items/6539796515-lorcana-le-retour-dursula-3x-prince-philippe-87204-super-rare-id778)*
-- *[Lorcana - Fabuleux - John Silver 89/204 - Légendaire Foil - ID=2025](https://www.vinted.fr/items/6969079549-lorcana-fabuleux-john-silver-89204-legendaire-foil-id2025)*
+- *[Lorcana - Les Terres d'Encres - Stitch 125/204 - Commune Foil - ID=561](https://www.vinted.fr/items/6373106929-lorcana-les-terres-dencres-stitch-125204-commune-foil-id561)*
+- *[Lorcana - La Mer Azurite - Patate Chaude 195/204 - Peu commune Foil - ID=1394](https://www.vinted.fr/items/6374209373-lorcana-la-mer-azurite-patate-chaude-195204-peu-commune-foil-id1394)*
+- *[Lorcana - Fabuleux - 3x Développe Ton Cerveau 163/204 - Commune - ID=2099](https://www.vinted.fr/items/7031211632-lorcana-fabuleux-3x-developpe-ton-cerveau-163204-commune-id2099)*
+- *[Pins Stitch - Today I Feel Fatigué - Édition limitée 700 exemplaires (Limited edition)](https://www.vinted.fr/items/5055512294-pins-stitch-today-i-feel-fatigue-edition-limitee-700-exemplaires-limited-edition)*
+- *[Lorcana - Le Règne de Jafar - Géo Trouvetou 123/204 - Rare Foil - ID=1787](https://www.vinted.fr/items/6549814684-lorcana-le-regne-de-jafar-geo-trouvetou-123204-rare-foil-id1787)*
