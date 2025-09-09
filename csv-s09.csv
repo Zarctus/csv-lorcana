@@ -44,7 +44,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 42;"Ombre de Peter Pan";"Super rare";Améthyste;5;0
 43;Elsa;Légendaire;Améthyste;0;0
 44;Ursula;"Super rare";Améthyste;3;2
-45;Dumbo;Légendaire;Améthyste;2;0
+45;Dumbo;Légendaire;Améthyste;1;0
 46;Dumbo;"Peu commune";Améthyste;10;0
 47;Timothée;Commune;Améthyste;12;0
 48;Elsa;Commune;Améthyste;12;0
@@ -76,7 +76,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 74;Dingo;Rare;Émeraude;4;0
 75;"Max Dingo";Rare;Émeraude;6;1
 76;Génie;"Super rare";Émeraude;4;1
-77;"Max Dingo";Légendaire;Émeraude;1;1
+77;"Max Dingo";Légendaire;Émeraude;0;1
 78;"Bobby Zimmeruski";"Peu commune";Émeraude;8;1
 79;Mégara;Commune;Émeraude;12;0
 80;"Mickey Mouse";Commune;Émeraude;13;2
@@ -88,7 +88,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 86;Heihei;"Peu commune";Émeraude;9;0
 87;Shenzi;"Super rare";Émeraude;3;1
 88;"La Fée Clochette";Commune;Émeraude;9;0
-89;"John Silver";Légendaire;Émeraude;2;1
+89;"John Silver";Légendaire;Émeraude;1;1
 90;Ursula;"Peu commune";Émeraude;10;1
 91;Turbo;"Peu commune";Émeraude;9;1
 92;Aladdin;Commune;Émeraude;12;1
@@ -107,7 +107,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 105;Simba;Rare;Rubis;6;0
 106;Maui;Rare;Rubis;4;0
 107;Ariel;"Super rare";Rubis;3;0
-108;Maléfique;Légendaire;Rubis;2;0
+108;Maléfique;Légendaire;Rubis;1;0
 109;Powerline;Commune;Rubis;11;1
 110;Powerline;"Super rare";Rubis;4;0
 111;"Mickey Mouse";Légendaire;Rubis;0;0
@@ -142,7 +142,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 140;Loulou;Commune;Saphir;14;0
 141;Alice;Rare;Saphir;5;1
 142;Mulan;"Super rare";Saphir;2;0
-143;"Cruella d'Enfer";Légendaire;Saphir;1;0
+143;"Cruella d'Enfer";Légendaire;Saphir;0;0
 144;Mufasa;Commune;Saphir;14;1
 145;"Cruella d'Enfer";Commune;Saphir;13;1
 146;Anna;Commune;Saphir;10;0
@@ -150,7 +150,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 148;Hans;Commune;Saphir;10;0
 149;"La Reine";"Peu commune";Saphir;9;0
 150;"Grand Pabbie";Rare;Saphir;4;0
-151;Hadès;Légendaire;Saphir;2;0
+151;Hadès;Légendaire;Saphir;1;0
 152;"Mama Odie";Rare;Saphir;4;0
 153;Aurore;"Super rare";Saphir;3;0
 154;Aurore;Commune;Saphir;11;0
@@ -172,7 +172,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 170;Motunui;"Peu commune";Saphir;8;0
 171;Philoctète;Rare;Acier;5;0
 172;"Mickey Mouse";"Super rare";Acier;3;0
-173;Nala;Rare;Acier;1;0
+173;Nala;Rare;Acier;0;0
 174;Lilo;"Super rare";Acier;0;1
 175;Scar;Légendaire;Acier;0;1
 176;"Petit Jean";"Peu commune";Acier;10;0
