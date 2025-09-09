@@ -10,19 +10,19 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 8;Raiponce;Commune;Ambre;12;0
 9;Stitch;Commune;Ambre;13;1
 10;Mulan;Commune;Ambre;12;0
-11;Daisy;Commune;Ambre;10;2
+11;Daisy;Commune;Ambre;11;2
 12;"La Fée Clochette";"Peu commune";Ambre;6;0
 13;"Mickey Mouse";"Peu commune";Ambre;11;1
 14;Pluto;Rare;Ambre;5;1
-15;Ariel;Rare;Ambre;3;0
+15;Ariel;Rare;Ambre;4;0
 16;Pluto;Commune;Ambre;13;1
 17;Nani;"Peu commune";Ambre;9;1
 18;"Julieta Madrigal";"Peu commune";Ambre;10;0
 19;Cendrillon;"Peu commune";Ambre;6;0
 20;Vaiana;Rare;Ambre;3;0
-21;Pluto;Commune;Ambre;11;0
+21;Pluto;Commune;Ambre;12;0
 22;Ursula;Commune;Ambre;12;1
-23;"La Reine de Cœur";"Peu commune";Ambre;8;0
+23;"La Reine de Cœur";"Peu commune";Ambre;9;0
 24;Stitch;Légendaire;Ambre;0;0
 25;"On est une Famille";Rare;Ambre;6;2
 26;"L'histoire de la vie";Légendaire;Ambre;0;0
@@ -30,7 +30,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 28;"J'ai perdu le Nord";Commune;Ambre;11;0
 29;"Retour de Bruno";"Peu commune";Ambre;7;2
 30;"Le Grand Génie du Mal";"Peu commune";Ambre;8;0
-31;"C'est la Fête";Commune;Ambre;12;0
+31;"C'est la Fête";Commune;Ambre;13;0
 32;Lanterne;Rare;Ambre;3;1
 33;"Pendentif en Coquillage d'Ursula";Rare;Ambre;5;2
 34;Atlantica;Commune;Ambre;12;1
@@ -40,12 +40,12 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 38;Jafar;Rare;Améthyste;6;0
 39;Belle;Commune;Améthyste;10;1
 40;Belle;"Super rare";Améthyste;4;0
-41;"Winnie l'ourson";Commune;Améthyste;12;1
+41;"Winnie l'ourson";Commune;Améthyste;13;1
 42;"Ombre de Peter Pan";"Super rare";Améthyste;5;0
 43;Elsa;Légendaire;Améthyste;0;0
 44;Ursula;"Super rare";Améthyste;3;2
 45;Dumbo;Légendaire;Améthyste;2;0
-46;Dumbo;"Peu commune";Améthyste;9;0
+46;Dumbo;"Peu commune";Améthyste;10;0
 47;Timothée;Commune;Améthyste;11;0
 48;Elsa;Commune;Améthyste;12;0
 49;Kuzco;Commune;Améthyste;13;0
@@ -61,13 +61,13 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 59;Jafar;"Peu commune";Améthyste;8;0
 60;"La Deuxième Étoile sur la Droite";Rare;Améthyste;3;0
 61;"Pauvres âmes en perdition";Commune;Améthyste;11;1
-62;"Effort désespéré";"Peu commune";Améthyste;9;0
-63;"Je suis coincé !";Commune;Améthyste;12;1
+62;"Effort désespéré";"Peu commune";Améthyste;10;0
+63;"Je suis coincé !";Commune;Améthyste;13;1
 64;"La plume magique";Rare;Améthyste;2;0
 65;"Miroir Magique";"Peu commune";Améthyste;10;1
-66;"Montre à Gousset";Rare;Améthyste;3;0
+66;"Montre à Gousset";Rare;Améthyste;4;0
 67;Rose-Lanterne;Commune;Améthyste;11;0
-68;"Casa Madrigal";Commune;Améthyste;14;0
+68;"Casa Madrigal";Commune;Améthyste;15;0
 69;Kuzco;Rare;Émeraude;4;2
 70;"Robin des Bois";Rare;Émeraude;3;0
 71;"Ondins Ensorcelés";Rare;Émeraude;4;2
@@ -82,19 +82,19 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 80;"Mickey Mouse";Commune;Émeraude;13;2
 81;L'Enchanteresse;Commune;Émeraude;10;0
 82;Virana;Commune;Émeraude;13;1
-83;Donald;Commune;Émeraude;13;0
+83;Donald;Commune;Émeraude;13;1
 84;Pégase;Commune;Émeraude;14;2
 85;Donald;"Peu commune";Émeraude;10;2
 86;Heihei;"Peu commune";Émeraude;9;0
 87;Shenzi;"Super rare";Émeraude;2;1
-88;"La Fée Clochette";Commune;Émeraude;8;0
+88;"La Fée Clochette";Commune;Émeraude;9;0
 89;"John Silver";Légendaire;Émeraude;2;1
-90;Ursula;"Peu commune";Émeraude;9;1
+90;Ursula;"Peu commune";Émeraude;10;1
 91;Turbo;"Peu commune";Émeraude;9;1
-92;Aladdin;Commune;Émeraude;10;1
+92;Aladdin;Commune;Émeraude;11;1
 93;Daisy;"Peu commune";Émeraude;8;1
 94;"Stand Out";"Peu commune";Émeraude;11;0
-95;"Cruelle Diablesse";Commune;Émeraude;13;0
+95;"Cruelle Diablesse";Commune;Émeraude;14;0
 96;Improviser;Commune;Émeraude;13;0
 97;"Sous l'océan";Rare;Émeraude;3;0
 98;"Concocter la Potion";Commune;Émeraude;14;2
@@ -119,22 +119,22 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 117;Powerline;Rare;Rubis;3;0
 118;Sisu;Rare;Rubis;4;0
 119;Sisu;"Peu commune";Rubis;7;0
-120;"La Reine de Cœur";"Peu commune";Rubis;6;0
+120;"La Reine de Cœur";"Peu commune";Rubis;7;0
 121;Lumière;Rare;Rubis;4;0
 122;"Gardes cartes";"Peu commune";Rubis;10;0
-123;"La Reine de Cœur";Commune;Rubis;12;0
+123;"La Reine de Cœur";Commune;Rubis;13;0
 124;Raiponce;Commune;Rubis;13;0
-125;Mulan;Commune;Rubis;9;0
+125;Mulan;Commune;Rubis;10;0
 126;Mulan;"Super rare";Rubis;4;0
-127;Raya;Commune;Rubis;11;1
+127;Raya;Commune;Rubis;12;1
 128;"Sergent Tibs";Commune;Rubis;13;3
-129;"Tuk Tuk";"Peu commune";Rubis;7;1
+129;"Tuk Tuk";"Peu commune";Rubis;7;2
 130;I2I;Rare;Rubis;2;0
 131;"Tu t'envoles";Commune;Rubis;11;2
 132;"La vie d'un pirate";"Peu commune";Rubis;10;2
 133;"Un roi incontesté";"Peu commune";Rubis;8;0
-134;"Médaillons Lestés";"Peu commune";Rubis;8;0
-135;"Clochette du dîner";Rare;Rubis;3;0
+134;"Médaillons Lestés";"Peu commune";Rubis;9;0
+135;"Clochette du dîner";Rare;Rubis;4;0
 136;Agrabah;Commune;Rubis;13;1
 137;Anna;Rare;Saphir;4;1
 138;Riri;Rare;Saphir;6;0
@@ -144,18 +144,18 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 142;Mulan;"Super rare";Saphir;2;0
 143;"Cruella d'Enfer";Légendaire;Saphir;1;0
 144;Mufasa;Commune;Saphir;14;1
-145;"Cruella d'Enfer";Commune;Saphir;12;1
+145;"Cruella d'Enfer";Commune;Saphir;13;1
 146;Anna;Commune;Saphir;9;0
 147;Polochon;Commune;Saphir;12;2
 148;Hans;Commune;Saphir;10;0
-149;"La Reine";"Peu commune";Saphir;8;0
+149;"La Reine";"Peu commune";Saphir;9;0
 150;"Grand Pabbie";Rare;Saphir;4;0
 151;Hadès;Légendaire;Saphir;2;0
 152;"Mama Odie";Rare;Saphir;4;0
 153;Aurore;"Super rare";Saphir;3;0
 154;Aurore;Commune;Saphir;11;0
-155;Jasmine;Commune;Saphir;11;0
-156;Belle;"Peu commune";Saphir;9;0
+155;Jasmine;Commune;Saphir;12;1
+156;Belle;"Peu commune";Saphir;10;0
 157;"Judy Hopps";"Peu commune";Saphir;5;1
 158;"Belle Marianne";Commune;Saphir;14;1
 159;"Winnie l'ourson";Rare;Saphir;5;1
@@ -164,7 +164,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 162;"Robin des Bois";Rare;Saphir;4;2
 163;"Développe ton Cerveau";Commune;Saphir;8;2
 164;"Quatre douzaines d'œufs";"Peu commune";Saphir;8;0
-165;"Je Vole";Commune;Saphir;12;1
+165;"Je Vole";Commune;Saphir;13;1
 166;"Creuse encore et encore";"Peu commune";Saphir;8;0
 167;"Gyroscope lumineux";"Peu commune";Saphir;8;1
 168;"Le Cœur de Te Fiti";Rare;Saphir;4;1
@@ -177,33 +177,33 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 175;Scar;Légendaire;Acier;0;1
 176;"Petit Jean";"Peu commune";Acier;10;0
 177;"Robin des Bois";Légendaire;Acier;0;1
-178;Jasmine;Rare;Acier;3;0
+178;Jasmine;Rare;Acier;4;0
 179;Tiana;Commune;Acier;9;0
 180;Benja;Commune;Acier;12;0
 181;Jafar;Commune;Acier;12;0
 182;"Prince Naveen";Commune;Acier;13;0
-183;Bourriquet;Commune;Acier;11;3
+183;Bourriquet;Commune;Acier;12;3
 184;"Robin des Bois";"Peu commune";Acier;9;0
 185;"Mickey Mouse";Commune;Acier;12;2
 186;Hercule;"Peu commune";Acier;8;0
 187;Lawrence;"Peu commune";Acier;10;1
 188;"La Fée Clochette";"Super rare";Acier;5;0
 189;"La Fée Clochette";Commune;Acier;14;0
-190;"Capitaine Crochet";Rare;Acier;3;0
+190;"Capitaine Crochet";Rare;Acier;4;0
 191;Hercule;Commune;Acier;13;1
-192;"John Silver";Rare;Acier;3;0
+192;"John Silver";Rare;Acier;4;0
 193;"Li Shang";"Peu commune";Acier;5;1
 194;"Prince Eric";Commune;Acier;13;2
 195;Ariel;Rare;Acier;3;0
-196;Ariel;Commune;Acier;12;0
+196;Ariel;Commune;Acier;13;0
 197;"Il me reste un espoir";Rare;Acier;3;0
 198;"Fracasser !";"Peu commune";Acier;10;1
 199;"Ils cassent en deux comme je veux";"Peu commune";Acier;7;1
 200;"Allumez les Mêches !";Commune;Acier;11;0
 201;"Plus ardent que le feu des volcans";Rare;Acier;3;0
 202;"Tous avec moi !";"Peu commune";Acier;5;0
-203;"Miroir de la Bête";Commune;Acier;12;0
-204;"Île d'exil de Maui";"Peu commune";Acier;8;1
+203;"Miroir de la Bête";Commune;Acier;13;0
+204;"Île d'exil de Maui";"Peu commune";Acier;9;1
 223;Pongo;Enchantée;Ambre;0;0
 224;"La Bête";Enchantée;Ambre;0;0
 225;"L'histoire de la vie";Enchantée;Ambre;0;0
