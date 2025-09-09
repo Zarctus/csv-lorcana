@@ -6,7 +6,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 4;"La Bête";Rare;Ambre;2;0
 5;Minnie;"Super rare";Ambre;4;1
 6;Aurore;"Peu commune";Ambre;10;0
-7;"La Reine";Commune;Ambre;12;2
+7;"La Reine";Commune;Ambre;13;2
 8;Raiponce;Commune;Ambre;12;0
 9;Stitch;Commune;Ambre;13;1
 10;Mulan;Commune;Ambre;12;0
@@ -21,7 +21,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 19;Cendrillon;"Peu commune";Ambre;6;0
 20;Vaiana;Rare;Ambre;3;0
 21;Pluto;Commune;Ambre;12;0
-22;Ursula;Commune;Ambre;12;1
+22;Ursula;Commune;Ambre;12;2
 23;"La Reine de Cœur";"Peu commune";Ambre;9;0
 24;Stitch;Légendaire;Ambre;0;0
 25;"On est une Famille";Rare;Ambre;6;2
@@ -35,7 +35,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 33;"Pendentif en Coquillage d'Ursula";Rare;Ambre;5;2
 34;Atlantica;Commune;Ambre;12;1
 35;"La Reine";Rare;Améthyste;4;0
-36;Rafiki;Rare;Améthyste;4;1
+36;Rafiki;Rare;Améthyste;5;1
 37;Ursula;Rare;Améthyste;4;0
 38;Jafar;Rare;Améthyste;6;0
 39;Belle;Commune;Améthyste;10;1
@@ -46,7 +46,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 44;Ursula;"Super rare";Améthyste;3;2
 45;Dumbo;Légendaire;Améthyste;2;0
 46;Dumbo;"Peu commune";Améthyste;10;0
-47;Timothée;Commune;Améthyste;11;0
+47;Timothée;Commune;Améthyste;12;0
 48;Elsa;Commune;Améthyste;12;0
 49;Kuzco;Commune;Améthyste;13;0
 50;Tic-Tac;Commune;Améthyste;14;1
@@ -77,7 +77,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 75;"Max Dingo";Rare;Émeraude;6;1
 76;Génie;"Super rare";Émeraude;4;1
 77;"Max Dingo";Légendaire;Émeraude;1;1
-78;"Bobby Zimmeruski";"Peu commune";Émeraude;7;1
+78;"Bobby Zimmeruski";"Peu commune";Émeraude;8;1
 79;Mégara;Commune;Émeraude;12;0
 80;"Mickey Mouse";Commune;Émeraude;13;2
 81;L'Enchanteresse;Commune;Émeraude;10;0
@@ -86,12 +86,12 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 84;Pégase;Commune;Émeraude;14;2
 85;Donald;"Peu commune";Émeraude;10;2
 86;Heihei;"Peu commune";Émeraude;9;0
-87;Shenzi;"Super rare";Émeraude;2;1
+87;Shenzi;"Super rare";Émeraude;3;1
 88;"La Fée Clochette";Commune;Émeraude;9;0
 89;"John Silver";Légendaire;Émeraude;2;1
 90;Ursula;"Peu commune";Émeraude;10;1
 91;Turbo;"Peu commune";Émeraude;9;1
-92;Aladdin;Commune;Émeraude;11;1
+92;Aladdin;Commune;Émeraude;12;1
 93;Daisy;"Peu commune";Émeraude;8;1
 94;"Stand Out";"Peu commune";Émeraude;11;0
 95;"Cruelle Diablesse";Commune;Émeraude;14;0
@@ -124,7 +124,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 122;"Gardes cartes";"Peu commune";Rubis;10;0
 123;"La Reine de Cœur";Commune;Rubis;13;0
 124;Raiponce;Commune;Rubis;13;0
-125;Mulan;Commune;Rubis;10;0
+125;Mulan;Commune;Rubis;11;0
 126;Mulan;"Super rare";Rubis;4;0
 127;Raya;Commune;Rubis;12;1
 128;"Sergent Tibs";Commune;Rubis;13;3
@@ -145,7 +145,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 143;"Cruella d'Enfer";Légendaire;Saphir;1;0
 144;Mufasa;Commune;Saphir;14;1
 145;"Cruella d'Enfer";Commune;Saphir;13;1
-146;Anna;Commune;Saphir;9;0
+146;Anna;Commune;Saphir;10;0
 147;Polochon;Commune;Saphir;12;2
 148;Hans;Commune;Saphir;10;0
 149;"La Reine";"Peu commune";Saphir;9;0
@@ -156,7 +156,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 154;Aurore;Commune;Saphir;11;0
 155;Jasmine;Commune;Saphir;12;1
 156;Belle;"Peu commune";Saphir;10;0
-157;"Judy Hopps";"Peu commune";Saphir;5;1
+157;"Judy Hopps";"Peu commune";Saphir;6;1
 158;"Belle Marianne";Commune;Saphir;14;1
 159;"Winnie l'ourson";Rare;Saphir;5;1
 160;Alice;"Super rare";Saphir;3;1
@@ -178,7 +178,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 176;"Petit Jean";"Peu commune";Acier;10;0
 177;"Robin des Bois";Légendaire;Acier;0;1
 178;Jasmine;Rare;Acier;4;0
-179;Tiana;Commune;Acier;9;0
+179;Tiana;Commune;Acier;10;0
 180;Benja;Commune;Acier;12;0
 181;Jafar;Commune;Acier;12;0
 182;"Prince Naveen";Commune;Acier;13;0
@@ -192,7 +192,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 190;"Capitaine Crochet";Rare;Acier;4;0
 191;Hercule;Commune;Acier;13;1
 192;"John Silver";Rare;Acier;4;0
-193;"Li Shang";"Peu commune";Acier;5;1
+193;"Li Shang";"Peu commune";Acier;6;1
 194;"Prince Eric";Commune;Acier;13;2
 195;Ariel;Rare;Acier;3;0
 196;Ariel;Commune;Acier;13;0

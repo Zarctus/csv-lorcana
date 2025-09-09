@@ -1,4 +1,17 @@
 saison,number,nom,encre,rareté,is_foil
+Fabuleux,47,Timothée,Améthyste,Commune,N
+Fabuleux,7,"La Reine",Ambre,Commune,N
+Fabuleux,92,Aladdin,Émeraude,Commune,N
+Fabuleux,125,Mulan,Rubis,Commune,N
+Fabuleux,179,Tiana,Acier,Commune,N
+Fabuleux,146,Anna,Saphir,Commune,N
+Fabuleux,78,"Bobby Zimmeruski",Émeraude,"Peu commune",N
+Fabuleux,193,"Li Shang",Acier,"Peu commune",N
+Fabuleux,157,"Judy Hopps",Saphir,"Peu commune",N
+Fabuleux,36,Rafiki,Améthyste,Rare,N
+Fabuleux,87,Shenzi,Émeraude,"Super rare",N
+Fabuleux,22,Ursula,Ambre,Commune,Y
+
 Fabuleux,41,"Winnie l'ourson",Améthyste,Commune,N
 Fabuleux,11,Daisy,Ambre,Commune,N
 Fabuleux,88,"La Fée Clochette",Émeraude,Commune,N
@@ -2585,17 +2598,4 @@ Fabuleux,217,Alice,Saphir,Épique,Y
 "Le Règne de Jafar",116,"Pas ce levier-là !",Émeraude,Rare,N
 "Le Règne de Jafar",4,Dingo,Ambre,Légendaire,N
 "Le Règne de Jafar",156,Olaf,Saphir,Commune,Y
-
-"Le Règne de Jafar",164,"Adélaïde De Bonnefamille",Saphir,Commune,N
-"Le Règne de Jafar",191,Arianna,Acier,Commune,N
-"Le Règne de Jafar",83,Scarabée,Améthyste,Commune,N
-"Le Règne de Jafar",90,"Bill le Lézard",Émeraude,Commune,N
-"Le Règne de Jafar",132,Lafayette,Rubis,Commune,N
-"Le Règne de Jafar",15,Rhino,Ambre,Commune,N
-"Le Règne de Jafar",115,"Foudroyant d'un éclair ces brutes",Émeraude,"Peu commune",N
-"Le Règne de Jafar",46,Druun,Améthyste,"Peu commune",N
-"Le Règne de Jafar",23,"Sa Sucrerie",Ambre,"Peu commune",N
-"Le Règne de Jafar",79,"Miraculeux et merveilleux",Améthyste,Rare,N
-"Le Règne de Jafar",20,"Bruno Madrigal",Ambre,"Super rare",N
-"Le Règne de Jafar",186,"Capitaine Crochet",Acier,Commune,Y
 
