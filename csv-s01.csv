@@ -1,6 +1,6 @@
 card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 1;ARIEL;"Peu commune";Ambre;16;1
-2;ARIEL;"Super rare";Ambre;6;1
+2;ARIEL;"Super rare";Ambre;5;1
 3;CENDRILLON;"Peu commune";Ambre;21;0
 4;DINGO;"Peu commune";Ambre;20;1
 5;HADÈS;Rare;Ambre;8;1
@@ -126,7 +126,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 125;STITCH;Rare;Rubis;8;1
 126;"TE KĀ";"Super rare";Rubis;7;0
 127;TIGROU;"Peu commune";Rubis;15;2
-128;"SOYEZ PRÊTES !";Rare;Rubis;6;0
+128;"SOYEZ PRÊTES !";Rare;Rubis;4;0
 129;"DROIT AU BUT";"Peu commune";Rubis;18;2
 130;"FEU DU DRAGON";"Peu commune";Rubis;16;1
 131;"ATTISER LES FLAMMES";"Peu commune";Rubis;14;1
@@ -140,7 +140,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 139;AURORE;"Super rare";Saphir;4;0
 140;AURORE;"Peu commune";Saphir;22;2
 141;BELLE;"Peu commune";Saphir;16;2
-142;BELLE;Légendaire;Saphir;2;1
+142;BELLE;Légendaire;Saphir;1;1
 143;TUI;"Peu commune";Saphir;15;0
 144;DONALD;Commune;Saphir;27;2
 145;POLOCHON;Commune;Saphir;27;3
@@ -190,7 +190,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 189;SIMBA;Rare;Acier;10;1
 190;SIMBA;"Peu commune";Acier;18;0
 191;"MONSIEUR STARKEY";"Peu commune";Acier;14;4
-192;"TE KĀ";Légendaire;Acier;3;0
+192;"TE KĀ";Légendaire;Acier;2;0
 193;"LA FÉE CLOCHETTE";"Super rare";Acier;1;1
 194;"LA FÉE CLOCHETTE";Commune;Acier;22;0
 195;"CE RÊVE BLEU";"Super rare";Acier;0;0
