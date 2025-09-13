@@ -6,8 +6,8 @@
 
 
 **Quelques liens aléatoires / Some random links**
-- *[Lorcana - Le retour d'Ursula - 3x Bloc De Glace 168/204 - Commune - ID=859](https://www.vinted.fr/items/5856954769-lorcana-le-retour-dursula-3x-bloc-de-glace-168204-commune-id859)*
-- *[Lorcana - Premier Chapitre - 3x Développe Ton Cerveau 161/204 - Commune - ID=161](https://www.vinted.fr/items/5766764762-lorcana-premier-chapitre-3x-developpe-ton-cerveau-161204-commune-id161)*
-- *[Lorcana - La Mer Azurite - Capitaine Amélia 192/204 - Super rare - ID=1391](https://www.vinted.fr/items/6046273851-lorcana-la-mer-azurite-capitaine-amelia-192204-super-rare-id1391)*
-- *[Lorcana - L'ile d' Archazia - Les Problèmes Vont Par Paire 202/204 - Peu commune Foil - ID=1635](https://www.vinted.fr/items/6631802549-lorcana-lile-d-archazia-les-problemes-vont-par-paire-202204-peu-commune-foil-id1635)*
-- *[Lorcana - Ciel Scintillant - 2x Basil 153/204 - Commune - ID=1109](https://www.vinted.fr/items/5301411131-lorcana-ciel-scintillant-2x-basil-153204-commune-id1109)*
+- *[Lorcana - Fabuleux - Shenzi 87/204 - Super rare Foil - ID=2023](https://www.vinted.fr/items/7006401975-lorcana-fabuleux-shenzi-87204-super-rare-foil-id2023)*
+- *[Lorcana - Le Règne de Jafar - 3x Bousillage 117/204 - Peu commune - ID=1781](https://www.vinted.fr/items/6567142006-lorcana-le-regne-de-jafar-3x-bousillage-117204-peu-commune-id1781)*
+- *[Lorcana - La Mer Azurite - 3x Vaiana 117/204 - Commune - ID=1316](https://www.vinted.fr/items/5576887686-lorcana-la-mer-azurite-3x-vaiana-117204-commune-id1316)*
+- *[Lorcana - Fabuleux - 3x Ursula 44/204 - Super rare - ID=1980](https://www.vinted.fr/items/7038592550-lorcana-fabuleux-3x-ursula-44204-super-rare-id1980)*
+- *[Lorcana - La Mer Azurite - Jim Hawkins 25/204 - Super rare - ID=1224](https://www.vinted.fr/items/6174227604-lorcana-la-mer-azurite-jim-hawkins-25204-super-rare-id1224)*
