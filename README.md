@@ -6,8 +6,8 @@
 
 
 **Quelques liens aléatoires / Some random links**
-- *[Lorcana - Fabuleux - Shenzi 87/204 - Super rare Foil - ID=2023](https://www.vinted.fr/items/7006401975-lorcana-fabuleux-shenzi-87204-super-rare-foil-id2023)*
-- *[Lorcana - Le Règne de Jafar - 3x Bousillage 117/204 - Peu commune - ID=1781](https://www.vinted.fr/items/6567142006-lorcana-le-regne-de-jafar-3x-bousillage-117204-peu-commune-id1781)*
-- *[Lorcana - La Mer Azurite - 3x Vaiana 117/204 - Commune - ID=1316](https://www.vinted.fr/items/5576887686-lorcana-la-mer-azurite-3x-vaiana-117204-commune-id1316)*
-- *[Lorcana - Fabuleux - 3x Ursula 44/204 - Super rare - ID=1980](https://www.vinted.fr/items/7038592550-lorcana-fabuleux-3x-ursula-44204-super-rare-id1980)*
-- *[Lorcana - La Mer Azurite - Jim Hawkins 25/204 - Super rare - ID=1224](https://www.vinted.fr/items/6174227604-lorcana-la-mer-azurite-jim-hawkins-25204-super-rare-id1224)*
+- *[Lorcana - Ciel Scintillant - Ranimer 27/204 - Rare Foil - ID=983](https://www.vinted.fr/items/5290493050-lorcana-ciel-scintillant-ranimer-27204-rare-foil-id983)*
+- *[Lorcana - Fabuleux - 2x Robin Des Bois 162/204 - Rare - ID=2098](https://www.vinted.fr/items/7023469147-lorcana-fabuleux-2x-robin-des-bois-162204-rare-id2098)*
+- *[Lorcana - Fabuleux - 2x Sous L'Océan 97/204 - Rare - ID=2033](https://www.vinted.fr/items/6998877836-lorcana-fabuleux-2x-sous-locean-97204-rare-id2033)*
+- *[Lorcana - Premier Chapitre - 4x Cruelle Diablesse 98/204 - Commune - ID=98](https://www.vinted.fr/items/6179423580-lorcana-premier-chapitre-4x-cruelle-diablesse-98204-commune-id98)*
+- *[Lorcana - Premier Chapitre - Bouclier De Vertu 135/204 - Peu commune - ID=135](https://www.vinted.fr/items/6539685285-lorcana-premier-chapitre-bouclier-de-vertu-135204-peu-commune-id135)*
