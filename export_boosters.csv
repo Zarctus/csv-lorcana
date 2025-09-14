@@ -1,4 +1,238 @@
 saison,number,nom,encre,rareté,is_foil
+Fabuleux,8,Raiponce,Ambre,Commune,N
+Fabuleux,50,Tic-Tac,Améthyste,Commune,N
+Fabuleux,116,Vaiana,Rubis,Commune,N
+Fabuleux,95,"Cruelle Diablesse",Émeraude,Commune,N
+Fabuleux,163,"Développe ton Cerveau",Saphir,Commune,N
+Fabuleux,194,"Prince Eric",Acier,Commune,N
+Fabuleux,94,"Stand Out",Émeraude,"Peu commune",N
+Fabuleux,18,"Julieta Madrigal",Ambre,"Peu commune",N
+Fabuleux,170,Motunui,Saphir,"Peu commune",N
+Fabuleux,1,"La Reine",Ambre,Rare,N
+Fabuleux,72,"Prince Philippe",Émeraude,Rare,N
+Fabuleux,125,Mulan,Rubis,Commune,Y
+
+Fabuleux,9,Stitch,Ambre,Commune,N
+Fabuleux,51,"Dolores Madrigal",Améthyste,Commune,N
+Fabuleux,115,Gaston,Rubis,Commune,N
+Fabuleux,80,"Mickey Mouse",Émeraude,Commune,N
+Fabuleux,144,Mufasa,Saphir,Commune,N
+Fabuleux,189,"La Fée Clochette",Acier,Commune,N
+Fabuleux,6,Aurore,Ambre,"Peu commune",N
+Fabuleux,62,"Effort désespéré",Améthyste,"Peu commune",N
+Fabuleux,204,"Île d'exil de Maui",Acier,"Peu commune",N
+Fabuleux,54,Génie,Améthyste,Rare,N
+Fabuleux,121,Lumière,Rubis,Rare,N
+Fabuleux,189,"La Fée Clochette",Acier,Commune,Y
+
+Fabuleux,8,Raiponce,Ambre,Commune,N
+Fabuleux,68,"Casa Madrigal",Améthyste,Commune,N
+Fabuleux,124,Raiponce,Rubis,Commune,N
+Fabuleux,82,Virana,Émeraude,Commune,N
+Fabuleux,158,"Belle Marianne",Saphir,Commune,N
+Fabuleux,194,"Prince Eric",Acier,Commune,N
+Fabuleux,19,Cendrillon,Ambre,"Peu commune",N
+Fabuleux,57,"Mama Odie",Améthyste,"Peu commune",N
+Fabuleux,176,"Petit Jean",Acier,"Peu commune",N
+Fabuleux,38,Jafar,Améthyste,Rare,N
+Fabuleux,100,"Canne à pêche familiale",Émeraude,Rare,N
+Fabuleux,117,Powerline,Rubis,Rare,Y
+
+Fabuleux,22,Ursula,Ambre,Commune,N
+Fabuleux,67,Rose-Lanterne,Améthyste,Commune,N
+Fabuleux,125,Mulan,Rubis,Commune,N
+Fabuleux,88,"La Fée Clochette",Émeraude,Commune,N
+Fabuleux,144,Mufasa,Saphir,Commune,N
+Fabuleux,189,"La Fée Clochette",Acier,Commune,N
+Fabuleux,29,"Retour de Bruno",Ambre,"Peu commune",N
+Fabuleux,186,Hercule,Acier,"Peu commune",N
+Fabuleux,139,Fifi,Saphir,"Peu commune",N
+Fabuleux,74,Dingo,Émeraude,Rare,N
+Fabuleux,190,"Capitaine Crochet",Acier,Rare,N
+Fabuleux,201,"Plus ardent que le feu des volcans",Acier,Rare,Y
+
+Fabuleux,11,Daisy,Ambre,Commune,N
+Fabuleux,47,Timothée,Améthyste,Commune,N
+Fabuleux,128,"Sergent Tibs",Rubis,Commune,N
+Fabuleux,84,Pégase,Émeraude,Commune,N
+Fabuleux,155,Jasmine,Saphir,Commune,N
+Fabuleux,200,"Allumez les Mêches !",Acier,Commune,N
+Fabuleux,23,"La Reine de Cœur",Ambre,"Peu commune",N
+Fabuleux,53,Elsa,Améthyste,"Peu commune",N
+Fabuleux,202,"Tous avec moi !",Acier,"Peu commune",N
+Fabuleux,0,"Bruno Madrigal",Améthyste,"Super rare",N
+Fabuleux,110,Powerline,Rubis,"Super rare",N
+Fabuleux,32,Lanterne,Ambre,Rare,Y
+
+Fabuleux,31,"C'est la Fête",Ambre,Commune,N
+Fabuleux,58,"Luisa Madrigal",Améthyste,Commune,N
+Fabuleux,125,Mulan,Rubis,Commune,N
+Fabuleux,102,"La crique cachée",Émeraude,Commune,N
+Fabuleux,148,Hans,Saphir,Commune,N
+Fabuleux,185,"Mickey Mouse",Acier,Commune,N
+Fabuleux,91,Turbo,Émeraude,"Peu commune",N
+Fabuleux,149,"La Reine",Saphir,"Peu commune",N
+Fabuleux,134,"Médaillons Lestés",Rubis,"Peu commune",N
+Fabuleux,197,"Il me reste un espoir",Acier,Rare,N
+Fabuleux,77,"Max Dingo",Émeraude,Légendaire,N
+Fabuleux,142,Mulan,Saphir,"Super rare",Y
+
+Fabuleux,11,Daisy,Ambre,Commune,N
+Fabuleux,39,Belle,Améthyste,Commune,N
+Fabuleux,109,Powerline,Rubis,Commune,N
+Fabuleux,92,Aladdin,Émeraude,Commune,N
+Fabuleux,147,Polochon,Saphir,Commune,N
+Fabuleux,203,"Miroir de la Bête",Acier,Commune,N
+Fabuleux,52,"Camilo Madrigal",Améthyste,"Peu commune",N
+Fabuleux,101,"Contrat signé",Émeraude,"Peu commune",N
+Fabuleux,119,Sisu,Rubis,"Peu commune",N
+Fabuleux,44,Ursula,Améthyste,"Super rare",N
+Fabuleux,77,"Max Dingo",Émeraude,Légendaire,N
+Fabuleux,46,Dumbo,Améthyste,"Peu commune",Y
+
+Fabuleux,28,"J'ai perdu le Nord",Ambre,Commune,N
+Fabuleux,51,"Dolores Madrigal",Améthyste,Commune,N
+Fabuleux,128,"Sergent Tibs",Rubis,Commune,N
+Fabuleux,84,Pégase,Émeraude,Commune,N
+Fabuleux,165,"Je Vole",Saphir,Commune,N
+Fabuleux,180,Benja,Acier,Commune,N
+Fabuleux,6,Aurore,Ambre,"Peu commune",N
+Fabuleux,62,"Effort désespéré",Améthyste,"Peu commune",N
+Fabuleux,193,"Li Shang",Acier,"Peu commune",N
+Fabuleux,152,"Mama Odie",Saphir,Rare,N
+Fabuleux,4,"La Bête",Ambre,Rare,N
+Fabuleux,182,"Prince Naveen",Acier,Commune,Y
+
+Fabuleux,16,Pluto,Ambre,Commune,N
+Fabuleux,39,Belle,Améthyste,Commune,N
+Fabuleux,123,"La Reine de Cœur",Rubis,Commune,N
+Fabuleux,92,Aladdin,Émeraude,Commune,N
+Fabuleux,154,Aurore,Saphir,Commune,N
+Fabuleux,203,"Miroir de la Bête",Acier,Commune,N
+Fabuleux,13,"Mickey Mouse",Ambre,"Peu commune",N
+Fabuleux,65,"Miroir Magique",Améthyste,"Peu commune",N
+Fabuleux,198,"Fracasser !",Acier,"Peu commune",N
+Fabuleux,118,Sisu,Rubis,Rare,N
+Fabuleux,142,Mulan,Saphir,"Super rare",N
+Fabuleux,93,Daisy,Émeraude,"Peu commune",Y
+
+Fabuleux,7,"La Reine",Ambre,Commune,N
+Fabuleux,63,"Je suis coincé !",Améthyste,Commune,N
+Fabuleux,131,"Tu t'envoles",Rubis,Commune,N
+Fabuleux,81,L'Enchanteresse,Émeraude,Commune,N
+Fabuleux,145,"Cruella d'Enfer",Saphir,Commune,N
+Fabuleux,179,Tiana,Acier,Commune,N
+Fabuleux,55,Olaf,Améthyste,"Peu commune",N
+Fabuleux,86,Heihei,Émeraude,"Peu commune",N
+Fabuleux,120,"La Reine de Cœur",Rubis,"Peu commune",N
+Fabuleux,97,"Sous l'océan",Émeraude,Rare,N
+Fabuleux,174,Lilo,Acier,"Super rare",N
+Fabuleux,82,Virana,Émeraude,Commune,Y
+
+Fabuleux,10,Mulan,Ambre,Commune,N
+Fabuleux,48,Elsa,Améthyste,Commune,N
+Fabuleux,123,"La Reine de Cœur",Rubis,Commune,N
+Fabuleux,96,Improviser,Émeraude,Commune,N
+Fabuleux,158,"Belle Marianne",Saphir,Commune,N
+Fabuleux,185,"Mickey Mouse",Acier,Commune,N
+Fabuleux,56,Sven,Améthyste,"Peu commune",N
+Fabuleux,91,Turbo,Émeraude,"Peu commune",N
+Fabuleux,113,Roxane,Rubis,"Peu commune",N
+Fabuleux,15,Ariel,Ambre,Rare,N
+Fabuleux,106,Maui,Rubis,Rare,N
+Fabuleux,31,"C'est la Fête",Ambre,Commune,Y
+
+Fabuleux,28,"J'ai perdu le Nord",Ambre,Commune,N
+Fabuleux,61,"Pauvres âmes en perdition",Améthyste,Commune,N
+Fabuleux,112,"Max Dingo",Rubis,Commune,N
+Fabuleux,98,"Concocter la Potion",Émeraude,Commune,N
+Fabuleux,165,"Je Vole",Saphir,Commune,N
+Fabuleux,182,"Prince Naveen",Acier,Commune,N
+Fabuleux,93,Daisy,Émeraude,"Peu commune",N
+Fabuleux,161,Aurore,Saphir,"Peu commune",N
+Fabuleux,133,"Un roi incontesté",Rubis,"Peu commune",N
+Fabuleux,138,Riri,Saphir,Rare,N
+Fabuleux,2,Pongo,Ambre,"Super rare",N
+Fabuleux,170,Motunui,Saphir,"Peu commune",Y
+
+Fabuleux,21,Pluto,Ambre,Commune,N
+Fabuleux,41,"Winnie l'ourson",Améthyste,Commune,N
+Fabuleux,136,Agrabah,Rubis,Commune,N
+Fabuleux,102,"La crique cachée",Émeraude,Commune,N
+Fabuleux,146,Anna,Saphir,Commune,N
+Fabuleux,183,Bourriquet,Acier,Commune,N
+Fabuleux,30,"Le Grand Génie du Mal",Ambre,"Peu commune",N
+Fabuleux,184,"Robin des Bois",Acier,"Peu commune",N
+Fabuleux,166,"Creuse encore et encore",Saphir,"Peu commune",N
+Fabuleux,195,Ariel,Acier,Rare,N
+Fabuleux,35,"La Reine",Améthyste,Rare,N
+Fabuleux,144,Mufasa,Saphir,Commune,Y
+
+Fabuleux,22,Ursula,Ambre,Commune,N
+Fabuleux,48,Elsa,Améthyste,Commune,N
+Fabuleux,124,Raiponce,Rubis,Commune,N
+Fabuleux,83,Donald,Émeraude,Commune,N
+Fabuleux,140,Loulou,Saphir,Commune,N
+Fabuleux,191,Hercule,Acier,Commune,N
+Fabuleux,59,Jafar,Améthyste,"Peu commune",N
+Fabuleux,103,"Le Fou",Rubis,"Peu commune",N
+Fabuleux,199,"Ils cassent en deux comme je veux",Acier,"Peu commune",N
+Fabuleux,25,"On est une Famille",Ambre,Rare,N
+Fabuleux,24,Stitch,Ambre,Légendaire,N
+Fabuleux,16,Pluto,Ambre,Commune,Y
+
+Fabuleux,21,Pluto,Ambre,Commune,N
+Fabuleux,41,"Winnie l'ourson",Améthyste,Commune,N
+Fabuleux,109,Powerline,Rubis,Commune,N
+Fabuleux,81,L'Enchanteresse,Émeraude,Commune,N
+Fabuleux,169,"Panier de Noix de Coco",Saphir,Commune,N
+Fabuleux,196,Ariel,Acier,Commune,N
+Fabuleux,46,Dumbo,Améthyste,"Peu commune",N
+Fabuleux,90,Ursula,Émeraude,"Peu commune",N
+Fabuleux,113,Roxane,Rubis,"Peu commune",N
+Fabuleux,36,Rafiki,Améthyste,Rare,N
+Fabuleux,104,"Shere Khan",Rubis,Rare,N
+Fabuleux,129,"Tuk Tuk",Rubis,"Peu commune",Y
+
+Fabuleux,34,Atlantica,Ambre,Commune,N
+Fabuleux,49,Kuzco,Améthyste,Commune,N
+Fabuleux,116,Vaiana,Rubis,Commune,N
+Fabuleux,79,Mégara,Émeraude,Commune,N
+Fabuleux,155,Jasmine,Saphir,Commune,N
+Fabuleux,196,Ariel,Acier,Commune,N
+Fabuleux,59,Jafar,Améthyste,"Peu commune",N
+Fabuleux,132,"La vie d'un pirate",Rubis,"Peu commune",N
+Fabuleux,187,Lawrence,Acier,"Peu commune",N
+Fabuleux,135,"Clochette du dîner",Rubis,Rare,N
+Fabuleux,126,Mulan,Rubis,"Super rare",N
+Fabuleux,43,Elsa,Améthyste,Légendaire,Y
+
+Fabuleux,31,"C'est la Fête",Ambre,Commune,N
+Fabuleux,50,Tic-Tac,Améthyste,Commune,N
+Fabuleux,127,Raya,Rubis,Commune,N
+Fabuleux,98,"Concocter la Potion",Émeraude,Commune,N
+Fabuleux,147,Polochon,Saphir,Commune,N
+Fabuleux,183,Bourriquet,Acier,Commune,N
+Fabuleux,101,"Contrat signé",Émeraude,"Peu commune",N
+Fabuleux,30,"Le Grand Génie du Mal",Ambre,"Peu commune",N
+Fabuleux,170,Motunui,Saphir,"Peu commune",N
+Fabuleux,87,Shenzi,Émeraude,"Super rare",N
+Fabuleux,2,Pongo,Ambre,"Super rare",N
+Fabuleux,92,Aladdin,Émeraude,Commune,Y
+
+Fabuleux,9,Stitch,Ambre,Commune,N
+Fabuleux,68,"Casa Madrigal",Améthyste,Commune,N
+Fabuleux,114,"Pat Junior",Rubis,Commune,N
+Fabuleux,82,Virana,Émeraude,Commune,N
+Fabuleux,146,Anna,Saphir,Commune,N
+Fabuleux,179,Tiana,Acier,Commune,N
+Fabuleux,56,Sven,Améthyste,"Peu commune",N
+Fabuleux,120,"La Reine de Cœur",Rubis,"Peu commune",N
+Fabuleux,186,Hercule,Acier,"Peu commune",N
+Fabuleux,105,Simba,Rubis,Rare,N
+Fabuleux,141,Alice,Saphir,Rare,N
+Fabuleux,67,Rose-Lanterne,Améthyste,Commune,Y
+
 Fabuleux,51,"Dolores Madrigal",Améthyste,Commune,N
 Fabuleux,28,"J'ai perdu le Nord",Ambre,Commune,N
 Fabuleux,136,Agrabah,Rubis,Commune,N
@@ -2364,238 +2598,4 @@ Fabuleux,217,Alice,Saphir,Épique,Y
 "La Mer Azurite",70,Jasmine,Émeraude,Rare,N
 "La Mer Azurite",35,"Piste de Sugar Rush",Ambre,"Super rare",N
 "La Mer Azurite",188,"Cobra Bubbles",Acier,Rare,Y
-
-"La Mer Azurite",128,Chapardage,Rubis,Commune,N
-"La Mer Azurite",151,Gadget,Saphir,Commune,N
-"La Mer Azurite",79,Basil,Émeraude,Commune,N
-"La Mer Azurite",5,Simba,Ambre,Commune,N
-"La Mer Azurite",62,"Faire de la magie",Améthyste,Commune,N
-"La Mer Azurite",178,Kohut,Acier,Commune,N
-"La Mer Azurite",12,Tic,Ambre,"Peu commune",N
-"La Mer Azurite",134,"Lance de Garde carte",Rubis,"Peu commune",N
-"La Mer Azurite",184,"Tuk Tuk",Acier,"Peu commune",N
-"La Mer Azurite",92,"Olivia Flaversham",Émeraude,Rare,N
-"La Mer Azurite",123,Dingo,Rubis,Rare,N
-"La Mer Azurite",104,Kakamora,Rubis,"Peu commune",Y
-
-"Le Règne de Jafar",163,"Soeur de Bobby",Saphir,Commune,N
-"Le Règne de Jafar",184,"Prince Achmed",Acier,Commune,N
-"Le Règne de Jafar",56,Ryder,Améthyste,Commune,N
-"Le Règne de Jafar",91,"Le Lièvre de Mars",Émeraude,Commune,N
-"Le Règne de Jafar",131,Cri-Kee,Rubis,Commune,N
-"Le Règne de Jafar",12,"Jim Chéri",Ambre,Commune,N
-"Le Règne de Jafar",28,Pluto,Ambre,"Peu commune",N
-"Le Règne de Jafar",26,Rolly,Ambre,"Peu commune",N
-"Le Règne de Jafar",133,Figaro,Rubis,"Peu commune",N
-"Le Règne de Jafar",99,Gadget,Émeraude,Rare,N
-"Le Règne de Jafar",166,Stitch,Saphir,Légendaire,N
-"Le Règne de Jafar",83,Scarabée,Améthyste,Commune,Y
-
-"Le Règne de Jafar",164,"Adélaïde De Bonnefamille",Saphir,Commune,N
-"Le Règne de Jafar",191,Arianna,Acier,Commune,N
-"Le Règne de Jafar",83,Scarabée,Améthyste,Commune,N
-"Le Règne de Jafar",90,"Bill le Lézard",Émeraude,Commune,N
-"Le Règne de Jafar",132,Lafayette,Rubis,Commune,N
-"Le Règne de Jafar",14,Perdita,Ambre,Commune,N
-"Le Règne de Jafar",77,"Duel en Forêt",Améthyste,"Peu commune",N
-"Le Règne de Jafar",21,Kaa,Ambre,"Peu commune",N
-"Le Règne de Jafar",117,Bousillage,Émeraude,"Peu commune",N
-"Le Règne de Jafar",35,Clawhauser,Ambre,Rare,N
-"Le Règne de Jafar",123,"Géo Trouvetou",Rubis,Rare,N
-"Le Règne de Jafar",146,"Prince Jean",Rubis,Rare,Y
-
-"Le Règne de Jafar",124,"Vanellope von Schweetz",Rubis,Commune,N
-"Le Règne de Jafar",160,"Madame De Garderobe",Saphir,Commune,N
-"Le Règne de Jafar",193,Khan,Acier,Commune,N
-"Le Règne de Jafar",65,Néron,Améthyste,Commune,N
-"Le Règne de Jafar",89,Tipo,Émeraude,Commune,N
-"Le Règne de Jafar",15,Rhino,Ambre,Commune,N
-"Le Règne de Jafar",95,Louis,Émeraude,"Peu commune",N
-"Le Règne de Jafar",169,Bernard,Saphir,"Peu commune",N
-"Le Règne de Jafar",84,"Pics de glace",Améthyste,"Peu commune",N
-"Le Règne de Jafar",147,"Il n'est rien de plus beau !",Rubis,Rare,N
-"Le Règne de Jafar",194,"Vinnie le pigeon",Acier,Rare,N
-"Le Règne de Jafar",118,"Sur la planche !",Émeraude,"Peu commune",Y
-
-"Le Règne de Jafar",132,Lafayette,Rubis,Commune,N
-"Le Règne de Jafar",157,Anna,Saphir,Commune,N
-"Le Règne de Jafar",204,"Boule de hamster",Acier,Commune,N
-"Le Règne de Jafar",53,Kuzco,Améthyste,Commune,N
-"Le Règne de Jafar",94,Tac,Émeraude,Commune,N
-"Le Règne de Jafar",13,Gene,Ambre,Commune,N
-"Le Règne de Jafar",23,"Sa Sucrerie",Ambre,"Peu commune",N
-"Le Règne de Jafar",172,Roquefort,Saphir,"Peu commune",N
-"Le Règne de Jafar",117,Bousillage,Émeraude,"Peu commune",N
-"Le Règne de Jafar",9,Tiana,Ambre,Rare,N
-"Le Règne de Jafar",104,Alice,Émeraude,Rare,N
-"Le Règne de Jafar",18,"Chef Bogo",Ambre,Légendaire,Y
-
-"Le Règne de Jafar",161,"Madame Samovar",Saphir,Commune,N
-"Le Règne de Jafar",193,Khan,Acier,Commune,N
-"Le Règne de Jafar",51,"Bruno Madrigal",Améthyste,Commune,N
-"Le Règne de Jafar",119,Nano-sac,Émeraude,Commune,N
-"Le Règne de Jafar",129,Gaston,Rubis,Commune,N
-"Le Règne de Jafar",10,"Mirabel Madrigal",Ambre,Commune,N
-"Le Règne de Jafar",108,"Don Carnage",Émeraude,"Peu commune",N
-"Le Règne de Jafar",46,Druun,Améthyste,"Peu commune",N
-"Le Règne de Jafar",40,"C’est ta maîtresse",Ambre,"Peu commune",N
-"Le Règne de Jafar",17,"Le Colonel",Ambre,Rare,N
-"Le Règne de Jafar",139,Lumière,Rubis,"Super rare",N
-"Le Règne de Jafar",38,"Chiot Dalmatien",Ambre,Commune,Y
-
-"Le Règne de Jafar",121,"Arnold Trufforange",Rubis,Commune,N
-"Le Règne de Jafar",158,Wasabi,Saphir,Commune,N
-"Le Règne de Jafar",187,"Général Li",Acier,Commune,N
-"Le Règne de Jafar",57,Bambi,Améthyste,Commune,N
-"Le Règne de Jafar",89,Tipo,Émeraude,Commune,N
-"Le Règne de Jafar",10,"Mirabel Madrigal",Ambre,Commune,N
-"Le Règne de Jafar",78,"Jamais plus des enfants",Améthyste,"Peu commune",N
-"Le Règne de Jafar",1,Loulou,Ambre,"Peu commune",N
-"Le Règne de Jafar",134,Panpan,Rubis,"Peu commune",N
-"Le Règne de Jafar",107,"Go Go Tomago",Émeraude,"Super rare",N
-"Le Règne de Jafar",166,Stitch,Saphir,Légendaire,N
-"Le Règne de Jafar",151,"Tout le monde est fou ici",Rubis,Rare,Y
-
-"Le Règne de Jafar",87,Clochard,Émeraude,Commune,N
-"Le Règne de Jafar",125,Brutus,Rubis,Commune,N
-"Le Règne de Jafar",163,"Soeur de Bobby",Saphir,Commune,N
-"Le Règne de Jafar",189,Génie,Acier,Commune,N
-"Le Règne de Jafar",83,Scarabée,Améthyste,Commune,N
-"Le Règne de Jafar",15,Rhino,Ambre,Commune,N
-"Le Règne de Jafar",49,"Lena de Sortilège",Améthyste,"Peu commune",N
-"Le Règne de Jafar",19,Pua,Ambre,"Peu commune",N
-"Le Règne de Jafar",150,Batifolage,Rubis,"Peu commune",N
-"Le Règne de Jafar",79,"Miraculeux et merveilleux",Améthyste,Rare,N
-"Le Règne de Jafar",171,Jasmine,Saphir,"Super rare",N
-"Le Règne de Jafar",100,Raya,Émeraude,Légendaire,Y
-
-"Le Règne de Jafar",87,Clochard,Émeraude,Commune,N
-"Le Règne de Jafar",128,Lumière,Rubis,Commune,N
-"Le Règne de Jafar",156,Olaf,Saphir,Commune,N
-"Le Règne de Jafar",190,"Toby la Tortue",Acier,Commune,N
-"Le Règne de Jafar",52,"Garde royal",Améthyste,Commune,N
-"Le Règne de Jafar",16,Darling,Ambre,Commune,N
-"Le Règne de Jafar",172,Roquefort,Saphir,"Peu commune",N
-"Le Règne de Jafar",117,Bousillage,Émeraude,"Peu commune",N
-"Le Règne de Jafar",169,Bernard,Saphir,"Peu commune",N
-"Le Règne de Jafar",116,"Pas ce levier-là !",Émeraude,Rare,N
-"Le Règne de Jafar",139,Lumière,Rubis,"Super rare",N
-"Le Règne de Jafar",183,"Tapis Volant",Acier,Commune,Y
-
-"Le Règne de Jafar",85,"Wilhelmina Placard",Émeraude,Commune,N
-"Le Règne de Jafar",121,"Arnold Trufforange",Rubis,Commune,N
-"Le Règne de Jafar",158,Wasabi,Saphir,Commune,N
-"Le Règne de Jafar",187,"Général Li",Acier,Commune,N
-"Le Règne de Jafar",57,Bambi,Améthyste,Commune,N
-"Le Règne de Jafar",38,"Chiot Dalmatien",Ambre,Commune,N
-"Le Règne de Jafar",108,"Don Carnage",Émeraude,"Peu commune",N
-"Le Règne de Jafar",46,Druun,Améthyste,"Peu commune",N
-"Le Règne de Jafar",203,"Tir rapide",Acier,"Peu commune",N
-"Le Règne de Jafar",111,"Honey Lemon",Émeraude,Rare,N
-"Le Règne de Jafar",167,Ratigan,Saphir,Légendaire,N
-"Le Règne de Jafar",21,Kaa,Ambre,"Peu commune",Y
-
-"Le Règne de Jafar",91,"Le Lièvre de Mars",Émeraude,Commune,N
-"Le Règne de Jafar",127,Alice,Rubis,Commune,N
-"Le Règne de Jafar",164,"Adélaïde De Bonnefamille",Saphir,Commune,N
-"Le Règne de Jafar",186,"Capitaine Crochet",Acier,Commune,N
-"Le Règne de Jafar",54,Mégara,Améthyste,Commune,N
-"Le Règne de Jafar",14,Perdita,Ambre,Commune,N
-"Le Règne de Jafar",19,Pua,Ambre,"Peu commune",N
-"Le Règne de Jafar",120,"Collier incrusté",Émeraude,"Peu commune",N
-"Le Règne de Jafar",134,Panpan,Rubis,"Peu commune",N
-"Le Règne de Jafar",35,Clawhauser,Ambre,Rare,N
-"Le Règne de Jafar",166,Stitch,Saphir,Légendaire,N
-"Le Règne de Jafar",5,"Antonio Madrigal",Ambre,Rare,Y
-
-"Le Règne de Jafar",94,Tac,Émeraude,Commune,N
-"Le Règne de Jafar",126,Dodo,Rubis,Commune,N
-"Le Règne de Jafar",159,"Go Go Tomago",Saphir,Commune,N
-"Le Règne de Jafar",183,"Tapis Volant",Acier,Commune,N
-"Le Règne de Jafar",58,"Poe De Sortilège",Améthyste,Commune,N
-"Le Règne de Jafar",8,"Charlotte Lebœuf",Ambre,Commune,N
-"Le Règne de Jafar",43,"Je travaillerai sans trêve",Ambre,"Peu commune",N
-"Le Règne de Jafar",97,Tic,Émeraude,"Peu commune",N
-"Le Règne de Jafar",154,"Seigneur Pélinore",Saphir,"Peu commune",N
-"Le Règne de Jafar",74,Jafar,Améthyste,"Super rare",N
-"Le Règne de Jafar",30,Rhino,Ambre,"Super rare",N
-"Le Règne de Jafar",149,"Mettre le feu aux poudres",Rubis,"Peu commune",Y
-
-"Le Règne de Jafar",143,"Mr. Snoops",Rubis,Commune,N
-"Le Règne de Jafar",155,"Anita Radcliffe",Saphir,Commune,N
-"Le Règne de Jafar",182,"Bobby le pigeon",Acier,Commune,N
-"Le Règne de Jafar",52,"Garde royal",Améthyste,Commune,N
-"Le Règne de Jafar",114,"Qui prend son avion de chassage",Émeraude,Commune,N
-"Le Règne de Jafar",32,Calhoun,Ambre,Commune,N
-"Le Règne de Jafar",71,"La Fée Bleue",Améthyste,"Peu commune",N
-"Le Règne de Jafar",21,Kaa,Ambre,"Peu commune",N
-"Le Règne de Jafar",133,Figaro,Rubis,"Peu commune",N
-"Le Règne de Jafar",76,Fleur,Améthyste,Rare,N
-"Le Règne de Jafar",70,"Mère Gothel",Améthyste,Rare,N
-"Le Règne de Jafar",22,Clochard,Ambre,"Super rare",Y
-
-"Le Règne de Jafar",94,Tac,Émeraude,Commune,N
-"Le Règne de Jafar",130,Mushu,Rubis,Commune,N
-"Le Règne de Jafar",153,"La Reine Moustoria",Saphir,Commune,N
-"Le Règne de Jafar",187,"Général Li",Acier,Commune,N
-"Le Règne de Jafar",75,"Camilo Madrigal",Améthyste,Commune,N
-"Le Règne de Jafar",13,Gene,Ambre,Commune,N
-"Le Règne de Jafar",3,Riri,Ambre,"Peu commune",N
-"Le Règne de Jafar",80,"Abaisse le levier !",Améthyste,"Peu commune",N
-"Le Règne de Jafar",120,"Collier incrusté",Émeraude,"Peu commune",N
-"Le Règne de Jafar",201,"Plan désespéré",Acier,Rare,N
-"Le Règne de Jafar",199,"Mickey Mouse",Acier,Légendaire,N
-"Le Règne de Jafar",162,Jasmine,Saphir,Commune,Y
-
-"Le Règne de Jafar",88,Chaca,Émeraude,Commune,N
-"Le Règne de Jafar",132,Lafayette,Rubis,Commune,N
-"Le Règne de Jafar",157,Anna,Saphir,Commune,N
-"Le Règne de Jafar",184,"Prince Achmed",Acier,Commune,N
-"Le Règne de Jafar",45,"Garde du palais",Améthyste,Commune,N
-"Le Règne de Jafar",12,"Jim Chéri",Ambre,Commune,N
-"Le Règne de Jafar",115,"Foudroyant d'un éclair ces brutes",Émeraude,"Peu commune",N
-"Le Règne de Jafar",78,"Jamais plus des enfants",Améthyste,"Peu commune",N
-"Le Règne de Jafar",181,Atitaya,Acier,"Peu commune",N
-"Le Règne de Jafar",165,Nani,Saphir,Rare,N
-"Le Règne de Jafar",196,"Nathaniel Flint",Acier,Rare,N
-"Le Règne de Jafar",132,Lafayette,Rubis,Commune,Y
-
-"Le Règne de Jafar",92,Fred,Émeraude,Commune,N
-"Le Règne de Jafar",124,"Vanellope von Schweetz",Rubis,Commune,N
-"Le Règne de Jafar",162,Jasmine,Saphir,Commune,N
-"Le Règne de Jafar",188,"Jack le Costaud",Acier,Commune,N
-"Le Règne de Jafar",58,"Poe De Sortilège",Améthyste,Commune,N
-"Le Règne de Jafar",31,"Jaguar d’Antonio",Ambre,Commune,N
-"Le Règne de Jafar",66,"Miss Tick",Améthyste,"Peu commune",N
-"Le Règne de Jafar",28,Pluto,Ambre,"Peu commune",N
-"Le Règne de Jafar",39,"Dérapage sucré",Ambre,"Peu commune",N
-"Le Règne de Jafar",60,Elsa,Améthyste,Rare,N
-"Le Règne de Jafar",6,Minnie,Ambre,Rare,N
-"Le Règne de Jafar",161,"Madame Samovar",Saphir,Commune,Y
-
-"Le Règne de Jafar",114,"Qui prend son avion de chassage",Émeraude,Commune,N
-"Le Règne de Jafar",143,"Mr. Snoops",Rubis,Commune,N
-"Le Règne de Jafar",153,"La Reine Moustoria",Saphir,Commune,N
-"Le Règne de Jafar",182,"Bobby le pigeon",Acier,Commune,N
-"Le Règne de Jafar",55,Yelena,Améthyste,Commune,N
-"Le Règne de Jafar",2,Fifi,Ambre,Commune,N
-"Le Règne de Jafar",80,"Abaisse le levier !",Améthyste,"Peu commune",N
-"Le Règne de Jafar",47,"Madame Médusa",Améthyste,"Peu commune",N
-"Le Règne de Jafar",50,Abu,Améthyste,"Peu commune",N
-"Le Règne de Jafar",104,Alice,Émeraude,Rare,N
-"Le Règne de Jafar",37,Donald,Ambre,"Super rare",N
-"Le Règne de Jafar",212,"Miraculeux et merveilleux",Améthyste,Enchantée,Y
-
-"Le Règne de Jafar",89,Tipo,Émeraude,Commune,N
-"Le Règne de Jafar",144,"Monsieur Hibou",Rubis,Commune,N
-"Le Règne de Jafar",164,"Adélaïde De Bonnefamille",Saphir,Commune,N
-"Le Règne de Jafar",191,Arianna,Acier,Commune,N
-"Le Règne de Jafar",83,Scarabée,Améthyste,Commune,N
-"Le Règne de Jafar",12,"Jim Chéri",Ambre,Commune,N
-"Le Règne de Jafar",25,Patch,Ambre,"Peu commune",N
-"Le Règne de Jafar",168,Arthur,Saphir,"Peu commune",N
-"Le Règne de Jafar",140,"Le Cocher",Rubis,"Peu commune",N
-"Le Règne de Jafar",67,Kuzco,Améthyste,Rare,N
-"Le Règne de Jafar",102,"Flynn Rider",Émeraude,"Super rare",N
-"Le Règne de Jafar",59,"Madame Mime",Améthyste,"Peu commune",Y
 
