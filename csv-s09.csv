@@ -17,7 +17,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 15;Ariel;Rare;Ambre;6;0
 16;Pluto;Commune;Ambre;17;2
 17;Nani;"Peu commune";Ambre;12;2
-18;"Julieta Madrigal";"Peu commune";Ambre;12;0
+18;"Julieta Madrigal";"Peu commune";Ambre;13;0
 19;Cendrillon;"Peu commune";Ambre;9;0
 20;Vaiana;Rare;Ambre;3;0
 21;Pluto;Commune;Ambre;16;0
@@ -184,7 +184,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 182;"Prince Naveen";Commune;Acier;16;2
 183;Bourriquet;Commune;Acier;16;3
 184;"Robin des Bois";"Peu commune";Acier;12;0
-185;"Mickey Mouse";Commune;Acier;17;2
+185;"Mickey Mouse";Commune;Acier;16;2
 186;Hercule;"Peu commune";Acier;11;0
 187;Lawrence;"Peu commune";Acier;13;1
 188;"La Fée Clochette";"Super rare";Acier;6;0
