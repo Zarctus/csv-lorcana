@@ -6,8 +6,8 @@
 
 
 **Quelques liens aléatoires / Some random links**
-- *[Lorcana - Fabuleux - Max Dingo 75/204 - Rare Foil - ID=2011](https://www.vinted.fr/items/6998953040-lorcana-fabuleux-max-dingo-75204-rare-foil-id2011)*
-- *[Lorcana - Premier Chapitre - Stitch 125/204 - Rare Foil - ID=125](https://www.vinted.fr/items/6191980191-lorcana-premier-chapitre-stitch-125204-rare-foil-id125)*
-- *[Lorcana - La Mer Azurite - Communicateur Galactique 99/204 - Commune Foil - ID=1298](https://www.vinted.fr/items/6374256664-lorcana-la-mer-azurite-communicateur-galactique-99204-commune-foil-id1298)*
-- *[Lorcana - Premier Chapitre - Te Kā 192/204 - Légendaire - ID=192](https://www.vinted.fr/items/7060948347-lorcana-premier-chapitre-te-ka-192204-legendaire-id192)*
-- *[Lorcana - L'Ascension des Floodborn - Madame Mime 49/204 - Peu commune Foil - ID=265](https://www.vinted.fr/items/5351420109-lorcana-lascension-des-floodborn-madame-mime-49204-peu-commune-foil-id265)*
+- *[Lorcana - Le Règne de Jafar - 3x Louis 95/204 - Peu commune - ID=1759](https://www.vinted.fr/items/7031374070-lorcana-le-regne-de-jafar-3x-louis-95204-peu-commune-id1759)*
+- *[Lorcana - Le retour d'Ursula - 4x Anna 137/204 - Commune - ID=828](https://www.vinted.fr/items/5364886449-lorcana-le-retour-dursula-4x-anna-137204-commune-id828)*
+- *[Lorcana - Fabuleux - Lilo 174/204 - Super rare Foil - ID=2110](https://www.vinted.fr/items/6979593559-lorcana-fabuleux-lilo-174204-super-rare-foil-id2110)*
+- *[Lorcana - Le Règne de Jafar - 3x Mushu 142/204 - Rare - ID=1806](https://www.vinted.fr/items/6631578650-lorcana-le-regne-de-jafar-3x-mushu-142204-rare-id1806)*
+- *[Lorcana - Les Terres d'Encres - Prince Eric 121/204 - Super rare - ID=557](https://www.vinted.fr/items/5835766674-lorcana-les-terres-dencres-prince-eric-121204-super-rare-id557)*
