@@ -64,7 +64,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 63;GEL;Commune;Améthyste;30;0
 64;"MES AMIS DE L'AU-DELÀ";Commune;Améthyste;11;0
 65;Réflexion;"Peu commune";Améthyste;16;0
-66;"MIROIR MAGIQUE";Rare;Améthyste;4;1
+66;"MIROIR MAGIQUE";Rare;Améthyste;4;0
 67;"CHAUDRON D'URSULA";"Peu commune";Améthyste;12;1
 68;"MONTRE À GOUSSET";Rare;Améthyste;4;0
 69;Aladdin;Commune;Émeraude;28;2
@@ -82,7 +82,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 81;JASPER;"Peu commune";Émeraude;22;1
 82;"JOHN SILVER";Légendaire;Émeraude;0;0
 83;"JUMBA JOOKIBA";"Peu commune";Émeraude;19;2
-84;KUZCO;Rare;Émeraude;6;1
+84;KUZCO;Rare;Émeraude;6;0
 85;"MADAME DE TRÉMAINE";Rare;Émeraude;8;1
 86;"LE CHAPELIER FOU";"Peu commune";Émeraude;19;0
 87;MÉGARA;Commune;Émeraude;26;1
@@ -173,7 +173,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 172;"LA BÊTE";"Peu commune";Acier;22;0
 173;"CAPITAINE CROCHET";Rare;Acier;5;1
 174;"CAPITAINE CROCHET";Commune;Acier;19;3
-175;"CAPITAINE CROCHET";Rare;Acier;8;1
+175;"CAPITAINE CROCHET";Rare;Acier;8;0
 176;CERBÈRE;Commune;Acier;26;0
 177;DONALD;"Peu commune";Acier;18;2
 178;GANTU;Légendaire;Acier;0;0
@@ -191,7 +191,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 190;SIMBA;"Peu commune";Acier;18;0
 191;"MONSIEUR STARKEY";"Peu commune";Acier;14;4
 192;"TE KĀ";Légendaire;Acier;2;0
-193;"LA FÉE CLOCHETTE";"Super rare";Acier;1;1
+193;"LA FÉE CLOCHETTE";"Super rare";Acier;1;0
 194;"LA FÉE CLOCHETTE";Commune;Acier;22;0
 195;"CE RÊVE BLEU";"Super rare";Acier;0;0
 196;DÉCHIQUETÉ;Commune;Acier;30;0

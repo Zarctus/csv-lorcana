@@ -140,7 +140,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 138;Riri;Rare;Saphir;8;0
 139;Fifi;"Peu commune";Saphir;9;2
 140;Loulou;Commune;Saphir;18;2
-141;Alice;Rare;Saphir;7;1
+141;Alice;Rare;Saphir;7;0
 142;Mulan;"Super rare";Saphir;4;1
 143;"Cruella d'Enfer";Légendaire;Saphir;1;0
 144;Mufasa;Commune;Saphir;19;2
@@ -226,7 +226,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 206;Aurore;Épique;Ambre;0;0
 207;Stitch;Épique;Ambre;0;0
 208;Ursula;Épique;Améthyste;0;0
-209;Kuzco;Épique;Améthyste;0;1
+209;Kuzco;Épique;Améthyste;0;0
 210;Elsa;Épique;Améthyste;0;1
 211;Dingo;Épique;Émeraude;0;0
 212;Pégase;Épique;Émeraude;0;1
@@ -234,7 +234,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 214;"Max Dingo";Épique;Rubis;0;0
 215;Powerline;Épique;Rubis;0;1
 216;"Un roi incontesté";Épique;Rubis;0;0
-217;Alice;Épique;Saphir;0;2
+217;Alice;Épique;Saphir;0;1
 218;Anna;Épique;Saphir;0;0
 219;"La Reine";Épique;Saphir;0;0
 220;"Robin des Bois";Épique;Acier;0;1
