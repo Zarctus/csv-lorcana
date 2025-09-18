@@ -6,8 +6,8 @@
 
 
 **Quelques liens aléatoires / Some random links**
-- *[Lorcana - Le Règne de Jafar - 3x Louis 95/204 - Peu commune - ID=1759](https://www.vinted.fr/items/7031374070-lorcana-le-regne-de-jafar-3x-louis-95204-peu-commune-id1759)*
-- *[Lorcana - Le retour d'Ursula - 4x Anna 137/204 - Commune - ID=828](https://www.vinted.fr/items/5364886449-lorcana-le-retour-dursula-4x-anna-137204-commune-id828)*
-- *[Lorcana - Fabuleux - Lilo 174/204 - Super rare Foil - ID=2110](https://www.vinted.fr/items/6979593559-lorcana-fabuleux-lilo-174204-super-rare-foil-id2110)*
-- *[Lorcana - Le Règne de Jafar - 3x Mushu 142/204 - Rare - ID=1806](https://www.vinted.fr/items/6631578650-lorcana-le-regne-de-jafar-3x-mushu-142204-rare-id1806)*
-- *[Lorcana - Les Terres d'Encres - Prince Eric 121/204 - Super rare - ID=557](https://www.vinted.fr/items/5835766674-lorcana-les-terres-dencres-prince-eric-121204-super-rare-id557)*
+- *[Lorcana - Fabuleux - John Silver 89/204 - Légendaire Foil - ID=2025](https://www.vinted.fr/items/6969079549-lorcana-fabuleux-john-silver-89204-legendaire-foil-id2025)*
+- *[Lorcana - Fabuleux - Lanterne 32/204 - Rare Foil - ID=1968](https://www.vinted.fr/items/7108483040-lorcana-fabuleux-lanterne-32204-rare-foil-id1968)*
+- *[Lorcana - Premier Chapitre - 2x Tuons La Bête ! 198/204 - Rare - ID=198](https://www.vinted.fr/items/5719809919-lorcana-premier-chapitre-2x-tuons-la-bete-198204-rare-id198)*
+- *[Disney Lorcana - Ciel Scintillant - Deck box + Sleeves Tiana](https://www.vinted.fr/items/5264398075-disney-lorcana-ciel-scintillant-deck-box-sleeves-tiana)*
+- *[Lorcana - Fabuleux - Elsa 210/204 - Épique Foil - ID=2164](https://www.vinted.fr/items/7091548659-lorcana-fabuleux-elsa-210204-epique-foil-id2164)*
