@@ -68,7 +68,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 67;"Poussière de fée";"Peu commune";Améthyste;4;0
 68;"Navire des Fées";Commune;Améthyste;8;1
 69;"Arbre mystique";Rare;Améthyste;2;0
-70;Jasmine;Rare;Émeraude;2;0
+70;Jasmine;Rare;Émeraude;1;0
 71;"Capitaine Crochet";Rare;Émeraude;2;0
 72;Stitch;Rare;Émeraude;5;0
 73;"Go Go Tomago";Rare;Émeraude;0;0
@@ -127,7 +127,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 126;Tigrou;Rare;Rubis;5;0
 127;Scar;"Super rare";Rubis;1;0
 128;Chapardage;Commune;Rubis;10;2
-129;"Montrer la voie";Commune;Rubis;9;1
+129;"Montrer la voie";Commune;Rubis;9;0
 130;"Poser des îles sur l'océan";"Peu commune";Rubis;5;1
 131;"Souffle d’énergie";Rare;Rubis;2;0
 132;Chaloupe;"Peu commune";Rubis;8;0
