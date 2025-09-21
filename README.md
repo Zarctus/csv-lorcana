@@ -6,8 +6,8 @@
 
 
 **Quelques liens aléatoires / Some random links**
-- *[Lorcana - Fabuleux - Max Dingo 77/204 - Légendaire Foil - ID=2013](https://www.vinted.fr/items/7026092663-lorcana-fabuleux-max-dingo-77204-legendaire-foil-id2013)*
-- *[Lorcana - Le retour d'Ursula - J'Ai Perdu Le Nord 29/204 - Peu commune - ID=720](https://www.vinted.fr/items/6703781591-lorcana-le-retour-dursula-jai-perdu-le-nord-29204-peu-commune-id720)*
-- *[Lorcana - La Mer Azurite - 2x Soumettez-Vous À Ma Volonté 93/204 - Super rare - ID=1292](https://www.vinted.fr/items/6294200089-lorcana-la-mer-azurite-2x-soumettez-vous-a-ma-volonte-93204-super-rare-id1292)*
-- *[Lorcana - Fabuleux - John Silver 89/204 - Légendaire - ID=2025](https://www.vinted.fr/items/7046927048-lorcana-fabuleux-john-silver-89204-legendaire-id2025)*
-- *[Lorcana - Ciel Scintillant - 3x Cœur Du Détecteur De La Reine 31/204 - Rare - ID=987](https://www.vinted.fr/items/7105881827-lorcana-ciel-scintillant-3x-coeur-du-detecteur-de-la-reine-31204-rare-id987)*
+- *[Lorcana - Premier Chapitre - Pistolet À Plasma 204/204 - Rare Foil - ID=204](https://www.vinted.fr/items/5786451184-lorcana-premier-chapitre-pistolet-a-plasma-204204-rare-foil-id204)*
+- *[Lorcana - Premier Chapitre - Bouclier De Vertu 135/204 - Peu commune - ID=135](https://www.vinted.fr/items/6539685285-lorcana-premier-chapitre-bouclier-de-vertu-135204-peu-commune-id135)*
+- *[Lorcana - L'Ascension des Floodborn - 4x Duke Weaselton 146/204 - Commune - ID=362](https://www.vinted.fr/items/6631932038-lorcana-lascension-des-floodborn-4x-duke-weaselton-146204-commune-id362)*
+- *[Lorcana - L'Ascension des Floodborn - 3x Piège Génial De Ratigan 102/204 - Rare - ID=318](https://www.vinted.fr/items/6567085863-lorcana-lascension-des-floodborn-3x-piege-genial-de-ratigan-102204-rare-id318)*
+- *[Lorcana - Le Règne de Jafar - Maui 110/204 - Super rare - ID=1774](https://www.vinted.fr/items/6459293914-lorcana-le-regne-de-jafar-maui-110204-super-rare-id1774)*
