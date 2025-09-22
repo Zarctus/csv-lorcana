@@ -86,7 +86,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 85;"MADAME DE TRÉMAINE";Rare;Émeraude;8;1
 86;"LE CHAPELIER FOU";"Peu commune";Émeraude;19;0
 87;MÉGARA;Commune;Émeraude;26;1
-88;"MICKEY MOUSE";"Super rare";Émeraude;5;1
+88;"MICKEY MOUSE";"Super rare";Émeraude;5;0
 89;"MICKEY MOUSE";Commune;Émeraude;29;1
 90;"MÈRE GOTHEL";"Super rare";Émeraude;8;0
 91;"PETER PAN";Commune;Émeraude;30;3
@@ -110,7 +110,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 109;ELSA;Commune;Rubis;26;1
 110;GASTON;Commune;Rubis;23;1
 111;DINGO;Commune;Rubis;26;1
-112;"LE FOU";Rare;Rubis;8;1
+112;"LE FOU";Rare;Rubis;8;0
 113;MALÉFIQUE;Légendaire;Rubis;0;0
 114;MAUI;Rare;Rubis;0;0
 115;"MICKEY MOUSE";Légendaire;Rubis;0;0
@@ -140,7 +140,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 139;AURORE;"Super rare";Saphir;4;0
 140;AURORE;"Peu commune";Saphir;22;2
 141;BELLE;"Peu commune";Saphir;16;2
-142;BELLE;Légendaire;Saphir;1;1
+142;BELLE;Légendaire;Saphir;1;0
 143;TUI;"Peu commune";Saphir;15;0
 144;DONALD;Commune;Saphir;27;2
 145;POLOCHON;Commune;Saphir;27;3
@@ -149,7 +149,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 148;JASMINE;Commune;Saphir;25;0
 149;JASMINE;Rare;Saphir;6;0
 150;MALÉFIQUE;Commune;Saphir;30;2
-151;MALÉFIQUE;Rare;Saphir;8;1
+151;MALÉFIQUE;Rare;Saphir;8;0
 152;MAURICE;Rare;Saphir;6;0
 153;MERLIN;Commune;Saphir;27;2
 154;"MICKEY MOUSE";Commune;Saphir;29;3
@@ -171,7 +171,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 170;"SCEPTRE D'ARENDELLE";"Peu commune";Saphir;15;0
 171;ALADDIN;Commune;Acier;26;1
 172;"LA BÊTE";"Peu commune";Acier;22;0
-173;"CAPITAINE CROCHET";Rare;Acier;5;1
+173;"CAPITAINE CROCHET";Rare;Acier;5;0
 174;"CAPITAINE CROCHET";Commune;Acier;19;3
 175;"CAPITAINE CROCHET";Rare;Acier;8;0
 176;CERBÈRE;Commune;Acier;26;0
