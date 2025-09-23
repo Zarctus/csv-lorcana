@@ -6,8 +6,8 @@
 
 
 **Quelques liens aléatoires / Some random links**
-- *[Lorcana - Fabuleux - Alice 160/204 - Super rare Foil - ID=2096](https://www.vinted.fr/items/7006326363-lorcana-fabuleux-alice-160204-super-rare-foil-id2096)*
-- *[Lorcana - La Mer Azurite - John Silver 181/204 - Commune Foil - ID=1380](https://www.vinted.fr/items/6005924803-lorcana-la-mer-azurite-john-silver-181204-commune-foil-id1380)*
-- *[Lorcana - Fabuleux - 3x Timothée 47/204 - Commune - ID=1983](https://www.vinted.fr/items/7113493213-lorcana-fabuleux-3x-timothee-47204-commune-id1983)*
-- *[Lorcana - Fabuleux - Nala 173/204 - Rare - ID=2109](https://www.vinted.fr/items/7113457216-lorcana-fabuleux-nala-173204-rare-id2109)*
-- *[Lorcana - Premier Chapitre - Te Kā 192/204 - Légendaire - ID=192](https://www.vinted.fr/items/7060948347-lorcana-premier-chapitre-te-ka-192204-legendaire-id192)*
+- *[Lorcana - Premier Chapitre - La Reine 56/204 - Super rare Foil - ID=56](https://www.vinted.fr/items/5576932870-lorcana-premier-chapitre-la-reine-56204-super-rare-foil-id56)*
+- *[Lorcana - L'ile d' Archazia - 3x Le Troubadour 11/204 - Peu commune - ID=1444](https://www.vinted.fr/items/6761354025-lorcana-lile-d-archazia-3x-le-troubadour-11204-peu-commune-id1444)*
+- *[Lorcana - Premier Chapitre - Hans 180/204 - Super rare - ID=180](https://www.vinted.fr/items/5692787972-lorcana-premier-chapitre-hans-180204-super-rare-id180)*
+- *[Lorcana - Le retour d'Ursula - Prince Philippe 88/204 - Rare Foil - ID=779](https://www.vinted.fr/items/6116807531-lorcana-le-retour-dursula-prince-philippe-88204-rare-foil-id779)*
+- *[Lorcana - Le Règne de Jafar - 3x Garde Du Palais 45/204 - Commune - ID=1709](https://www.vinted.fr/items/6489102284-lorcana-le-regne-de-jafar-3x-garde-du-palais-45204-commune-id1709)*
