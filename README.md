@@ -6,8 +6,8 @@
 
 
 **Quelques liens aléatoires / Some random links**
-- *[Lorcana - Premier Chapitre - La Reine 56/204 - Super rare Foil - ID=56](https://www.vinted.fr/items/5576932870-lorcana-premier-chapitre-la-reine-56204-super-rare-foil-id56)*
-- *[Lorcana - L'ile d' Archazia - 3x Le Troubadour 11/204 - Peu commune - ID=1444](https://www.vinted.fr/items/6761354025-lorcana-lile-d-archazia-3x-le-troubadour-11204-peu-commune-id1444)*
-- *[Lorcana - Premier Chapitre - Hans 180/204 - Super rare - ID=180](https://www.vinted.fr/items/5692787972-lorcana-premier-chapitre-hans-180204-super-rare-id180)*
-- *[Lorcana - Le retour d'Ursula - Prince Philippe 88/204 - Rare Foil - ID=779](https://www.vinted.fr/items/6116807531-lorcana-le-retour-dursula-prince-philippe-88204-rare-foil-id779)*
-- *[Lorcana - Le Règne de Jafar - 3x Garde Du Palais 45/204 - Commune - ID=1709](https://www.vinted.fr/items/6489102284-lorcana-le-regne-de-jafar-3x-garde-du-palais-45204-commune-id1709)*
+- *[Lorcana - Fabuleux - 3x Powerline 109/204 - Commune - ID=2045](https://www.vinted.fr/items/6972130074-lorcana-fabuleux-3x-powerline-109204-commune-id2045)*
+- *[Lorcana - Fabuleux - Cruella D'Enfer 143/204 - Légendaire - ID=2079](https://www.vinted.fr/items/7091293108-lorcana-fabuleux-cruella-denfer-143204-legendaire-id2079)*
+- *[Lorcana - Fabuleux - Lanterne 32/204 - Rare Foil - ID=1968](https://www.vinted.fr/items/7108483040-lorcana-fabuleux-lanterne-32204-rare-foil-id1968)*
+- *[Lorcana - Premier Chapitre - 4x Ariel 2/204 - Super rare - ID=2](https://www.vinted.fr/items/5956008078-lorcana-premier-chapitre-4x-ariel-2204-super-rare-id2)*
+- *[Lorcana - Fabuleux - Max Dingo 77/204 - Légendaire Foil - ID=2013](https://www.vinted.fr/items/7026092663-lorcana-fabuleux-max-dingo-77204-legendaire-foil-id2013)*
