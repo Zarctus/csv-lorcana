@@ -216,11 +216,11 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 215;Hercule;Enchantée;Acier;0;0
 216;Namaari;Enchantée;Acier;0;0
 6;"Vanellope von Schweetz";Commune;Ambre;13;1
-25;"Try Everything";"Peu commune";Ambre;8;1
+25;"Try Everything";"Peu commune";Ambre;9;1
 26;"Toucher guérisseur";Commune;Ambre;13;0
 27;Ranimer;Rare;Ambre;8;1
 29;"Invitation au bal";"Peu commune";Ambre;14;0
-32;"Chromicône d'Ambre";"Peu commune";Ambre;11;1
+32;"Chromicône d'Ambre";"Peu commune";Ambre;11;2
 36;Nokk;Commune;Améthyste;17;1
 40;Bruni;"Peu commune";Améthyste;8;0
 46;Anna;Rare;Améthyste;3;0
@@ -228,7 +228,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 50;Olaf;Rare;Améthyste;5;0
 137;"Sa Sucrerie";Commune;Saphir;13;1
 151;"Ludwig von Drake";"Peu commune";Saphir;10;0
-157;Tipo;"Peu commune";Saphir;3;0
+157;Tipo;"Peu commune";Saphir;4;0
 173;Simba;Commune;Acier;15;0
 192;Simba;"Peu commune";Acier;11;0
 193;Prof;Rare;Acier;0;0
@@ -237,13 +237,13 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 19;Nani;Rare;Ambre;3;0
 39;Sisu;Commune;Améthyste;9;1
 137;B.E.N.;Commune;Saphir;8;2
-180;Hercule;Commune;Acier;7;3
+180;Hercule;Commune;Acier;8;3
 195;"Patate chaude";"Peu commune";Acier;5;1
 1;Rhino;Rare;"Ambre, Acier";4;0
 6;César;Commune;Ambre;11;3
 18;Volt;Commune;Ambre;12;0
 21;Penny;"Peu commune";"Ambre, Acier";3;1
-48;Honeymaren;Commune;Améthyste;11;1
+48;Honeymaren;Commune;Améthyste;12;1
 55;Elsa;Commune;Améthyste;10;0
 65;Sven;"Peu commune";"Améthyste, Saphir";11;0
 72;Anna;"Peu commune";"Améthyste, Saphir";6;0
