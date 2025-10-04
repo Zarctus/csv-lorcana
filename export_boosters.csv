@@ -1,6 +1,110 @@
 saison,number,nom,encre,rareté,is_foil
 Fabuleux,41,"Winnie l'ourson",Améthyste,Commune,N
 Fabuleux,16,Pluto,Ambre,Commune,N
+Fabuleux,80,"Mickey Mouse",Émeraude,Commune,N
+Fabuleux,112,"Max Dingo",Rubis,Commune,N
+Fabuleux,189,"La Fée Clochette",Acier,Commune,N
+Fabuleux,144,Mufasa,Saphir,Commune,N
+Fabuleux,56,Sven,Améthyste,"Peu commune",N
+Fabuleux,91,Turbo,Émeraude,"Peu commune",N
+Fabuleux,167,"Gyroscope lumineux",Saphir,"Peu commune",N
+Fabuleux,3,Stitch,Ambre,"Super rare",N
+Fabuleux,43,Elsa,Améthyste,Légendaire,N
+Fabuleux,113,Roxane,Rubis,"Peu commune",Y
+
+Fabuleux,63,"Je suis coincé !",Améthyste,Commune,N
+Fabuleux,21,Pluto,Ambre,Commune,N
+Fabuleux,96,Improviser,Émeraude,Commune,N
+Fabuleux,116,Vaiana,Rubis,Commune,N
+Fabuleux,203,"Miroir de la Bête",Acier,Commune,N
+Fabuleux,148,Hans,Saphir,Commune,N
+Fabuleux,94,"Stand Out",Émeraude,"Peu commune",N
+Fabuleux,23,"La Reine de Cœur",Ambre,"Peu commune",N
+Fabuleux,187,Lawrence,Acier,"Peu commune",N
+Fabuleux,71,"Ondins Ensorcelés",Émeraude,Rare,N
+Fabuleux,0,"Bruno Madrigal",Améthyste,"Super rare",N
+Fabuleux,173,Nala,Acier,Rare,Y
+
+Fabuleux,49,Kuzco,Améthyste,Commune,N
+Fabuleux,9,Stitch,Ambre,Commune,N
+Fabuleux,81,L'Enchanteresse,Émeraude,Commune,N
+Fabuleux,136,Agrabah,Rubis,Commune,N
+Fabuleux,179,Tiana,Acier,Commune,N
+Fabuleux,140,Loulou,Saphir,Commune,N
+Fabuleux,18,"Julieta Madrigal",Ambre,"Peu commune",N
+Fabuleux,122,"Gardes cartes",Rubis,"Peu commune",N
+Fabuleux,198,"Fracasser !",Acier,"Peu commune",N
+Fabuleux,130,I2I,Rubis,Rare,N
+Fabuleux,108,Maléfique,Rubis,Légendaire,N
+Fabuleux,92,Aladdin,Émeraude,Commune,Y
+
+Fabuleux,39,Belle,Améthyste,Commune,N
+Fabuleux,7,"La Reine",Ambre,Commune,N
+Fabuleux,79,Mégara,Émeraude,Commune,N
+Fabuleux,112,"Max Dingo",Rubis,Commune,N
+Fabuleux,182,"Prince Naveen",Acier,Commune,N
+Fabuleux,163,"Développe ton Cerveau",Saphir,Commune,N
+Fabuleux,6,Aurore,Ambre,"Peu commune",N
+Fabuleux,62,"Effort désespéré",Améthyste,"Peu commune",N
+Fabuleux,133,"Un roi incontesté",Rubis,"Peu commune",N
+Fabuleux,60,"La Deuxième Étoile sur la Droite",Améthyste,Rare,N
+Fabuleux,130,I2I,Rubis,Rare,N
+Fabuleux,214,"Max Dingo",Rubis,Épique,Y
+
+Fabuleux,58,"Luisa Madrigal",Améthyste,Commune,N
+Fabuleux,31,"C'est la Fête",Ambre,Commune,N
+Fabuleux,98,"Concocter la Potion",Émeraude,Commune,N
+Fabuleux,124,Raiponce,Rubis,Commune,N
+Fabuleux,191,Hercule,Acier,Commune,N
+Fabuleux,147,Polochon,Saphir,Commune,N
+Fabuleux,57,"Mama Odie",Améthyste,"Peu commune",N
+Fabuleux,161,Aurore,Saphir,"Peu commune",N
+Fabuleux,122,"Gardes cartes",Rubis,"Peu commune",N
+Fabuleux,160,Alice,Saphir,"Super rare",N
+Fabuleux,5,Minnie,Ambre,"Super rare",N
+Fabuleux,207,Stitch,Ambre,Épique,Y
+
+Fabuleux,58,"Luisa Madrigal",Améthyste,Commune,N
+Fabuleux,8,Raiponce,Ambre,Commune,N
+Fabuleux,84,Pégase,Émeraude,Commune,N
+Fabuleux,123,"La Reine de Cœur",Rubis,Commune,N
+Fabuleux,181,Jafar,Acier,Commune,N
+Fabuleux,145,"Cruella d'Enfer",Saphir,Commune,N
+Fabuleux,57,"Mama Odie",Améthyste,"Peu commune",N
+Fabuleux,167,"Gyroscope lumineux",Saphir,"Peu commune",N
+Fabuleux,129,"Tuk Tuk",Rubis,"Peu commune",N
+Fabuleux,70,"Robin des Bois",Émeraude,Rare,N
+Fabuleux,195,Ariel,Acier,Rare,N
+Fabuleux,67,Rose-Lanterne,Améthyste,Commune,Y
+
+Fabuleux,50,Tic-Tac,Améthyste,Commune,N
+Fabuleux,22,Ursula,Ambre,Commune,N
+Fabuleux,92,Aladdin,Émeraude,Commune,N
+Fabuleux,125,Mulan,Rubis,Commune,N
+Fabuleux,196,Ariel,Acier,Commune,N
+Fabuleux,147,Polochon,Saphir,Commune,N
+Fabuleux,23,"La Reine de Cœur",Ambre,"Peu commune",N
+Fabuleux,134,"Médaillons Lestés",Rubis,"Peu commune",N
+Fabuleux,204,"Île d'exil de Maui",Acier,"Peu commune",N
+Fabuleux,135,"Clochette du dîner",Rubis,Rare,N
+Fabuleux,110,Powerline,Rubis,"Super rare",N
+Fabuleux,16,Pluto,Ambre,Commune,Y
+
+Fabuleux,47,Timothée,Améthyste,Commune,N
+Fabuleux,7,"La Reine",Ambre,Commune,N
+Fabuleux,88,"La Fée Clochette",Émeraude,Commune,N
+Fabuleux,131,"Tu t'envoles",Rubis,Commune,N
+Fabuleux,180,Benja,Acier,Commune,N
+Fabuleux,154,Aurore,Saphir,Commune,N
+Fabuleux,13,"Mickey Mouse",Ambre,"Peu commune",N
+Fabuleux,65,"Miroir Magique",Améthyste,"Peu commune",N
+Fabuleux,132,"La vie d'un pirate",Rubis,"Peu commune",N
+Fabuleux,178,Jasmine,Acier,Rare,N
+Fabuleux,37,Ursula,Améthyste,Rare,N
+Fabuleux,217,Alice,Saphir,Épique,Y
+
+Fabuleux,41,"Winnie l'ourson",Améthyste,Commune,N
+Fabuleux,16,Pluto,Ambre,Commune,N
 Fabuleux,79,Mégara,Émeraude,Commune,N
 Fabuleux,112,"Max Dingo",Rubis,Commune,N
 Fabuleux,196,Ariel,Acier,Commune,N
@@ -2494,108 +2598,4 @@ Fabuleux,176,"Petit Jean",Acier,"Peu commune",N
 Fabuleux,97,"Sous l'océan",Émeraude,Rare,N
 Fabuleux,24,Stitch,Ambre,Légendaire,N
 Fabuleux,87,Shenzi,Émeraude,"Super rare",Y
-
-Fabuleux,63,"Je suis coincé !",Améthyste,Commune,N
-Fabuleux,10,Mulan,Ambre,Commune,N
-Fabuleux,102,"La crique cachée",Émeraude,Commune,N
-Fabuleux,123,"La Reine de Cœur",Rubis,Commune,N
-Fabuleux,196,Ariel,Acier,Commune,N
-Fabuleux,147,Polochon,Saphir,Commune,N
-Fabuleux,91,Turbo,Émeraude,"Peu commune",N
-Fabuleux,6,Aurore,Ambre,"Peu commune",N
-Fabuleux,166,"Creuse encore et encore",Saphir,"Peu commune",N
-Fabuleux,105,Simba,Rubis,Rare,N
-Fabuleux,188,"La Fée Clochette",Acier,"Super rare",N
-Fabuleux,92,Aladdin,Émeraude,Commune,Y
-
-Fabuleux,47,Timothée,Améthyste,Commune,N
-Fabuleux,7,"La Reine",Ambre,Commune,N
-Fabuleux,102,"La crique cachée",Émeraude,Commune,N
-Fabuleux,131,"Tu t'envoles",Rubis,Commune,N
-Fabuleux,196,Ariel,Acier,Commune,N
-Fabuleux,155,Jasmine,Saphir,Commune,N
-Fabuleux,29,"Retour de Bruno",Ambre,"Peu commune",N
-Fabuleux,193,"Li Shang",Acier,"Peu commune",N
-Fabuleux,139,Fifi,Saphir,"Peu commune",N
-Fabuleux,70,"Robin des Bois",Émeraude,Rare,N
-Fabuleux,173,Nala,Acier,Rare,N
-Fabuleux,145,"Cruella d'Enfer",Saphir,Commune,Y
-
-Fabuleux,61,"Pauvres âmes en perdition",Améthyste,Commune,N
-Fabuleux,27,"Guéris les blessures",Ambre,Commune,N
-Fabuleux,79,Mégara,Émeraude,Commune,N
-Fabuleux,127,Raya,Rubis,Commune,N
-Fabuleux,196,Ariel,Acier,Commune,N
-Fabuleux,146,Anna,Saphir,Commune,N
-Fabuleux,30,"Le Grand Génie du Mal",Ambre,"Peu commune",N
-Fabuleux,52,"Camilo Madrigal",Améthyste,"Peu commune",N
-Fabuleux,184,"Robin des Bois",Acier,"Peu commune",N
-Fabuleux,121,Lumière,Rubis,Rare,N
-Fabuleux,138,Riri,Saphir,Rare,N
-Fabuleux,16,Pluto,Ambre,Commune,Y
-
-Fabuleux,49,Kuzco,Améthyste,Commune,N
-Fabuleux,16,Pluto,Ambre,Commune,N
-Fabuleux,88,"La Fée Clochette",Émeraude,Commune,N
-Fabuleux,125,Mulan,Rubis,Commune,N
-Fabuleux,194,"Prince Eric",Acier,Commune,N
-Fabuleux,169,"Panier de Noix de Coco",Saphir,Commune,N
-Fabuleux,56,Sven,Améthyste,"Peu commune",N
-Fabuleux,93,Daisy,Émeraude,"Peu commune",N
-Fabuleux,119,Sisu,Rubis,"Peu commune",N
-Fabuleux,4,"La Bête",Ambre,Rare,N
-Fabuleux,153,Aurore,Saphir,"Super rare",N
-Fabuleux,179,Tiana,Acier,Commune,Y
-
-Fabuleux,39,Belle,Améthyste,Commune,N
-Fabuleux,7,"La Reine",Ambre,Commune,N
-Fabuleux,84,Pégase,Émeraude,Commune,N
-Fabuleux,115,Gaston,Rubis,Commune,N
-Fabuleux,203,"Miroir de la Bête",Acier,Commune,N
-Fabuleux,165,"Je Vole",Saphir,Commune,N
-Fabuleux,78,"Bobby Zimmeruski",Émeraude,"Peu commune",N
-Fabuleux,17,Nani,Ambre,"Peu commune",N
-Fabuleux,149,"La Reine",Saphir,"Peu commune",N
-Fabuleux,4,"La Bête",Ambre,Rare,N
-Fabuleux,135,"Clochette du dîner",Rubis,Rare,N
-Fabuleux,9,Stitch,Ambre,Commune,Y
-
-Fabuleux,47,Timothée,Améthyste,Commune,N
-Fabuleux,7,"La Reine",Ambre,Commune,N
-Fabuleux,81,L'Enchanteresse,Émeraude,Commune,N
-Fabuleux,115,Gaston,Rubis,Commune,N
-Fabuleux,203,"Miroir de la Bête",Acier,Commune,N
-Fabuleux,158,"Belle Marianne",Saphir,Commune,N
-Fabuleux,94,"Stand Out",Émeraude,"Peu commune",N
-Fabuleux,18,"Julieta Madrigal",Ambre,"Peu commune",N
-Fabuleux,149,"La Reine",Saphir,"Peu commune",N
-Fabuleux,64,"La plume magique",Améthyste,Rare,N
-Fabuleux,42,"Ombre de Peter Pan",Améthyste,"Super rare",N
-Fabuleux,193,"Li Shang",Acier,"Peu commune",Y
-
-Fabuleux,49,Kuzco,Améthyste,Commune,N
-Fabuleux,7,"La Reine",Ambre,Commune,N
-Fabuleux,84,Pégase,Émeraude,Commune,N
-Fabuleux,128,"Sergent Tibs",Rubis,Commune,N
-Fabuleux,181,Jafar,Acier,Commune,N
-Fabuleux,145,"Cruella d'Enfer",Saphir,Commune,N
-Fabuleux,13,"Mickey Mouse",Ambre,"Peu commune",N
-Fabuleux,65,"Miroir Magique",Améthyste,"Peu commune",N
-Fabuleux,186,Hercule,Acier,"Peu commune",N
-Fabuleux,159,"Winnie l'ourson",Saphir,Rare,N
-Fabuleux,14,Pluto,Ambre,Rare,N
-Fabuleux,217,Alice,Saphir,Épique,Y
-
-Fabuleux,68,"Casa Madrigal",Améthyste,Commune,N
-Fabuleux,31,"C'est la Fête",Ambre,Commune,N
-Fabuleux,82,Virana,Émeraude,Commune,N
-Fabuleux,127,Raya,Rubis,Commune,N
-Fabuleux,194,"Prince Eric",Acier,Commune,N
-Fabuleux,169,"Panier de Noix de Coco",Saphir,Commune,N
-Fabuleux,90,Ursula,Émeraude,"Peu commune",N
-Fabuleux,6,Aurore,Ambre,"Peu commune",N
-Fabuleux,161,Aurore,Saphir,"Peu commune",N
-Fabuleux,33,"Pendentif en Coquillage d'Ursula",Ambre,Rare,N
-Fabuleux,76,Génie,Émeraude,"Super rare",N
-Fabuleux,157,"Judy Hopps",Saphir,"Peu commune",Y
 
