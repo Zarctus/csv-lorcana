@@ -7,7 +7,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 6;HADÈS;Rare;Ambre;8;0
 7;HEIHEI;Commune;Ambre;31;1
 8;"LE FOU";"Peu commune";Ambre;16;1
-9;LILO;Rare;Ambre;0;0
+9;LILO;Rare;Ambre;1;0
 10;MAXIMUS;"Super rare";Ambre;5;0
 11;MAXIMUS;"Peu commune";Ambre;19;2
 12;"MICKEY MOUSE";"Peu commune";Ambre;22;0
@@ -48,7 +48,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 47;"BALAIS MAGIQUES";Commune;Améthyste;25;1
 48;MALÉFIQUE;Rare;Améthyste;0;0
 49;MALÉFIQUE;Commune;Améthyste;23;1
-50;GUIMAUVE;"Super rare";Améthyste;6;0
+50;GUIMAUVE;"Super rare";Améthyste;7;0
 51;"MICKEY MOUSE";"Super rare";Améthyste;7;0
 52;OLAF;"Peu commune";Améthyste;22;1
 53;PASCAL;"Peu commune";Améthyste;11;2
@@ -64,7 +64,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 63;GEL;Commune;Améthyste;30;0
 64;"MES AMIS DE L'AU-DELÀ";Commune;Améthyste;11;0
 65;Réflexion;"Peu commune";Améthyste;16;0
-66;"MIROIR MAGIQUE";Rare;Améthyste;4;0
+66;"MIROIR MAGIQUE";Rare;Améthyste;5;0
 67;"CHAUDRON D'URSULA";"Peu commune";Améthyste;12;1
 68;"MONTRE À GOUSSET";Rare;Améthyste;4;0
 69;Aladdin;Commune;Émeraude;28;2
@@ -76,7 +76,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 75;GÉNIE;"Super rare";Émeraude;4;1
 76;GÉNIE;Rare;Émeraude;7;0
 77;GÉNIE;Commune;Émeraude;26;2
-78;HANS;Rare;Émeraude;3;0
+78;HANS;Rare;Émeraude;4;0
 79;HORACE;Commune;Émeraude;28;1
 80;IAGO;Rare;Émeraude;11;0
 81;JASPER;"Peu commune";Émeraude;22;1
@@ -90,9 +90,9 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 89;"MICKEY MOUSE";Commune;Émeraude;29;1
 90;"MÈRE GOTHEL";"Super rare";Émeraude;8;0
 91;"PETER PAN";Commune;Émeraude;30;3
-92;TAMATOA;"Peu commune";Émeraude;13;1
+92;TAMATOA;"Peu commune";Émeraude;14;1
 93;"LA FÉE CLOCHETTE";Commune;Émeraude;26;1
-94;"RECOMMENCE !";Rare;Émeraude;8;1
+94;"RECOMMENCE !";Rare;Émeraude;8;2
 95;"N'ÉCOUTE QUE MOI";"Peu commune";Émeraude;7;1
 96;RUÉE;Commune;Émeraude;25;3
 97;"VOLER AUX RICHES";Rare;Émeraude;8;0
@@ -129,7 +129,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 128;"SOYEZ PRÊTES !";Rare;Rubis;4;0
 129;"DROIT AU BUT";"Peu commune";Rubis;18;2
 130;"FEU DU DRAGON";"Peu commune";Rubis;16;1
-131;"ATTISER LES FLAMMES";"Peu commune";Rubis;14;1
+131;"ATTISER LES FLAMMES";"Peu commune";Rubis;15;1
 132;"IL A UN SABRE !";Commune;Rubis;28;0
 133;ENCHEVÊTRÉ;Commune;Rubis;23;4
 134;"POMME EMPOISONNÉE";Rare;Rubis;7;0
@@ -144,7 +144,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 143;TUI;"Peu commune";Saphir;15;0
 144;DONALD;Commune;Saphir;27;2
 145;POLOCHON;Commune;Saphir;27;3
-146;"GRAND-MÈRE TALA";"Peu commune";Saphir;15;0
+146;"GRAND-MÈRE TALA";"Peu commune";Saphir;16;0
 147;HADÈS;Légendaire;Saphir;0;0
 148;JASMINE;Commune;Saphir;25;0
 149;JASMINE;Rare;Saphir;6;0
@@ -168,16 +168,16 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 167;"ŒIL DES MOIRES";"Peu commune";Saphir;21;0
 168;"PLUME EN FORME D'ARÊTE";Rare;Saphir;3;0
 169;"FLEUR AUX PÉTALES D'OR";Commune;Saphir;29;0
-170;"SCEPTRE D'ARENDELLE";"Peu commune";Saphir;15;0
+170;"SCEPTRE D'ARENDELLE";"Peu commune";Saphir;16;0
 171;ALADDIN;Commune;Acier;26;1
 172;"LA BÊTE";"Peu commune";Acier;22;0
 173;"CAPITAINE CROCHET";Rare;Acier;5;0
 174;"CAPITAINE CROCHET";Commune;Acier;19;3
 175;"CAPITAINE CROCHET";Rare;Acier;8;0
 176;CERBÈRE;Commune;Acier;26;0
-177;DONALD;"Peu commune";Acier;18;2
+177;DONALD;"Peu commune";Acier;19;2
 178;GANTU;Légendaire;Acier;0;0
-179;CRÉATURES;Commune;Acier;26;4
+179;CRÉATURES;Commune;Acier;27;4
 180;HANS;"Super rare";Acier;5;1
 181;HERCULE;Commune;Acier;23;3
 182;KRISTOFF;Commune;Acier;26;4
@@ -197,7 +197,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 196;DÉCHIQUETÉ;Commune;Acier;30;0
 197;"ALLUMEZ LES MÊCHES !";Commune;Acier;25;4
 198;"TUONS LA BÊTE !";Rare;Acier;3;0
-199;"SENS DESSUS DESSOUS";"Peu commune";Acier;22;0
+199;"SENS DESSUS DESSOUS";"Peu commune";Acier;23;0
 200;"FRACASSER !";"Peu commune";Acier;14;0
 201;"MIROIR DE LA BÊTE";Commune;Acier;28;0
 202;"POÊLE À FRIRE";"Peu commune";Acier;14;3
