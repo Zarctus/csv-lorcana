@@ -1,4 +1,30 @@
 saison,number,nom,encre,rareté,is_foil
+Fabuleux,41,"Winnie l'ourson",Améthyste,Commune,N
+Fabuleux,11,Daisy,Ambre,Commune,N
+Fabuleux,84,Pégase,Émeraude,Commune,N
+Fabuleux,115,Gaston,Rubis,Commune,N
+Fabuleux,182,"Prince Naveen",Acier,Commune,N
+Fabuleux,158,"Belle Marianne",Saphir,Commune,N
+Fabuleux,78,"Bobby Zimmeruski",Émeraude,"Peu commune",N
+Fabuleux,176,"Petit Jean",Acier,"Peu commune",N
+Fabuleux,164,"Quatre douzaines d'œufs",Saphir,"Peu commune",N
+Fabuleux,72,"Prince Philippe",Émeraude,Rare,N
+Fabuleux,168,"Le Cœur de Te Fiti",Saphir,Rare,N
+Fabuleux,157,"Judy Hopps",Saphir,"Peu commune",Y
+
+Fabuleux,49,Kuzco,Améthyste,Commune,N
+Fabuleux,34,Atlantica,Ambre,Commune,N
+Fabuleux,102,"La crique cachée",Émeraude,Commune,N
+Fabuleux,125,Mulan,Rubis,Commune,N
+Fabuleux,183,Bourriquet,Acier,Commune,N
+Fabuleux,147,Polochon,Saphir,Commune,N
+Fabuleux,30,"Le Grand Génie du Mal",Ambre,"Peu commune",N
+Fabuleux,103,"Le Fou",Rubis,"Peu commune",N
+Fabuleux,202,"Tous avec moi !",Acier,"Peu commune",N
+Fabuleux,97,"Sous l'océan",Émeraude,Rare,N
+Fabuleux,142,Mulan,Saphir,"Super rare",N
+Fabuleux,200,"Allumez les Mêches !",Acier,Commune,Y
+
 Fabuleux,67,Rose-Lanterne,Améthyste,Commune,N
 Fabuleux,16,Pluto,Ambre,Commune,N
 Fabuleux,80,"Mickey Mouse",Émeraude,Commune,N
@@ -2572,30 +2598,4 @@ Fabuleux,186,Hercule,Acier,"Peu commune",N
 Fabuleux,190,"Capitaine Crochet",Acier,Rare,N
 Fabuleux,15,Ariel,Ambre,Rare,N
 Fabuleux,63,"Je suis coincé !",Améthyste,Commune,Y
-
-Fabuleux,63,"Je suis coincé !",Améthyste,Commune,N
-Fabuleux,9,Stitch,Ambre,Commune,N
-Fabuleux,80,"Mickey Mouse",Émeraude,Commune,N
-Fabuleux,116,Vaiana,Rubis,Commune,N
-Fabuleux,180,Benja,Acier,Commune,N
-Fabuleux,154,Aurore,Saphir,Commune,N
-Fabuleux,30,"Le Grand Génie du Mal",Ambre,"Peu commune",N
-Fabuleux,59,Jafar,Améthyste,"Peu commune",N
-Fabuleux,198,"Fracasser !",Acier,"Peu commune",N
-Fabuleux,150,"Grand Pabbie",Saphir,Rare,N
-Fabuleux,153,Aurore,Saphir,"Super rare",N
-Fabuleux,67,Rose-Lanterne,Améthyste,Commune,Y
-
-Fabuleux,39,Belle,Améthyste,Commune,N
-Fabuleux,31,"C'est la Fête",Ambre,Commune,N
-Fabuleux,80,"Mickey Mouse",Émeraude,Commune,N
-Fabuleux,124,Raiponce,Rubis,Commune,N
-Fabuleux,182,"Prince Naveen",Acier,Commune,N
-Fabuleux,154,Aurore,Saphir,Commune,N
-Fabuleux,85,Donald,Émeraude,"Peu commune",N
-Fabuleux,167,"Gyroscope lumineux",Saphir,"Peu commune",N
-Fabuleux,103,"Le Fou",Rubis,"Peu commune",N
-Fabuleux,195,Ariel,Acier,Rare,N
-Fabuleux,3,Stitch,Ambre,"Super rare",N
-Fabuleux,206,Aurore,Ambre,Épique,Y
 
