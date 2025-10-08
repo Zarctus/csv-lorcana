@@ -39,10 +39,10 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 37;Ursula;Rare;Améthyste;7;0
 38;Jafar;Rare;Améthyste;9;0
 39;Belle;Commune;Améthyste;15;1
-40;Belle;"Super rare";Améthyste;2;0
+40;Belle;"Super rare";Améthyste;0;0
 41;"Winnie l'ourson";Commune;Améthyste;21;2
 42;"Ombre de Peter Pan";"Super rare";Améthyste;7;0
-43;Elsa;Légendaire;Améthyste;1;0
+43;Elsa;Légendaire;Améthyste;0;0
 44;Ursula;"Super rare";Améthyste;2;2
 45;Dumbo;Légendaire;Améthyste;1;0
 46;Dumbo;"Peu commune";Améthyste;12;0
@@ -65,7 +65,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 63;"Je suis coincé !";Commune;Améthyste;19;1
 64;"La plume magique";Rare;Améthyste;5;0
 65;"Miroir Magique";"Peu commune";Améthyste;13;1
-66;"Montre à Gousset";Rare;Améthyste;7;0
+66;"Montre à Gousset";Rare;Améthyste;6;0
 67;Rose-Lanterne;Commune;Améthyste;18;2
 68;"Casa Madrigal";Commune;Améthyste;20;0
 69;Kuzco;Rare;Émeraude;4;1
@@ -173,7 +173,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 171;Philoctète;Rare;Acier;7;0
 172;"Mickey Mouse";"Super rare";Acier;3;1
 173;Nala;Rare;Acier;2;1
-174;Lilo;"Super rare";Acier;2;0
+174;Lilo;"Super rare";Acier;1;0
 175;Scar;Légendaire;Acier;0;1
 176;"Petit Jean";"Peu commune";Acier;15;0
 177;"Robin des Bois";Légendaire;Acier;1;0
@@ -196,7 +196,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 194;"Prince Eric";Commune;Acier;19;2
 195;Ariel;Rare;Acier;6;0
 196;Ariel;Commune;Acier;20;0
-197;"Il me reste un espoir";Rare;Acier;6;0
+197;"Il me reste un espoir";Rare;Acier;5;0
 198;"Fracasser !";"Peu commune";Acier;13;1
 199;"Ils cassent en deux comme je veux";"Peu commune";Acier;12;1
 200;"Allumez les Mêches !";Commune;Acier;15;1
