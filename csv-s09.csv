@@ -63,7 +63,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 61;"Pauvres âmes en perdition";Commune;Améthyste;16;1
 62;"Effort désespéré";"Peu commune";Améthyste;15;0
 63;"Je suis coincé !";Commune;Améthyste;20;1
-64;"La plume magique";Rare;Améthyste;5;0
+64;"La plume magique";Rare;Améthyste;4;0
 65;"Miroir Magique";"Peu commune";Améthyste;13;1
 66;"Montre à Gousset";Rare;Améthyste;6;0
 67;Rose-Lanterne;Commune;Améthyste;19;2
@@ -150,7 +150,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 148;Hans;Commune;Saphir;15;0
 149;"La Reine";"Peu commune";Saphir;13;0
 150;"Grand Pabbie";Rare;Saphir;5;1
-151;Hadès;Légendaire;Saphir;2;0
+151;Hadès;Légendaire;Saphir;1;0
 152;"Mama Odie";Rare;Saphir;6;0
 153;Aurore;"Super rare";Saphir;4;0
 154;Aurore;Commune;Saphir;18;0
