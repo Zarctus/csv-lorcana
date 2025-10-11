@@ -73,15 +73,15 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 72;Stitch;Rare;Émeraude;5;0
 73;"Go Go Tomago";Rare;Émeraude;0;0
 74;"Honey Lemon";"Peu commune";Émeraude;9;0
-75;Fred;Commune;Émeraude;9;0
+75;Fred;Commune;Émeraude;6;0
 76;Putois;Commune;Émeraude;7;1
 77;Dawson;Commune;Émeraude;11;0
-78;Heathcliff;Commune;Émeraude;11;0
+78;Heathcliff;Commune;Émeraude;9;0
 79;Basil;Commune;Émeraude;12;3
 80;Donald;"Peu commune";Émeraude;5;0
 81;Daisy;"Super rare";Émeraude;3;0
 82;"Mertle Edmonds";"Peu commune";Émeraude;6;0
-83;"Prince Philippe";"Peu commune";Émeraude;6;0
+83;"Prince Philippe";"Peu commune";Émeraude;2;0
 84;Jasmine;Légendaire;Émeraude;0;0
 85;"Peter Pan";"Super rare";Émeraude;1;0
 86;Hercule;Légendaire;Émeraude;2;0
@@ -189,7 +189,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 188;"Cobra Bubbles";Rare;Acier;5;1
 189;Gantu;Rare;Acier;2;0
 190;"Ralph la Casse";Légendaire;Acier;0;0
-191;Calhoun;Rare;Acier;2;0
+191;Calhoun;Rare;Acier;0;0
 192;"Capitaine Amélia";"Super rare";Acier;3;0
 193;Jafar;"Super rare";Acier;3;0
 194;"John Silver";Légendaire;Acier;0;0

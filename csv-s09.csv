@@ -70,14 +70,14 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 68;"Casa Madrigal";Commune;Améthyste;20;1
 69;Kuzco;Rare;Émeraude;4;1
 70;"Robin des Bois";Rare;Émeraude;6;0
-71;"Ondins Ensorcelés";Rare;Émeraude;7;2
+71;"Ondins Ensorcelés";Rare;Émeraude;4;1
 72;"Prince Philippe";Rare;Émeraude;7;1
 73;"Prince Philippe";"Super rare";Émeraude;3;0
 74;Dingo;Rare;Émeraude;6;1
 75;"Max Dingo";Rare;Émeraude;7;1
 76;Génie;"Super rare";Émeraude;7;0
 77;"Max Dingo";Légendaire;Émeraude;4;1
-78;"Bobby Zimmeruski";"Peu commune";Émeraude;15;1
+78;"Bobby Zimmeruski";"Peu commune";Émeraude;12;1
 79;Mégara;Commune;Émeraude;18;0
 80;"Mickey Mouse";Commune;Émeraude;21;3
 81;L'Enchanteresse;Commune;Émeraude;15;0
@@ -89,7 +89,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 87;Shenzi;"Super rare";Émeraude;4;1
 88;"La Fée Clochette";Commune;Émeraude;14;0
 89;"John Silver";Légendaire;Émeraude;2;0
-90;Ursula;"Peu commune";Émeraude;14;1
+90;Ursula;"Peu commune";Émeraude;11;1
 91;Turbo;"Peu commune";Émeraude;14;1
 92;Aladdin;Commune;Émeraude;18;3
 93;Daisy;"Peu commune";Émeraude;12;2
@@ -199,8 +199,8 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 197;"Il me reste un espoir";Rare;Acier;5;0
 198;"Fracasser !";"Peu commune";Acier;13;1
 199;"Ils cassent en deux comme je veux";"Peu commune";Acier;13;1
-200;"Allumez les Mêches !";Commune;Acier;17;1
-201;"Plus ardent que le feu des volcans";Rare;Acier;3;0
+200;"Allumez les Mêches !";Commune;Acier;14;1
+201;"Plus ardent que le feu des volcans";Rare;Acier;0;0
 202;"Tous avec moi !";"Peu commune";Acier;10;0
 203;"Miroir de la Bête";Commune;Acier;19;0
 204;"Île d'exil de Maui";"Peu commune";Acier;14;2

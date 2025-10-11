@@ -93,7 +93,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 92;Fred;Commune;Émeraude;15;0
 93;Truffe;Commune;Émeraude;12;2
 94;Tac;Commune;Émeraude;13;0
-95;Louis;"Peu commune";Émeraude;4;0
+95;Louis;"Peu commune";Émeraude;0;0
 96;Napoléon;"Peu commune";Émeraude;9;0
 97;Tic;"Peu commune";Émeraude;10;1
 98;Fred;Rare;Émeraude;4;0
@@ -184,7 +184,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 183;"Tapis Volant";Commune;Acier;12;1
 184;"Prince Achmed";Commune;Acier;13;1
 185;Nazo;Commune;Acier;14;1
-186;"Capitaine Crochet";Commune;Acier;12;1
+186;"Capitaine Crochet";Commune;Acier;9;1
 187;"Général Li";Commune;Acier;14;0
 188;"Jack le Costaud";Commune;Acier;13;0
 189;Génie;Commune;Acier;13;1
