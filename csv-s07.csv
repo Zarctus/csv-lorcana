@@ -112,7 +112,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 111;"Le Roi de Cœur";Rare;Émeraude;4;0
 112;Duchesse;"Peu commune";Émeraude;7;0
 113;Anastasie;"Peu commune";Émeraude;7;1
-114;Pat;"Super rare";"Émeraude, Acier";1;1
+114;Pat;"Super rare";"Émeraude, Acier";1;0
 115;"Madame de Trémaine";Légendaire;Émeraude;0;0
 116;"Réveille-toi, Alice !";Commune;Émeraude;13;1
 117;"Il se traîne";Commune;Émeraude;11;1

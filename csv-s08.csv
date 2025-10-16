@@ -16,11 +16,11 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 15;Rhino;Commune;Ambre;10;0
 16;Darling;Commune;Ambre;15;0
 17;"Le Colonel";Rare;Ambre;3;0
-18;"Chef Bogo";Légendaire;Ambre;0;1
+18;"Chef Bogo";Légendaire;Ambre;0;0
 19;Pua;"Peu commune";"Ambre, Améthyste";9;0
 20;"Bruno Madrigal";"Super rare";"Ambre, Améthyste";5;1
 21;Kaa;"Peu commune";"Ambre, Émeraude";11;1
-22;Clochard;"Super rare";"Ambre, Émeraude";1;1
+22;Clochard;"Super rare";"Ambre, Émeraude";1;0
 23;"Sa Sucrerie";"Peu commune";"Ambre, Rubis";8;1
 24;"Ralph la Casse";"Super rare";"Ambre, Rubis";3;0
 25;Patch;"Peu commune";"Ambre, Saphir";8;1
@@ -68,7 +68,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 67;Kuzco;Rare;"Améthyste, Émeraude";4;0
 68;Yzma;"Super rare";"Améthyste, Émeraude";2;0
 69;"Madame Mime";"Peu commune";"Améthyste, Rubis";7;0
-70;"Mère Gothel";Rare;"Améthyste, Rubis";3;1
+70;"Mère Gothel";Rare;"Améthyste, Rubis";3;0
 71;"La Fée Bleue";"Peu commune";"Améthyste, Saphir";10;2
 72;Anna;Rare;"Améthyste, Saphir";2;0
 73;"Le Sultan";Rare;"Améthyste, Acier";6;0
@@ -163,7 +163,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 162;Jasmine;Commune;Saphir;8;0
 163;"Soeur de Bobby";Commune;Saphir;14;0
 164;"Adélaïde De Bonnefamille";Commune;Saphir;13;2
-165;Nani;Rare;Saphir;4;1
+165;Nani;Rare;Saphir;4;0
 166;Stitch;Légendaire;Saphir;0;0
 167;Ratigan;Légendaire;Saphir;0;0
 168;Arthur;"Peu commune";"Saphir, Acier";6;0
