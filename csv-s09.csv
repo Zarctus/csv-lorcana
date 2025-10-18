@@ -43,7 +43,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 41;"Winnie l'ourson";Commune;Améthyste;21;2
 42;"Ombre de Peter Pan";"Super rare";Améthyste;8;0
 43;Elsa;Légendaire;Améthyste;0;0
-44;Ursula;"Super rare";Améthyste;4;2
+44;Ursula;"Super rare";Améthyste;4;1
 45;Dumbo;Légendaire;Améthyste;1;0
 46;Dumbo;"Peu commune";Améthyste;14;0
 47;Timothée;Commune;Améthyste;20;0
@@ -74,9 +74,9 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 72;"Prince Philippe";Rare;Émeraude;9;1
 73;"Prince Philippe";"Super rare";Émeraude;3;0
 74;Dingo;Rare;Émeraude;7;2
-75;"Max Dingo";Rare;Émeraude;7;1
+75;"Max Dingo";Rare;Émeraude;7;0
 76;Génie;"Super rare";Émeraude;7;0
-77;"Max Dingo";Légendaire;Émeraude;4;1
+77;"Max Dingo";Légendaire;Émeraude;4;0
 78;"Bobby Zimmeruski";"Peu commune";Émeraude;12;1
 79;Mégara;Commune;Émeraude;19;1
 80;"Mickey Mouse";Commune;Émeraude;22;3
@@ -131,7 +131,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 129;"Tuk Tuk";"Peu commune";Rubis;12;2
 130;I2I;Rare;Rubis;6;0
 131;"Tu t'envoles";Commune;Rubis;19;2
-132;"La vie d'un pirate";"Peu commune";Rubis;16;1
+132;"La vie d'un pirate";"Peu commune";Rubis;16;0
 133;"Un roi incontesté";"Peu commune";Rubis;13;0
 134;"Médaillons Lestés";"Peu commune";Rubis;16;0
 135;"Clochette du dîner";Rare;Rubis;8;1
@@ -172,7 +172,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 170;Motunui;"Peu commune";Saphir;13;2
 171;Philoctète;Rare;Acier;7;0
 172;"Mickey Mouse";"Super rare";Acier;3;0
-173;Nala;Rare;Acier;4;1
+173;Nala;Rare;Acier;4;0
 174;Lilo;"Super rare";Acier;2;0
 175;Scar;Légendaire;Acier;0;0
 176;"Petit Jean";"Peu commune";Acier;16;1
