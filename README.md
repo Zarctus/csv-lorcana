@@ -6,8 +6,8 @@
 
 
 **Quelques liens aléatoires / Some random links**
-- *[Lorcana - Fabuleux - 3x Ursula 90/204 - Peu commune - ID=2026](https://www.vinted.fr/items/7289621565-lorcana-fabuleux-3x-ursula-90204-peu-commune-id2026)*
-- *[Lorcana - L'ile d' Archazia - 3x Le Troubadour 11/204 - Peu commune - ID=1444](https://www.vinted.fr/items/6761354025-lorcana-lile-d-archazia-3x-le-troubadour-11204-peu-commune-id1444)*
-- *[Lorcana - La Mer Azurite - Pluto 186/204 - Peu commune - ID=1385](https://www.vinted.fr/items/7250179443-lorcana-la-mer-azurite-pluto-186204-peu-commune-id1385)*
-- *[Lorcana - Premier Chapitre - La Reine 56/204 - Super rare - ID=56](https://www.vinted.fr/items/5766811202-lorcana-premier-chapitre-la-reine-56204-super-rare-id56)*
-- *[Lorcana - Premier Chapitre - Mère Gothel 90/204 - Super rare - ID=90](https://www.vinted.fr/items/5749670727-lorcana-premier-chapitre-mere-gothel-90204-super-rare-id90)*
+- *[Lorcana - Le Règne de Jafar - 3x Fred 98/204 - Rare - ID=1762](https://www.vinted.fr/items/6463132789-lorcana-le-regne-de-jafar-3x-fred-98204-rare-id1762)*
+- *[Lorcana - Le retour d'Ursula - Cri-Kee 69/204 - Rare Foil - ID=760](https://www.vinted.fr/items/6192196355-lorcana-le-retour-dursula-cri-kee-69204-rare-foil-id760)*
+- *[Lorcana - L'Ascension des Floodborn - 3x Jasmine 151/204 - Commune - ID=367](https://www.vinted.fr/items/6495230738-lorcana-lascension-des-floodborn-3x-jasmine-151204-commune-id367)*
+- *[Lorcana - L'ile d' Archazia - Les Problèmes Vont Par Paire 202/204 - Peu commune Foil - ID=1635](https://www.vinted.fr/items/6631802549-lorcana-lile-d-archazia-les-problemes-vont-par-paire-202204-peu-commune-foil-id1635)*
+- *[Lorcana - Premier Chapitre - Belle 142/204 - Légendaire - ID=142](https://www.vinted.fr/items/7060924956-lorcana-premier-chapitre-belle-142204-legendaire-id142)*
