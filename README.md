@@ -6,8 +6,8 @@
 
 
 **Quelques liens aléatoires / Some random links**
-- *[Lorcana - Le Règne de Jafar - 3x Fred 98/204 - Rare - ID=1762](https://www.vinted.fr/items/6463132789-lorcana-le-regne-de-jafar-3x-fred-98204-rare-id1762)*
-- *[Lorcana - Le retour d'Ursula - Cri-Kee 69/204 - Rare Foil - ID=760](https://www.vinted.fr/items/6192196355-lorcana-le-retour-dursula-cri-kee-69204-rare-foil-id760)*
-- *[Lorcana - L'Ascension des Floodborn - 3x Jasmine 151/204 - Commune - ID=367](https://www.vinted.fr/items/6495230738-lorcana-lascension-des-floodborn-3x-jasmine-151204-commune-id367)*
-- *[Lorcana - L'ile d' Archazia - Les Problèmes Vont Par Paire 202/204 - Peu commune Foil - ID=1635](https://www.vinted.fr/items/6631802549-lorcana-lile-d-archazia-les-problemes-vont-par-paire-202204-peu-commune-foil-id1635)*
-- *[Lorcana - Premier Chapitre - Belle 142/204 - Légendaire - ID=142](https://www.vinted.fr/items/7060924956-lorcana-premier-chapitre-belle-142204-legendaire-id142)*
+- *[Lorcana - Fabuleux - Stitch 24/204 - Légendaire - ID=1960](https://www.vinted.fr/items/7073455397-lorcana-fabuleux-stitch-24204-legendaire-id1960)*
+- *[Lorcana - Premier Chapitre - 2x Génie 75/204 - Super rare - ID=75](https://www.vinted.fr/items/6197836960-lorcana-premier-chapitre-2x-genie-75204-super-rare-id75)*
+- *[Lorcana - La Mer Azurite - Peter Pan 85/204 - Super rare - ID=1284](https://www.vinted.fr/items/6463114863-lorcana-la-mer-azurite-peter-pan-85204-super-rare-id1284)*
+- *[Lorcana - Les Terres d'Encres - Stitch 125/204 - Commune Foil - ID=561](https://www.vinted.fr/items/6373106929-lorcana-les-terres-dencres-stitch-125204-commune-foil-id561)*
+- *[Lorcana - Le Règne de Jafar - 4x Ludwig Von Drake 7/204 - Rare - ID=1671](https://www.vinted.fr/items/6631505014-lorcana-le-regne-de-jafar-4x-ludwig-von-drake-7204-rare-id1671)*
