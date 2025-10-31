@@ -6,8 +6,8 @@
 
 
 **Quelques liens aléatoires / Some random links**
-- *[Lorcana - Fabuleux - 2x La Crique Cachée 102/204 - Commune - ID=2038](https://www.vinted.fr/items/7221794144-lorcana-fabuleux-2x-la-crique-cachee-102204-commune-id2038)*
-- *[Lorcana - L'ile d' Archazia - Ralph La Casse 27/204 - Rare Foil - ID=1460](https://www.vinted.fr/items/6091105673-lorcana-lile-d-archazia-ralph-la-casse-27204-rare-foil-id1460)*
-- *[Lorcana - Fabuleux - 3x Olaf 55/204 - Peu commune - ID=1991](https://www.vinted.fr/items/7325095903-lorcana-fabuleux-3x-olaf-55204-peu-commune-id1991)*
-- *[Lorcana - Le Règne de Jafar - 3x Capitaine Crochet 186/204 - Commune - ID=1850](https://www.vinted.fr/items/7289668937-lorcana-le-regne-de-jafar-3x-capitaine-crochet-186204-commune-id1850)*
-- *[Lorcana - Le retour d'Ursula - 2x Ursula 25/204 - Commune - ID=716](https://www.vinted.fr/items/6063515493-lorcana-le-retour-dursula-2x-ursula-25204-commune-id716)*
+- *[Lorcana - Fabuleux - 2x Médaillons Lestés 134/204 - Peu commune - ID=2070](https://www.vinted.fr/items/7202455706-lorcana-fabuleux-2x-medaillons-lestes-134204-peu-commune-id2070)*
+- *[Lorcana - Les Terres d'Encres - 2x Triste Sire 86/204 - Commune - ID=522](https://www.vinted.fr/items/6220765218-lorcana-les-terres-dencres-2x-triste-sire-86204-commune-id522)*
+- *[Lorcana - Le Règne de Jafar - 3x Donald 37/204 - Super rare - ID=1701](https://www.vinted.fr/items/6566976671-lorcana-le-regne-de-jafar-3x-donald-37204-super-rare-id1701)*
+- *[Lorcana - Le retour d'Ursula - Dingo 12/204 - Rare Foil - ID=703](https://www.vinted.fr/items/6116798107-lorcana-le-retour-dursula-dingo-12204-rare-foil-id703)*
+- *[Lorcana - Ciel Scintillant - Balthazar Picsou 140/204 - Rare - ID=1096](https://www.vinted.fr/items/7277173508-lorcana-ciel-scintillant-balthazar-picsou-140204-rare-id1096)*
