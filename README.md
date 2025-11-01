@@ -6,8 +6,8 @@
 
 
 **Quelques liens aléatoires / Some random links**
-- *[Lorcana - Fabuleux - 2x Médaillons Lestés 134/204 - Peu commune - ID=2070](https://www.vinted.fr/items/7202455706-lorcana-fabuleux-2x-medaillons-lestes-134204-peu-commune-id2070)*
-- *[Lorcana - Les Terres d'Encres - 2x Triste Sire 86/204 - Commune - ID=522](https://www.vinted.fr/items/6220765218-lorcana-les-terres-dencres-2x-triste-sire-86204-commune-id522)*
-- *[Lorcana - Le Règne de Jafar - 3x Donald 37/204 - Super rare - ID=1701](https://www.vinted.fr/items/6566976671-lorcana-le-regne-de-jafar-3x-donald-37204-super-rare-id1701)*
-- *[Lorcana - Le retour d'Ursula - Dingo 12/204 - Rare Foil - ID=703](https://www.vinted.fr/items/6116798107-lorcana-le-retour-dursula-dingo-12204-rare-foil-id703)*
-- *[Lorcana - Ciel Scintillant - Balthazar Picsou 140/204 - Rare - ID=1096](https://www.vinted.fr/items/7277173508-lorcana-ciel-scintillant-balthazar-picsou-140204-rare-id1096)*
+- *[Lorcana - Fabuleux - Ombre De Peter Pan 42/204 - Super rare - ID=1978](https://www.vinted.fr/items/7149175561-lorcana-fabuleux-ombre-de-peter-pan-42204-super-rare-id1978)*
+- *[Lorcana - L'ile d' Archazia - 3x Diablo 66/204 - Peu commune - ID=1499](https://www.vinted.fr/items/7105930669-lorcana-lile-d-archazia-3x-diablo-66204-peu-commune-id1499)*
+- *[Lorcana - L'ile d' Archazia - 3x Dame Gertrude 172/204 - Peu commune - ID=1605](https://www.vinted.fr/items/7221733370-lorcana-lile-d-archazia-3x-dame-gertrude-172204-peu-commune-id1605)*
+- *[Lorcana - Premier Chapitre - 3x Lanterne 33/204 - Rare - ID=33](https://www.vinted.fr/items/6191811932-lorcana-premier-chapitre-3x-lanterne-33204-rare-id33)*
+- *[Lorcana - La Mer Azurite - 2x Communicateur Galactique 99/204 - Commune - ID=1298](https://www.vinted.fr/items/6604650201-lorcana-la-mer-azurite-2x-communicateur-galactique-99204-commune-id1298)*
