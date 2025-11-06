@@ -200,7 +200,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 198;"Fracasser !";"Peu commune";Acier;14;1
 199;"Ils cassent en deux comme je veux";"Peu commune";Acier;14;1
 200;"Allumez les Mêches !";Commune;Acier;16;1
-201;"Plus ardent que le feu des volcans";Rare;Acier;2;0
+201;"Plus ardent que le feu des volcans";Rare;Acier;0;0
 202;"Tous avec moi !";"Peu commune";Acier;11;0
 203;"Miroir de la Bête";Commune;Acier;22;0
 204;"Île d'exil de Maui";"Peu commune";Acier;16;2
@@ -224,7 +224,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 240;Jasmine;Enchantée;Acier;0;0
 205;"La Reine";Épique;Ambre;0;0
 206;Aurore;Épique;Ambre;0;0
-207;Stitch;Épique;Ambre;0;1
+207;Stitch;Épique;Ambre;0;0
 208;Ursula;Épique;Améthyste;0;1
 209;Kuzco;Épique;Améthyste;0;0
 210;Elsa;Épique;Améthyste;0;0
