@@ -51,12 +51,12 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 50;Crapaud;Rare;Améthyste;2;1
 51;Coldstone;Rare;Améthyste;2;0
 52;"Miss Tick";Rare;Améthyste;3;0
-53;Nana;"Peu commune";Améthyste;4;0
+53;Nana;"Peu commune";Améthyste;3;0
 54;"Miss Tick";"Super rare";Améthyste;4;0
 55;Démona;Légendaire;Améthyste;1;0
 56;Hadès;Légendaire;Améthyste;2;0
 57;Olaf;"Peu commune";Améthyste;2;0
-58;Merlin;"Peu commune";Améthyste;5;1
+58;Merlin;"Peu commune";Améthyste;5;0
 59;Ursula;Rare;Améthyste;3;0
 60;"Chat du Cheshire";"Super rare";Améthyste;1;0
 61;"Ouste !";Commune;Améthyste;5;1
@@ -86,7 +86,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 85;Baloo;Rare;Émeraude;3;0
 86;Mégara;Rare;Émeraude;2;0
 87;"Goldie O'Gilt";Rare;Émeraude;2;0
-88;"Shere Khan";Légendaire;Émeraude;1;1
+88;"Shere Khan";Légendaire;Émeraude;0;1
 89;"Balthazar Picsou";"Super rare";Émeraude;3;0
 90;Akela;Commune;Émeraude;7;0
 91;Dingo;Rare;Émeraude;1;0
@@ -116,7 +116,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 115;"La Fée Clochette";"Peu commune";Rubis;3;0
 116;"David Xanatos";"Super rare";Rubis;1;0
 117;Hans;"Super rare";Rubis;2;0
-118;Hercule;Légendaire;Rubis;2;1
+118;Hercule;Légendaire;Rubis;1;1
 119;Goliath;"Peu commune";Rubis;6;0
 120;Brooklyn;Commune;Rubis;6;0
 121;Donald;Rare;Rubis;4;0
@@ -135,7 +135,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 134;"Fusée de Mushu";"Peu commune";Rubis;3;2
 135;"Le Bois-Amer";Rare;Rubis;1;0
 136;"Sleepy Hollow";"Peu commune";Rubis;5;0
-137;"Judy Hopps";"Peu commune";Saphir;5;0
+137;"Judy Hopps";"Peu commune";Saphir;4;0
 138;Tirelire;Commune;Saphir;8;0
 139;Anna;Commune;Saphir;4;0
 140;"Chef Louis";"Peu commune";Saphir;4;0
@@ -152,7 +152,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 151;"Le Sultan";Rare;Saphir;2;0
 152;"Ichabod Crane";"Peu commune";Saphir;5;0
 153;Scar;"Super rare";Saphir;1;0
-154;Daisy;Légendaire;Saphir;1;0
+154;Daisy;Légendaire;Saphir;0;0
 155;Cendrillon;Légendaire;Saphir;1;0
 156;"Judy Hopps";"Super rare";Saphir;1;0
 157;Pluto;"Peu commune";Saphir;4;1
