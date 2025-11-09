@@ -6,11 +6,11 @@
 
 
 **Quelques liens aléatoires / Some random links**
-- *[Lorcana - L'ile d' Archazia - Spirale D’ambre 41/204 - Peu commune Foil - ID=1474](https://www.vinted.fr/items/6631878294-lorcana-lile-d-archazia-spirale-dambre-41204-peu-commune-foil-id1474)*
-- *[Lorcana - Lueurs dans les Profondeurs - Merlin 58/204 - Peu commune Foil - ID=2247](https://www.vinted.fr/items/7499195064-lorcana-lueurs-dans-les-profondeurs-merlin-58204-peu-commune-foil-id2247)*
-- *[Lorcana - Le Règne de Jafar - 2x Jim Chéri 12/204 - Commune - ID=1676](https://www.vinted.fr/items/6620806284-lorcana-le-regne-de-jafar-2x-jim-cheri-12204-commune-id1676)*
-- *[Lorcana - Le Règne de Jafar - 3x Génie 189/204 - Commune - ID=1853](https://www.vinted.fr/items/6549870951-lorcana-le-regne-de-jafar-3x-genie-189204-commune-id1853)*
-- *[Lorcana - Ciel Scintillant - 2x Basil 153/204 - Commune - ID=1109](https://www.vinted.fr/items/5301411131-lorcana-ciel-scintillant-2x-basil-153204-commune-id1109)*
+- *[Lorcana - L'Ascension des Floodborn - Atelier De Maurice 168/204 - Rare - ID=384](https://www.vinted.fr/items/6069487356-lorcana-lascension-des-floodborn-atelier-de-maurice-168204-rare-id384)*
+- *[Lorcana - Ciel Scintillant - Lilo 8/204 - Commune Foil - ID=964](https://www.vinted.fr/items/6374132277-lorcana-ciel-scintillant-lilo-8204-commune-foil-id964)*
+- *[Lorcana - Lueurs dans les Profondeurs - Frousse Soudaine 219/204 - Épique Foil - ID=2408](https://www.vinted.fr/items/7506307547-lorcana-lueurs-dans-les-profondeurs-frousse-soudaine-219204-epique-foil-id2408)*
+- *[Lorcana - L'Ascension des Floodborn - 2x Benja 174/204 - Commune - ID=390](https://www.vinted.fr/items/5989654466-lorcana-lascension-des-floodborn-2x-benja-174204-commune-id390)*
+- *[Lorcana - Fabuleux - Robin Des Bois 162/204 - Rare Foil - ID=2098](https://www.vinted.fr/items/7433794116-lorcana-fabuleux-robin-des-bois-162204-rare-foil-id2098)*
 
 
 **🔎 Recherches Lorcana par rareté / Search Lorcana by rarity**
