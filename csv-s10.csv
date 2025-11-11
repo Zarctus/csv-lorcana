@@ -30,7 +30,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 29;"Le Cavalier attaque !";Rare;Ambre;2;1
 30;"Page retrouvée";"Peu commune";Ambre;5;1
 31;"Le journal de Zaza";"Peu commune";Ambre;5;0
-32;"Le Chaudron magique";Légendaire;Ambre;1;0
+32;"Le Chaudron magique";Légendaire;Ambre;0;0
 33;"Mâchouiller et crachouiller";Commune;Ambre;8;0
 34;Canardville;Rare;Ambre;2;0
 35;Minnie;Rare;Améthyste;2;0
@@ -53,7 +53,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 52;"Miss Tick";Rare;Améthyste;3;0
 53;Nana;"Peu commune";Améthyste;4;0
 54;"Miss Tick";"Super rare";Améthyste;4;0
-55;Démona;Légendaire;Améthyste;1;0
+55;Démona;Légendaire;Améthyste;0;0
 56;Hadès;Légendaire;Améthyste;2;0
 57;Olaf;"Peu commune";Améthyste;4;0
 58;Merlin;"Peu commune";Améthyste;6;0
@@ -153,7 +153,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 152;"Ichabod Crane";"Peu commune";Saphir;5;0
 153;Scar;"Super rare";Saphir;2;0
 154;Daisy;Légendaire;Saphir;0;0
-155;Cendrillon;Légendaire;Saphir;1;0
+155;Cendrillon;Légendaire;Saphir;0;0
 156;"Judy Hopps";"Super rare";Saphir;2;1
 157;Pluto;"Peu commune";Saphir;5;1
 158;Daisy;Rare;Saphir;2;1
