@@ -171,8 +171,8 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 170;"Le Château du Seigneur des Ténèbres";Rare;Saphir;4;0
 171;"Robin des Bois";Rare;Acier;5;0
 172;Donald;Commune;Acier;9;0
-173;Goliath;Légendaire;Acier;2;1
-174;"Le Cavalier sans tête";"Super rare";Acier;2;0
+173;Goliath;Légendaire;Acier;0;0
+174;"Le Cavalier sans tête";"Super rare";Acier;0;0
 175;Clawhauser;Commune;Acier;8;0
 176;Francine;Commune;Acier;8;1
 177;"Inspectrice Tezuka";Commune;Acier;9;1
@@ -195,7 +195,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 194;"Le Cavalier sans tête";Commune;Acier;8;1
 195;"Quelle poursuite infernale";Commune;Acier;11;2
 196;"Rassembler les indices";Commune;Acier;8;0
-197;"Foudroyant d'un éclair";"Peu commune";Acier;5;0
+197;"Foudroyant d'un éclair";"Peu commune";Acier;3;0
 198;"Un complot se prépare";"Peu commune";Acier;6;0
 199;"La Reine robot";"Peu commune";Acier;7;0
 200;"L'épée d'Hercule";Rare;Acier;3;0

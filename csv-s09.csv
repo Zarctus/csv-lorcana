@@ -150,7 +150,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 148;Hans;Commune;Saphir;18;1
 149;"La Reine";"Peu commune";Saphir;15;0
 150;"Grand Pabbie";Rare;Saphir;8;2
-151;Hadès;Légendaire;Saphir;1;0
+151;Hadès;Légendaire;Saphir;0;0
 152;"Mama Odie";Rare;Saphir;8;0
 153;Aurore;"Super rare";Saphir;5;0
 154;Aurore;Commune;Saphir;21;0
@@ -177,7 +177,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 175;Scar;Légendaire;Acier;0;0
 176;"Petit Jean";"Peu commune";Acier;17;1
 177;"Robin des Bois";Légendaire;Acier;0;0
-178;Jasmine;Rare;Acier;6;0
+178;Jasmine;Rare;Acier;4;0
 179;Tiana;Commune;Acier;19;0
 180;Benja;Commune;Acier;21;0
 181;Jafar;Commune;Acier;21;0
@@ -187,7 +187,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 185;"Mickey Mouse";Commune;Acier;22;2
 186;Hercule;"Peu commune";Acier;14;0
 187;Lawrence;"Peu commune";Acier;17;1
-188;"La Fée Clochette";"Super rare";Acier;7;0
+188;"La Fée Clochette";"Super rare";Acier;4;0
 189;"La Fée Clochette";Commune;Acier;24;2
 190;"Capitaine Crochet";Rare;Acier;9;1
 191;Hercule;Commune;Acier;22;1

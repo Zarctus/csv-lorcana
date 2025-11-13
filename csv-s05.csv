@@ -155,10 +155,10 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 154;"Sa Sucrerie";"Peu commune";Saphir;9;1
 155;Donald;Commune;Saphir;14;1
 156;Nanaka;Commune;Saphir;13;3
-157;Tipo;"Peu commune";Saphir;1;0
+157;Tipo;"Peu commune";Saphir;0;0
 158;Belle;Rare;Saphir;4;0
 159;Merlin;Légendaire;Saphir;0;0
-160;"Vision de l'Avenir";Commune;Saphir;14;0
+160;"Vision de l'Avenir";Commune;Saphir;10;0
 161;"Caprice royal";Rare;Saphir;3;0
 162;"Rien n'est plus pareil";Commune;Saphir;14;2
 163;Cachez-vous;"Peu commune";Saphir;9;0
