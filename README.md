@@ -6,11 +6,11 @@
 
 
 **Quelques liens aléatoires / Some random links**
-- *[Lorcana - Fabuleux - Ursula 44/204 - Super rare Foil - ID=1980](https://www.vinted.fr/items/7352727967-lorcana-fabuleux-ursula-44204-super-rare-foil-id1980)*
-- *[Lorcana - Fabuleux - 3x Olaf 55/204 - Peu commune - ID=1991](https://www.vinted.fr/items/7325095903-lorcana-fabuleux-3x-olaf-55204-peu-commune-id1991)*
-- *[Lorcana - Fabuleux - Belle 40/204 - Super rare - ID=1976](https://www.vinted.fr/items/7277080826-lorcana-fabuleux-belle-40204-super-rare-id1976)*
-- *[Lorcana - Premier Chapitre - 3x Maléfique 49/204 - Commune - ID=49](https://www.vinted.fr/items/6243757197-lorcana-premier-chapitre-3x-malefique-49204-commune-id49)*
-- *[Lorcana - La Mer Azurite - 3x Souillon 33/204 - Peu commune - ID=1232](https://www.vinted.fr/items/7067392412-lorcana-la-mer-azurite-3x-souillon-33204-peu-commune-id1232)*
+- *[Lorcana - Le Règne de Jafar - 2x Hadès 48/204 - Super rare - ID=1712](https://www.vinted.fr/items/6482256610-lorcana-le-regne-de-jafar-2x-hades-48204-super-rare-id1712)*
+- *[Lorcana - Le retour d'Ursula - 2x Contrat Signé 99/204 - Peu commune - ID=790](https://www.vinted.fr/items/6604763497-lorcana-le-retour-dursula-2x-contrat-signe-99204-peu-commune-id790)*
+- *[Lorcana - Lueurs dans les Profondeurs - 3x Flynn Rider 81/204 - Peu commune - ID=2270](https://www.vinted.fr/items/7529736404-lorcana-lueurs-dans-les-profondeurs-3x-flynn-rider-81204-peu-commune-id2270)*
+- *[Lorcana - Ciel Scintillant - 3x Déduction Sous Hypnose 94/204 - Commune - ID=1050](https://www.vinted.fr/items/7476666136-lorcana-ciel-scintillant-3x-deduction-sous-hypnose-94204-commune-id1050)*
+- *[Lorcana - Fabuleux - Nala 173/204 - Rare - ID=2109](https://www.vinted.fr/items/7113457216-lorcana-fabuleux-nala-173204-rare-id2109)*
 
 
 **🔎 Recherches Lorcana par rareté / Search Lorcana by rarity**
