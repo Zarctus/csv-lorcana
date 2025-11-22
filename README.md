@@ -2,19 +2,19 @@
 
 ** invitation Vinted / Vinted invitation **
 - *[Lien / Links](https://www.vinted.fr/invite/lynadry)*
-**Personnal CSV files for my collection**  
-*My vinted account : [Vinted](https://www.vinted.fr/member/223153477)*
 
-**Quote request**  
-*Please visit my website for all requests : [Zarctus.fr](https://www.zarctus.fr/)*
+
+** invitation Vinted / Vinted invitation **
+- *[Lien / Links](https://www.vinted.fr/invite/lynadry)*
+**Personnal CSV files for my collection**  
 
 
 **Quelques liens aléatoires / Some random links**
-- *[Lorcana - Fabuleux - 3x Nala 173/204 - Rare - ID=2109](https://www.vinted.fr/items/7598620810-lorcana-fabuleux-3x-nala-173204-rare-id2109)*
-- *[Lorcana - Ciel Scintillant - 4x Chromicône D'Améthyste 66/204 - Peu commune - ID=1022](https://www.vinted.fr/items/7583607664-lorcana-ciel-scintillant-4x-chromicone-damethyste-66204-peu-commune-id1022)*
-- *[Lorcana - L'ile d' Archazia - Le Fantôme Noir 135/204 - Peu commune Foil - ID=1568](https://www.vinted.fr/items/6631698427-lorcana-lile-d-archazia-le-fantome-noir-135204-peu-commune-foil-id1568)*
-- *[Lorcana - Le Règne de Jafar - Mulan 141/204 - Super rare - ID=1805](https://www.vinted.fr/items/6539936124-lorcana-le-regne-de-jafar-mulan-141204-super-rare-id1805)*
-- *[Lorcana - Ciel Scintillant - Kronk 185/204 - Super rare Foil - ID=1141](https://www.vinted.fr/items/4980814545-lorcana-ciel-scintillant-kronk-185204-super-rare-foil-id1141)*
+- *[Lorcana - Fabuleux - 3x Shere Khan 104/204 - Rare - ID=2040](https://www.vinted.fr/items/7447468430-lorcana-fabuleux-3x-shere-khan-104204-rare-id2040)*
+- *[Lorcana - Fabuleux - 2x Je Vole 165/204 - Commune - ID=2101](https://www.vinted.fr/items/7352982223-lorcana-fabuleux-2x-je-vole-165204-commune-id2101)*
+- *[Lorcana - Le retour d'Ursula - 3x Ursula 57/204 - Peu commune - ID=748](https://www.vinted.fr/items/6651367497-lorcana-le-retour-dursula-3x-ursula-57204-peu-commune-id748)*
+- *[Lorcana - Lueurs dans les Profondeurs - 3x Page Retrouvée 30/204 - Peu commune - ID=2219](https://www.vinted.fr/items/7575815805-lorcana-lueurs-dans-les-profondeurs-3x-page-retrouvee-30204-peu-commune-id2219)*
+- *[Lorcana - L'ile d' Archazia - Peg 7/204 - Peu commune Foil - ID=1440](https://www.vinted.fr/items/6110151674-lorcana-lile-d-archazia-peg-7204-peu-commune-foil-id1440)*
 
 
 **🔎 Recherches Lorcana par rareté / Search Lorcana by rarity**
