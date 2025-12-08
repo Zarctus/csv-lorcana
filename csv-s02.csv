@@ -47,7 +47,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 46;"Madame Mime";Rare;Améthyste;0;0
 47;"Madame Mime";Légendaire;Améthyste;0;0
 48;"Madame Mime";Rare;Améthyste;1;0
-49;"Madame Mime";"Peu commune";Améthyste;1;1
+49;"Madame Mime";"Peu commune";Améthyste;1;0
 50;Merlin;Commune;Améthyste;0;0
 51;Merlin;"Peu commune";Améthyste;0;0
 52;Merlin;Rare;Améthyste;0;0
@@ -218,10 +218,10 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 6;"Vanellope von Schweetz";Commune;Ambre;13;1
 25;"Try Everything";"Peu commune";Ambre;9;1
 26;"Toucher guérisseur";Commune;Ambre;13;0
-27;Ranimer;Rare;Ambre;8;1
+27;Ranimer;Rare;Ambre;8;0
 29;"Invitation au bal";"Peu commune";Ambre;14;0
 32;"Chromicône d'Ambre";"Peu commune";Ambre;11;2
-36;Nokk;Commune;Améthyste;17;1
+36;Nokk;Commune;Améthyste;18;1
 40;Bruni;"Peu commune";Améthyste;8;0
 46;Anna;Rare;Améthyste;3;0
 48;Elsa;"Super rare";Améthyste;0;0
@@ -247,11 +247,11 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 55;Elsa;Commune;Améthyste;10;0
 65;Sven;"Peu commune";"Améthyste, Saphir";11;0
 72;Anna;"Peu commune";"Améthyste, Saphir";6;0
-177;"L’eau a de la mémoire";Commune;Saphir;13;0
+177;"L’eau a de la mémoire";Commune;Saphir;14;0
 178;"La berceuse d'Ahtohallan";Rare;Saphir;1;0
 179;"Spirale de Saphir";"Peu commune";Saphir;1;0
 181;"Dr. Calico";Commune;Acier;14;1
-184;Volt;Commune;Acier;11;2
+184;Volt;Commune;Acier;12;2
 186;Raya;Rare;Acier;2;0
 193;Mulan;Commune;Acier;5;0
 204;"Bâton d’entraînement";Commune;Acier;12;0
@@ -269,14 +269,14 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 84;"Pics de glace";"Peu commune";"Améthyste, Saphir";10;0
 154;"Seigneur Pélinore";"Peu commune";Saphir;6;1
 156;Olaf;Commune;Saphir;12;1
-157;Anna;Commune;Saphir;12;0
+157;Anna;Commune;Saphir;13;0
 175;"Nous sommes là pour vous aider";Rare;Saphir;4;0
 180;"Cristal atlante";Rare;Saphir;4;0
 181;Atitaya;"Peu commune";Acier;9;0
-192;Ruzor;"Peu commune";Acier;10;0
+192;Ruzor;"Peu commune";Acier;11;0
 197;"Vincenzo Santorini";Rare;Acier;0;0
 200;Stitch;Rare;Acier;0;0
-202;"Beyond the Horizon";"Peu commune";Acier;4;0
+202;"Beyond the Horizon";"Peu commune";Acier;5;0
 223;Volt;"Super rare";"Ambre, Acier";0;0
 224;Elsa;"Super rare";"Améthyste, Saphir";0;0
 223;Dingo;Légendaire;Ambre;0;0

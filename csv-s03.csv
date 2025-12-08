@@ -6,7 +6,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 4b;"Chiot dalmatien";Commune;Ambre;1;0
 4c;"Chiot dalmatien";Commune;Ambre;1;0
 4d;"Chiot dalmatien";Commune;Ambre;2;0
-4e;"Chiot dalmatien";Commune;Ambre;2;1
+4e;"Chiot dalmatien";Commune;Ambre;2;0
 5;"Amadou Gentil";Commune;Ambre;9;0
 6;Kida;Commune;Ambre;7;0
 7;Kida;Légendaire;Ambre;0;0
@@ -15,7 +15,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 10;"Miss Bianca";Commune;Ambre;9;0
 11;"Mr. Snoops";Commune;Ambre;9;1
 12;Nani;"Peu commune";Ambre;4;0
-13;Orville;Commune;Ambre;12;0
+13;Orville;Commune;Ambre;13;0
 14;Patch;Commune;Ambre;10;1
 15;Perdita;Légendaire;Ambre;0;0
 16;Porcinet;"Super rare";Ambre;0;0
@@ -40,7 +40,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 35;Alice;"Super rare";Améthyste;1;0
 36;"Adeptes de Chernabog";"Peu commune";Améthyste;0;0
 37;Diablo;Commune;Améthyste;9;0
-38;Génie;"Super rare";Améthyste;1;0
+38;Génie;"Super rare";Améthyste;2;0
 39;Hydros;"Peu commune";Améthyste;8;0
 40;Iago;Commune;Améthyste;13;0
 41;Jafar;"Peu commune";Améthyste;8;1
@@ -58,12 +58,12 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 53;Pua;Commune;Améthyste;8;0
 54;Rafiki;Rare;Améthyste;0;0
 55;Stratos;Rare;Améthyste;3;0
-56;"L'Oiseau de Feu";Commune;Améthyste;11;1
+56;"L'Oiseau de Feu";Commune;Améthyste;12;1
 57;"La Reine";Commune;Améthyste;10;0
 58;"Le Gardien du Trésor";Rare;Améthyste;4;0
 59;Ursula;Rare;Améthyste;4;0
 60;"Offrir un don";Commune;Améthyste;9;0
-61;"Il m'appelle";"Peu commune";Améthyste;5;0
+61;"Il m'appelle";"Peu commune";Améthyste;6;0
 62;"Effort désespéré";"Peu commune";Améthyste;8;0
 63;"Je complète ma collection";Rare;Améthyste;3;0
 64;"La lampe";Rare;Améthyste;0;0
@@ -71,7 +71,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 66;"Montagne Interdite";Commune;Améthyste;8;0
 67;"Château de la reine";Rare;Améthyste;0;0
 68;"La Tour du Sorcier";"Peu commune";Améthyste;7;0
-69;"Le Frisé";Commune;Émeraude;10;2
+69;"Le Frisé";Commune;Émeraude;11;2
 70;"Ondins ensorcelés";Rare;Émeraude;0;0
 71;"Don Carnage";Commune;Émeraude;9;0
 72;Flotsam;Commune;Émeraude;10;0
@@ -115,13 +115,13 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 110;"Jim Hawkins";Commune;Rubis;8;0
 111;Kakamora;Commune;Rubis;12;1
 112;"Madame Médusa";"Super rare";Rubis;0;0
-113;Maui;"Peu commune";Rubis;6;0
+113;Maui;"Peu commune";Rubis;7;0
 114;Maui;Rare;Rubis;4;0
 115;"Milo Thatch";Commune;Rubis;11;0
 116;Vaiana;Rare;Rubis;3;0
 117;Vaiana;Commune;Rubis;9;0
 118;Niquedouille;Commune;Rubis;11;1
-119;"Peter Pan";Commune;Rubis;10;0
+119;"Peter Pan";Commune;Rubis;11;0
 120;"Peter Pan";Rare;Rubis;4;0
 121;"Prince Eric";"Super rare";Rubis;3;0
 122;Scroop;"Peu commune";Rubis;6;0
@@ -158,22 +158,22 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 153;Rufus;Commune;Saphir;9;0
 154;"Balthazar Picsou";"Super rare";Saphir;2;0
 155;"Balthazar Picsou";"Peu commune";Saphir;10;0
-156;"La Reine";"Peu commune";Saphir;8;0
+156;"La Reine";"Peu commune";Saphir;9;0
 157;"La Fée Clochette";"Super rare";Saphir;2;0
 158;"Wendy Darling";"Super rare";Saphir;0;0
 159;Distraction;Commune;Saphir;10;0
 160;"Je suis ton meilleur ami";Rare;Saphir;2;0
 161;"Le bleu lumière";"Peu commune";Saphir;0;0
-162;Réparation;Commune;Saphir;10;0
+162;Réparation;Commune;Saphir;11;0
 163;"Gyroscope lumineux";Rare;Saphir;3;0
 164;"Le cœur de Te Fiti";Rare;Saphir;7;0
 165;"Sou fétiche";Légendaire;Saphir;0;0
 166;"Haut-de-forme de Picsou";"Peu commune";Saphir;6;1
 167;"Porte du coffre";Commune;Saphir;8;0
-168;"La maison de Belle";Rare;Saphir;4;0
+168;"La maison de Belle";Rare;Saphir;5;0
 169;"Le Manoir de Picsou";Commune;Saphir;3;0
 170;Motunui;"Peu commune";Saphir;4;0
-171;Tui;Commune;Acier;10;0
+171;Tui;Commune;Acier;11;0
 172;Bourriquet;Commune;Acier;8;0
 173;"Gustave le Géant";Rare;Acier;4;0
 174;Hadès;Rare;Acier;2;0
@@ -187,7 +187,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 182;"Mickey Mouse";Légendaire;Acier;0;0
 183;Minnie;Commune;Acier;9;0
 184;"Monsieur Mouche";"Peu commune";Acier;0;0
-185;Mufasa;Rare;Acier;3;0
+185;Mufasa;Rare;Acier;3;1
 186;Nala;"Peu commune";Acier;5;0
 187;Pyros;Rare;Acier;0;0
 188;Razoul;Commune;Acier;9;0
