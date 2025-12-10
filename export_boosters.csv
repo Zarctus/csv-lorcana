@@ -1,4 +1,30 @@
 saison,number,nom,encre,rareté,is_foil
+"Le retour d’Ursula",91,Tor,Émeraude,Commune,N
+Prélude,141,Aurore,Saphir,Commune,N
+"Le retour d’Ursula",21,"Prince Eric",Ambre,Commune,N
+"Le retour d’Ursula",105,"Fa Zhou",Rubis,Commune,N
+"Le retour d’Ursula",62,"Passer à l'action",Améthyste,Commune,N
+"Le retour d’Ursula",178,Chien-Po,Acier,Commune,N
+"Le retour d’Ursula",30,"Signe le contrat",Ambre,"Peu commune",N
+"Le retour d’Ursula",182,"Li Shang",Acier,"Peu commune",N
+"Le retour d’Ursula",128,"La vie d'un pirate",Rubis,"Peu commune",N
+"Le retour d’Ursula",95,"Sous l'océan",Émeraude,Rare,N
+"Le retour d’Ursula",203,"La Muraille",Acier,Rare,N
+"Le retour d’Ursula",8,Donald,Ambre,"Peu commune",Y
+
+"Les Terres d'Encres",110,"Jim Hawkins",Rubis,Commune,N
+"Les Terres d'Encres",76,Jetsam,Émeraude,Commune,N
+"Les Terres d'Encres",47,"Tapis volant",Améthyste,Commune,N
+"Les Terres d'Encres",149,Loulou,Saphir,Commune,N
+"Les Terres d'Encres",183,Minnie,Acier,Commune,N
+"Les Terres d'Encres",4c,"Chiot dalmatien",Ambre,Commune,N
+Prélude,12,Nani,Ambre,"Peu commune",N
+Prélude,161,"Le bleu lumière",Saphir,"Peu commune",N
+"Les Terres d'Encres",124,"La Plume",Rubis,"Peu commune",N
+"Les Terres d'Encres",176,"John Silver",Acier,Rare,N
+"Les Terres d'Encres",132,"L'hameçon de Maui",Rubis,Rare,N
+"Menace des profondeurs – Quête des Illumineurs",65,"Le chapeau de sorcier",Améthyste,Rare,Y
+
 "Lueurs dans les Profondeurs",194,"Le Cavalier sans tête",Acier,Commune,N
 "Lueurs dans les Profondeurs",120,Brooklyn,Rubis,Commune,N
 "Lueurs dans les Profondeurs",94,"Alors tant pis !",Émeraude,Commune,N
@@ -2572,30 +2598,4 @@ Fabuleux,184,"Robin des Bois",Acier,"Peu commune",N
 Fabuleux,64,"La plume magique",Améthyste,Rare,N
 Fabuleux,89,"John Silver",Émeraude,Légendaire,N
 Fabuleux,176,"Petit Jean",Acier,"Peu commune",Y
-
-Fabuleux,63,"Je suis coincé !",Améthyste,Commune,N
-Fabuleux,21,Pluto,Ambre,Commune,N
-Fabuleux,96,Improviser,Émeraude,Commune,N
-Fabuleux,128,"Sergent Tibs",Rubis,Commune,N
-Fabuleux,200,"Allumez les Mêches !",Acier,Commune,N
-Fabuleux,165,"Je Vole",Saphir,Commune,N
-Fabuleux,17,Nani,Ambre,"Peu commune",N
-Fabuleux,52,"Camilo Madrigal",Améthyste,"Peu commune",N
-Fabuleux,133,"Un roi incontesté",Rubis,"Peu commune",N
-Fabuleux,40,Belle,Améthyste,"Super rare",N
-Fabuleux,76,Génie,Émeraude,"Super rare",N
-Fabuleux,15,Ariel,Ambre,Rare,Y
-
-Fabuleux,51,"Dolores Madrigal",Améthyste,Commune,N
-Fabuleux,31,"C'est la Fête",Ambre,Commune,N
-Fabuleux,98,"Concocter la Potion",Émeraude,Commune,N
-Fabuleux,127,Raya,Rubis,Commune,N
-Fabuleux,191,Hercule,Acier,Commune,N
-Fabuleux,147,Polochon,Saphir,Commune,N
-Fabuleux,53,Elsa,Améthyste,"Peu commune",N
-Fabuleux,156,Belle,Saphir,"Peu commune",N
-Fabuleux,132,"La vie d'un pirate",Rubis,"Peu commune",N
-Fabuleux,135,"Clochette du dîner",Rubis,Rare,N
-Fabuleux,150,"Grand Pabbie",Saphir,Rare,N
-Fabuleux,57,"Mama Odie",Améthyste,"Peu commune",Y
 

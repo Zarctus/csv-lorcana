@@ -4,7 +4,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 3;Chernabog;"Super rare";Ambre;0;0
 4a;"Chiot dalmatien";Commune;Ambre;1;0
 4b;"Chiot dalmatien";Commune;Ambre;1;0
-4c;"Chiot dalmatien";Commune;Ambre;1;0
+4c;"Chiot dalmatien";Commune;Ambre;2;0
 4d;"Chiot dalmatien";Commune;Ambre;2;0
 4e;"Chiot dalmatien";Commune;Ambre;2;0
 5;"Amadou Gentil";Commune;Ambre;9;0
@@ -14,7 +14,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 9;Minnie;Rare;Ambre;4;1
 10;"Miss Bianca";Commune;Ambre;9;0
 11;"Mr. Snoops";Commune;Ambre;9;1
-12;Nani;"Peu commune";Ambre;4;0
+12;Nani;"Peu commune";Ambre;5;0
 13;Orville;Commune;Ambre;13;0
 14;Patch;Commune;Ambre;10;1
 15;Perdita;Légendaire;Ambre;0;0
@@ -49,7 +49,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 44;"Balais magiques";"Peu commune";Améthyste;7;1
 45;"Balais magiques";Commune;Améthyste;11;1
 46;"Balais magiques";Commune;Améthyste;11;0
-47;"Tapis volant";Commune;Améthyste;8;2
+47;"Tapis volant";Commune;Améthyste;9;2
 48;"Miss Tick";Commune;Améthyste;6;1
 49;"Miss Tick";"Super rare";Améthyste;3;0
 50;"Miss Tick";"Peu commune";Améthyste;6;0
@@ -67,7 +67,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 62;"Effort désespéré";"Peu commune";Améthyste;8;0
 63;"Je complète ma collection";Rare;Améthyste;3;0
 64;"La lampe";Rare;Améthyste;0;0
-65;"Le chapeau de sorcier";Rare;Améthyste;0;0
+65;"Le chapeau de sorcier";Rare;Améthyste;0;1
 66;"Montagne Interdite";Commune;Améthyste;8;0
 67;"Château de la reine";Rare;Améthyste;0;0
 68;"La Tour du Sorcier";"Peu commune";Améthyste;7;0
@@ -78,7 +78,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 73;"Frère Tuck";"Peu commune";Émeraude;5;0
 74;"Helga Sinclair";"Super rare";Émeraude;1;0
 75;"Helga Sinclair";Rare;Émeraude;3;0
-76;Jetsam;Commune;Émeraude;10;2
+76;Jetsam;Commune;Émeraude;11;2
 77;Kit;"Peu commune";Émeraude;2;0
 78;"Lyle Tiberius Rourke";"Super rare";Émeraude;0;0
 79;"Milo Thatch";Commune;Émeraude;10;0
@@ -112,7 +112,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 107;Heihei;"Peu commune";Rubis;9;1
 108;L'Hydre;Légendaire;Rubis;0;0
 109;"Jim Hawkins";Légendaire;Rubis;0;0
-110;"Jim Hawkins";Commune;Rubis;8;0
+110;"Jim Hawkins";Commune;Rubis;9;0
 111;Kakamora;Commune;Rubis;12;1
 112;"Madame Médusa";"Super rare";Rubis;0;0
 113;Maui;"Peu commune";Rubis;7;0
@@ -126,7 +126,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 121;"Prince Eric";"Super rare";Rubis;3;0
 122;Scroop;"Peu commune";Rubis;6;0
 123;Simba;Rare;Rubis;1;0
-124;"La Plume";"Peu commune";Rubis;8;0
+124;"La Plume";"Peu commune";Rubis;9;0
 125;Stitch;Commune;Rubis;9;1
 126;Pendard;"Peu commune";Rubis;7;0
 127;Zaza;Commune;Rubis;10;1
@@ -134,7 +134,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 129;"Moi, j'ai un rêve";"Peu commune";Rubis;6;0
 130;"Debout ! Tout de suite !";Rare;Rubis;1;0
 131;Voyage;Commune;Rubis;10;0
-132;"L'hameçon de Maui";Rare;Rubis;3;0
+132;"L'hameçon de Maui";Rare;Rubis;4;0
 133;"Talisman sumérien";"Peu commune";Rubis;8;0
 134;Agrabah;Commune;Rubis;5;1
 135;"Jolly Roger";"Peu commune";Rubis;5;0
@@ -151,7 +151,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 146;"Roi Louie";Commune;Saphir;10;1
 147;Kit;"Peu commune";Saphir;6;1
 148;Kit;Commune;Saphir;10;1
-149;Loulou;Commune;Saphir;11;1
+149;Loulou;Commune;Saphir;12;1
 150;"Belle Marianne";Commune;Saphir;11;0
 151;"Mama Odie";Rare;Saphir;5;0
 152;Pluto;Commune;Saphir;9;0
@@ -163,7 +163,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 158;"Wendy Darling";"Super rare";Saphir;0;0
 159;Distraction;Commune;Saphir;10;0
 160;"Je suis ton meilleur ami";Rare;Saphir;2;0
-161;"Le bleu lumière";"Peu commune";Saphir;0;0
+161;"Le bleu lumière";"Peu commune";Saphir;1;0
 162;Réparation;Commune;Saphir;11;0
 163;"Gyroscope lumineux";Rare;Saphir;3;0
 164;"Le cœur de Te Fiti";Rare;Saphir;7;0
@@ -178,14 +178,14 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 173;"Gustave le Géant";Rare;Acier;4;0
 174;Hadès;Rare;Acier;2;0
 175;"Helga Sinclair";Commune;Acier;11;1
-176;"John Silver";Rare;Acier;0;0
+176;"John Silver";Rare;Acier;1;0
 177;Kida;Commune;Acier;10;0
 178;"Petit Jean";"Super rare";Acier;2;0
 179;"Petit Jean";"Peu commune";Acier;7;0
 180;Lythos;"Peu commune";Acier;6;1
 181;"Mickey Mouse";Commune;Acier;9;0
 182;"Mickey Mouse";Légendaire;Acier;0;0
-183;Minnie;Commune;Acier;9;0
+183;Minnie;Commune;Acier;10;0
 184;"Monsieur Mouche";"Peu commune";Acier;0;0
 185;Mufasa;Rare;Acier;3;1
 186;Nala;"Peu commune";Acier;5;0

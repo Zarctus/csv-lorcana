@@ -229,7 +229,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 22;"La Fée Clochette";"Peu commune";Ambre;6;0
 44;"Balais magiques";"Peu commune";Améthyste;7;1
 45;"Balais magiques";Commune;Améthyste;11;1
-65;"Le chapeau de sorcier";Rare;Améthyste;0;0
+65;"Le chapeau de sorcier";Rare;Améthyste;0;1
 114;Maui;Rare;Rubis;4;0
 180;Lythos;"Peu commune";Acier;6;1
 187;Pyros;Rare;Acier;0;0

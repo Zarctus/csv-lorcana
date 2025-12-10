@@ -6,7 +6,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 5;"Big Ben";Commune;Ambre;16;0
 6;Daisy;"Peu commune";Ambre;13;0
 7;Daisy;Commune;Ambre;18;3
-8;Donald;"Peu commune";Ambre;0;0
+8;Donald;"Peu commune";Ambre;0;1
 9;"Félix Madrigal";"Peu commune";Ambre;10;0
 10;Gaston;"Super rare";Ambre;5;0
 11;"La Harpe Magique";Rare;Ambre;7;1
@@ -19,7 +19,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 18;"Mirabel Madrigal";"Super rare";Ambre;4;0
 19;"Mirabel Madrigal";Commune;Ambre;21;2
 20;Pluto;Commune;Ambre;19;2
-21;"Prince Eric";Commune;Ambre;19;1
+21;"Prince Eric";Commune;Ambre;20;1
 22;"Prince Eric";"Peu commune";Ambre;11;0
 23;Stitch;Commune;Ambre;18;1
 24;Ursula;Rare;Ambre;2;0
@@ -28,7 +28,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 27;"Premiers Secours";Commune;Ambre;18;1
 28;"On est une Famille";Rare;Ambre;6;1
 29;"J'ai perdu le Nord";"Peu commune";Ambre;12;0
-30;"Signe le contrat";"Peu commune";Ambre;12;0
+30;"Signe le contrat";"Peu commune";Ambre;13;0
 31;"La Chandelle du Miracle";Rare;Ambre;5;0
 32;"Platine disque";Commune;Ambre;20;2
 33;Atlantica;Commune;Ambre;18;0
@@ -60,7 +60,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 59;"Yen Sid";Légendaire;Améthyste;0;0
 60;"Pauvres âmes en perdition";Commune;Améthyste;19;2
 61;"La Deuxième Étoile sur la Droite";Rare;Améthyste;6;0
-62;"Passer à l'action";Commune;Améthyste;21;2
+62;"Passer à l'action";Commune;Améthyste;22;2
 63;"Plan d'Ursula";"Peu commune";Améthyste;13;0
 64;"Rose mystique";Rare;Améthyste;8;0
 65;Rose-Lanterne;Commune;Améthyste;16;2
@@ -89,11 +89,11 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 88;"Prince Philippe";Rare;Émeraude;6;2
 89;"Les Moires";Commune;Émeraude;16;2
 90;"Les Muses";Rare;Émeraude;0;0
-91;Tor;Commune;Émeraude;15;2
+91;Tor;Commune;Émeraude;16;2
 92;Zeus;"Super rare";Émeraude;1;0
 93;"Esquive !";Commune;Émeraude;21;4
 94;"Concocter la Potion";Commune;Émeraude;16;1
-95;"Sous l'océan";Rare;Émeraude;6;0
+95;"Sous l'océan";Rare;Émeraude;7;0
 96;"Ruse d'Ursula";"Peu commune";Émeraude;13;0
 97;"Ne parlons pas de Bruno";Rare;Émeraude;0;0
 98;"Invocateur d'encre caché";Commune;Émeraude;17;1
@@ -103,7 +103,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 102;"Jardin d'Ursula";Rare;Émeraude;6;0
 103;"La Bête";"Peu commune";Rubis;11;0
 104;Benja;Commune;Rubis;18;3
-105;"Fa Zhou";Commune;Rubis;18;2
+105;"Fa Zhou";Commune;Rubis;19;2
 106;"Flynn Rider";"Super rare";Rubis;0;0
 107;Dingo;Rare;Rubis;0;0
 108;Hercule;Commune;Rubis;19;1
@@ -126,7 +126,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 125;Sisu;Légendaire;Rubis;0;0
 126;Tong;Commune;Rubis;20;3
 127;"Tuk Tuk";Rare;Rubis;6;1
-128;"La vie d'un pirate";"Peu commune";Rubis;11;0
+128;"La vie d'un pirate";"Peu commune";Rubis;12;0
 129;"Un roi incontesté";Rare;Rubis;3;0
 130;Bagarre;Commune;Rubis;0;0
 131;"Décret Impérial";Rare;Rubis;7;0
@@ -139,7 +139,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 138;Anna;"Super rare";Saphir;3;0
 139;Ariel;"Super rare";Saphir;0;0
 140;Aurore;"Super rare";Saphir;4;0
-141;Aurore;Commune;Saphir;16;2
+141;Aurore;Commune;Saphir;17;2
 142;"Dang Hu";Rare;Saphir;6;0
 143;"Fa Li";Commune;Saphir;16;2
 144;Polochon;"Peu commune";Saphir;12;0
@@ -176,11 +176,11 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 175;Ariel;"Super rare";Acier;0;0
 176;"La Bête";Commune;Acier;15;6
 177;"Chi Fu";"Peu commune";Acier;13;0
-178;Chien-Po;Commune;Acier;25;2
+178;Chien-Po;Commune;Acier;26;2
 179;Donald;Légendaire;Acier;0;0
 180;Hercule;Rare;Acier;1;0
 181;"Le Fou";Rare;Acier;5;0
-182;"Li Shang";"Peu commune";Acier;12;0
+182;"Li Shang";"Peu commune";Acier;13;0
 183;Ling;"Peu commune";Acier;15;0
 184;"Luisa Madrigal";Commune;Acier;18;4
 185;"Balais Magiques";Commune;Acier;13;6
@@ -201,7 +201,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 200;"Sphère d'endurance";Commune;Acier;7;2
 201;"Arc Impérial";"Peu commune";Acier;10;0
 202;"Canon du RLS Héritage";Rare;Acier;9;1
-203;"La Muraille";Rare;Acier;5;0
+203;"La Muraille";Rare;Acier;6;0
 204;Thèbes;Commune;Acier;20;4
 205;Cendrillon;Enchantée;Ambre;0;0
 206;Minnie;Enchantée;Ambre;0;0
