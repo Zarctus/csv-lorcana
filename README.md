@@ -10,11 +10,11 @@
 
 
 **Quelques liens aléatoires / Some random links**
-- *[Lorcana - Ciel Scintillant - 3x Joyeux 191/204 - Commune - ID=1147](https://www.vinted.fr/items/5682102109-lorcana-ciel-scintillant-3x-joyeux-191204-commune-id1147)*
-- *[Lorcana - La Mer Azurite - Cobra Bubbles 188/204 - Rare Foil - ID=1387](https://www.vinted.fr/items/7477030971-lorcana-la-mer-azurite-cobra-bubbles-188204-rare-foil-id1387)*
-- *[Lorcana - Fabuleux - 3x Shere Khan 104/204 - Rare - ID=2040](https://www.vinted.fr/items/7447468430-lorcana-fabuleux-3x-shere-khan-104204-rare-id2040)*
-- *[Lorcana - Fabuleux - 2x Je Vole 165/204 - Commune - ID=2101](https://www.vinted.fr/items/7352982223-lorcana-fabuleux-2x-je-vole-165204-commune-id2101)*
-- *[Lorcana - Lueurs dans les Profondeurs - 3x Elsa 45/204 - Commune - ID=2234](https://www.vinted.fr/items/7583797026-lorcana-lueurs-dans-les-profondeurs-3x-elsa-45204-commune-id2234)*
+- *[Lorcana - Le Règne de Jafar - 2x Hadès 48/204 - Super rare - ID=1712](https://www.vinted.fr/items/6482256610-lorcana-le-regne-de-jafar-2x-hades-48204-super-rare-id1712)*
+- *[Lorcana - Lueurs dans les Profondeurs - 3x Malin, Méchant, Vilain 97/204 - Peu commune - ID=2286](https://www.vinted.fr/items/7566753855-lorcana-lueurs-dans-les-profondeurs-3x-malin-mechant-vilain-97204-peu-commune-id2286)*
+- *[Lorcana - Lueurs dans les Profondeurs - 3x Foudroyant D'Un Éclair 197/204 - Peu commune - ID=2386](https://www.vinted.fr/items/7503079300-lorcana-lueurs-dans-les-profondeurs-3x-foudroyant-dun-eclair-197204-peu-commune-id2386)*
+- *[Lorcana - Les Terres d'Encres - Ariel 103/204 - Super rare - ID=539](https://www.vinted.fr/items/5835816506-lorcana-les-terres-dencres-ariel-103204-super-rare-id539)*
+- *[Lorcana - Le Règne de Jafar - 3x Capitaine Crochet 186/204 - Commune - ID=1850](https://www.vinted.fr/items/7289668937-lorcana-le-regne-de-jafar-3x-capitaine-crochet-186204-commune-id1850)*
 
 
 **🔎 Recherches Lorcana par rareté / Search Lorcana by rarity**
