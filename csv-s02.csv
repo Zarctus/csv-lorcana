@@ -2,7 +2,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 1;Timide;"Peu commune";Ambre;8;1
 2;Jean-Christophe;Rare;Ambre;1;0
 3;Cendrillon;Rare;Ambre;0;0
-4;"Cobra Bubbles";Rare;Ambre;4;0
+4;"Cobra Bubbles";Rare;Ambre;5;0
 5;Prof;"Peu commune";Ambre;7;0
 6;Simplet;"Peu commune";Ambre;8;0
 7;Eudora;Commune;Ambre;5;1
@@ -20,15 +20,15 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 19;Raiponce;"Peu commune";Ambre;3;0
 20;Raiponce;Commune;Ambre;7;0
 21;Dormeur;Commune;Ambre;10;0
-22;Atchoum;Commune;Ambre;15;0
+22;Atchoum;Commune;Ambre;16;0
 23;Blanche-Neige;Commune;Ambre;12;0
 24;Blanche-Neige;"Peu commune";Ambre;10;0
 25;Blanche-Neige;Légendaire;Ambre;0;0
 26;"La Reine";"Super rare";Ambre;0;0
 27;"La Reine";Commune;Ambre;19;2
 28;"Ne bougez pas";Commune;Ambre;16;0
-29;"Ultime combat";"Peu commune";Ambre;5;0
-30;"Peignons les roses en rouge";Commune;Ambre;7;0
+29;"Ultime combat";"Peu commune";Ambre;6;0
+30;"Peignons les roses en rouge";Commune;Ambre;7;1
 31;"Le Grand Génie du Mal";Rare;Ambre;0;0
 32;"De zéro en héros";"Peu commune";Ambre;7;0
 33;"Pierre de Dragon";Rare;Ambre;4;0
@@ -40,7 +40,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 39;Elsa;Commune;Améthyste;12;0
 40;"La Bonne Fée";"Peu commune";Améthyste;7;0
 41;"La Bonne Fée";Légendaire;Améthyste;0;0
-42;"La Bonne Fée";Commune;Améthyste;15;1
+42;"La Bonne Fée";Commune;Améthyste;16;1
 43;Heihei;"Peu commune";Améthyste;10;0
 44;"Jiminy Cricket";Commune;Améthyste;9;0
 45;Kuzco;Commune;Améthyste;6;0
@@ -67,7 +67,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 66;"Maillet de croquet";Commune;Améthyste;13;2
 67;"Panneaux déroutants";Rare;Améthyste;4;0
 68;"Grimoire du sorcier";Rare;Améthyste;0;0
-69;Arthur;Commune;Émeraude;10;0
+69;Arthur;Commune;Émeraude;11;0
 70;"La Bête";Légendaire;Émeraude;0;0
 71;Belle;"Peu commune";Émeraude;2;0
 72;Belle;Légendaire;Émeraude;0;0
@@ -102,7 +102,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 101;"Sonner la clochette";"Peu commune";Émeraude;8;0
 102;"Piège génial de Ratigan";Rare;Émeraude;3;0
 103;Baloo;Commune;Rubis;8;0
-104;Boun;Commune;Rubis;12;1
+104;Boun;Commune;Rubis;13;1
 105;"Gardes cartes";"Peu commune";Rubis;7;0
 106;Donald;Légendaire;Rubis;0;0
 107;Félicia;Commune;Rubis;11;1
@@ -111,7 +111,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 110;"Madame de Trémaine";"Super rare";Rubis;0;0
 111;"Madame de Trémaine";Commune;Rubis;11;0
 112;Lumière;Rare;Rubis;4;0
-113;Minnie;"Peu commune";Rubis;1;0
+113;Minnie;"Peu commune";Rubis;2;0
 114;Minnie;Rare;Rubis;2;0
 115;Minnie;Commune;Rubis;12;0
 116;"Mère Gothel";"Peu commune";Rubis;4;0
@@ -139,7 +139,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 138;Basil;"Super rare";Saphir;3;0
 139;Basil;Commune;Saphir;9;0
 140;Basil;Commune;Saphir;15;0
-141;"La Chenille";"Peu commune";Saphir;5;0
+141;"La Chenille";"Peu commune";Saphir;6;0
 142;"Big Ben";"Super rare";Saphir;0;0
 143;"Big Ben";"Peu commune";Saphir;5;2
 144;"Cruella d'Enfer";Commune;Saphir;16;1
@@ -154,13 +154,13 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 153;"Madame Judson";Rare;Saphir;4;0
 154;"Nick Wilde";"Peu commune";Saphir;1;2
 155;"Bébé Noi";Rare;Saphir;1;0
-156;"Maître Hibou";Commune;Saphir;20;1
+156;"Maître Hibou";Commune;Saphir;21;1
 157;"Prince charmant";Rare;Saphir;2;0
 158;"Coco Lapin";Commune;Saphir;9;0
 159;Sisu;Légendaire;Saphir;0;0
 160;Nokk;Commune;Saphir;12;0
 161;"Winnie l'ourson";Rare;Saphir;2;0
-162;"Chute dans le terrier du lapin";Rare;Saphir;5;0
+162;"Chute dans le terrier du lapin";Rare;Saphir;6;0
 163;"Quatre douzaines d'œufs";"Peu commune";Saphir;10;0
 164;"Projectile de fortune";"Peu commune";Saphir;11;0
 165;"Rien à cacher";Commune;Saphir;3;0
@@ -172,7 +172,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 171;"La Bête";Commune;Acier;12;0
 172;"La Bête";"Super rare";Acier;0;0
 173;"La Bête";Légendaire;Acier;0;0
-174;Benja;Commune;Acier;4;0
+174;Benja;Commune;Acier;5;0
 175;"Chef Bogo";Rare;Acier;1;0
 176;Cendrillon;Commune;Acier;11;0
 177;Cendrillon;"Super rare";Acier;0;0
@@ -254,7 +254,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 184;Volt;Commune;Acier;12;2
 186;Raya;Rare;Acier;2;0
 193;Mulan;Commune;Acier;5;0
-204;"Bâton d’entraînement";Commune;Acier;12;0
+204;"Bâton d’entraînement";Commune;Acier;13;0
 15;Rhino;Commune;Ambre;10;0
 28;Pluto;"Peu commune";"Ambre, Acier";10;0
 29;Volt;Rare;"Ambre, Acier";5;0
