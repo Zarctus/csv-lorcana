@@ -1,4 +1,30 @@
 saison,number,nom,encre,rareté,is_foil
+Fabuleux,34,Atlantica,Ambre,Commune,N
+Fabuleux,49,Kuzco,Améthyste,Commune,N
+Fabuleux,116,Vaiana,Rubis,Commune,N
+Fabuleux,95,"Cruelle Diablesse",Émeraude,Commune,N
+Fabuleux,148,Hans,Saphir,Commune,N
+Fabuleux,200,"Allumez les Mêches !",Acier,Commune,N
+Fabuleux,90,Ursula,Émeraude,"Peu commune",N
+Fabuleux,13,"Mickey Mouse",Ambre,"Peu commune",N
+Fabuleux,176,"Petit Jean",Acier,"Peu commune",N
+Fabuleux,15,Ariel,Ambre,Rare,N
+Fabuleux,111,"Mickey Mouse",Rubis,Légendaire,N
+Fabuleux,42,"Ombre de Peter Pan",Améthyste,"Super rare",Y
+
+"Lueurs dans les Profondeurs",186,"Les jumeaux",Acier,Commune,N
+"Lueurs dans les Profondeurs",110,"Mère Gothel",Rubis,Commune,N
+"Lueurs dans les Profondeurs",77,Jetsam,Émeraude,Commune,N
+"Lueurs dans les Profondeurs",28,"Berceuse de la Lune de Della",Ambre,Commune,N
+"Lueurs dans les Profondeurs",160,"Mickey Mouse",Saphir,Commune,N
+"Lueurs dans les Profondeurs",61,"Ouste !",Améthyste,Commune,N
+"Lueurs dans les Profondeurs",190,Broadway,Acier,"Peu commune",N
+"Lueurs dans les Profondeurs",64,"Bilan de performance",Améthyste,"Peu commune",N
+"Lueurs dans les Profondeurs",152,"Ichabod Crane",Saphir,"Peu commune",N
+"Lueurs dans les Profondeurs",187,"Nick Wilde",Acier,Rare,N
+"Lueurs dans les Profondeurs",36,"Le Seigneur des Ténèbres",Améthyste,"Super rare",N
+"Lueurs dans les Profondeurs",33,"Mâchouiller et crachouiller",Ambre,Commune,Y
+
 Fabuleux,8,Raiponce,Ambre,Commune,N
 Fabuleux,68,"Casa Madrigal",Améthyste,Commune,N
 Fabuleux,80,"Mickey Mouse",Émeraude,Commune,N
@@ -2572,30 +2598,4 @@ Fabuleux,166,"Creuse encore et encore",Saphir,"Peu commune",N
 Fabuleux,160,Alice,Saphir,"Super rare",N
 Fabuleux,5,Minnie,Ambre,"Super rare",N
 Fabuleux,122,"Gardes cartes",Rubis,"Peu commune",Y
-
-Fabuleux,49,Kuzco,Améthyste,Commune,N
-Fabuleux,7,"La Reine",Ambre,Commune,N
-Fabuleux,84,Pégase,Émeraude,Commune,N
-Fabuleux,131,"Tu t'envoles",Rubis,Commune,N
-Fabuleux,181,Jafar,Acier,Commune,N
-Fabuleux,169,"Panier de Noix de Coco",Saphir,Commune,N
-Fabuleux,55,Olaf,Améthyste,"Peu commune",N
-Fabuleux,166,"Creuse encore et encore",Saphir,"Peu commune",N
-Fabuleux,119,Sisu,Rubis,"Peu commune",N
-Fabuleux,150,"Grand Pabbie",Saphir,Rare,N
-Fabuleux,60,"La Deuxième Étoile sur la Droite",Améthyste,Rare,N
-Fabuleux,193,"Li Shang",Acier,"Peu commune",Y
-
-Fabuleux,68,"Casa Madrigal",Améthyste,Commune,N
-Fabuleux,8,Raiponce,Ambre,Commune,N
-Fabuleux,95,"Cruelle Diablesse",Émeraude,Commune,N
-Fabuleux,136,Agrabah,Rubis,Commune,N
-Fabuleux,196,Ariel,Acier,Commune,N
-Fabuleux,145,"Cruella d'Enfer",Saphir,Commune,N
-Fabuleux,91,Turbo,Émeraude,"Peu commune",N
-Fabuleux,23,"La Reine de Cœur",Ambre,"Peu commune",N
-Fabuleux,187,Lawrence,Acier,"Peu commune",N
-Fabuleux,15,Ariel,Ambre,Rare,N
-Fabuleux,72,"Prince Philippe",Émeraude,Rare,N
-Fabuleux,50,Tic-Tac,Améthyste,Commune,Y
 
