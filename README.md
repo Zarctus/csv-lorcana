@@ -10,11 +10,11 @@
 
 
 **Quelques liens aléatoires / Some random links**
-- *[Lorcana - Ciel Scintillant - 3x Sven 23/204 - Peu commune - ID=979](https://www.vinted.fr/items/6482181492-lorcana-ciel-scintillant-3x-sven-23204-peu-commune-id979)*
-- *[Lorcana - Premier Chapitre - 3x Mickey Mouse 154/204 - Commune - ID=154](https://www.vinted.fr/items/4945695312-lorcana-premier-chapitre-3x-mickey-mouse-154204-commune-id154)*
-- *[Lorcana - Lueurs dans les Profondeurs - Malin, Méchant, Vilain 97/204 - Peu commune Foil - ID=2286](https://www.vinted.fr/items/7537384715-lorcana-lueurs-dans-les-profondeurs-malin-mechant-vilain-97204-peu-commune-foil-id2286)*
-- *[Lorcana - L'Ascension des Floodborn - 2x Gaston 8/204 - Peu commune - ID=224](https://www.vinted.fr/items/6192089606-lorcana-lascension-des-floodborn-2x-gaston-8204-peu-commune-id224)*
-- *[Lorcana - Le retour d'Ursula - 4x Mulan 116/204 - Commune - ID=807](https://www.vinted.fr/items/6197724116-lorcana-le-retour-dursula-4x-mulan-116204-commune-id807)*
+- *[Lorcana - Fabuleux - 4x John Silver 192/204 - Rare - ID=2128](https://www.vinted.fr/items/7575744830-lorcana-fabuleux-4x-john-silver-192204-rare-id2128)*
+- *[Lorcana - Fabuleux - Maléfique 108/204 - Légendaire - ID=2044](https://www.vinted.fr/items/7676082038-lorcana-fabuleux-malefique-108204-legendaire-id2044)*
+- *[Lorcana - Le Règne de Jafar - 2x Beyond The Horizon 202/204 - Peu commune - ID=1866](https://www.vinted.fr/items/6469149111-lorcana-le-regne-de-jafar-2x-beyond-the-horizon-202204-peu-commune-id1866)*
+- *[Lorcana - Fabuleux - La Reine 35/204 - Rare Foil - ID=1971](https://www.vinted.fr/items/7099720694-lorcana-fabuleux-la-reine-35204-rare-foil-id1971)*
+- *[Lorcana - La Mer Azurite - Communicateur Galactique 99/204 - Commune Foil - ID=1298](https://www.vinted.fr/items/6374256664-lorcana-la-mer-azurite-communicateur-galactique-99204-commune-foil-id1298)*
 
 
 **🔎 Recherches Lorcana par rareté / Search Lorcana by rarity**
