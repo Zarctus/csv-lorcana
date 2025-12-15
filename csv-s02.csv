@@ -6,8 +6,8 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 5;Prof;"Peu commune";Ambre;7;0
 6;Simplet;"Peu commune";Ambre;8;0
 7;Eudora;Commune;Ambre;5;1
-8;Gaston;"Peu commune";Ambre;5;1
-9;"Grand Duke";Rare;Ambre;2;0
+8;Gaston;"Peu commune";Ambre;6;1
+9;"Grand Duke";Rare;Ambre;3;0
 10;Grincheux;Commune;Ambre;11;2
 11;Joyeux;Commune;Ambre;13;0
 12;"Roi Louie";"Super rare";Ambre;1;0
@@ -25,7 +25,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 24;Blanche-Neige;"Peu commune";Ambre;10;0
 25;Blanche-Neige;Légendaire;Ambre;0;0
 26;"La Reine";"Super rare";Ambre;0;0
-27;"La Reine";Commune;Ambre;19;2
+27;"La Reine";Commune;Ambre;20;2
 28;"Ne bougez pas";Commune;Ambre;16;0
 29;"Ultime combat";"Peu commune";Ambre;6;0
 30;"Peignons les roses en rouge";Commune;Ambre;7;1
@@ -64,7 +64,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 63;"Je suis coincé !";Commune;Améthyste;9;0
 64;"La légende de l'épée dans l'enclume";Commune;Améthyste;7;0
 65;"Contrat irrévocable";"Peu commune";Améthyste;5;0
-66;"Maillet de croquet";Commune;Améthyste;13;2
+66;"Maillet de croquet";Commune;Améthyste;14;2
 67;"Panneaux déroutants";Rare;Améthyste;4;0
 68;"Grimoire du sorcier";Rare;Améthyste;0;0
 69;Arthur;Commune;Émeraude;11;0
@@ -80,12 +80,12 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 79;"Dr. Facilier";"Super rare";Émeraude;4;0
 80;L'Enchanteresse;Commune;Émeraude;5;0
 81;"Flynn Rider";Commune;Émeraude;14;1
-82;"Flynn Rider";Rare;Émeraude;0;0
+82;"Flynn Rider";Rare;Émeraude;1;0
 83;Gaston;Commune;Émeraude;13;1
 84;"Petit Jean";Rare;Émeraude;2;0
 85;Lucifer;Rare;Émeraude;0;0
 86;Peine;"Peu commune";Émeraude;3;0
-87;Panique;Commune;Émeraude;9;0
+87;Panique;Commune;Émeraude;10;1
 88;Pat;Rare;Émeraude;4;0
 89;"Prince Jean";Rare;Émeraude;0;0
 90;"La Reine de Cœur";Commune;Émeraude;10;1
@@ -106,7 +106,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 105;"Gardes cartes";"Peu commune";Rubis;7;0
 106;Donald;Légendaire;Rubis;0;0
 107;Félicia;Commune;Rubis;11;1
-108;Fidget;Commune;Rubis;12;0
+108;Fidget;Commune;Rubis;13;0
 109;"Grand Coquin";Rare;Rubis;8;0
 110;"Madame de Trémaine";"Super rare";Rubis;0;0
 111;"Madame de Trémaine";Commune;Rubis;12;0
@@ -114,7 +114,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 113;Minnie;"Peu commune";Rubis;2;0
 114;Minnie;Rare;Rubis;2;0
 115;Minnie;Commune;Rubis;12;0
-116;"Mère Gothel";"Peu commune";Rubis;4;0
+116;"Mère Gothel";"Peu commune";Rubis;5;0
 117;Mulan;Commune;Rubis;6;0
 118;Namaari;"Super rare";Rubis;4;0
 119;"La Reine de Cœur";"Peu commune";Rubis;8;1
@@ -148,7 +148,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 147;Gaston;Rare;Saphir;2;1
 148;"Grand Pabbie";"Super rare";Saphir;2;0
 149;Flaversham;Rare;Saphir;0;0
-150;James;Commune;Saphir;10;2
+150;James;Commune;Saphir;11;2
 151;Jasmine;Commune;Saphir;10;1
 152;"Judy Hopps";"Peu commune";Saphir;7;0
 153;"Madame Judson";Rare;Saphir;4;0
@@ -168,8 +168,8 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 167;"Marmite de Gumbo";Commune;Saphir;12;1
 168;"Atelier de Maurice";Rare;Saphir;1;0
 169;"Glace à l'eau";Commune;Saphir;1;0
-170;"Boîte de sardines";"Peu commune";Saphir;7;0
-171;"La Bête";Commune;Acier;13;0
+170;"Boîte de sardines";"Peu commune";Saphir;8;0
+171;"La Bête";Commune;Acier;14;0
 172;"La Bête";"Super rare";Acier;0;0
 173;"La Bête";Légendaire;Acier;0;0
 174;Benja;Commune;Acier;5;0
