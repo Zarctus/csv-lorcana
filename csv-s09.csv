@@ -4,7 +4,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 2;Pongo;"Super rare";Ambre;7;0
 3;Stitch;"Super rare";Ambre;4;0
 4;"La Bête";Rare;Ambre;7;0
-5;Minnie;"Super rare";Ambre;7;0
+5;Minnie;"Super rare";Ambre;8;0
 6;Aurore;"Peu commune";Ambre;16;0
 7;"La Reine";Commune;Ambre;21;2
 8;Raiponce;Commune;Ambre;22;0
@@ -26,7 +26,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 24;Stitch;Légendaire;Ambre;2;0
 25;"On est une Famille";Rare;Ambre;9;1
 26;"L'histoire de la vie";Légendaire;Ambre;0;0
-27;"Guéris les blessures";Commune;Ambre;23;0
+27;"Guéris les blessures";Commune;Ambre;24;0
 28;"J'ai perdu le Nord";Commune;Ambre;19;1
 29;"Retour de Bruno";"Peu commune";Ambre;13;2
 30;"Le Grand Génie du Mal";"Peu commune";Ambre;16;0
@@ -56,11 +56,11 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 54;Génie;Rare;Améthyste;7;0
 55;Olaf;"Peu commune";Améthyste;12;1
 56;Sven;"Peu commune";Améthyste;14;2
-57;"Mama Odie";"Peu commune";Améthyste;13;1
+57;"Mama Odie";"Peu commune";Améthyste;14;1
 58;"Luisa Madrigal";Commune;Améthyste;22;2
 59;Jafar;"Peu commune";Améthyste;14;0
 60;"La Deuxième Étoile sur la Droite";Rare;Améthyste;7;0
-61;"Pauvres âmes en perdition";Commune;Améthyste;21;1
+61;"Pauvres âmes en perdition";Commune;Améthyste;22;1
 62;"Effort désespéré";"Peu commune";Améthyste;17;0
 63;"Je suis coincé !";Commune;Améthyste;23;1
 64;"La plume magique";Rare;Améthyste;6;0
@@ -77,7 +77,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 75;"Max Dingo";Rare;Émeraude;7;0
 76;Génie;"Super rare";Émeraude;9;0
 77;"Max Dingo";Légendaire;Émeraude;4;0
-78;"Bobby Zimmeruski";"Peu commune";Émeraude;12;1
+78;"Bobby Zimmeruski";"Peu commune";Émeraude;13;1
 79;Mégara;Commune;Émeraude;20;1
 80;"Mickey Mouse";Commune;Émeraude;26;4
 81;L'Enchanteresse;Commune;Émeraude;15;0
@@ -95,7 +95,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 93;Daisy;"Peu commune";Émeraude;16;1
 94;"Stand Out";"Peu commune";Émeraude;17;1
 95;"Cruelle Diablesse";Commune;Émeraude;23;1
-96;Improviser;Commune;Émeraude;21;0
+96;Improviser;Commune;Émeraude;22;0
 97;"Sous l'océan";Rare;Émeraude;4;0
 98;"Concocter la Potion";Commune;Émeraude;24;2
 99;"N'écoute que Moi";"Peu commune";Émeraude;11;0
@@ -121,8 +121,8 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 119;Sisu;"Peu commune";Rubis;14;0
 120;"La Reine de Cœur";"Peu commune";Rubis;13;0
 121;Lumière;Rare;Rubis;7;0
-122;"Gardes cartes";"Peu commune";Rubis;17;2
-123;"La Reine de Cœur";Commune;Rubis;21;1
+122;"Gardes cartes";"Peu commune";Rubis;17;3
+123;"La Reine de Cœur";Commune;Rubis;22;1
 124;Raiponce;Commune;Rubis;24;0
 125;Mulan;Commune;Rubis;19;0
 126;Mulan;"Super rare";Rubis;4;0
@@ -156,10 +156,10 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 154;Aurore;Commune;Saphir;21;0
 155;Jasmine;Commune;Saphir;21;0
 156;Belle;"Peu commune";Saphir;15;1
-157;"Judy Hopps";"Peu commune";Saphir;14;2
+157;"Judy Hopps";"Peu commune";Saphir;15;2
 158;"Belle Marianne";Commune;Saphir;23;2
 159;"Winnie l'ourson";Rare;Saphir;6;0
-160;Alice;"Super rare";Saphir;6;0
+160;Alice;"Super rare";Saphir;7;0
 161;Aurore;"Peu commune";Saphir;15;0
 162;"Robin des Bois";Rare;Saphir;7;1
 163;"Développe ton Cerveau";Commune;Saphir;17;1
@@ -168,7 +168,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 166;"Creuse encore et encore";"Peu commune";Saphir;14;1
 167;"Gyroscope lumineux";"Peu commune";Saphir;13;1
 168;"Le Cœur de Te Fiti";Rare;Saphir;7;0
-169;"Panier de Noix de Coco";Commune;Saphir;22;1
+169;"Panier de Noix de Coco";Commune;Saphir;23;1
 170;Motunui;"Peu commune";Saphir;14;2
 171;Philoctète;Rare;Acier;7;0
 172;"Mickey Mouse";"Super rare";Acier;3;0
@@ -199,7 +199,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 197;"Il me reste un espoir";Rare;Acier;6;0
 198;"Fracasser !";"Peu commune";Acier;14;1
 199;"Ils cassent en deux comme je veux";"Peu commune";Acier;14;1
-200;"Allumez les Mêches !";Commune;Acier;17;1
+200;"Allumez les Mêches !";Commune;Acier;18;1
 201;"Plus ardent que le feu des volcans";Rare;Acier;0;0
 202;"Tous avec moi !";"Peu commune";Acier;11;0
 203;"Miroir de la Bête";Commune;Acier;22;0
