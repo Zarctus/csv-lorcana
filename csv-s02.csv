@@ -215,8 +215,8 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 214;Sisu;Enchantée;Saphir;0;0
 215;Hercule;Enchantée;Acier;0;0
 216;Namaari;Enchantée;Acier;0;0
-6;"Vanellope von Schweetz";Commune;Ambre;13;1
-25;"Try Everything";"Peu commune";Ambre;9;1
+6;"Vanellope von Schweetz";Commune;Ambre;14;1
+25;"Try Everything";"Peu commune";Ambre;10;1
 26;"Toucher guérisseur";Commune;Ambre;13;0
 27;Ranimer;Rare;Ambre;8;0
 29;"Invitation au bal";"Peu commune";Ambre;14;0
@@ -254,7 +254,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 184;Volt;Commune;Acier;12;2
 186;Raya;Rare;Acier;2;0
 193;Mulan;Commune;Acier;6;0
-204;"Bâton d’entraînement";Commune;Acier;13;0
+204;"Bâton d’entraînement";Commune;Acier;14;0
 15;Rhino;Commune;Ambre;10;0
 28;Pluto;"Peu commune";"Ambre, Acier";11;0
 29;Volt;Rare;"Ambre, Acier";5;0

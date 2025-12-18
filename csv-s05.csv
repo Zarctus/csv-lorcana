@@ -4,7 +4,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 3;"Prince Naveen";Légendaire;Ambre;0;0
 4;Truc;Commune;Ambre;13;3
 5;Kenaï;Commune;Ambre;14;2
-6;"Vanellope von Schweetz";Commune;Ambre;13;1
+6;"Vanellope von Schweetz";Commune;Ambre;14;1
 7;Muche;Commune;Ambre;14;1
 8;Lilo;Commune;Ambre;16;1
 9;"Vanellope von Schweetz";Commune;Ambre;15;0
@@ -23,13 +23,13 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 22;"Belle Marianne";"Peu commune";Ambre;12;1
 23;Sven;"Peu commune";Ambre;8;1
 24;Minnie;Commune;Ambre;14;2
-25;"Try Everything";"Peu commune";Ambre;9;1
+25;"Try Everything";"Peu commune";Ambre;10;1
 26;"Toucher guérisseur";Commune;Ambre;13;0
 27;Ranimer;Rare;Ambre;8;0
 28;"Un mirage à deux visages";"Super rare";Ambre;3;0
 29;"Invitation au bal";"Peu commune";Ambre;14;0
 30;"Philtre de guérison";Commune;Ambre;15;0
-31;"Cœur du détecteur de la Reine";Rare;Ambre;4;0
+31;"Cœur du détecteur de la Reine";Rare;Ambre;5;0
 32;"Chromicône d'Ambre";"Peu commune";Ambre;11;2
 33;"Tour de Raiponce";"Peu commune";Ambre;11;0
 34;"La Terre des Lions";Rare;Ambre;4;0
@@ -52,7 +52,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 51;Maléfique;"Peu commune";Améthyste;6;1
 52;Monstro;"Peu commune";Améthyste;9;2
 53;"Miss Tick";Rare;Améthyste;5;0
-54;Maléfique;Commune;Améthyste;14;0
+54;Maléfique;Commune;Améthyste;15;0
 55;Rafiki;Rare;Améthyste;6;0
 56;Anna;Commune;Améthyste;14;0
 57;"Le Roi de Cœur";"Peu commune";Améthyste;13;1
@@ -63,7 +63,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 62;"Rassembler Connaissance et Sagesse";Commune;Améthyste;8;2
 63;"Assistance magique";"Peu commune";Améthyste;12;1
 64;Rétrosphère;Commune;Améthyste;15;1
-65;"Moitié de la Couronne d'Hexasort";Rare;Améthyste;5;1
+65;"Moitié de la Couronne d'Hexasort";Rare;Améthyste;5;2
 66;"Chromicône d'Améthyste";"Peu commune";Améthyste;4;0
 67;"Palais de Glace d'Elsa";Rare;Améthyste;2;0
 68;"La Bibliothèque";"Peu commune";Améthyste;0;0
@@ -74,12 +74,12 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 73;Ulf;Commune;Émeraude;17;2
 74;Ed;Commune;Émeraude;17;1
 75;Flora;Commune;Émeraude;15;0
-76;Pimprenelle;Commune;Émeraude;14;1
+76;Pimprenelle;Commune;Émeraude;15;1
 77;"Robin des Bois";Commune;Émeraude;14;0
 78;Pâquerette;Commune;Émeraude;16;2
 79;Iago;Rare;Émeraude;4;0
 80;Banzaï;Rare;Émeraude;0;0
-81;Ed;"Peu commune";Émeraude;11;1
+81;Ed;"Peu commune";Émeraude;12;1
 82;Scroop;"Super rare";Émeraude;3;0
 83;"Prince Philippe";"Super rare";Émeraude;5;0
 84;Clarabelle;Légendaire;Émeraude;0;0
@@ -130,7 +130,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 129;"Endors-toi sans peine";Rare;Rubis;5;0
 130;"Glimmer contre Glimmer";"Peu commune";Rubis;10;1
 131;"Qui est avec moi ?";"Super rare";Rubis;2;0
-132;"Potion de puissance";Commune;Rubis;14;1
+132;"Potion de puissance";Commune;Rubis;15;1
 133;"L'Épée libérée";Rare;Rubis;7;0
 134;"Chromicône de Rubis";"Peu commune";Rubis;12;3
 135;"Piste de Sugar Rush";Rare;Rubis;4;0
@@ -158,11 +158,11 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 157;Tipo;"Peu commune";Saphir;0;0
 158;Belle;Rare;Saphir;4;0
 159;Merlin;Légendaire;Saphir;0;0
-160;"Vision de l'Avenir";Commune;Saphir;10;0
+160;"Vision de l'Avenir";Commune;Saphir;11;0
 161;"Caprice royal";Rare;Saphir;3;0
 162;"Rien n'est plus pareil";Commune;Saphir;14;2
 163;Cachez-vous;"Peu commune";Saphir;9;0
-164;"Je ne m'amuse plus du tout";"Peu commune";Saphir;11;2
+164;"Je ne m'amuse plus du tout";"Peu commune";Saphir;12;2
 165;"Médaille des Héros";Commune;Saphir;16;0
 166;"Loupe de Basil";Rare;Saphir;4;1
 167;"Sac de voyage de Merlin";"Peu commune";Saphir;12;0
@@ -178,11 +178,11 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 177;Dormeur;"Peu commune";Acier;13;1
 178;Kronk;Commune;Acier;13;2
 179;Heihei;Commune;Acier;18;1
-180;Atchoum;Commune;Acier;14;3
+180;Atchoum;Commune;Acier;15;3
 181;Simplet;Commune;Acier;16;3
 182;Namaari;Rare;Acier;5;0
 183;Blanche-Neige;"Super rare";Acier;4;0
-184;Yzma;Rare;Acier;3;0
+184;Yzma;Rare;Acier;4;0
 185;Kronk;"Super rare";Acier;3;1
 186;Grincheux;"Super rare";Acier;4;0
 187;Pat;Rare;Acier;4;0

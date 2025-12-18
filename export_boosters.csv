@@ -1,4 +1,30 @@
 saison,number,nom,encre,rareté,is_foil
+"Ciel Scintillant",132,"Potion de puissance",Rubis,Commune,N
+"Ciel Scintillant",76,Pimprenelle,Émeraude,Commune,N
+"Ciel Scintillant",54,Maléfique,Améthyste,Commune,N
+"Vol au Palais – Quête des Illumineurs",6,"Vanellope von Schweetz",Ambre,Commune,N
+"Ciel Scintillant",160,"Vision de l'Avenir",Saphir,Commune,N
+"Ciel Scintillant",180,Atchoum,Acier,Commune,N
+"Vol au Palais – Quête des Illumineurs",25,"Try Everything",Ambre,"Peu commune",N
+"Ciel Scintillant",81,Ed,Émeraude,"Peu commune",N
+"Ciel Scintillant",164,"Je ne m'amuse plus du tout",Saphir,"Peu commune",N
+"Ciel Scintillant",184,Yzma,Acier,Rare,N
+"Ciel Scintillant",31,"Cœur du détecteur de la Reine",Ambre,Rare,N
+"Ciel Scintillant",65,"Moitié de la Couronne d'Hexasort",Améthyste,Rare,Y
+
+"L’ile d' Archazia",131,Toby,Rubis,Commune,N
+"L’ile d' Archazia",3,"Le Roi Stéphane",Ambre,Commune,N
+"L’ile d' Archazia",117,"Il se traîne",Émeraude,Commune,N
+"L’ile d' Archazia",61,Peine,Améthyste,Commune,N
+"L’ile d' Archazia",157,"Monsieur D'Arque",Saphir,Commune,N
+"Vol au Palais – Quête des Illumineurs",204,"Bâton d’entraînement",Acier,Commune,N
+"L’ile d' Archazia",113,Anastasie,Émeraude,"Peu commune",N
+"L’ile d' Archazia",39,"Restituer le Cœur",Ambre,"Peu commune",N
+"L’ile d' Archazia",124,Denahi,Rubis,"Peu commune",N
+"L’ile d' Archazia",173,Jasmine,Saphir,Rare,N
+"L’ile d' Archazia",30,Kinaï,Ambre,Rare,N
+"L’ile d' Archazia",148,"Hors service",Rubis,Commune,Y
+
 Fabuleux,61,"Pauvres âmes en perdition",Améthyste,Commune,N
 Fabuleux,27,"Guéris les blessures",Ambre,Commune,N
 Fabuleux,96,Improviser,Émeraude,Commune,N
@@ -181,19 +207,6 @@ Prélude,161,"Le bleu lumière",Saphir,"Peu commune",N
 "Les Terres d'Encres",132,"L'hameçon de Maui",Rubis,Rare,N
 "Menace des profondeurs – Quête des Illumineurs",65,"Le chapeau de sorcier",Améthyste,Rare,Y
 
-"L'Ascension des Floodborn",108,Fidget,Rubis,Commune,N
-"L'Ascension des Floodborn",87,Panique,Émeraude,Commune,N
-"L'Ascension des Floodborn",150,James,Saphir,Commune,N
-"L'Ascension des Floodborn",27,"La Reine",Ambre,Commune,N
-"L'Ascension des Floodborn",66,"Maillet de croquet",Améthyste,Commune,N
-"L'Ascension des Floodborn",171,"La Bête",Acier,Commune,N
-"L'Ascension des Floodborn",8,Gaston,Ambre,"Peu commune",N
-"L'Ascension des Floodborn",170,"Boîte de sardines",Saphir,"Peu commune",N
-"L'Ascension des Floodborn",116,"Mère Gothel",Rubis,"Peu commune",N
-"L'Ascension des Floodborn",82,"Flynn Rider",Émeraude,Rare,N
-"L'Ascension des Floodborn",9,"Grand Duke",Ambre,Rare,N
-"L'Ascension des Floodborn",87,Panique,Émeraude,Commune,Y
-
 "Les Terres d'Encres",131,Voyage,Rubis,Commune,N
 "Les Terres d'Encres",72,Flotsam,Émeraude,Commune,N
 "Les Terres d'Encres",60,"Offrir un don",Améthyste,Commune,N
@@ -206,6 +219,19 @@ Prélude,18,Pluto,Ambre,"Peu commune",N
 "Les Terres d'Encres",59,Ursula,Améthyste,Rare,N
 "Les Terres d'Encres",158,"Wendy Darling",Saphir,"Super rare",N
 "Les Terres d'Encres",40,Iago,Améthyste,Commune,Y
+
+"L'Ascension des Floodborn",108,Fidget,Rubis,Commune,N
+"L'Ascension des Floodborn",87,Panique,Émeraude,Commune,N
+"L'Ascension des Floodborn",150,James,Saphir,Commune,N
+"L'Ascension des Floodborn",27,"La Reine",Ambre,Commune,N
+"L'Ascension des Floodborn",66,"Maillet de croquet",Améthyste,Commune,N
+"L'Ascension des Floodborn",171,"La Bête",Acier,Commune,N
+"L'Ascension des Floodborn",8,Gaston,Ambre,"Peu commune",N
+"L'Ascension des Floodborn",170,"Boîte de sardines",Saphir,"Peu commune",N
+"L'Ascension des Floodborn",116,"Mère Gothel",Rubis,"Peu commune",N
+"L'Ascension des Floodborn",82,"Flynn Rider",Émeraude,Rare,N
+"L'Ascension des Floodborn",9,"Grand Duke",Ambre,Rare,N
+"L'Ascension des Floodborn",87,Panique,Émeraude,Commune,Y
 
 "Lueurs dans les Profondeurs",194,"Le Cavalier sans tête",Acier,Commune,N
 "Lueurs dans les Profondeurs",120,Brooklyn,Rubis,Commune,N
@@ -2572,30 +2598,4 @@ Fabuleux,149,"La Reine",Saphir,"Peu commune",N
 Fabuleux,190,"Capitaine Crochet",Acier,Rare,N
 Fabuleux,108,Maléfique,Rubis,Légendaire,N
 Fabuleux,135,"Clochette du dîner",Rubis,Rare,Y
-
-Fabuleux,39,Belle,Améthyste,Commune,N
-Fabuleux,11,Daisy,Ambre,Commune,N
-Fabuleux,92,Aladdin,Émeraude,Commune,N
-Fabuleux,125,Mulan,Rubis,Commune,N
-Fabuleux,182,"Prince Naveen",Acier,Commune,N
-Fabuleux,148,Hans,Saphir,Commune,N
-Fabuleux,52,"Camilo Madrigal",Améthyste,"Peu commune",N
-Fabuleux,101,"Contrat signé",Émeraude,"Peu commune",N
-Fabuleux,139,Fifi,Saphir,"Peu commune",N
-Fabuleux,32,Lanterne,Ambre,Rare,N
-Fabuleux,143,"Cruella d'Enfer",Saphir,Légendaire,N
-Fabuleux,158,"Belle Marianne",Saphir,Commune,Y
-
-Fabuleux,50,Tic-Tac,Améthyste,Commune,N
-Fabuleux,34,Atlantica,Ambre,Commune,N
-Fabuleux,88,"La Fée Clochette",Émeraude,Commune,N
-Fabuleux,125,Mulan,Rubis,Commune,N
-Fabuleux,179,Tiana,Acier,Commune,N
-Fabuleux,146,Anna,Saphir,Commune,N
-Fabuleux,86,Heihei,Émeraude,"Peu commune",N
-Fabuleux,29,"Retour de Bruno",Ambre,"Peu commune",N
-Fabuleux,186,Hercule,Acier,"Peu commune",N
-Fabuleux,20,Vaiana,Ambre,Rare,N
-Fabuleux,69,Kuzco,Émeraude,Rare,N
-Fabuleux,150,"Grand Pabbie",Saphir,Rare,Y
 
