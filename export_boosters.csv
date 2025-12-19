@@ -1,4 +1,30 @@
 saison,number,nom,encre,rareté,is_foil
+Prélude,57,"MADAME DE GARDEROBE",Améthyste,Commune,N
+"Premier Chapitre",69,Aladdin,Émeraude,Commune,N
+"Premier Chapitre",153,MERLIN,Saphir,Commune,N
+Prélude,116,MINNIE,Rubis,Commune,N
+"Premier Chapitre",19,SÉBASTIEN,Ambre,Commune,N
+"Premier Chapitre",201,"MIROIR DE LA BÊTE",Acier,Commune,N
+"Premier Chapitre",146,"GRAND-MÈRE TALA",Saphir,"Peu commune",N
+Prélude,12,"MICKEY MOUSE",Ambre,"Peu commune",N
+"Premier Chapitre",191,"MONSIEUR STARKEY",Acier,"Peu commune",N
+"Premier Chapitre",34,"PENDENTIF EN COQUILLAGE D'URSULA",Ambre,Rare,N
+"Premier Chapitre",97,"VOLER AUX RICHES",Émeraude,Rare,N
+"Premier Chapitre",102,"CIMETERRE VOLÉ",Émeraude,Commune,Y
+
+Fabuleux,47,Timothée,Améthyste,Commune,N
+Fabuleux,21,Pluto,Ambre,Commune,N
+Fabuleux,98,"Concocter la Potion",Émeraude,Commune,N
+Fabuleux,124,Raiponce,Rubis,Commune,N
+Fabuleux,144,Mufasa,Saphir,Commune,N
+Fabuleux,180,Benja,Acier,Commune,N
+Fabuleux,55,Olaf,Améthyste,"Peu commune",N
+Fabuleux,170,Motunui,Saphir,"Peu commune",N
+Fabuleux,129,"Tuk Tuk",Rubis,"Peu commune",N
+Fabuleux,150,"Grand Pabbie",Saphir,Rare,N
+Fabuleux,60,"La Deuxième Étoile sur la Droite",Améthyste,Rare,N
+Fabuleux,21,Pluto,Ambre,Commune,Y
+
 "Ciel Scintillant",132,"Potion de puissance",Rubis,Commune,N
 "Ciel Scintillant",76,Pimprenelle,Émeraude,Commune,N
 "Ciel Scintillant",54,Maléfique,Améthyste,Commune,N
@@ -2572,30 +2598,4 @@ Fabuleux,139,Fifi,Saphir,"Peu commune",N
 Fabuleux,152,"Mama Odie",Saphir,Rare,N
 Fabuleux,35,"La Reine",Améthyste,Rare,N
 Fabuleux,4,"La Bête",Ambre,Rare,Y
-
-Fabuleux,58,"Luisa Madrigal",Améthyste,Commune,N
-Fabuleux,8,Raiponce,Ambre,Commune,N
-Fabuleux,79,Mégara,Émeraude,Commune,N
-Fabuleux,127,Raya,Rubis,Commune,N
-Fabuleux,191,Hercule,Acier,Commune,N
-Fabuleux,155,Jasmine,Saphir,Commune,N
-Fabuleux,13,"Mickey Mouse",Ambre,"Peu commune",N
-Fabuleux,53,Elsa,Améthyste,"Peu commune",N
-Fabuleux,113,Roxane,Rubis,"Peu commune",N
-Fabuleux,106,Maui,Rubis,Rare,N
-Fabuleux,2,Pongo,Ambre,"Super rare",N
-Fabuleux,190,"Capitaine Crochet",Acier,Rare,Y
-
-Fabuleux,48,Elsa,Améthyste,Commune,N
-Fabuleux,21,Pluto,Ambre,Commune,N
-Fabuleux,81,L'Enchanteresse,Émeraude,Commune,N
-Fabuleux,115,Gaston,Rubis,Commune,N
-Fabuleux,185,"Mickey Mouse",Acier,Commune,N
-Fabuleux,165,"Je Vole",Saphir,Commune,N
-Fabuleux,55,Olaf,Améthyste,"Peu commune",N
-Fabuleux,90,Ursula,Émeraude,"Peu commune",N
-Fabuleux,149,"La Reine",Saphir,"Peu commune",N
-Fabuleux,190,"Capitaine Crochet",Acier,Rare,N
-Fabuleux,108,Maléfique,Rubis,Légendaire,N
-Fabuleux,135,"Clochette du dîner",Rubis,Rare,Y
 

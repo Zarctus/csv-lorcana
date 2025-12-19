@@ -10,14 +10,14 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 9;LILO;Rare;Ambre;1;0
 10;MAXIMUS;"Super rare";Ambre;6;0
 11;MAXIMUS;"Peu commune";Ambre;19;1
-12;"MICKEY MOUSE";"Peu commune";Ambre;22;0
+12;"MICKEY MOUSE";"Peu commune";Ambre;23;0
 13;MINNIE;Commune;Ambre;30;0
 14;VAIANA;Rare;Ambre;9;0
 15;"MONSIEUR MOUCHE";Commune;Ambre;27;3
 16;"PRINCE PHILIPPE";"Peu commune";Ambre;9;1
 17;PUMBAA;Commune;Ambre;28;1
 18;RAIPONCE;Légendaire;Ambre;1;0
-19;SÉBASTIEN;Commune;Ambre;24;2
+19;SÉBASTIEN;Commune;Ambre;25;2
 20;SIMBA;Commune;Ambre;19;1
 21;STITCH;Légendaire;Ambre;0;0
 22;STITCH;Commune;Ambre;23;3
@@ -32,7 +32,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 31;"TU M'AS OUBLIÉ";"Peu commune";Ambre;20;0
 32;ZIRGOUFLEX;Commune;Ambre;30;2
 33;LANTERNE;Rare;Ambre;7;0
-34;"PENDENTIF EN COQUILLAGE D'URSULA";Rare;Ambre;8;0
+34;"PENDENTIF EN COQUILLAGE D'URSULA";Rare;Ambre;9;0
 35;ANNA;"Peu commune";Améthyste;13;0
 36;ARCHIMÈDE;Commune;Améthyste;25;2
 37;"DR. FACILIER";Rare;Améthyste;8;0
@@ -55,7 +55,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 54;RAFIKI;"Peu commune";Améthyste;21;2
 55;SVEN;"Peu commune";Améthyste;17;1
 56;"LA REINE";"Super rare";Améthyste;5;0
-57;"MADAME DE GARDEROBE";Commune;Améthyste;27;1
+57;"MADAME DE GARDEROBE";Commune;Améthyste;28;1
 58;"LA FÉE CLOCHETTE";Commune;Améthyste;23;4
 59;URSULA;Légendaire;Améthyste;1;0
 60;YZMA;Commune;Améthyste;28;3
@@ -67,7 +67,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 66;"MIROIR MAGIQUE";Rare;Améthyste;5;0
 67;"CHAUDRON D'URSULA";"Peu commune";Améthyste;12;0
 68;"MONTRE À GOUSSET";Rare;Améthyste;4;0
-69;Aladdin;Commune;Émeraude;28;2
+69;Aladdin;Commune;Émeraude;29;2
 70;"LA BÊTE";Légendaire;Émeraude;0;0
 71;"CHAT DU CHESHIRE";"Peu commune";Émeraude;11;1
 72;"CRUELLA D'ENFER";Rare;Émeraude;4;1
@@ -95,12 +95,12 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 94;"RECOMMENCE !";Rare;Émeraude;8;1
 95;"N'ÉCOUTE QUE MOI";"Peu commune";Émeraude;7;0
 96;RUÉE;Commune;Émeraude;25;3
-97;"VOLER AUX RICHES";Rare;Émeraude;8;0
+97;"VOLER AUX RICHES";Rare;Émeraude;9;0
 98;"CRUELLE DIABLESSE";Commune;Émeraude;16;0
 99;"LA BÊTE EST À MOI !";"Peu commune";Émeraude;18;0
 100;"TRAHISON BRUTALE";Commune;Émeraude;28;1
 101;"CARTES DU DR. FACILIER";"Peu commune";Émeraude;20;1
-102;"CIMETERRE VOLÉ";Commune;Émeraude;30;2
+102;"CIMETERRE VOLÉ";Commune;Émeraude;30;3
 103;ABU;Commune;Rubis;28;4
 104;ALADDIN;"Super rare";Rubis;8;0
 105;ALADDIN;Commune;Rubis;29;0
@@ -114,7 +114,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 113;MALÉFIQUE;Légendaire;Rubis;0;0
 114;MAUI;Rare;Rubis;0;0
 115;"MICKEY MOUSE";Légendaire;Rubis;0;0
-116;MINNIE;Commune;Rubis;20;2
+116;MINNIE;Commune;Rubis;21;2
 117;VAIANA;"Peu commune";Rubis;19;0
 118;MULAN;"Super rare";Rubis;5;0
 119;"PETER PAN";Commune;Rubis;26;3
@@ -144,14 +144,14 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 143;TUI;"Peu commune";Saphir;15;0
 144;DONALD;Commune;Saphir;27;2
 145;POLOCHON;Commune;Saphir;27;3
-146;"GRAND-MÈRE TALA";"Peu commune";Saphir;16;0
+146;"GRAND-MÈRE TALA";"Peu commune";Saphir;17;0
 147;HADÈS;Légendaire;Saphir;0;0
 148;JASMINE;Commune;Saphir;25;0
 149;JASMINE;Rare;Saphir;6;0
 150;MALÉFIQUE;Commune;Saphir;30;2
 151;MALÉFIQUE;Rare;Saphir;8;0
 152;MAURICE;Rare;Saphir;6;0
-153;MERLIN;Commune;Saphir;27;1
+153;MERLIN;Commune;Saphir;28;1
 154;"MICKEY MOUSE";Commune;Saphir;29;3
 155;MUFASA;Commune;Saphir;27;3
 156;PHILOCTÈTE;Commune;Saphir;27;2
@@ -189,7 +189,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 188;SIMBA;Commune;Acier;24;0
 189;SIMBA;Rare;Acier;10;0
 190;SIMBA;"Peu commune";Acier;18;0
-191;"MONSIEUR STARKEY";"Peu commune";Acier;14;4
+191;"MONSIEUR STARKEY";"Peu commune";Acier;15;4
 192;"TE KĀ";Légendaire;Acier;2;0
 193;"LA FÉE CLOCHETTE";"Super rare";Acier;1;0
 194;"LA FÉE CLOCHETTE";Commune;Acier;22;0
@@ -199,7 +199,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 198;"TUONS LA BÊTE !";Rare;Acier;1;0
 199;"SENS DESSUS DESSOUS";"Peu commune";Acier;23;0
 200;"FRACASSER !";"Peu commune";Acier;14;0
-201;"MIROIR DE LA BÊTE";Commune;Acier;28;0
+201;"MIROIR DE LA BÊTE";Commune;Acier;29;0
 202;"POÊLE À FRIRE";"Peu commune";Acier;14;3
 203;"TABARD DE MOUSQUETAIRE";Rare;Acier;12;0
 204;"PISTOLET À PLASMA";Rare;Acier;8;0
