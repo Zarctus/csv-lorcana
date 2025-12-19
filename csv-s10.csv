@@ -11,7 +11,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 10;Gurgi;Commune;Ambre;12;0
 11;"Mamie Baba";Commune;Ambre;13;0
 12;Bagheera;"Peu commune";Ambre;11;2
-13;Shanti;Commune;Ambre;13;2
+13;Shanti;Commune;Ambre;14;2
 14;Flash;Commune;Ambre;13;0
 15;Taram;"Peu commune";Ambre;8;1
 16;Sébastien;Rare;Ambre;5;0
@@ -51,7 +51,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 50;Crapaud;Rare;Améthyste;4;0
 51;Coldstone;Rare;Améthyste;4;0
 52;"Miss Tick";Rare;Améthyste;5;0
-53;Nana;"Peu commune";Améthyste;7;0
+53;Nana;"Peu commune";Améthyste;8;0
 54;"Miss Tick";"Super rare";Améthyste;5;0
 55;Démona;Légendaire;Améthyste;1;0
 56;Hadès;Légendaire;Améthyste;1;0
@@ -61,7 +61,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 60;"Chat du Cheshire";"Super rare";Améthyste;3;0
 61;"Ouste !";Commune;Améthyste;13;1
 62;"Je ne mentirai plus jamais";Rare;Améthyste;1;0
-63;"Attaque en piqué";Commune;Améthyste;13;0
+63;"Attaque en piqué";Commune;Améthyste;14;0
 64;"Bilan de performance";"Peu commune";Améthyste;11;0
 65;"Aussi fragile qu’une fleur";Commune;Améthyste;12;0
 66;"Le Manuel des Castors Juniors";Commune;Améthyste;13;0
@@ -70,7 +70,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 69;Baloo;Commune;Émeraude;14;1
 70;L’amoureux;Commune;Émeraude;12;1
 71;Flotsam;Commune;Émeraude;12;2
-72;Kaa;Commune;Émeraude;13;0
+72;Kaa;Commune;Émeraude;14;0
 73;Zaza;Commune;Émeraude;12;1
 74;Finnick;Commune;Émeraude;12;0
 75;Vladimir;Commune;Émeraude;13;0
@@ -112,7 +112,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 111;"Katrina Van Tassel";"Peu commune";Rubis;7;0
 112;Hermès;Commune;Rubis;13;1
 113;"La Bête";"Peu commune";Rubis;8;0
-114;Bronx;Commune;Rubis;13;1
+114;Bronx;Commune;Rubis;14;1
 115;"La Fée Clochette";"Peu commune";Rubis;8;0
 116;"David Xanatos";"Super rare";Rubis;3;0
 117;Hans;"Super rare";Rubis;4;0
@@ -122,7 +122,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 121;Donald;Rare;Rubis;5;0
 122;"Elisa Maza";Rare;Rubis;4;0
 123;Aladdin;Rare;Rubis;5;0
-124;"Madame de Trémaine";"Super rare";Rubis;3;0
+124;"Madame de Trémaine";"Super rare";Rubis;4;0
 125;"Le Cavalier sans tête";Légendaire;Rubis;0;0
 126;Mulan;"Peu commune";Rubis;6;0
 127;"Brom Bones";Commune;Rubis;13;0
@@ -134,7 +134,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 133;"Feu du Dragon";Commune;Rubis;12;2
 134;"Fusée de Mushu";"Peu commune";Rubis;7;2
 135;"Le Bois-Amer";Rare;Rubis;4;0
-136;"Sleepy Hollow";"Peu commune";Rubis;9;1
+136;"Sleepy Hollow";"Peu commune";Rubis;10;1
 137;"Judy Hopps";"Peu commune";Saphir;9;0
 138;Tirelire;Commune;Saphir;13;0
 139;Anna;Commune;Saphir;12;1
@@ -159,10 +159,10 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 158;Daisy;Rare;Saphir;5;0
 159;Kristoff;Rare;Saphir;4;0
 160;"Mickey Mouse";Commune;Saphir;14;2
-161;"Visions de Tirelire";Commune;Saphir;13;0
+161;"Visions de Tirelire";Commune;Saphir;14;0
 162;"Piste prometteuse";Commune;Saphir;13;1
 163;"En suivant Fifi, Riri et Loulou";"Peu commune";Saphir;9;2
-164;"Frousse soudaine";"Peu commune";Saphir;8;1
+164;"Frousse soudaine";"Peu commune";Saphir;9;1
 165;"Apparition effrayante";Rare;Saphir;4;0
 166;"Badge de police";Commune;Saphir;12;2
 167;"Amplificateur d'encre";Rare;Saphir;4;1
@@ -190,11 +190,11 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 189;"Prince charmant";Légendaire;Acier;1;0
 190;Broadway;"Peu commune";Acier;11;1
 191;Pluto;Rare;Acier;1;0
-192;"La Bonne Fée";"Super rare";Acier;4;0
+192;"La Bonne Fée";"Super rare";Acier;5;0
 193;Zeus;"Peu commune";Acier;9;1
 194;"Le Cavalier sans tête";Commune;Acier;14;1
 195;"Quelle poursuite infernale";Commune;Acier;13;2
-196;"Rassembler les indices";Commune;Acier;13;0
+196;"Rassembler les indices";Commune;Acier;14;0
 197;"Foudroyant d'un éclair";"Peu commune";Acier;8;0
 198;"Un complot se prépare";"Peu commune";Acier;8;0
 199;"La Reine robot";"Peu commune";Acier;9;0
@@ -205,7 +205,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 204;"Château de Wyvern";Rare;Acier;4;0
 205;Dingo;Épique;Ambre;0;1
 206;Gaston;Épique;Ambre;0;0
-207;"Le Cavalier attaque !";Épique;Ambre;0;0
+207;"Le Cavalier attaque !";Épique;Ambre;0;1
 208;Elsa;Épique;Améthyste;0;1
 209;Merlin;Épique;Améthyste;0;0
 210;"Le Seigneur des Ténèbres";Épique;Améthyste;0;0
