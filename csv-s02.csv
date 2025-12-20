@@ -28,7 +28,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 27;"La Reine";Commune;Ambre;20;2
 28;"Ne bougez pas";Commune;Ambre;16;0
 29;"Ultime combat";"Peu commune";Ambre;6;0
-30;"Peignons les roses en rouge";Commune;Ambre;7;1
+30;"Peignons les roses en rouge";Commune;Ambre;8;1
 31;"Le Grand Génie du Mal";Rare;Ambre;0;0
 32;"De zéro en héros";"Peu commune";Ambre;7;0
 33;"Pierre de Dragon";Rare;Ambre;4;0
@@ -36,7 +36,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 35;Arthur;"Super rare";Améthyste;0;0
 36;"La Fée Bleue";"Peu commune";Améthyste;11;1
 37;Zip;Commune;Améthyste;13;2
-38;"Dr. Facilier";Commune;Améthyste;12;2
+38;"Dr. Facilier";Commune;Améthyste;12;3
 39;Elsa;Commune;Améthyste;12;0
 40;"La Bonne Fée";"Peu commune";Améthyste;7;0
 41;"La Bonne Fée";Légendaire;Améthyste;0;0
@@ -48,7 +48,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 47;"Madame Mime";Légendaire;Améthyste;0;0
 48;"Madame Mime";Rare;Améthyste;1;0
 49;"Madame Mime";"Peu commune";Améthyste;1;0
-50;Merlin;Commune;Améthyste;0;0
+50;Merlin;Commune;Améthyste;1;0
 51;Merlin;"Peu commune";Améthyste;0;0
 52;Merlin;Rare;Améthyste;0;0
 53;Merlin;Rare;Améthyste;2;1
@@ -59,7 +59,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 58;Pinocchio;"Peu commune";Améthyste;8;0
 59;"Winnie l'Ourson";Commune;Améthyste;13;0
 60;Yzma;"Super rare";Améthyste;0;0
-61;Yzma;"Peu commune";Améthyste;8;0
+61;Yzma;"Peu commune";Améthyste;9;0
 62;"Le macabre et la terreur";Rare;Améthyste;1;0
 63;"Je suis coincé !";Commune;Améthyste;9;0
 64;"La légende de l'épée dans l'enclume";Commune;Améthyste;7;0
@@ -70,7 +70,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 69;Arthur;Commune;Émeraude;11;0
 70;"La Bête";Légendaire;Émeraude;0;0
 71;Belle;"Peu commune";Émeraude;2;0
-72;Belle;Légendaire;Émeraude;0;0
+72;Belle;Légendaire;Émeraude;1;0
 73;Bucky;"Peu commune";Émeraude;2;0
 74;"Chat du Cheshire";"Peu commune";Émeraude;7;0
 75;"Chat du Cheshire";"Super rare";Émeraude;1;0
@@ -78,7 +78,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 77;Donald;"Peu commune";Émeraude;9;0
 78;Donald;Commune;Émeraude;11;2
 79;"Dr. Facilier";"Super rare";Émeraude;4;0
-80;L'Enchanteresse;Commune;Émeraude;5;0
+80;L'Enchanteresse;Commune;Émeraude;6;0
 81;"Flynn Rider";Commune;Émeraude;14;1
 82;"Flynn Rider";Rare;Émeraude;1;0
 83;Gaston;Commune;Émeraude;13;1
@@ -118,9 +118,9 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 117;Mulan;Commune;Rubis;6;0
 118;Namaari;"Super rare";Rubis;4;0
 119;"La Reine de Cœur";"Peu commune";Rubis;8;1
-120;"La Reine de Cœur";"Peu commune";Rubis;7;0
+120;"La Reine de Cœur";"Peu commune";Rubis;8;0
 121;Ratigan;Rare;Rubis;7;0
-122;Raya;Commune;Rubis;5;0
+122;Raya;Commune;Rubis;6;0
 123;Raya;"Super rare";Rubis;0;0
 124;Raya;"Peu commune";Rubis;6;0
 125;Scar;Légendaire;Rubis;0;0
@@ -135,7 +135,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 134;"Clochette du dîner";Rare;Rubis;1;0
 135;"Dague de Peter Pan";Commune;Rubis;10;0
 136;"L'épée dans l'enclume";"Peu commune";Rubis;10;0
-137;Alice;Légendaire;Saphir;0;0
+137;Alice;Légendaire;Saphir;1;0
 138;Basil;"Super rare";Saphir;3;0
 139;Basil;Commune;Saphir;9;0
 140;Basil;Commune;Saphir;15;0
@@ -143,7 +143,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 142;"Big Ben";"Super rare";Saphir;0;0
 143;"Big Ben";"Peu commune";Saphir;5;2
 144;"Cruella d'Enfer";Commune;Saphir;16;1
-145;"Cruella d'Enfer";"Peu commune";Saphir;7;0
+145;"Cruella d'Enfer";"Peu commune";Saphir;8;0
 146;"Duke Weaselton";Commune;Saphir;12;4
 147;Gaston;Rare;Saphir;2;1
 148;"Grand Pabbie";"Super rare";Saphir;2;0
@@ -167,14 +167,14 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 166;"Arbalète de Croc du Dragon";"Peu commune";Saphir;11;0
 167;"Marmite de Gumbo";Commune;Saphir;12;1
 168;"Atelier de Maurice";Rare;Saphir;1;0
-169;"Glace à l'eau";Commune;Saphir;1;0
+169;"Glace à l'eau";Commune;Saphir;2;0
 170;"Boîte de sardines";"Peu commune";Saphir;8;0
 171;"La Bête";Commune;Acier;14;0
 172;"La Bête";"Super rare";Acier;0;0
 173;"La Bête";Légendaire;Acier;0;0
 174;Benja;Commune;Acier;5;0
 175;"Chef Bogo";Rare;Acier;1;0
-176;Cendrillon;Commune;Acier;11;0
+176;Cendrillon;Commune;Acier;12;0
 177;Cendrillon;"Super rare";Acier;0;0
 178;Donald;Commune;Acier;10;0
 179;"Eli Lebœuf";"Peu commune";Acier;9;0

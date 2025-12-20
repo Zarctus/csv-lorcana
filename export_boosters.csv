@@ -1,4 +1,30 @@
 saison,number,nom,encre,rareté,is_foil
+"L'Ascension des Floodborn",122,Raya,Rubis,Commune,N
+"L'Ascension des Floodborn",80,L'Enchanteresse,Émeraude,Commune,N
+"L'Ascension des Floodborn",169,"Glace à l'eau",Saphir,Commune,N
+"L'Ascension des Floodborn",30,"Peignons les roses en rouge",Ambre,Commune,N
+"L'Ascension des Floodborn",50,Merlin,Améthyste,Commune,N
+"L'Ascension des Floodborn",176,Cendrillon,Acier,Commune,N
+"L'Ascension des Floodborn",145,"Cruella d'Enfer",Saphir,"Peu commune",N
+"L'Ascension des Floodborn",61,Yzma,Améthyste,"Peu commune",N
+"L'Ascension des Floodborn",120,"La Reine de Cœur",Rubis,"Peu commune",N
+"L'Ascension des Floodborn",72,Belle,Émeraude,Légendaire,N
+"L'Ascension des Floodborn",137,Alice,Saphir,Légendaire,N
+"L'Ascension des Floodborn",38,"Dr. Facilier",Améthyste,Commune,Y
+
+"Premier Chapitre",58,"LA FÉE CLOCHETTE",Améthyste,Commune,N
+"Premier Chapitre",91,"PETER PAN",Émeraude,Commune,N
+Prélude,154,"MICKEY MOUSE",Saphir,Commune,N
+"Premier Chapitre",119,"PETER PAN",Rubis,Commune,N
+"Premier Chapitre",15,"MONSIEUR MOUCHE",Ambre,Commune,N
+"Premier Chapitre",196,DÉCHIQUETÉ,Acier,Commune,N
+Prélude,160,TRITON,Saphir,"Peu commune",N
+"Premier Chapitre",31,"TU M'AS OUBLIÉ",Ambre,"Peu commune",N
+"Premier Chapitre",184,LILO,Acier,"Peu commune",N
+"Premier Chapitre",152,MAURICE,Saphir,Rare,N
+"Premier Chapitre",39,"DR. FACILIER",Améthyste,Rare,N
+"Premier Chapitre",60,YZMA,Améthyste,Commune,Y
+
 "Lueurs dans les Profondeurs",72,Kaa,Émeraude,Commune,N
 "Lueurs dans les Profondeurs",13,Shanti,Ambre,Commune,N
 "Lueurs dans les Profondeurs",161,"Visions de Tirelire",Saphir,Commune,N
@@ -2572,30 +2598,4 @@ Fabuleux,103,"Le Fou",Rubis,"Peu commune",N
 Fabuleux,137,Anna,Saphir,Rare,N
 Fabuleux,143,"Cruella d'Enfer",Saphir,Légendaire,N
 Fabuleux,80,"Mickey Mouse",Émeraude,Commune,Y
-
-Fabuleux,68,"Casa Madrigal",Améthyste,Commune,N
-Fabuleux,31,"C'est la Fête",Ambre,Commune,N
-Fabuleux,102,"La crique cachée",Émeraude,Commune,N
-Fabuleux,109,Powerline,Rubis,Commune,N
-Fabuleux,181,Jafar,Acier,Commune,N
-Fabuleux,145,"Cruella d'Enfer",Saphir,Commune,N
-Fabuleux,65,"Miroir Magique",Améthyste,"Peu commune",N
-Fabuleux,85,Donald,Émeraude,"Peu commune",N
-Fabuleux,149,"La Reine",Saphir,"Peu commune",N
-Fabuleux,173,Nala,Acier,Rare,N
-Fabuleux,4,"La Bête",Ambre,Rare,N
-Fabuleux,208,Ursula,Améthyste,Épique,Y
-
-Fabuleux,47,Timothée,Améthyste,Commune,N
-Fabuleux,22,Ursula,Ambre,Commune,N
-Fabuleux,82,Virana,Émeraude,Commune,N
-Fabuleux,114,"Pat Junior",Rubis,Commune,N
-Fabuleux,180,Benja,Acier,Commune,N
-Fabuleux,148,Hans,Saphir,Commune,N
-Fabuleux,18,"Julieta Madrigal",Ambre,"Peu commune",N
-Fabuleux,122,"Gardes cartes",Rubis,"Peu commune",N
-Fabuleux,198,"Fracasser !",Acier,"Peu commune",N
-Fabuleux,1,"La Reine",Ambre,Rare,N
-Fabuleux,106,Maui,Rubis,Rare,N
-Fabuleux,44,Ursula,Améthyste,"Super rare",Y
 
