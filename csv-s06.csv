@@ -22,7 +22,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 21;"Maman Gourou";Rare;Ambre;5;1
 22;"Coco Lapin";Commune;Ambre;9;1
 23;"Petit Gourou";Commune;Ambre;9;0
-24;"M. Litwak";Commune;Ambre;9;0
+24;"M. Litwak";Commune;Ambre;10;0
 25;"Jim Hawkins";"Super rare";Ambre;3;0
 26;Stitch;Commune;Émeraude;9;2
 27;"Beau travail !";Commune;Ambre;11;1
@@ -39,7 +39,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 38;Génie;Commune;Améthyste;9;0
 39;Sisu;Commune;Améthyste;9;1
 40;"La Rose Blanche";Commune;Améthyste;1;0
-41;Juju;Commune;Améthyste;10;1
+41;Juju;Commune;Améthyste;11;1
 42;Rafiki;Commune;Améthyste;11;0
 43;"La Fée Clochette";Commune;Améthyste;11;0
 44;"Le Charpentier";Commune;Améthyste;9;1
@@ -62,10 +62,10 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 61;Génie;Légendaire;Améthyste;0;0
 62;"Faire de la magie";Commune;Améthyste;11;2
 63;"Perdre son chemin";"Peu commune";Améthyste;8;2
-64;"En quête de la moitié de Couronne";Rare;Améthyste;1;1
+64;"En quête de la moitié de Couronne";Rare;Améthyste;2;1
 65;"Sceptre de Maléfique";Rare;Améthyste;2;0
 66;"Théière du Chapelier Fou";Commune;Améthyste;10;2
-67;"Poussière de fée";"Peu commune";Améthyste;4;0
+67;"Poussière de fée";"Peu commune";Améthyste;5;0
 68;"Navire des Fées";Commune;Améthyste;8;1
 69;"Arbre mystique";Rare;Améthyste;2;0
 70;Jasmine;Rare;Émeraude;1;0
@@ -74,7 +74,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 73;"Go Go Tomago";Rare;Émeraude;0;0
 74;"Honey Lemon";"Peu commune";Émeraude;9;0
 75;Fred;Commune;Émeraude;6;0
-76;Putois;Commune;Émeraude;7;1
+76;Putois;Commune;Émeraude;8;1
 77;Dawson;Commune;Émeraude;11;0
 78;Heathcliff;Commune;Émeraude;10;0
 79;Basil;Commune;Émeraude;13;3
@@ -88,7 +88,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 87;"Alistair Krei";Commune;Émeraude;8;1
 88;Gazelle;Commune;Émeraude;12;0
 89;Dingo;Rare;Émeraude;1;0
-90;Bellwether;"Peu commune";Émeraude;3;0
+90;Bellwether;"Peu commune";Émeraude;4;0
 91;Basil;"Peu commune";Émeraude;8;0
 92;"Olivia Flaversham";Rare;Émeraude;1;0
 93;"Soumettez-vous à ma volonté";"Super rare";Émeraude;3;0
@@ -131,7 +131,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 130;"Poser des îles sur l'océan";"Peu commune";Rubis;5;1
 131;"Souffle d’énergie";Rare;Rubis;2;0
 132;Chaloupe;"Peu commune";Rubis;9;0
-133;"Pièce d’or";Commune;Rubis;10;3
+133;"Pièce d’or";Commune;Rubis;11;3
 134;"Lance de Garde carte";"Peu commune";Rubis;9;1
 135;"Flotille Kakamora";Rare;Rubis;4;0
 136;"Rocher du crâne";Commune;Rubis;11;0
@@ -139,7 +139,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 138;"Tante Cassie";Commune;Saphir;9;1
 139;Gadget;Commune;Saphir;8;2
 140;Gadget;"Super rare";Saphir;2;0
-141;Ruzor;Rare;Saphir;2;1
+141;Ruzor;Rare;Saphir;3;1
 142;Oswald;Légendaire;Saphir;0;0
 143;Yokai;"Peu commune";Saphir;6;0
 144;Pikly;"Peu commune";Saphir;8;1
@@ -161,7 +161,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 160;Yokai;Rare;Saphir;5;0
 161;Alice;"Super rare";Saphir;0;0
 162;"We Could Be Immortals";Rare;Saphir;3;0
-163;"Voguer sur la mer Azurite";Commune;Saphir;0;0
+163;"Voguer sur la mer Azurite";Commune;Saphir;1;0
 164;"Coup de main";Commune;Saphir;10;0
 165;"Prépare ton robot";"Peu commune";Saphir;5;1
 166;"Puce de soins de Baymax";Commune;Saphir;12;0
@@ -176,14 +176,14 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 175;"Monsieur Mouche";"Peu commune";Acier;8;0
 176;"Monsieur Mouche";"Super rare";Acier;8;0
 177;Mullins;Commune;Acier;10;0
-178;Kohut;Commune;Acier;11;1
+178;Kohut;Commune;Acier;11;2
 179;"Le Roi Hubert";Commune;Acier;9;0
 180;Hercule;Commune;Acier;8;3
-181;"John Silver";Commune;Acier;8;3
+181;"John Silver";Commune;Acier;9;3
 182;"Monsieur Arrow";Commune;Acier;8;0
 183;"Jim Hawkins";"Peu commune";Acier;6;0
 184;"Tuk Tuk";"Peu commune";Acier;5;2
-185;"Billy Bones";"Peu commune";Acier;9;0
+185;"Billy Bones";"Peu commune";Acier;10;0
 186;Pluto;"Peu commune";Acier;2;0
 187;"Mickey Mouse";"Peu commune";Acier;7;1
 188;"Cobra Bubbles";Rare;Acier;5;1
