@@ -1,4 +1,17 @@
 saison,number,nom,encre,rareté,is_foil
+"Le retour d’Ursula",101,"La crique cachée",Émeraude,Commune,N
+Prélude,150,Olaf,Saphir,Commune,N
+"Le retour d’Ursula",19,"Mirabel Madrigal",Ambre,Commune,N
+"Le retour d’Ursula",130,Bagarre,Rubis,Commune,N
+"Le retour d’Ursula",60,"Pauvres âmes en perdition",Améthyste,Commune,N
+"Le retour d’Ursula",173,Argès,Acier,Commune,N
+"Le retour d’Ursula",96,"Ruse d'Ursula",Émeraude,"Peu commune",N
+"Le retour d’Ursula",171,Aladdin,Acier,"Peu commune",N
+"Le retour d’Ursula",109,Hercule,Rubis,"Peu commune",N
+"Le retour d’Ursula",18,"Mirabel Madrigal",Ambre,"Super rare",N
+"Le retour d’Ursula",139,Ariel,Saphir,"Super rare",N
+"Le retour d’Ursula",204,Thèbes,Acier,Commune,Y
+
 "La Mer Azurite",41,Juju,Améthyste,Commune,N
 "La Mer Azurite",133,"Pièce d’or",Rubis,Commune,N
 "La Mer Azurite",163,"Voguer sur la mer Azurite",Saphir,Commune,N
@@ -337,19 +350,6 @@ Prélude,161,"Le bleu lumière",Saphir,"Peu commune",N
 "Les Terres d'Encres",132,"L'hameçon de Maui",Rubis,Rare,N
 "Menace des profondeurs – Quête des Illumineurs",65,"Le chapeau de sorcier",Améthyste,Rare,Y
 
-"Les Terres d'Encres",131,Voyage,Rubis,Commune,N
-"Les Terres d'Encres",72,Flotsam,Émeraude,Commune,N
-"Les Terres d'Encres",60,"Offrir un don",Améthyste,Commune,N
-"Les Terres d'Encres",148,Kit,Saphir,Commune,N
-"Les Terres d'Encres",177,Kida,Acier,Commune,N
-"Les Terres d'Encres",4e,"Chiot dalmatien",Ambre,Commune,N
-Prélude,18,Pluto,Ambre,"Peu commune",N
-"Les Terres d'Encres",141,Génie,Saphir,"Peu commune",N
-"Les Terres d'Encres",107,Heihei,Rubis,"Peu commune",N
-"Les Terres d'Encres",59,Ursula,Améthyste,Rare,N
-"Les Terres d'Encres",158,"Wendy Darling",Saphir,"Super rare",N
-"Les Terres d'Encres",40,Iago,Améthyste,Commune,Y
-
 "L'Ascension des Floodborn",108,Fidget,Rubis,Commune,N
 "L'Ascension des Floodborn",87,Panique,Émeraude,Commune,N
 "L'Ascension des Floodborn",150,James,Saphir,Commune,N
@@ -362,6 +362,19 @@ Prélude,18,Pluto,Ambre,"Peu commune",N
 "L'Ascension des Floodborn",82,"Flynn Rider",Émeraude,Rare,N
 "L'Ascension des Floodborn",9,"Grand Duke",Ambre,Rare,N
 "L'Ascension des Floodborn",87,Panique,Émeraude,Commune,Y
+
+"Les Terres d'Encres",131,Voyage,Rubis,Commune,N
+"Les Terres d'Encres",72,Flotsam,Émeraude,Commune,N
+"Les Terres d'Encres",60,"Offrir un don",Améthyste,Commune,N
+"Les Terres d'Encres",148,Kit,Saphir,Commune,N
+"Les Terres d'Encres",177,Kida,Acier,Commune,N
+"Les Terres d'Encres",4e,"Chiot dalmatien",Ambre,Commune,N
+Prélude,18,Pluto,Ambre,"Peu commune",N
+"Les Terres d'Encres",141,Génie,Saphir,"Peu commune",N
+"Les Terres d'Encres",107,Heihei,Rubis,"Peu commune",N
+"Les Terres d'Encres",59,Ursula,Améthyste,Rare,N
+"Les Terres d'Encres",158,"Wendy Darling",Saphir,"Super rare",N
+"Les Terres d'Encres",40,Iago,Améthyste,Commune,Y
 
 "Lueurs dans les Profondeurs",194,"Le Cavalier sans tête",Acier,Commune,N
 "Lueurs dans les Profondeurs",120,Brooklyn,Rubis,Commune,N
@@ -2585,17 +2598,4 @@ Fabuleux,156,Belle,Saphir,"Peu commune",N
 Fabuleux,192,"John Silver",Acier,Rare,N
 Fabuleux,60,"La Deuxième Étoile sur la Droite",Améthyste,Rare,N
 Fabuleux,86,Heihei,Émeraude,"Peu commune",Y
-
-Fabuleux,41,"Winnie l'ourson",Améthyste,Commune,N
-Fabuleux,10,Mulan,Ambre,Commune,N
-Fabuleux,80,"Mickey Mouse",Émeraude,Commune,N
-Fabuleux,124,Raiponce,Rubis,Commune,N
-Fabuleux,200,"Allumez les Mêches !",Acier,Commune,N
-Fabuleux,154,Aurore,Saphir,Commune,N
-Fabuleux,46,Dumbo,Améthyste,"Peu commune",N
-Fabuleux,94,"Stand Out",Émeraude,"Peu commune",N
-Fabuleux,164,"Quatre douzaines d'œufs",Saphir,"Peu commune",N
-Fabuleux,192,"John Silver",Acier,Rare,N
-Fabuleux,188,"La Fée Clochette",Acier,"Super rare",N
-Fabuleux,156,Belle,Saphir,"Peu commune",Y
 
