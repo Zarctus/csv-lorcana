@@ -1,4 +1,17 @@
 saison,number,nom,encre,rareté,is_foil
+"La Mer Azurite",68,"Navire des Fées",Améthyste,Commune,N
+"La Mer Azurite",129,"Montrer la voie",Rubis,Commune,N
+"Vol au Palais – Quête des Illumineurs",137,B.E.N.,Saphir,Commune,N
+"La Mer Azurite",94,"Paré à l'abordage !",Émeraude,Commune,N
+"La Mer Azurite",34,"Île des Rêves Bleus",Ambre,Commune,N
+"La Mer Azurite",173,"Jim Hawkins",Acier,Commune,N
+"La Mer Azurite",4,Grignotin,Ambre,"Peu commune",N
+"La Mer Azurite",90,Bellwether,Émeraude,"Peu commune",N
+"La Mer Azurite",67,"Poussière de fée",Améthyste,"Peu commune",N
+"La Mer Azurite",162,"We Could Be Immortals",Saphir,Rare,N
+"La Mer Azurite",32,"Bateau pirate de Winnie",Ambre,Rare,N
+"La Mer Azurite",193,Jafar,Acier,"Super rare",Y
+
 "Le retour d’Ursula",101,"La crique cachée",Émeraude,Commune,N
 Prélude,150,Olaf,Saphir,Commune,N
 "Le retour d’Ursula",19,"Mirabel Madrigal",Ambre,Commune,N
@@ -2585,17 +2598,4 @@ Fabuleux,193,"Li Shang",Acier,"Peu commune",N
 Fabuleux,33,"Pendentif en Coquillage d'Ursula",Ambre,Rare,N
 Fabuleux,76,Génie,Émeraude,"Super rare",N
 Fabuleux,143,"Cruella d'Enfer",Saphir,Légendaire,Y
-
-Fabuleux,61,"Pauvres âmes en perdition",Améthyste,Commune,N
-Fabuleux,27,"Guéris les blessures",Ambre,Commune,N
-Fabuleux,95,"Cruelle Diablesse",Émeraude,Commune,N
-Fabuleux,131,"Tu t'envoles",Rubis,Commune,N
-Fabuleux,194,"Prince Eric",Acier,Commune,N
-Fabuleux,146,Anna,Saphir,Commune,N
-Fabuleux,94,"Stand Out",Émeraude,"Peu commune",N
-Fabuleux,202,"Tous avec moi !",Acier,"Peu commune",N
-Fabuleux,156,Belle,Saphir,"Peu commune",N
-Fabuleux,192,"John Silver",Acier,Rare,N
-Fabuleux,60,"La Deuxième Étoile sur la Droite",Améthyste,Rare,N
-Fabuleux,86,Heihei,Émeraude,"Peu commune",Y
 

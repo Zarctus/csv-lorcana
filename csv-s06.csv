@@ -2,7 +2,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 1;"Maître Hibou";"Peu commune";Ambre;5;0
 2;Lilo;"Super rare";Ambre;0;0
 3;"Winnie l'ourson";Rare;Ambre;3;0
-4;Grignotin;"Peu commune";Ambre;9;0
+4;Grignotin;"Peu commune";Ambre;10;0
 5;Simba;Commune;Ambre;14;1
 6;Tic;Commune;Ambre;11;1
 7;Tac;Commune;Ambre;9;0
@@ -30,9 +30,9 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 29;"Rangers du risque à la rescousse !";"Peu commune";Ambre;4;1
 30;"Sain et sauf";Rare;Ambre;3;0
 31;"Ukulele de Naveen";Commune;Ambre;10;2
-32;"Bateau pirate de Winnie";Rare;Ambre;3;0
+32;"Bateau pirate de Winnie";Rare;Ambre;4;0
 33;Souillon;"Peu commune";Ambre;5;0
-34;"Île des Rêves Bleus";Commune;Ambre;8;2
+34;"Île des Rêves Bleus";Commune;Ambre;9;2
 35;"Piste de Sugar Rush";"Super rare";Ambre;1;0
 36;Hadès;Rare;Améthyste;3;0
 37;"Madame Mime";Rare;Améthyste;1;0
@@ -65,8 +65,8 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 64;"En quête de la moitié de Couronne";Rare;Améthyste;2;1
 65;"Sceptre de Maléfique";Rare;Améthyste;2;0
 66;"Théière du Chapelier Fou";Commune;Améthyste;10;2
-67;"Poussière de fée";"Peu commune";Améthyste;5;0
-68;"Navire des Fées";Commune;Améthyste;8;1
+67;"Poussière de fée";"Peu commune";Améthyste;6;0
+68;"Navire des Fées";Commune;Améthyste;9;1
 69;"Arbre mystique";Rare;Améthyste;2;0
 70;Jasmine;Rare;Émeraude;1;0
 71;"Capitaine Crochet";Rare;Émeraude;3;0
@@ -88,11 +88,11 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 87;"Alistair Krei";Commune;Émeraude;8;1
 88;Gazelle;Commune;Émeraude;12;0
 89;Dingo;Rare;Émeraude;1;0
-90;Bellwether;"Peu commune";Émeraude;4;0
+90;Bellwether;"Peu commune";Émeraude;5;0
 91;Basil;"Peu commune";Émeraude;8;0
 92;"Olivia Flaversham";Rare;Émeraude;1;0
 93;"Soumettez-vous à ma volonté";"Super rare";Émeraude;3;0
-94;"Paré à l'abordage !";Commune;Émeraude;10;2
+94;"Paré à l'abordage !";Commune;Émeraude;11;2
 95;"Éfélants et Nouifs";Commune;Émeraude;7;0
 96;"Piqûre de moustique";"Peu commune";Émeraude;10;0
 97;"Tu es revenu";Rare;Émeraude;5;0
@@ -127,7 +127,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 126;Tigrou;Rare;Rubis;5;0
 127;Scar;"Super rare";Rubis;1;0
 128;Chapardage;Commune;Rubis;11;2
-129;"Montrer la voie";Commune;Rubis;9;0
+129;"Montrer la voie";Commune;Rubis;10;0
 130;"Poser des îles sur l'océan";"Peu commune";Rubis;5;1
 131;"Souffle d’énergie";Rare;Rubis;2;0
 132;Chaloupe;"Peu commune";Rubis;9;0
@@ -135,7 +135,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 134;"Lance de Garde carte";"Peu commune";Rubis;9;1
 135;"Flotille Kakamora";Rare;Rubis;4;0
 136;"Rocher du crâne";Commune;Rubis;11;0
-137;B.E.N.;Commune;Saphir;8;2
+137;B.E.N.;Commune;Saphir;9;2
 138;"Tante Cassie";Commune;Saphir;9;1
 139;Gadget;Commune;Saphir;8;2
 140;Gadget;"Super rare";Saphir;2;0
@@ -160,7 +160,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 159;Flaversham;Rare;Saphir;2;1
 160;Yokai;Rare;Saphir;5;0
 161;Alice;"Super rare";Saphir;0;0
-162;"We Could Be Immortals";Rare;Saphir;3;0
+162;"We Could Be Immortals";Rare;Saphir;4;0
 163;"Voguer sur la mer Azurite";Commune;Saphir;1;0
 164;"Coup de main";Commune;Saphir;10;0
 165;"Prépare ton robot";"Peu commune";Saphir;5;1
@@ -171,7 +171,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 170;"Institut de Technologie";Commune;Saphir;7;2
 171;Kakamora;Commune;Acier;13;1
 172;Kakamora;Rare;Acier;3;0
-173;"Jim Hawkins";Commune;Acier;9;2
+173;"Jim Hawkins";Commune;Acier;10;2
 174;"Mister Big";Rare;Acier;2;0
 175;"Monsieur Mouche";"Peu commune";Acier;8;0
 176;"Monsieur Mouche";"Super rare";Acier;8;0
@@ -191,7 +191,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 190;"Ralph la Casse";Légendaire;Acier;0;0
 191;Calhoun;Rare;Acier;0;0
 192;"Capitaine Amélia";"Super rare";Acier;3;0
-193;Jafar;"Super rare";Acier;3;0
+193;Jafar;"Super rare";Acier;3;1
 194;"John Silver";Légendaire;Acier;0;0
 195;"Patate chaude";"Peu commune";Acier;5;1
 196;"Un homme libre";Commune;Acier;8;1
