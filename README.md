@@ -10,11 +10,11 @@
 
 
 **Quelques liens aléatoires / Some random links**
-- *[Lorcana - Mickey Mouse – True Friend - Promo Puzzle Glimmer Foil](https://www.vinted.fr/items/7263089451-lorcana-mickey-mouse-true-friend-promo-puzzle-glimmer-foil)*
-- *[Lorcana - Lueurs dans les Profondeurs - Madame De Trémaine 233/204 - Enchantée Foil - ID=2422](https://www.vinted.fr/items/7557963727-lorcana-lueurs-dans-les-profondeurs-madame-de-tremaine-233204-enchantee-foil-id2422)*
-- *[Lorcana - Le Règne de Jafar - 3x Jafar 74/204 - Super rare - ID=1738](https://www.vinted.fr/items/6761477385-lorcana-le-regne-de-jafar-3x-jafar-74204-super-rare-id1738)*
-- *[Lorcana - Fabuleux - Creuse Encore Et Encore 166/204 - Peu commune - ID=2102](https://www.vinted.fr/items/7277110744-lorcana-fabuleux-creuse-encore-et-encore-166204-peu-commune-id2102)*
-- *[Lorcana - Fabuleux - 2x Maléfique 108/204 - Légendaire - ID=2044](https://www.vinted.fr/items/7598652812-lorcana-fabuleux-2x-malefique-108204-legendaire-id2044)*
+- *[Lorcana - Lueurs dans les Profondeurs - 2x Iago 43/204 - Peu commune - ID=2232](https://www.vinted.fr/items/7551158985-lorcana-lueurs-dans-les-profondeurs-2x-iago-43204-peu-commune-id2232)*
+- *[Lorcana - Fabuleux - 3x Développe Ton Cerveau 163/204 - Commune - ID=2099](https://www.vinted.fr/items/7031211632-lorcana-fabuleux-3x-developpe-ton-cerveau-163204-commune-id2099)*
+- *[Lorcana - Premier Chapitre - Raiponce 18/204 - Légendaire - ID=18](https://www.vinted.fr/items/7482995980-lorcana-premier-chapitre-raiponce-18204-legendaire-id18)*
+- *[Lorcana - Premier Chapitre - 4x Ariel 2/204 - Super rare - ID=2](https://www.vinted.fr/items/5956008078-lorcana-premier-chapitre-4x-ariel-2204-super-rare-id2)*
+- *[Lorcana - Premier Chapitre - 3x Allumez Les Mêches ! 197/204 - Commune - ID=197](https://www.vinted.fr/items/5543632814-lorcana-premier-chapitre-3x-allumez-les-meches-197204-commune-id197)*
 
 
 **🔎 Recherches Lorcana par rareté / Search Lorcana by rarity**
