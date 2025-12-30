@@ -1,12 +1,7 @@
 
 
-** invitation Vinted / Vinted invitation **
+**Invitation Vinted / Vinted invitation**
 - *[Lien / Links](https://www.vinted.fr/invite/lynadry)*
-
-
-** invitation Vinted / Vinted invitation **
-- *[Lien / Links](https://www.vinted.fr/invite/lynadry)*
-
 
 
 **Quelques liens aléatoires / Some random links**
