@@ -5,7 +5,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 4;"Le destrier sans tête";Commune;Ambre;13;1
 5;Higgins;Commune;Ambre;13;2
 6;Rajah;Commune;Ambre;15;1
-7;Eilonwy;Commune;Ambre;13;1
+7;Eilonwy;Commune;Ambre;14;1
 8;"Balthazar Picsou";"Peu commune";Ambre;7;1
 9;Zaza;"Peu commune";Ambre;10;0
 10;Gurgi;Commune;Ambre;14;0
@@ -27,7 +27,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 26;"Rechercher des indices";"Peu commune";Ambre;11;1
 27;"Nous entrerons dans la bande";"Peu commune";Ambre;7;0
 28;"Berceuse de la Lune de Della";Commune;Ambre;14;2
-29;"Le Cavalier attaque !";Rare;Ambre;4;0
+29;"Le Cavalier attaque !";Rare;Ambre;5;0
 30;"Page retrouvée";"Peu commune";Ambre;10;1
 31;"Le journal de Zaza";"Peu commune";Ambre;11;1
 32;"Le Chaudron magique";Légendaire;Ambre;0;0
@@ -39,7 +39,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 38;"Le Seigneur des Ténèbres";Commune;Améthyste;16;2
 39;"Soldats ressuscités";Commune;Améthyste;13;1
 40;Démona;Commune;Améthyste;12;0
-41;"Miss Tick";Commune;Améthyste;13;0
+41;"Miss Tick";Commune;Améthyste;14;0
 42;"Lena de Sortilège";Commune;Améthyste;15;2
 43;Iago;"Peu commune";Améthyste;10;0
 44;"Violette Campyloptère";Commune;Améthyste;15;2
@@ -74,7 +74,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 73;Zaza;Commune;Émeraude;13;1
 74;Finnick;Commune;Émeraude;13;0
 75;Vladimir;Commune;Émeraude;14;0
-76;"Archibald Gripsou";"Peu commune";Émeraude;9;0
+76;"Archibald Gripsou";"Peu commune";Émeraude;10;0
 77;Jetsam;Commune;Émeraude;14;2
 78;"La Main Froide";"Peu commune";Émeraude;7;0
 79;Kaa;"Peu commune";Émeraude;10;0
@@ -88,7 +88,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 87;"Goldie O'Gilt";Rare;Émeraude;4;0
 88;"Shere Khan";Légendaire;Émeraude;1;0
 89;"Balthazar Picsou";"Super rare";Émeraude;5;0
-90;Akela;Commune;Émeraude;14;0
+90;Akela;Commune;Émeraude;15;0
 91;Dingo;Rare;Émeraude;5;0
 92;"Petit Jean";"Super rare";Émeraude;5;1
 93;Zaza;Légendaire;Émeraude;0;0
@@ -110,14 +110,14 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 109;Rama;Commune;Rubis;14;2
 110;"Mère Gothel";Commune;Rubis;14;2
 111;"Katrina Van Tassel";"Peu commune";Rubis;8;0
-112;Hermès;Commune;Rubis;14;1
+112;Hermès;Commune;Rubis;15;1
 113;"La Bête";"Peu commune";Rubis;9;0
 114;Bronx;Commune;Rubis;15;1
 115;"La Fée Clochette";"Peu commune";Rubis;8;0
 116;"David Xanatos";"Super rare";Rubis;3;0
 117;Hans;"Super rare";Rubis;5;0
 118;Hercule;Légendaire;Rubis;2;0
-119;Goliath;"Peu commune";Rubis;10;0
+119;Goliath;"Peu commune";Rubis;11;0
 120;Brooklyn;Commune;Rubis;15;1
 121;Donald;Rare;Rubis;5;0
 122;"Elisa Maza";Rare;Rubis;5;0
@@ -141,13 +141,13 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 140;"Chef Louis";"Peu commune";Saphir;9;0
 141;Daisy;Commune;Saphir;13;0
 142;Cri-Kee;Commune;Saphir;13;2
-143;Raiponce;Commune;Saphir;12;0
-144;"Fergus Mac Picsou";Commune;Saphir;14;2
+143;Raiponce;Commune;Saphir;12;1
+144;"Fergus Mac Picsou";Commune;Saphir;15;2
 145;"Li Shang";Commune;Saphir;16;0
 146;Génie;Commune;Saphir;14;1
 147;Eurêka;"Peu commune";Saphir;8;1
 148;"Ichabod Crane";Rare;Saphir;7;0
-149;Jasmine;"Peu commune";Saphir;7;0
+149;Jasmine;"Peu commune";Saphir;8;0
 150;"Judy Hopps";Rare;Saphir;6;0
 151;"Le Sultan";Rare;Saphir;5;0
 152;"Ichabod Crane";"Peu commune";Saphir;12;0
@@ -157,7 +157,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 156;"Judy Hopps";"Super rare";Saphir;5;0
 157;Pluto;"Peu commune";Saphir;10;1
 158;Daisy;Rare;Saphir;5;0
-159;Kristoff;Rare;Saphir;4;0
+159;Kristoff;Rare;Saphir;5;0
 160;"Mickey Mouse";Commune;Saphir;14;2
 161;"Visions de Tirelire";Commune;Saphir;16;0
 162;"Piste prometteuse";Commune;Saphir;15;1
@@ -176,7 +176,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 175;Clawhauser;Commune;Acier;13;0
 176;Francine;Commune;Acier;12;2
 177;"Inspectrice Tezuka";Commune;Acier;13;1
-178;"Nick Wilde";Commune;Acier;14;1
+178;"Nick Wilde";Commune;Acier;15;1
 179;Basil;Commune;Acier;14;2
 180;Hudson;Commune;Acier;15;0
 181;Minnie;Commune;Acier;16;1

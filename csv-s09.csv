@@ -16,11 +16,11 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 14;Pluto;Rare;Ambre;7;0
 15;Ariel;Rare;Ambre;10;0
 16;Pluto;Commune;Ambre;26;3
-17;Nani;"Peu commune";Ambre;17;1
+17;Nani;"Peu commune";Ambre;17;2
 18;"Julieta Madrigal";"Peu commune";Ambre;17;0
 19;Cendrillon;"Peu commune";Ambre;13;0
 20;Vaiana;Rare;Ambre;5;0
-21;Pluto;Commune;Ambre;25;1
+21;Pluto;Commune;Ambre;26;1
 22;Ursula;Commune;Ambre;21;2
 23;"La Reine de Cœur";"Peu commune";Ambre;15;0
 24;Stitch;Légendaire;Ambre;2;0
@@ -28,7 +28,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 26;"L'histoire de la vie";Légendaire;Ambre;1;0
 27;"Guéris les blessures";Commune;Ambre;27;0
 28;"J'ai perdu le Nord";Commune;Ambre;20;1
-29;"Retour de Bruno";"Peu commune";Ambre;14;2
+29;"Retour de Bruno";"Peu commune";Ambre;15;2
 30;"Le Grand Génie du Mal";"Peu commune";Ambre;17;0
 31;"C'est la Fête";Commune;Ambre;22;0
 32;Lanterne;Rare;Ambre;6;0
@@ -62,8 +62,8 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 60;"La Deuxième Étoile sur la Droite";Rare;Améthyste;8;0
 61;"Pauvres âmes en perdition";Commune;Améthyste;23;1
 62;"Effort désespéré";"Peu commune";Améthyste;17;0
-63;"Je suis coincé !";Commune;Améthyste;24;1
-64;"La plume magique";Rare;Améthyste;6;0
+63;"Je suis coincé !";Commune;Améthyste;25;1
+64;"La plume magique";Rare;Améthyste;7;0
 65;"Miroir Magique";"Peu commune";Améthyste;15;1
 66;"Montre à Gousset";Rare;Améthyste;6;0
 67;Rose-Lanterne;Commune;Améthyste;22;3
@@ -87,7 +87,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 85;Donald;"Peu commune";Émeraude;14;2
 86;Heihei;"Peu commune";Émeraude;15;1
 87;Shenzi;"Super rare";Émeraude;6;0
-88;"La Fée Clochette";Commune;Émeraude;18;0
+88;"La Fée Clochette";Commune;Émeraude;19;0
 89;"John Silver";Légendaire;Émeraude;2;0
 90;Ursula;"Peu commune";Émeraude;15;0
 91;Turbo;"Peu commune";Émeraude;16;1
@@ -98,7 +98,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 96;Improviser;Commune;Émeraude;23;0
 97;"Sous l'océan";Rare;Émeraude;4;0
 98;"Concocter la Potion";Commune;Émeraude;25;2
-99;"N'écoute que Moi";"Peu commune";Émeraude;11;0
+99;"N'écoute que Moi";"Peu commune";Émeraude;12;0
 100;"Canne à pêche familiale";Rare;Émeraude;11;0
 101;"Contrat signé";"Peu commune";Émeraude;13;0
 102;"La crique cachée";Commune;Émeraude;22;2
@@ -116,7 +116,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 114;"Pat Junior";Commune;Rubis;25;0
 115;Gaston;Commune;Rubis;23;0
 116;Vaiana;Commune;Rubis;24;1
-117;Powerline;Rare;Rubis;7;0
+117;Powerline;Rare;Rubis;8;0
 118;Sisu;Rare;Rubis;7;0
 119;Sisu;"Peu commune";Rubis;16;0
 120;"La Reine de Cœur";"Peu commune";Rubis;13;0
@@ -130,7 +130,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 128;"Sergent Tibs";Commune;Rubis;23;3
 129;"Tuk Tuk";"Peu commune";Rubis;13;3
 130;I2I;Rare;Rubis;6;0
-131;"Tu t'envoles";Commune;Rubis;22;2
+131;"Tu t'envoles";Commune;Rubis;23;2
 132;"La vie d'un pirate";"Peu commune";Rubis;17;0
 133;"Un roi incontesté";"Peu commune";Rubis;13;0
 134;"Médaillons Lestés";"Peu commune";Rubis;17;0
@@ -156,13 +156,13 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 154;Aurore;Commune;Saphir;22;0
 155;Jasmine;Commune;Saphir;23;0
 156;Belle;"Peu commune";Saphir;15;1
-157;"Judy Hopps";"Peu commune";Saphir;15;2
+157;"Judy Hopps";"Peu commune";Saphir;16;2
 158;"Belle Marianne";Commune;Saphir;25;2
 159;"Winnie l'ourson";Rare;Saphir;6;0
 160;Alice;"Super rare";Saphir;7;0
 161;Aurore;"Peu commune";Saphir;15;0
 162;"Robin des Bois";Rare;Saphir;8;1
-163;"Développe ton Cerveau";Commune;Saphir;17;1
+163;"Développe ton Cerveau";Commune;Saphir;18;1
 164;"Quatre douzaines d'œufs";"Peu commune";Saphir;15;0
 165;"Je Vole";Commune;Saphir;25;1
 166;"Creuse encore et encore";"Peu commune";Saphir;15;1
@@ -188,7 +188,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 186;Hercule;"Peu commune";Acier;16;0
 187;Lawrence;"Peu commune";Acier;18;1
 188;"La Fée Clochette";"Super rare";Acier;4;0
-189;"La Fée Clochette";Commune;Acier;26;2
+189;"La Fée Clochette";Commune;Acier;27;2
 190;"Capitaine Crochet";Rare;Acier;9;1
 191;Hercule;Commune;Acier;24;1
 192;"John Silver";Rare;Acier;9;0

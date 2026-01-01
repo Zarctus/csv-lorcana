@@ -1,4 +1,30 @@
 saison,number,nom,encre,rareté,is_foil
+"Lueurs dans les Profondeurs",41,"Miss Tick",Améthyste,Commune,N
+"Lueurs dans les Profondeurs",178,"Nick Wilde",Acier,Commune,N
+"Lueurs dans les Profondeurs",112,Hermès,Rubis,Commune,N
+"Lueurs dans les Profondeurs",90,Akela,Émeraude,Commune,N
+"Lueurs dans les Profondeurs",7,Eilonwy,Ambre,Commune,N
+"Lueurs dans les Profondeurs",144,"Fergus Mac Picsou",Saphir,Commune,N
+"Lueurs dans les Profondeurs",76,"Archibald Gripsou",Émeraude,"Peu commune",N
+"Lueurs dans les Profondeurs",119,Goliath,Rubis,"Peu commune",N
+"Lueurs dans les Profondeurs",149,Jasmine,Saphir,"Peu commune",N
+"Lueurs dans les Profondeurs",29,"Le Cavalier attaque !",Ambre,Rare,N
+"Lueurs dans les Profondeurs",159,Kristoff,Saphir,Rare,N
+"Lueurs dans les Profondeurs",143,Raiponce,Saphir,Commune,Y
+
+Fabuleux,63,"Je suis coincé !",Améthyste,Commune,N
+Fabuleux,21,Pluto,Ambre,Commune,N
+Fabuleux,88,"La Fée Clochette",Émeraude,Commune,N
+Fabuleux,131,"Tu t'envoles",Rubis,Commune,N
+Fabuleux,189,"La Fée Clochette",Acier,Commune,N
+Fabuleux,163,"Développe ton Cerveau",Saphir,Commune,N
+Fabuleux,99,"N'écoute que Moi",Émeraude,"Peu commune",N
+Fabuleux,29,"Retour de Bruno",Ambre,"Peu commune",N
+Fabuleux,157,"Judy Hopps",Saphir,"Peu commune",N
+Fabuleux,64,"La plume magique",Améthyste,Rare,N
+Fabuleux,117,Powerline,Rubis,Rare,N
+Fabuleux,17,Nani,Ambre,"Peu commune",Y
+
 "Lueurs dans les Profondeurs",65,"Aussi fragile qu’une fleur",Améthyste,Commune,N
 "Lueurs dans les Profondeurs",194,"Le Cavalier sans tête",Acier,Commune,N
 "Lueurs dans les Profondeurs",120,Brooklyn,Rubis,Commune,N
@@ -701,19 +727,6 @@ Prélude,161,"Le bleu lumière",Saphir,"Peu commune",N
 "Les Terres d'Encres",132,"L'hameçon de Maui",Rubis,Rare,N
 "Menace des profondeurs – Quête des Illumineurs",65,"Le chapeau de sorcier",Améthyste,Rare,Y
 
-"L'Ascension des Floodborn",108,Fidget,Rubis,Commune,N
-"L'Ascension des Floodborn",87,Panique,Émeraude,Commune,N
-"L'Ascension des Floodborn",150,James,Saphir,Commune,N
-"L'Ascension des Floodborn",27,"La Reine",Ambre,Commune,N
-"L'Ascension des Floodborn",66,"Maillet de croquet",Améthyste,Commune,N
-"L'Ascension des Floodborn",171,"La Bête",Acier,Commune,N
-"L'Ascension des Floodborn",8,Gaston,Ambre,"Peu commune",N
-"L'Ascension des Floodborn",170,"Boîte de sardines",Saphir,"Peu commune",N
-"L'Ascension des Floodborn",116,"Mère Gothel",Rubis,"Peu commune",N
-"L'Ascension des Floodborn",82,"Flynn Rider",Émeraude,Rare,N
-"L'Ascension des Floodborn",9,"Grand Duke",Ambre,Rare,N
-"L'Ascension des Floodborn",87,Panique,Émeraude,Commune,Y
-
 "Les Terres d'Encres",131,Voyage,Rubis,Commune,N
 "Les Terres d'Encres",72,Flotsam,Émeraude,Commune,N
 "Les Terres d'Encres",60,"Offrir un don",Améthyste,Commune,N
@@ -726,6 +739,19 @@ Prélude,18,Pluto,Ambre,"Peu commune",N
 "Les Terres d'Encres",59,Ursula,Améthyste,Rare,N
 "Les Terres d'Encres",158,"Wendy Darling",Saphir,"Super rare",N
 "Les Terres d'Encres",40,Iago,Améthyste,Commune,Y
+
+"L'Ascension des Floodborn",108,Fidget,Rubis,Commune,N
+"L'Ascension des Floodborn",87,Panique,Émeraude,Commune,N
+"L'Ascension des Floodborn",150,James,Saphir,Commune,N
+"L'Ascension des Floodborn",27,"La Reine",Ambre,Commune,N
+"L'Ascension des Floodborn",66,"Maillet de croquet",Améthyste,Commune,N
+"L'Ascension des Floodborn",171,"La Bête",Acier,Commune,N
+"L'Ascension des Floodborn",8,Gaston,Ambre,"Peu commune",N
+"L'Ascension des Floodborn",170,"Boîte de sardines",Saphir,"Peu commune",N
+"L'Ascension des Floodborn",116,"Mère Gothel",Rubis,"Peu commune",N
+"L'Ascension des Floodborn",82,"Flynn Rider",Émeraude,Rare,N
+"L'Ascension des Floodborn",9,"Grand Duke",Ambre,Rare,N
+"L'Ascension des Floodborn",87,Panique,Émeraude,Commune,Y
 
 "Lueurs dans les Profondeurs",194,"Le Cavalier sans tête",Acier,Commune,N
 "Lueurs dans les Profondeurs",120,Brooklyn,Rubis,Commune,N
@@ -2572,30 +2598,4 @@ Fabuleux,183,Bourriquet,Acier,Commune,Y
 "Lueurs dans les Profondeurs",170,"Le Château du Seigneur des Ténèbres",Saphir,Rare,N
 "Lueurs dans les Profondeurs",124,"Madame de Trémaine",Rubis,"Super rare",N
 "Lueurs dans les Profondeurs",122,"Elisa Maza",Rubis,Rare,Y
-
-"Lueurs dans les Profondeurs",83,"Flagada Jones",Émeraude,Commune,N
-"Lueurs dans les Profondeurs",11,"Mamie Baba",Ambre,Commune,N
-"Lueurs dans les Profondeurs",145,"Li Shang",Saphir,Commune,N
-"Lueurs dans les Profondeurs",46,Mushu,Améthyste,Commune,N
-"Lueurs dans les Profondeurs",181,Minnie,Acier,Commune,N
-"Lueurs dans les Profondeurs",132,"Histoire de fantôme",Rubis,Commune,N
-"Lueurs dans les Profondeurs",58,Merlin,Améthyste,"Peu commune",N
-"Lueurs dans les Profondeurs",99,"Carte indéchiffrable",Émeraude,"Peu commune",N
-"Lueurs dans les Profondeurs",26,"Rechercher des indices",Ambre,"Peu commune",N
-"Lueurs dans les Profondeurs",18,"Balthazar Picsou",Ambre,Rare,N
-"Lueurs dans les Profondeurs",54,"Miss Tick",Améthyste,"Super rare",N
-"Lueurs dans les Profondeurs",134,"Fusée de Mushu",Rubis,"Peu commune",Y
-
-"Lueurs dans les Profondeurs",83,"Flagada Jones",Émeraude,Commune,N
-"Lueurs dans les Profondeurs",11,"Mamie Baba",Ambre,Commune,N
-"Lueurs dans les Profondeurs",145,"Li Shang",Saphir,Commune,N
-"Lueurs dans les Profondeurs",46,Mushu,Améthyste,Commune,N
-"Lueurs dans les Profondeurs",181,Minnie,Acier,Commune,N
-"Lueurs dans les Profondeurs",132,"Histoire de fantôme",Rubis,Commune,N
-"Lueurs dans les Profondeurs",2,Gaston,Ambre,"Peu commune",N
-"Lueurs dans les Profondeurs",136,"Sleepy Hollow",Rubis,"Peu commune",N
-"Lueurs dans les Profondeurs",43,Iago,Améthyste,"Peu commune",N
-"Lueurs dans les Profondeurs",86,Mégara,Émeraude,Rare,N
-"Lueurs dans les Profondeurs",35,Minnie,Améthyste,Rare,N
-"Lueurs dans les Profondeurs",166,"Badge de police",Saphir,Commune,Y
 
