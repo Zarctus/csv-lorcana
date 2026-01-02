@@ -4,7 +4,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 3;Raiponce;Légendaire;Ambre;0;0
 4;"Le destrier sans tête";Commune;Ambre;15;2
 5;Higgins;Commune;Ambre;13;2
-6;Rajah;Commune;Ambre;17;1
+6;Rajah;Commune;Ambre;17;2
 7;Eilonwy;Commune;Ambre;15;1
 8;"Balthazar Picsou";"Peu commune";Ambre;9;1
 9;Zaza;"Peu commune";Ambre;10;0
@@ -26,7 +26,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 25;Gazelle;Rare;Ambre;6;0
 26;"Rechercher des indices";"Peu commune";Ambre;11;1
 27;"Nous entrerons dans la bande";"Peu commune";Ambre;8;0
-28;"Berceuse de la Lune de Della";Commune;Ambre;15;2
+28;"Berceuse de la Lune de Della";Commune;Ambre;16;2
 29;"Le Cavalier attaque !";Rare;Ambre;5;0
 30;"Page retrouvée";"Peu commune";Ambre;11;1
 31;"Le journal de Zaza";"Peu commune";Ambre;11;1
@@ -48,7 +48,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 47;Arsène;"Peu commune";Améthyste;9;0
 48;"Bon Zigue";"Peu commune";Améthyste;9;1
 49;"Le Seigneur des Ténèbres";Rare;Améthyste;5;0
-50;Crapaud;Rare;Améthyste;4;0
+50;Crapaud;Rare;Améthyste;5;0
 51;Coldstone;Rare;Améthyste;5;1
 52;"Miss Tick";Rare;Améthyste;5;0
 53;Nana;"Peu commune";Améthyste;11;0
@@ -62,9 +62,9 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 61;"Ouste !";Commune;Améthyste;15;2
 62;"Je ne mentirai plus jamais";Rare;Améthyste;1;0
 63;"Attaque en piqué";Commune;Améthyste;16;0
-64;"Bilan de performance";"Peu commune";Améthyste;11;0
+64;"Bilan de performance";"Peu commune";Améthyste;12;0
 65;"Aussi fragile qu’une fleur";Commune;Améthyste;13;0
-66;"Le Manuel des Castors Juniors";Commune;Améthyste;14;0
+66;"Le Manuel des Castors Juniors";Commune;Améthyste;15;0
 67;"Grimorum Arcanorum";Rare;Améthyste;5;0
 68;"Le grand Illuminarium";"Peu commune";Améthyste;10;1
 69;Baloo;Commune;Émeraude;16;2
@@ -75,7 +75,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 74;Finnick;Commune;Émeraude;14;0
 75;Vladimir;Commune;Émeraude;15;0
 76;"Archibald Gripsou";"Peu commune";Émeraude;10;0
-77;Jetsam;Commune;Émeraude;15;2
+77;Jetsam;Commune;Émeraude;16;2
 78;"La Main Froide";"Peu commune";Émeraude;9;0
 79;Kaa;"Peu commune";Émeraude;10;0
 80;"Émilie Frappe";"Peu commune";Émeraude;12;1
@@ -108,12 +108,12 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 107;Raksha;Commune;Rubis;13;1
 108;"Shere Khan";Commune;Rubis;14;0
 109;Rama;Commune;Rubis;14;2
-110;"Mère Gothel";Commune;Rubis;15;2
+110;"Mère Gothel";Commune;Rubis;16;2
 111;"Katrina Van Tassel";"Peu commune";Rubis;8;0
 112;Hermès;Commune;Rubis;15;1
 113;"La Bête";"Peu commune";Rubis;9;0
 114;Bronx;Commune;Rubis;16;2
-115;"La Fée Clochette";"Peu commune";Rubis;8;0
+115;"La Fée Clochette";"Peu commune";Rubis;9;0
 116;"David Xanatos";"Super rare";Rubis;4;0
 117;Hans;"Super rare";Rubis;5;0
 118;Hercule;Légendaire;Rubis;2;0
@@ -145,7 +145,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 144;"Fergus Mac Picsou";Commune;Saphir;15;2
 145;"Li Shang";Commune;Saphir;16;0
 146;Génie;Commune;Saphir;14;1
-147;Eurêka;"Peu commune";Saphir;8;2
+147;Eurêka;"Peu commune";Saphir;9;2
 148;"Ichabod Crane";Rare;Saphir;7;0
 149;Jasmine;"Peu commune";Saphir;8;0
 150;"Judy Hopps";Rare;Saphir;6;1
@@ -156,9 +156,9 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 155;Cendrillon;Légendaire;Saphir;0;0
 156;"Judy Hopps";"Super rare";Saphir;5;0
 157;Pluto;"Peu commune";Saphir;10;1
-158;Daisy;Rare;Saphir;5;0
+158;Daisy;Rare;Saphir;6;0
 159;Kristoff;Rare;Saphir;5;0
-160;"Mickey Mouse";Commune;Saphir;15;2
+160;"Mickey Mouse";Commune;Saphir;16;2
 161;"Visions de Tirelire";Commune;Saphir;16;0
 162;"Piste prometteuse";Commune;Saphir;15;1
 163;"En suivant Fifi, Riri et Loulou";"Peu commune";Saphir;10;2
@@ -184,7 +184,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 183;Lexington;"Peu commune";Acier;9;0
 184;"David Xanatos";"Peu commune";Acier;9;0
 185;"Chef Bogo";Rare;Acier;4;0
-186;"Les jumeaux";Commune;Acier;14;2
+186;"Les jumeaux";Commune;Acier;15;2
 187;"Nick Wilde";Rare;Acier;6;0
 188;"Maire Winddancer";Rare;Acier;6;0
 189;"Prince charmant";Légendaire;Acier;1;0
