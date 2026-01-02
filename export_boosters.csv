@@ -1,4 +1,17 @@
 saison,number,nom,encre,rareté,is_foil
+Fabuleux,39,Belle,Améthyste,Commune,N
+Fabuleux,22,Ursula,Ambre,Commune,N
+Fabuleux,83,Donald,Émeraude,Commune,N
+Fabuleux,124,Raiponce,Rubis,Commune,N
+Fabuleux,185,"Mickey Mouse",Acier,Commune,N
+Fabuleux,165,"Je Vole",Saphir,Commune,N
+Fabuleux,78,"Bobby Zimmeruski",Émeraude,"Peu commune",N
+Fabuleux,30,"Le Grand Génie du Mal",Ambre,"Peu commune",N
+Fabuleux,167,"Gyroscope lumineux",Saphir,"Peu commune",N
+Fabuleux,152,"Mama Odie",Saphir,Rare,N
+Fabuleux,35,"La Reine",Améthyste,Rare,N
+Fabuleux,183,Bourriquet,Acier,Commune,Y
+
 "Lueurs dans les Profondeurs",70,L’amoureux,Émeraude,Commune,N
 "Lueurs dans les Profondeurs",107,Raksha,Rubis,Commune,N
 "Lueurs dans les Profondeurs",38,"Le Seigneur des Ténèbres",Améthyste,Commune,N
@@ -2585,17 +2598,4 @@ Fabuleux,183,Bourriquet,Acier,Commune,Y
 "Lueurs dans les Profondeurs",129,"Prochaine étape, l’Olympe !",Rubis,Rare,N
 "Lueurs dans les Profondeurs",23,"Mickey Mouse",Ambre,Rare,N
 "Lueurs dans les Profondeurs",216,Aladdin,Rubis,Épique,Y
-
-"Lueurs dans les Profondeurs",69,Baloo,Émeraude,Commune,N
-"Lueurs dans les Profondeurs",107,Raksha,Rubis,Commune,N
-"Lueurs dans les Profondeurs",40,Démona,Améthyste,Commune,N
-"Lueurs dans les Profondeurs",141,Daisy,Saphir,Commune,N
-"Lueurs dans les Profondeurs",175,Clawhauser,Acier,Commune,N
-"Lueurs dans les Profondeurs",6,Rajah,Ambre,Commune,N
-"Lueurs dans les Profondeurs",199,"La Reine robot",Acier,"Peu commune",N
-"Lueurs dans les Profondeurs",101,"Cornemuse bénie",Émeraude,"Peu commune",N
-"Lueurs dans les Profondeurs",163,"En suivant Fifi, Riri et Loulou",Saphir,"Peu commune",N
-"Lueurs dans les Profondeurs",135,"Le Bois-Amer",Rubis,Rare,N
-"Lueurs dans les Profondeurs",59,Ursula,Améthyste,Rare,N
-"Lueurs dans les Profondeurs",96,Croque !,Émeraude,Commune,Y
 
