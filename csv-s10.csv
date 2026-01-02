@@ -9,7 +9,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 8;"Balthazar Picsou";"Peu commune";Ambre;9;1
 9;Zaza;"Peu commune";Ambre;10;0
 10;Gurgi;Commune;Ambre;14;0
-11;"Mamie Baba";Commune;Ambre;15;0
+11;"Mamie Baba";Commune;Ambre;16;0
 12;Bagheera;"Peu commune";Ambre;12;2
 13;Shanti;Commune;Ambre;16;2
 14;Flash;Commune;Ambre;15;0
@@ -41,7 +41,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 40;Démona;Commune;Améthyste;14;0
 41;"Miss Tick";Commune;Améthyste;14;0
 42;"Lena de Sortilège";Commune;Améthyste;16;2
-43;Iago;"Peu commune";Améthyste;10;0
+43;Iago;"Peu commune";Améthyste;11;0
 44;"Violette Campyloptère";Commune;Améthyste;16;3
 45;Elsa;Commune;Améthyste;13;1
 46;Mushu;Commune;Améthyste;16;2
@@ -49,7 +49,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 48;"Bon Zigue";"Peu commune";Améthyste;9;1
 49;"Le Seigneur des Ténèbres";Rare;Améthyste;5;0
 50;Crapaud;Rare;Améthyste;5;0
-51;Coldstone;Rare;Améthyste;5;1
+51;Coldstone;Rare;Améthyste;5;2
 52;"Miss Tick";Rare;Améthyste;5;0
 53;Nana;"Peu commune";Améthyste;11;0
 54;"Miss Tick";"Super rare";Améthyste;6;0
@@ -60,10 +60,10 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 59;Ursula;Rare;Améthyste;2;0
 60;"Chat du Cheshire";"Super rare";Améthyste;3;0
 61;"Ouste !";Commune;Améthyste;15;2
-62;"Je ne mentirai plus jamais";Rare;Améthyste;1;0
+62;"Je ne mentirai plus jamais";Rare;Améthyste;2;0
 63;"Attaque en piqué";Commune;Améthyste;16;0
 64;"Bilan de performance";"Peu commune";Améthyste;12;0
-65;"Aussi fragile qu’une fleur";Commune;Améthyste;13;0
+65;"Aussi fragile qu’une fleur";Commune;Améthyste;14;0
 66;"Le Manuel des Castors Juniors";Commune;Améthyste;15;0
 67;"Grimorum Arcanorum";Rare;Améthyste;5;0
 68;"Le grand Illuminarium";"Peu commune";Améthyste;10;1
@@ -81,9 +81,9 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 80;"Émilie Frappe";"Peu commune";Émeraude;12;1
 81;"Flynn Rider";"Peu commune";Émeraude;5;0
 82;Bellwether;"Peu commune";Émeraude;10;2
-83;"Flagada Jones";Commune;Émeraude;15;2
+83;"Flagada Jones";Commune;Émeraude;16;2
 84;Pénombre;Rare;Émeraude;5;1
-85;Baloo;Rare;Émeraude;5;0
+85;Baloo;Rare;Émeraude;6;0
 86;Mégara;Rare;Émeraude;4;0
 87;"Goldie O'Gilt";Rare;Émeraude;4;0
 88;"Shere Khan";Légendaire;Émeraude;2;0
@@ -107,7 +107,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 106;"La Fée Clochette";Commune;Rubis;14;1
 107;Raksha;Commune;Rubis;13;1
 108;"Shere Khan";Commune;Rubis;14;0
-109;Rama;Commune;Rubis;14;2
+109;Rama;Commune;Rubis;15;2
 110;"Mère Gothel";Commune;Rubis;16;2
 111;"Katrina Van Tassel";"Peu commune";Rubis;8;0
 112;Hermès;Commune;Rubis;15;1
@@ -132,7 +132,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 131;"Il est temps de partir !";"Peu commune";Rubis;9;0
 132;"Histoire de fantôme";Commune;Rubis;16;1
 133;"Feu du Dragon";Commune;Rubis;14;2
-134;"Fusée de Mushu";"Peu commune";Rubis;8;2
+134;"Fusée de Mushu";"Peu commune";Rubis;9;2
 135;"Le Bois-Amer";Rare;Rubis;4;0
 136;"Sleepy Hollow";"Peu commune";Rubis;12;1
 137;"Judy Hopps";"Peu commune";Saphir;11;0
@@ -143,7 +143,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 142;Cri-Kee;Commune;Saphir;15;2
 143;Raiponce;Commune;Saphir;14;1
 144;"Fergus Mac Picsou";Commune;Saphir;15;2
-145;"Li Shang";Commune;Saphir;16;0
+145;"Li Shang";Commune;Saphir;17;0
 146;Génie;Commune;Saphir;14;1
 147;Eurêka;"Peu commune";Saphir;9;2
 148;"Ichabod Crane";Rare;Saphir;7;0
@@ -162,7 +162,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 161;"Visions de Tirelire";Commune;Saphir;16;0
 162;"Piste prometteuse";Commune;Saphir;15;1
 163;"En suivant Fifi, Riri et Loulou";"Peu commune";Saphir;10;2
-164;"Frousse soudaine";"Peu commune";Saphir;10;1
+164;"Frousse soudaine";"Peu commune";Saphir;11;1
 165;"Apparition effrayante";Rare;Saphir;5;0
 166;"Badge de police";Commune;Saphir;14;2
 167;"Amplificateur d'encre";Rare;Saphir;4;1
@@ -175,7 +175,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 174;"Le Cavalier sans tête";"Super rare";Acier;1;0
 175;Clawhauser;Commune;Acier;14;0
 176;Francine;Commune;Acier;14;2
-177;"Inspectrice Tezuka";Commune;Acier;14;1
+177;"Inspectrice Tezuka";Commune;Acier;15;1
 178;"Nick Wilde";Commune;Acier;15;1
 179;Basil;Commune;Acier;14;2
 180;Hudson;Commune;Acier;15;0
