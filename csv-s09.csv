@@ -1,7 +1,7 @@
 card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 0;"Bruno Madrigal";"Super rare";Améthyste;9;0
 1;"La Reine";Rare;Ambre;8;0
-2;Pongo;"Super rare";Ambre;7;0
+2;Pongo;"Super rare";Ambre;6;0
 3;Stitch;"Super rare";Ambre;5;0
 4;"La Bête";Rare;Ambre;7;0
 5;Minnie;"Super rare";Ambre;10;0
@@ -39,7 +39,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 37;Ursula;Rare;Améthyste;8;0
 38;Jafar;Rare;Améthyste;10;0
 39;Belle;Commune;Améthyste;19;1
-40;Belle;"Super rare";Améthyste;2;0
+40;Belle;"Super rare";Améthyste;1;0
 41;"Winnie l'ourson";Commune;Améthyste;24;2
 42;"Ombre de Peter Pan";"Super rare";Améthyste;8;1
 43;Elsa;Légendaire;Améthyste;0;0
@@ -76,7 +76,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 74;Dingo;Rare;Émeraude;8;2
 75;"Max Dingo";Rare;Émeraude;8;0
 76;Génie;"Super rare";Émeraude;9;0
-77;"Max Dingo";Légendaire;Émeraude;4;0
+77;"Max Dingo";Légendaire;Émeraude;3;0
 78;"Bobby Zimmeruski";"Peu commune";Émeraude;16;1
 79;Mégara;Commune;Émeraude;23;1
 80;"Mickey Mouse";Commune;Émeraude;27;4
@@ -88,7 +88,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 86;Heihei;"Peu commune";Émeraude;16;1
 87;Shenzi;"Super rare";Émeraude;6;0
 88;"La Fée Clochette";Commune;Émeraude;20;0
-89;"John Silver";Légendaire;Émeraude;2;0
+89;"John Silver";Légendaire;Émeraude;1;0
 90;Ursula;"Peu commune";Émeraude;15;0
 91;Turbo;"Peu commune";Émeraude;16;1
 92;Aladdin;Commune;Émeraude;21;4
@@ -110,7 +110,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 108;Maléfique;Légendaire;Rubis;4;0
 109;Powerline;Commune;Rubis;22;3
 110;Powerline;"Super rare";Rubis;9;1
-111;"Mickey Mouse";Légendaire;Rubis;2;0
+111;"Mickey Mouse";Légendaire;Rubis;1;0
 112;"Max Dingo";Commune;Rubis;21;0
 113;Roxane;"Peu commune";Rubis;14;1
 114;"Pat Junior";Commune;Rubis;27;0
@@ -150,7 +150,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 148;Hans;Commune;Saphir;20;1
 149;"La Reine";"Peu commune";Saphir;16;0
 150;"Grand Pabbie";Rare;Saphir;9;2
-151;Hadès;Légendaire;Saphir;1;0
+151;Hadès;Légendaire;Saphir;0;0
 152;"Mama Odie";Rare;Saphir;9;1
 153;Aurore;"Super rare";Saphir;6;0
 154;Aurore;Commune;Saphir;23;0
