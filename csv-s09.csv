@@ -8,7 +8,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 6;Aurore;"Peu commune";Ambre;17;0
 7;"La Reine";Commune;Ambre;23;2
 8;Raiponce;Commune;Ambre;24;0
-9;Stitch;Commune;Ambre;23;3
+9;Stitch;Commune;Ambre;23;2
 10;Mulan;Commune;Ambre;23;2
 11;Daisy;Commune;Ambre;22;3
 12;"La Fée Clochette";"Peu commune";Ambre;12;1
@@ -41,7 +41,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 39;Belle;Commune;Améthyste;19;1
 40;Belle;"Super rare";Améthyste;1;0
 41;"Winnie l'ourson";Commune;Améthyste;24;2
-42;"Ombre de Peter Pan";"Super rare";Améthyste;8;1
+42;"Ombre de Peter Pan";"Super rare";Améthyste;8;0
 43;Elsa;Légendaire;Améthyste;0;0
 44;Ursula;"Super rare";Améthyste;5;1
 45;Dumbo;Légendaire;Améthyste;0;0
@@ -70,7 +70,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 68;"Casa Madrigal";Commune;Améthyste;27;1
 69;Kuzco;Rare;Émeraude;7;0
 70;"Robin des Bois";Rare;Émeraude;7;0
-71;"Ondins Ensorcelés";Rare;Émeraude;5;1
+71;"Ondins Ensorcelés";Rare;Émeraude;5;0
 72;"Prince Philippe";Rare;Émeraude;10;0
 73;"Prince Philippe";"Super rare";Émeraude;4;1
 74;Dingo;Rare;Émeraude;8;2
