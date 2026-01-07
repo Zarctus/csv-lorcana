@@ -54,7 +54,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 53;PASCAL;"Peu commune";Améthyste;12;1
 54;RAFIKI;"Peu commune";Améthyste;21;2
 55;SVEN;"Peu commune";Améthyste;17;1
-56;"LA REINE";"Super rare";Améthyste;5;0
+56;"LA REINE";"Super rare";Améthyste;4;0
 57;"MADAME DE GARDEROBE";Commune;Améthyste;28;1
 58;"LA FÉE CLOCHETTE";Commune;Améthyste;24;4
 59;URSULA;Légendaire;Améthyste;1;0
@@ -88,7 +88,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 87;MÉGARA;Commune;Émeraude;26;0
 88;"MICKEY MOUSE";"Super rare";Émeraude;4;0
 89;"MICKEY MOUSE";Commune;Émeraude;30;0
-90;"MÈRE GOTHEL";"Super rare";Émeraude;8;0
+90;"MÈRE GOTHEL";"Super rare";Émeraude;7;0
 91;"PETER PAN";Commune;Émeraude;31;2
 92;TAMATOA;"Peu commune";Émeraude;15;0
 93;"LA FÉE CLOCHETTE";Commune;Émeraude;26;1
@@ -190,7 +190,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 189;SIMBA;Rare;Acier;10;0
 190;SIMBA;"Peu commune";Acier;18;0
 191;"MONSIEUR STARKEY";"Peu commune";Acier;15;4
-192;"TE KĀ";Légendaire;Acier;2;0
+192;"TE KĀ";Légendaire;Acier;1;0
 193;"LA FÉE CLOCHETTE";"Super rare";Acier;1;0
 194;"LA FÉE CLOCHETTE";Commune;Acier;22;0
 195;"CE RÊVE BLEU";"Super rare";Acier;0;0
