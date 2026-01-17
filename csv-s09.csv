@@ -23,9 +23,9 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 21;Pluto;Commune;Ambre;26;1
 22;Ursula;Commune;Ambre;23;2
 23;"La Reine de Cœur";"Peu commune";Ambre;16;0
-24;Stitch;Légendaire;Ambre;2;0
+24;Stitch;Légendaire;Ambre;1;0
 25;"On est une Famille";Rare;Ambre;10;1
-26;"L'histoire de la vie";Légendaire;Ambre;1;0
+26;"L'histoire de la vie";Légendaire;Ambre;0;0
 27;"Guéris les blessures";Commune;Ambre;27;0
 28;"J'ai perdu le Nord";Commune;Ambre;21;1
 29;"Retour de Bruno";"Peu commune";Ambre;15;2
@@ -110,7 +110,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 108;Maléfique;Légendaire;Rubis;4;0
 109;Powerline;Commune;Rubis;22;3
 110;Powerline;"Super rare";Rubis;9;1
-111;"Mickey Mouse";Légendaire;Rubis;1;0
+111;"Mickey Mouse";Légendaire;Rubis;0;0
 112;"Max Dingo";Commune;Rubis;21;0
 113;Roxane;"Peu commune";Rubis;14;1
 114;"Pat Junior";Commune;Rubis;27;0
@@ -141,7 +141,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 139;Fifi;"Peu commune";Saphir;15;2
 140;Loulou;Commune;Saphir;25;3
 141;Alice;Rare;Saphir;8;0
-142;Mulan;"Super rare";Saphir;6;1
+142;Mulan;"Super rare";Saphir;5;1
 143;"Cruella d'Enfer";Légendaire;Saphir;3;0
 144;Mufasa;Commune;Saphir;28;2
 145;"Cruella d'Enfer";Commune;Saphir;24;1
