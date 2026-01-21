@@ -10,11 +10,11 @@
 
 
 **Quelques liens aléatoires / Some random links**
-- *[Lorcana - Fabuleux - Max Dingo 214/204 - Épique Foil - ID=2168](https://www.vinted.fr/items/7241184338-lorcana-fabuleux-max-dingo-214204-epique-foil-id2168)*
-- *[Lorcana - Premier Chapitre - Te Kā 126/204 - Super rare - ID=126](https://www.vinted.fr/items/5734712558-lorcana-premier-chapitre-te-ka-126204-super-rare-id126)*
-- *[Lorcana - Ciel Scintillant - 4x Chromicône D'Améthyste 66/204 - Peu commune - ID=1022](https://www.vinted.fr/items/7583607664-lorcana-ciel-scintillant-4x-chromicone-damethyste-66204-peu-commune-id1022)*
-- *[Lorcana - Le retour d'Ursula - 2x Sisu 123/204 - Peu commune - ID=814](https://www.vinted.fr/items/6005813880-lorcana-le-retour-dursula-2x-sisu-123204-peu-commune-id814)*
-- *[Lorcana - Ciel Scintillant - 3x Vanellope Von Schweetz 19/204 - Rare - ID=975](https://www.vinted.fr/items/7949477355-lorcana-ciel-scintillant-3x-vanellope-von-schweetz-19204-rare-id975)*
+- *[Lorcana - Le Règne de Jafar - Elsa 60/204 - Rare - ID=1724](https://www.vinted.fr/items/6474976939-lorcana-le-regne-de-jafar-elsa-60204-rare-id1724)*
+- *[Lorcana - La Mer Azurite - John Silver 181/204 - Commune Foil - ID=1380](https://www.vinted.fr/items/6005924803-lorcana-la-mer-azurite-john-silver-181204-commune-foil-id1380)*
+- *[Lorcana - Le retour d'Ursula - Triton 159/204 - Rare Foil - ID=850](https://www.vinted.fr/items/6116825839-lorcana-le-retour-dursula-triton-159204-rare-foil-id850)*
+- *[Lorcana - Ciel Scintillant - 4x La Reine 144/204 - Super rare - ID=1100](https://www.vinted.fr/items/7098685956-lorcana-ciel-scintillant-4x-la-reine-144204-super-rare-id1100)*
+- *[Lorcana - Le Règne de Jafar - Namaari 198/204 - Légendaire - ID=1862](https://www.vinted.fr/items/7768832233-lorcana-le-regne-de-jafar-namaari-198204-legendaire-id1862)*
 
 
 **🔎 Recherches Lorcana par rareté / Search Lorcana by rarity**
