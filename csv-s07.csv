@@ -80,7 +80,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 79;Mufasa;"Peu commune";"Améthyste, Acier";7;0
 80;"Manœuvres magiques";"Peu commune";Améthyste;9;1
 81;"C'est ma famille";Commune;Améthyste;9;0
-82;"Montre-m’en davantage !";"Super rare";Améthyste;3;0
+82;"Montre-m’en davantage !";"Super rare";Améthyste;0;0
 83;"Restaurer la Couronne";Rare;"Améthyste, Acier";4;1
 84;"Spirale d’améthyste";"Peu commune";Améthyste;8;0
 85;Javotte;Commune;Émeraude;12;1

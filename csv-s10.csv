@@ -55,10 +55,10 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 54;"Miss Tick";"Super rare";Améthyste;6;0
 55;Démona;Légendaire;Améthyste;0;0
 56;Hadès;Légendaire;Améthyste;1;0
-57;Olaf;"Peu commune";Améthyste;9;0
+57;Olaf;"Peu commune";Améthyste;7;0
 58;Merlin;"Peu commune";Améthyste;9;0
 59;Ursula;Rare;Améthyste;2;0
-60;"Chat du Cheshire";"Super rare";Améthyste;3;0
+60;"Chat du Cheshire";"Super rare";Améthyste;0;0
 61;"Ouste !";Commune;Améthyste;15;2
 62;"Je ne mentirai plus jamais";Rare;Améthyste;2;0
 63;"Attaque en piqué";Commune;Améthyste;16;0
@@ -158,7 +158,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 157;Pluto;"Peu commune";Saphir;10;1
 158;Daisy;Rare;Saphir;6;0
 159;Kristoff;Rare;Saphir;5;0
-160;"Mickey Mouse";Commune;Saphir;16;2
+160;"Mickey Mouse";Commune;Saphir;16;1
 161;"Visions de Tirelire";Commune;Saphir;16;0
 162;"Piste prometteuse";Commune;Saphir;15;1
 163;"En suivant Fifi, Riri et Loulou";"Peu commune";Saphir;10;2
@@ -195,7 +195,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 194;"Le Cavalier sans tête";Commune;Acier;16;1
 195;"Quelle poursuite infernale";Commune;Acier;15;2
 196;"Rassembler les indices";Commune;Acier;16;1
-197;"Foudroyant d'un éclair";"Peu commune";Acier;9;0
+197;"Foudroyant d'un éclair";"Peu commune";Acier;6;0
 198;"Un complot se prépare";"Peu commune";Acier;10;1
 199;"La Reine robot";"Peu commune";Acier;10;0
 200;"L'épée d'Hercule";Rare;Acier;5;0

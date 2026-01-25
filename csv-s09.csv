@@ -35,7 +35,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 33;"Pendentif en Coquillage d'Ursula";Rare;Ambre;7;0
 34;Atlantica;Commune;Ambre;23;2
 35;"La Reine";Rare;Améthyste;8;3
-36;Rafiki;Rare;Améthyste;8;0
+36;Rafiki;Rare;Améthyste;5;0
 37;Ursula;Rare;Améthyste;8;0
 38;Jafar;Rare;Améthyste;10;0
 39;Belle;Commune;Améthyste;19;1
@@ -200,7 +200,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 198;"Fracasser !";"Peu commune";Acier;15;1
 199;"Ils cassent en deux comme je veux";"Peu commune";Acier;15;1
 200;"Allumez les Mêches !";Commune;Acier;19;1
-201;"Plus ardent que le feu des volcans";Rare;Acier;1;0
+201;"Plus ardent que le feu des volcans";Rare;Acier;0;0
 202;"Tous avec moi !";"Peu commune";Acier;13;0
 203;"Miroir de la Bête";Commune;Acier;24;1
 204;"Île d'exil de Maui";"Peu commune";Acier;17;2
