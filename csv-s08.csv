@@ -50,7 +50,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 49;"Lena de Sortilège";"Peu commune";"Améthyste, Acier";10;0
 50;Abu;"Peu commune";"Améthyste, Acier";9;1
 51;"Bruno Madrigal";Commune;Améthyste;15;1
-52;"Garde royal";Commune;Améthyste;12;0
+52;"Garde royal";Commune;Améthyste;9;0
 53;Kuzco;Commune;Améthyste;14;1
 54;Mégara;Commune;Améthyste;11;1
 55;Yelena;Commune;Améthyste;12;2
@@ -184,7 +184,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 183;"Tapis Volant";Commune;Acier;12;1
 184;"Prince Achmed";Commune;Acier;13;1
 185;Nazo;Commune;Acier;14;1
-186;"Capitaine Crochet";Commune;Acier;9;1
+186;"Capitaine Crochet";Commune;Acier;6;1
 187;"Général Li";Commune;Acier;15;1
 188;"Jack le Costaud";Commune;Acier;13;0
 189;Génie;Commune;Acier;13;1
