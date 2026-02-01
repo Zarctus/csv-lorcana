@@ -23,7 +23,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 21;Pluto;Commune;Ambre;26;1
 22;Ursula;Commune;Ambre;23;2
 23;"La Reine de Cœur";"Peu commune";Ambre;16;0
-24;Stitch;Légendaire;Ambre;1;0
+24;Stitch;Légendaire;Ambre;0;0
 25;"On est une Famille";Rare;Ambre;10;1
 26;"L'histoire de la vie";Légendaire;Ambre;0;0
 27;"Guéris les blessures";Commune;Ambre;27;0
@@ -72,7 +72,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 70;"Robin des Bois";Rare;Émeraude;7;0
 71;"Ondins Ensorcelés";Rare;Émeraude;5;0
 72;"Prince Philippe";Rare;Émeraude;10;0
-73;"Prince Philippe";"Super rare";Émeraude;4;1
+73;"Prince Philippe";"Super rare";Émeraude;3;1
 74;Dingo;Rare;Émeraude;8;2
 75;"Max Dingo";Rare;Émeraude;8;0
 76;Génie;"Super rare";Émeraude;9;0
@@ -107,7 +107,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 105;Simba;Rare;Rubis;9;0
 106;Maui;Rare;Rubis;9;0
 107;Ariel;"Super rare";Rubis;4;0
-108;Maléfique;Légendaire;Rubis;4;0
+108;Maléfique;Légendaire;Rubis;3;0
 109;Powerline;Commune;Rubis;22;3
 110;Powerline;"Super rare";Rubis;9;1
 111;"Mickey Mouse";Légendaire;Rubis;0;0

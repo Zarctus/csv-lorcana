@@ -86,7 +86,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 85;Baloo;Rare;Émeraude;6;0
 86;Mégara;Rare;Émeraude;4;0
 87;"Goldie O'Gilt";Rare;Émeraude;4;0
-88;"Shere Khan";Légendaire;Émeraude;2;0
+88;"Shere Khan";Légendaire;Émeraude;1;0
 89;"Balthazar Picsou";"Super rare";Émeraude;5;0
 90;Akela;Commune;Émeraude;15;0
 91;Dingo;Rare;Émeraude;5;0
@@ -116,7 +116,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 115;"La Fée Clochette";"Peu commune";Rubis;9;0
 116;"David Xanatos";"Super rare";Rubis;4;0
 117;Hans;"Super rare";Rubis;5;0
-118;Hercule;Légendaire;Rubis;1;0
+118;Hercule;Légendaire;Rubis;0;0
 119;Goliath;"Peu commune";Rubis;11;0
 120;Brooklyn;Commune;Rubis;16;1
 121;Donald;Rare;Rubis;5;0
@@ -152,7 +152,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 151;"Le Sultan";Rare;Saphir;5;0
 152;"Ichabod Crane";"Peu commune";Saphir;12;0
 153;Scar;"Super rare";Saphir;4;0
-154;Daisy;Légendaire;Saphir;3;0
+154;Daisy;Légendaire;Saphir;2;0
 155;Cendrillon;Légendaire;Saphir;0;0
 156;"Judy Hopps";"Super rare";Saphir;2;0
 157;Pluto;"Peu commune";Saphir;10;1
