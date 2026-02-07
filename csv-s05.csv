@@ -57,7 +57,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 56;Anna;Commune;Améthyste;14;0
 57;"Le Roi de Cœur";"Peu commune";Améthyste;13;1
 58;"Camilo Madrigal";Légendaire;Améthyste;0;0
-59;"Force hypnotique";Commune;Améthyste;15;1
+59;"Force hypnotique";Commune;Améthyste;12;1
 60;"Qui trouve, garde";"Peu commune";Améthyste;4;0
 61;L'explorateur;Rare;Améthyste;4;2
 62;"Rassembler Connaissance et Sagesse";Commune;Améthyste;8;2
@@ -94,11 +94,11 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 93;Scar;Rare;Émeraude;5;0
 94;"Déduction sous hypnose";Commune;Émeraude;13;0
 95;"Rage du Hurleur nocturne";Commune;Émeraude;14;3
-96;"Pour les hommes";"Peu commune";Émeraude;3;0
+96;"Pour les hommes";"Peu commune";Émeraude;0;0
 97;"N'oublie pas qui tu es";Rare;Émeraude;5;0
 98;"Miroir du Prince Jean";Rare;Émeraude;6;0
 99;Obscurosphère;Commune;Émeraude;13;2
-100;"Chromicône d'Émeraude";"Peu commune";Émeraude;4;0
+100;"Chromicône d'Émeraude";"Peu commune";Émeraude;2;0
 101;"Forêt de Sherwood";Rare;Émeraude;5;0
 102;"Forêt tropicale";"Peu commune";Émeraude;7;0
 103;"Taffyta Crème Brûlée";"Peu commune";Rubis;11;0

@@ -57,7 +57,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 56;Hadès;Légendaire;Améthyste;1;0
 57;Olaf;"Peu commune";Améthyste;7;0
 58;Merlin;"Peu commune";Améthyste;9;0
-59;Ursula;Rare;Améthyste;2;0
+59;Ursula;Rare;Améthyste;0;0
 60;"Chat du Cheshire";"Super rare";Améthyste;0;0
 61;"Ouste !";Commune;Améthyste;15;2
 62;"Je ne mentirai plus jamais";Rare;Améthyste;2;0
@@ -189,7 +189,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 188;"Maire Winddancer";Rare;Acier;6;0
 189;"Prince charmant";Légendaire;Acier;1;0
 190;Broadway;"Peu commune";Acier;12;1
-191;Pluto;Rare;Acier;1;0
+191;Pluto;Rare;Acier;0;0
 192;"La Bonne Fée";"Super rare";Acier;6;0
 193;Zeus;"Peu commune";Acier;10;1
 194;"Le Cavalier sans tête";Commune;Acier;16;1

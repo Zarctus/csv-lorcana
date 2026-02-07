@@ -35,7 +35,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 33;"Pendentif en Coquillage d'Ursula";Rare;Ambre;7;0
 34;Atlantica;Commune;Ambre;23;2
 35;"La Reine";Rare;Améthyste;8;3
-36;Rafiki;Rare;Améthyste;5;0
+36;Rafiki;Rare;Améthyste;3;0
 37;Ursula;Rare;Améthyste;8;0
 38;Jafar;Rare;Améthyste;10;0
 39;Belle;Commune;Améthyste;19;1
@@ -189,7 +189,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 187;Lawrence;"Peu commune";Acier;19;1
 188;"La Fée Clochette";"Super rare";Acier;4;0
 189;"La Fée Clochette";Commune;Acier;27;2
-190;"Capitaine Crochet";Rare;Acier;9;1
+190;"Capitaine Crochet";Rare;Acier;9;0
 191;Hercule;Commune;Acier;24;2
 192;"John Silver";Rare;Acier;9;0
 193;"Li Shang";"Peu commune";Acier;14;2
