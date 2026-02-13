@@ -161,7 +161,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 160;Yokai;Rare;Saphir;5;0
 161;Alice;"Super rare";Saphir;0;0
 162;"We Could Be Immortals";Rare;Saphir;4;0
-163;"Voguer sur la mer Azurite";Commune;Saphir;1;0
+163;"Voguer sur la mer Azurite";Commune;Saphir;0;0
 164;"Coup de main";Commune;Saphir;10;0
 165;"Prépare ton robot";"Peu commune";Saphir;5;1
 166;"Puce de soins de Baymax";Commune;Saphir;12;0
