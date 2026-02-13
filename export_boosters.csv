@@ -1,4 +1,17 @@
 saison,number,nom,encre,rareté,is_foil
+Givresort,8,Pocahontas,Ambre,Commune,N
+Givresort,67,"Pot de miel",Améthyste,Commune,N
+Givresort,76,Piqueur,Émeraude,Commune,N
+Givresort,128,"Plus puissant que les ouragans",Rubis,Commune,N
+Givresort,164,Distraction,Saphir,Commune,N
+Givresort,201,"Jumelles de théâtre infra-rose",Acier,Commune,N
+Givresort,25,Angel,Ambre,"Peu commune",N
+Givresort,189,Gigi,Acier,"Peu commune",N
+Givresort,144,Daisy,Saphir,"Peu commune",N
+Givresort,130,"Le prix de la liberté",Rubis,Rare,N
+Givresort,49,Génie,Améthyste,Rare,N
+Givresort,152,"Balthazar Picsou",Saphir,Légendaire,Y
+
 "Lueurs dans les Profondeurs",65,"Aussi fragile qu’une fleur",Améthyste,Commune,N
 "Lueurs dans les Profondeurs",177,"Inspectrice Tezuka",Acier,Commune,N
 "Lueurs dans les Profondeurs",109,Rama,Rubis,Commune,N
@@ -1013,19 +1026,6 @@ Prélude,161,"Le bleu lumière",Saphir,"Peu commune",N
 "Les Terres d'Encres",132,"L'hameçon de Maui",Rubis,Rare,N
 "Menace des profondeurs – Quête des Illumineurs",65,"Le chapeau de sorcier",Améthyste,Rare,Y
 
-"L'Ascension des Floodborn",108,Fidget,Rubis,Commune,N
-"L'Ascension des Floodborn",87,Panique,Émeraude,Commune,N
-"L'Ascension des Floodborn",150,James,Saphir,Commune,N
-"L'Ascension des Floodborn",27,"La Reine",Ambre,Commune,N
-"L'Ascension des Floodborn",66,"Maillet de croquet",Améthyste,Commune,N
-"L'Ascension des Floodborn",171,"La Bête",Acier,Commune,N
-"L'Ascension des Floodborn",8,Gaston,Ambre,"Peu commune",N
-"L'Ascension des Floodborn",170,"Boîte de sardines",Saphir,"Peu commune",N
-"L'Ascension des Floodborn",116,"Mère Gothel",Rubis,"Peu commune",N
-"L'Ascension des Floodborn",82,"Flynn Rider",Émeraude,Rare,N
-"L'Ascension des Floodborn",9,"Grand Duke",Ambre,Rare,N
-"L'Ascension des Floodborn",87,Panique,Émeraude,Commune,Y
-
 "Les Terres d'Encres",131,Voyage,Rubis,Commune,N
 "Les Terres d'Encres",72,Flotsam,Émeraude,Commune,N
 "Les Terres d'Encres",60,"Offrir un don",Améthyste,Commune,N
@@ -1038,6 +1038,19 @@ Prélude,18,Pluto,Ambre,"Peu commune",N
 "Les Terres d'Encres",59,Ursula,Améthyste,Rare,N
 "Les Terres d'Encres",158,"Wendy Darling",Saphir,"Super rare",N
 "Les Terres d'Encres",40,Iago,Améthyste,Commune,Y
+
+"L'Ascension des Floodborn",108,Fidget,Rubis,Commune,N
+"L'Ascension des Floodborn",87,Panique,Émeraude,Commune,N
+"L'Ascension des Floodborn",150,James,Saphir,Commune,N
+"L'Ascension des Floodborn",27,"La Reine",Ambre,Commune,N
+"L'Ascension des Floodborn",66,"Maillet de croquet",Améthyste,Commune,N
+"L'Ascension des Floodborn",171,"La Bête",Acier,Commune,N
+"L'Ascension des Floodborn",8,Gaston,Ambre,"Peu commune",N
+"L'Ascension des Floodborn",170,"Boîte de sardines",Saphir,"Peu commune",N
+"L'Ascension des Floodborn",116,"Mère Gothel",Rubis,"Peu commune",N
+"L'Ascension des Floodborn",82,"Flynn Rider",Émeraude,Rare,N
+"L'Ascension des Floodborn",9,"Grand Duke",Ambre,Rare,N
+"L'Ascension des Floodborn",87,Panique,Émeraude,Commune,Y
 
 "Lueurs dans les Profondeurs",194,"Le Cavalier sans tête",Acier,Commune,N
 "Lueurs dans les Profondeurs",120,Brooklyn,Rubis,Commune,N
@@ -2585,17 +2598,4 @@ Fabuleux,183,Bourriquet,Acier,Commune,Y
 "Lueurs dans les Profondeurs",121,Donald,Rubis,Rare,N
 "Lueurs dans les Profondeurs",52,"Miss Tick",Améthyste,Rare,N
 "Lueurs dans les Profondeurs",38,"Le Seigneur des Ténèbres",Améthyste,Commune,Y
-
-"Lueurs dans les Profondeurs",160,"Mickey Mouse",Saphir,Commune,N
-"Lueurs dans les Profondeurs",61,"Ouste !",Améthyste,Commune,N
-"Lueurs dans les Profondeurs",179,Basil,Acier,Commune,N
-"Lueurs dans les Profondeurs",108,"Shere Khan",Rubis,Commune,N
-"Lueurs dans les Profondeurs",96,Croque !,Émeraude,Commune,N
-"Lueurs dans les Profondeurs",10,Gurgi,Ambre,Commune,N
-"Lueurs dans les Profondeurs",199,"La Reine robot",Acier,"Peu commune",N
-"Lueurs dans les Profondeurs",101,"Cornemuse bénie",Émeraude,"Peu commune",N
-"Lueurs dans les Profondeurs",163,"En suivant Fifi, Riri et Loulou",Saphir,"Peu commune",N
-"Lueurs dans les Profondeurs",59,Ursula,Améthyste,Rare,N
-"Lueurs dans les Profondeurs",89,"Balthazar Picsou",Émeraude,"Super rare",N
-"Lueurs dans les Profondeurs",213,Mégara,Émeraude,Épique,Y
 
