@@ -1,4 +1,121 @@
 saison,number,nom,encre,rareté,is_foil
+Givresort,8,Pocahontas,Ambre,Commune,N
+Givresort,54,"Vaches de l’espace",Améthyste,Commune,N
+Givresort,115,"Sinister Mask",Rubis,Commune,N
+Givresort,72,Minnie,Émeraude,Commune,N
+Givresort,164,Distraction,Saphir,Commune,N
+Givresort,184,Nani,Acier,Commune,N
+Givresort,86,Vixy,Émeraude,"Peu commune",N
+Givresort,52,Anna,Améthyste,"Peu commune",N
+Givresort,104,"Balthazar Picsou",Rubis,"Peu commune",N
+Givresort,84,Rouky,Émeraude,Rare,N
+Givresort,121,Dingo,Rubis,Rare,N
+Givresort,147,Porcinet,Saphir,Rare,Y
+
+Givresort,9,David,Ambre,Commune,N
+Givresort,67,"Pot de miel",Améthyste,Commune,N
+Givresort,128,"Plus puissant que les ouragans",Rubis,Commune,N
+Givresort,81,Aladdin,Émeraude,Commune,N
+Givresort,139,Porcinet,Saphir,Commune,N
+Givresort,201,"Jumelles de théâtre infra-rose",Acier,Commune,N
+Givresort,65,"Collier de la mère",Améthyste,"Peu commune",N
+Givresort,146,"Jiminy Cricket",Saphir,"Peu commune",N
+Givresort,125,Elsa,Rubis,"Peu commune",N
+Givresort,148,"Grand-mère Tala",Saphir,Rare,N
+Givresort,112,"Elisa Maza",Rubis,Rare,N
+Givresort,29,"Akood et Emuti",Ambre,Rare,Y
+
+Givresort,9,David,Ambre,Commune,N
+Givresort,63,"Manier l'épée",Améthyste,Commune,N
+Givresort,106,"Toros Bulba",Rubis,Commune,N
+Givresort,85,Rouky,Émeraude,Commune,N
+Givresort,139,Porcinet,Saphir,Commune,N
+Givresort,177,"Flagada Jones",Acier,Commune,N
+Givresort,74,Chien-Po,Émeraude,"Peu commune",N
+Givresort,36,Alice,Améthyste,"Peu commune",N
+Givresort,132,"Tombe solitaire",Rubis,"Peu commune",N
+Givresort,182,"Duke Weaselton",Acier,Rare,N
+Givresort,79,Sigmund,Émeraude,Rare,N
+Givresort,105,Donald,Rubis,Commune,Y
+
+Givresort,8,Pocahontas,Ambre,Commune,N
+Givresort,56,Lumpy,Améthyste,Commune,N
+Givresort,128,"Plus puissant que les ouragans",Rubis,Commune,N
+Givresort,102,"Réserve de chasse",Émeraude,Commune,N
+Givresort,142,Sina,Saphir,Commune,N
+Givresort,173,"Prince Naveen",Acier,Commune,N
+Givresort,39,Flit,Améthyste,"Peu commune",N
+Givresort,149,"Poucinette Colvert",Saphir,"Peu commune",N
+Givresort,104,"Balthazar Picsou",Rubis,"Peu commune",N
+Givresort,126,"Willie le géant",Rubis,Rare,N
+Givresort,156,Tamatoa,Saphir,"Super rare",N
+Givresort,9,David,Ambre,Commune,Y
+
+Givresort,1,Thomas,Ambre,Commune,N
+Givresort,40,Morgana,Améthyste,Commune,N
+Givresort,106,"Toros Bulba",Rubis,Commune,N
+Givresort,102,"Réserve de chasse",Émeraude,Commune,N
+Givresort,142,Sina,Saphir,Commune,N
+Givresort,181,McCorne,Acier,Commune,N
+Givresort,55,Jean-Christophe,Améthyste,"Peu commune",N
+Givresort,137,"Petit Gourou",Saphir,"Peu commune",N
+Givresort,119,Blizzard,Rubis,"Peu commune",N
+Givresort,90,Rox,Émeraude,Rare,N
+Givresort,192,"Myster Mask",Acier,Légendaire,N
+Givresort,22,Pocahontas,Ambre,Légendaire,Y
+
+Givresort,1,Thomas,Ambre,Commune,N
+Givresort,40,Morgana,Améthyste,Commune,N
+Givresort,129,"Vers notre champ de bataille",Rubis,Commune,N
+Givresort,94,"Crois-moi j'ai vu pire",Émeraude,Commune,N
+Givresort,164,Distraction,Saphir,Commune,N
+Givresort,180,"Amos Slade",Acier,Commune,N
+Givresort,3,Doudou,Ambre,"Peu commune",N
+Givresort,137,"Petit Gourou",Saphir,"Peu commune",N
+Givresort,131,"À vos flèches",Rubis,"Peu commune",N
+Givresort,101,Bélier,Émeraude,Rare,N
+Givresort,127,"La revanche de Nani",Rubis,"Super rare",N
+Givresort,207,Stitch,Ambre,Épique,Y
+
+Givresort,6,Nakoma,Ambre,Commune,N
+Givresort,56,Lumpy,Améthyste,Commune,N
+Givresort,120,Dingo,Rubis,Commune,N
+Givresort,95,"Bataille de boules de neige",Émeraude,Commune,N
+Givresort,138,"Maman Gourou",Saphir,Commune,N
+Givresort,181,McCorne,Acier,Commune,N
+Givresort,41,"Coco Lapin",Améthyste,"Peu commune",N
+Givresort,31,"La sagesse du saule",Ambre,"Peu commune",N
+Givresort,153,"Calamity Fresque",Saphir,"Peu commune",N
+Givresort,124,"Balthazar Picsou",Rubis,"Super rare",N
+Givresort,92,Rox,Émeraude,Légendaire,N
+Givresort,151,"Winnie l'ourson",Saphir,Commune,Y
+
+Givresort,10,Cromeyer,Ambre,Commune,N
+Givresort,35,Nala,Améthyste,Commune,N
+Givresort,109,Maui,Rubis,Commune,N
+Givresort,102,"Réserve de chasse",Émeraude,Commune,N
+Givresort,143,"Cuicui Bourbifoot",Saphir,Commune,N
+Givresort,200,"Presque invincible",Acier,Commune,N
+Givresort,98,"Fort de neige",Émeraude,"Peu commune",N
+Givresort,107,Rouky,Rubis,"Peu commune",N
+Givresort,199,Givresort,Acier,"Peu commune",N
+Givresort,66,"Invocateur d’encre mystique",Améthyste,Rare,N
+Givresort,150,"Myster Mask",Saphir,"Super rare",N
+Givresort,212,Mushu,Émeraude,Épique,Y
+
+Givresort,30,"Maman te protégera",Ambre,Commune,N
+Givresort,43,"Myster Mask",Améthyste,Commune,N
+Givresort,113,Iduna,Rubis,Commune,N
+Givresort,70,Stitch,Émeraude,Commune,N
+Givresort,161,Tui,Saphir,Commune,N
+Givresort,200,"Presque invincible",Acier,Commune,N
+Givresort,39,Flit,Améthyste,"Peu commune",N
+Givresort,13,"Grand-Mère Feuillage",Ambre,"Peu commune",N
+Givresort,170,"Piège caché",Saphir,"Peu commune",N
+Givresort,168,"Fauteuils de Myster Mask",Saphir,Rare,N
+Givresort,64,"L’air du vent",Améthyste,"Super rare",N
+Givresort,189,Gigi,Acier,"Peu commune",Y
+
 Givresort,34,Zootopie,Ambre,Commune,N
 Givresort,40,Morgana,Améthyste,Commune,N
 Givresort,106,"Toros Bulba",Rubis,Commune,N
@@ -2481,121 +2598,4 @@ Fabuleux,183,Bourriquet,Acier,Commune,Y
 "Lueurs dans les Profondeurs",100,"Invocateur d’encre mystérieux",Émeraude,Rare,N
 "Lueurs dans les Profondeurs",52,"Miss Tick",Améthyste,Rare,N
 "Lueurs dans les Profondeurs",8,"Balthazar Picsou",Ambre,"Peu commune",Y
-
-"Lueurs dans les Profondeurs",166,"Badge de police",Saphir,Commune,N
-"Lueurs dans les Profondeurs",45,Elsa,Améthyste,Commune,N
-"Lueurs dans les Profondeurs",195,"Quelle poursuite infernale",Acier,Commune,N
-"Lueurs dans les Profondeurs",133,"Feu du Dragon",Rubis,Commune,N
-"Lueurs dans les Profondeurs",74,Finnick,Émeraude,Commune,N
-"Lueurs dans les Profondeurs",21,Dingo,Ambre,Commune,N
-"Lueurs dans les Profondeurs",137,"Judy Hopps",Saphir,"Peu commune",N
-"Lueurs dans les Profondeurs",119,Goliath,Rubis,"Peu commune",N
-"Lueurs dans les Profondeurs",58,Merlin,Améthyste,"Peu commune",N
-"Lueurs dans les Profondeurs",171,"Robin des Bois",Acier,Rare,N
-"Lueurs dans les Profondeurs",130,"Vite, à l'abri !",Rubis,Rare,N
-"Lueurs dans les Profondeurs",100,"Invocateur d’encre mystérieux",Émeraude,Rare,Y
-
-"Lueurs dans les Profondeurs",160,"Mickey Mouse",Saphir,Commune,N
-"Lueurs dans les Profondeurs",45,Elsa,Améthyste,Commune,N
-"Lueurs dans les Profondeurs",179,Basil,Acier,Commune,N
-"Lueurs dans les Profondeurs",133,"Feu du Dragon",Rubis,Commune,N
-"Lueurs dans les Profondeurs",96,Croque !,Émeraude,Commune,N
-"Lueurs dans les Profondeurs",10,Gurgi,Ambre,Commune,N
-"Lueurs dans les Profondeurs",31,"Le journal de Zaza",Ambre,"Peu commune",N
-"Lueurs dans les Profondeurs",199,"La Reine robot",Acier,"Peu commune",N
-"Lueurs dans les Profondeurs",101,"Cornemuse bénie",Émeraude,"Peu commune",N
-"Lueurs dans les Profondeurs",86,Mégara,Émeraude,Rare,N
-"Lueurs dans les Profondeurs",35,Minnie,Améthyste,Rare,N
-"Lueurs dans les Profondeurs",45,Elsa,Améthyste,Commune,Y
-
-"Lueurs dans les Profondeurs",145,"Li Shang",Saphir,Commune,N
-"Lueurs dans les Profondeurs",42,"Lena de Sortilège",Améthyste,Commune,N
-"Lueurs dans les Profondeurs",177,"Inspectrice Tezuka",Acier,Commune,N
-"Lueurs dans les Profondeurs",127,"Brom Bones",Rubis,Commune,N
-"Lueurs dans les Profondeurs",83,"Flagada Jones",Émeraude,Commune,N
-"Lueurs dans les Profondeurs",11,"Mamie Baba",Ambre,Commune,N
-"Lueurs dans les Profondeurs",198,"Un complot se prépare",Acier,"Peu commune",N
-"Lueurs dans les Profondeurs",80,"Émilie Frappe",Émeraude,"Peu commune",N
-"Lueurs dans les Profondeurs",140,"Chef Louis",Saphir,"Peu commune",N
-"Lueurs dans les Profondeurs",23,"Mickey Mouse",Ambre,Rare,N
-"Lueurs dans les Profondeurs",124,"Madame de Trémaine",Rubis,"Super rare",N
-"Lueurs dans les Profondeurs",115,"La Fée Clochette",Rubis,"Peu commune",Y
-
-"Lueurs dans les Profondeurs",142,Cri-Kee,Saphir,Commune,N
-"Lueurs dans les Profondeurs",63,"Attaque en piqué",Améthyste,Commune,N
-"Lueurs dans les Profondeurs",195,"Quelle poursuite infernale",Acier,Commune,N
-"Lueurs dans les Profondeurs",114,Bronx,Rubis,Commune,N
-"Lueurs dans les Profondeurs",73,Zaza,Émeraude,Commune,N
-"Lueurs dans les Profondeurs",28,"Berceuse de la Lune de Della",Ambre,Commune,N
-"Lueurs dans les Profondeurs",81,"Flynn Rider",Émeraude,"Peu commune",N
-"Lueurs dans les Profondeurs",104,Arès,Rubis,"Peu commune",N
-"Lueurs dans les Profondeurs",57,Olaf,Améthyste,"Peu commune",N
-"Lueurs dans les Profondeurs",192,"La Bonne Fée",Acier,"Super rare",N
-"Lueurs dans les Profondeurs",116,"David Xanatos",Rubis,"Super rare",N
-"Lueurs dans les Profondeurs",136,"Sleepy Hollow",Rubis,"Peu commune",Y
-
-"Lueurs dans les Profondeurs",145,"Li Shang",Saphir,Commune,N
-"Lueurs dans les Profondeurs",46,Mushu,Améthyste,Commune,N
-"Lueurs dans les Profondeurs",181,Minnie,Acier,Commune,N
-"Lueurs dans les Profondeurs",132,"Histoire de fantôme",Rubis,Commune,N
-"Lueurs dans les Profondeurs",94,"Alors tant pis !",Émeraude,Commune,N
-"Lueurs dans les Profondeurs",14,Flash,Ambre,Commune,N
-"Lueurs dans les Profondeurs",199,"La Reine robot",Acier,"Peu commune",N
-"Lueurs dans les Profondeurs",101,"Cornemuse bénie",Émeraude,"Peu commune",N
-"Lueurs dans les Profondeurs",163,"En suivant Fifi, Riri et Loulou",Saphir,"Peu commune",N
-"Lueurs dans les Profondeurs",201,"Mécanisme très ingénieux",Acier,Rare,N
-"Lueurs dans les Profondeurs",121,Donald,Rubis,Rare,N
-"Lueurs dans les Profondeurs",195,"Quelle poursuite infernale",Acier,Commune,Y
-
-"Lueurs dans les Profondeurs",166,"Badge de police",Saphir,Commune,N
-"Lueurs dans les Profondeurs",45,Elsa,Améthyste,Commune,N
-"Lueurs dans les Profondeurs",195,"Quelle poursuite infernale",Acier,Commune,N
-"Lueurs dans les Profondeurs",133,"Feu du Dragon",Rubis,Commune,N
-"Lueurs dans les Profondeurs",74,Finnick,Émeraude,Commune,N
-"Lueurs dans les Profondeurs",21,Dingo,Ambre,Commune,N
-"Lueurs dans les Profondeurs",140,"Chef Louis",Saphir,"Peu commune",N
-"Lueurs dans les Profondeurs",31,"Le journal de Zaza",Ambre,"Peu commune",N
-"Lueurs dans les Profondeurs",131,"Il est temps de partir !",Rubis,"Peu commune",N
-"Lueurs dans les Profondeurs",59,Ursula,Améthyste,Rare,N
-"Lueurs dans les Profondeurs",173,Goliath,Acier,Légendaire,N
-"Lueurs dans les Profondeurs",160,"Mickey Mouse",Saphir,Commune,Y
-
-"Lueurs dans les Profondeurs",160,"Mickey Mouse",Saphir,Commune,N
-"Lueurs dans les Profondeurs",61,"Ouste !",Améthyste,Commune,N
-"Lueurs dans les Profondeurs",179,Basil,Acier,Commune,N
-"Lueurs dans les Profondeurs",108,"Shere Khan",Rubis,Commune,N
-"Lueurs dans les Profondeurs",96,Croque !,Émeraude,Commune,N
-"Lueurs dans les Profondeurs",10,Gurgi,Ambre,Commune,N
-"Lueurs dans les Profondeurs",164,"Frousse soudaine",Saphir,"Peu commune",N
-"Lueurs dans les Profondeurs",136,"Sleepy Hollow",Rubis,"Peu commune",N
-"Lueurs dans les Profondeurs",53,Nana,Améthyste,"Peu commune",N
-"Lueurs dans les Profondeurs",25,Gazelle,Ambre,Rare,N
-"Lueurs dans les Profondeurs",202,"Tunnels de l'Illuminarium",Acier,"Super rare",N
-"Lueurs dans les Profondeurs",97,"Malin, méchant, vilain",Émeraude,"Peu commune",Y
-
-"Lueurs dans les Profondeurs",146,Génie,Saphir,Commune,N
-"Lueurs dans les Profondeurs",61,"Ouste !",Améthyste,Commune,N
-"Lueurs dans les Profondeurs",186,"Les jumeaux",Acier,Commune,N
-"Lueurs dans les Profondeurs",108,"Shere Khan",Rubis,Commune,N
-"Lueurs dans les Profondeurs",74,Finnick,Émeraude,Commune,N
-"Lueurs dans les Profondeurs",33,"Mâchouiller et crachouiller",Ambre,Commune,N
-"Lueurs dans les Profondeurs",97,"Malin, méchant, vilain",Émeraude,"Peu commune",N
-"Lueurs dans les Profondeurs",169,Encre-jet,Saphir,"Peu commune",N
-"Lueurs dans les Profondeurs",2,Gaston,Ambre,"Peu commune",N
-"Lueurs dans les Profondeurs",91,Dingo,Émeraude,Rare,N
-"Lueurs dans les Profondeurs",89,"Balthazar Picsou",Émeraude,"Super rare",N
-"Lueurs dans les Profondeurs",133,"Feu du Dragon",Rubis,Commune,Y
-
-"Lueurs dans les Profondeurs",166,"Badge de police",Saphir,Commune,N
-"Lueurs dans les Profondeurs",65,"Aussi fragile qu’une fleur",Améthyste,Commune,N
-"Lueurs dans les Profondeurs",177,"Inspectrice Tezuka",Acier,Commune,N
-"Lueurs dans les Profondeurs",109,Rama,Rubis,Commune,N
-"Lueurs dans les Profondeurs",83,"Flagada Jones",Émeraude,Commune,N
-"Lueurs dans les Profondeurs",11,"Mamie Baba",Ambre,Commune,N
-"Lueurs dans les Profondeurs",97,"Malin, méchant, vilain",Émeraude,"Peu commune",N
-"Lueurs dans les Profondeurs",164,"Frousse soudaine",Saphir,"Peu commune",N
-"Lueurs dans les Profondeurs",30,"Page retrouvée",Ambre,"Peu commune",N
-"Lueurs dans les Profondeurs",159,Kristoff,Saphir,Rare,N
-"Lueurs dans les Profondeurs",84,Pénombre,Émeraude,Rare,N
-"Lueurs dans les Profondeurs",156,"Judy Hopps",Saphir,"Super rare",Y
 
