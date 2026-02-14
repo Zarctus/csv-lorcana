@@ -1,4 +1,17 @@
 saison,number,nom,encre,rareté,is_foil
+Givresort,34,Zootopie,Ambre,Commune,N
+Givresort,40,Morgana,Améthyste,Commune,N
+Givresort,106,"Toros Bulba",Rubis,Commune,N
+Givresort,85,Rouky,Émeraude,Commune,N
+Givresort,151,"Winnie l'ourson",Saphir,Commune,N
+Givresort,181,McCorne,Acier,Commune,N
+Givresort,13,"Grand-Mère Feuillage",Ambre,"Peu commune",N
+Givresort,82,Mushu,Émeraude,"Peu commune",N
+Givresort,176,Gantu,Acier,"Peu commune",N
+Givresort,186,"Dr Hämsterviel",Acier,Rare,N
+Givresort,75,Ling,Émeraude,Rare,N
+Givresort,143,"Cuicui Bourbifoot",Saphir,Commune,Y
+
 Givresort,8,Pocahontas,Ambre,Commune,N
 Givresort,37,Tigrou,Améthyste,Commune,N
 Givresort,109,Maui,Rubis,Commune,N
@@ -1598,19 +1611,6 @@ Prélude,161,"Le bleu lumière",Saphir,"Peu commune",N
 "Les Terres d'Encres",132,"L'hameçon de Maui",Rubis,Rare,N
 "Menace des profondeurs – Quête des Illumineurs",65,"Le chapeau de sorcier",Améthyste,Rare,Y
 
-"L'Ascension des Floodborn",108,Fidget,Rubis,Commune,N
-"L'Ascension des Floodborn",87,Panique,Émeraude,Commune,N
-"L'Ascension des Floodborn",150,James,Saphir,Commune,N
-"L'Ascension des Floodborn",27,"La Reine",Ambre,Commune,N
-"L'Ascension des Floodborn",66,"Maillet de croquet",Améthyste,Commune,N
-"L'Ascension des Floodborn",171,"La Bête",Acier,Commune,N
-"L'Ascension des Floodborn",8,Gaston,Ambre,"Peu commune",N
-"L'Ascension des Floodborn",170,"Boîte de sardines",Saphir,"Peu commune",N
-"L'Ascension des Floodborn",116,"Mère Gothel",Rubis,"Peu commune",N
-"L'Ascension des Floodborn",82,"Flynn Rider",Émeraude,Rare,N
-"L'Ascension des Floodborn",9,"Grand Duke",Ambre,Rare,N
-"L'Ascension des Floodborn",87,Panique,Émeraude,Commune,Y
-
 "Les Terres d'Encres",131,Voyage,Rubis,Commune,N
 "Les Terres d'Encres",72,Flotsam,Émeraude,Commune,N
 "Les Terres d'Encres",60,"Offrir un don",Améthyste,Commune,N
@@ -1623,6 +1623,19 @@ Prélude,18,Pluto,Ambre,"Peu commune",N
 "Les Terres d'Encres",59,Ursula,Améthyste,Rare,N
 "Les Terres d'Encres",158,"Wendy Darling",Saphir,"Super rare",N
 "Les Terres d'Encres",40,Iago,Améthyste,Commune,Y
+
+"L'Ascension des Floodborn",108,Fidget,Rubis,Commune,N
+"L'Ascension des Floodborn",87,Panique,Émeraude,Commune,N
+"L'Ascension des Floodborn",150,James,Saphir,Commune,N
+"L'Ascension des Floodborn",27,"La Reine",Ambre,Commune,N
+"L'Ascension des Floodborn",66,"Maillet de croquet",Améthyste,Commune,N
+"L'Ascension des Floodborn",171,"La Bête",Acier,Commune,N
+"L'Ascension des Floodborn",8,Gaston,Ambre,"Peu commune",N
+"L'Ascension des Floodborn",170,"Boîte de sardines",Saphir,"Peu commune",N
+"L'Ascension des Floodborn",116,"Mère Gothel",Rubis,"Peu commune",N
+"L'Ascension des Floodborn",82,"Flynn Rider",Émeraude,Rare,N
+"L'Ascension des Floodborn",9,"Grand Duke",Ambre,Rare,N
+"L'Ascension des Floodborn",87,Panique,Émeraude,Commune,Y
 
 "Lueurs dans les Profondeurs",194,"Le Cavalier sans tête",Acier,Commune,N
 "Lueurs dans les Profondeurs",120,Brooklyn,Rubis,Commune,N
@@ -2585,17 +2598,4 @@ Fabuleux,183,Bourriquet,Acier,Commune,Y
 "Lueurs dans les Profondeurs",159,Kristoff,Saphir,Rare,N
 "Lueurs dans les Profondeurs",84,Pénombre,Émeraude,Rare,N
 "Lueurs dans les Profondeurs",156,"Judy Hopps",Saphir,"Super rare",Y
-
-"Lueurs dans les Profondeurs",160,"Mickey Mouse",Saphir,Commune,N
-"Lueurs dans les Profondeurs",61,"Ouste !",Améthyste,Commune,N
-"Lueurs dans les Profondeurs",179,Basil,Acier,Commune,N
-"Lueurs dans les Profondeurs",108,"Shere Khan",Rubis,Commune,N
-"Lueurs dans les Profondeurs",96,Croque !,Émeraude,Commune,N
-"Lueurs dans les Profondeurs",10,Gurgi,Ambre,Commune,N
-"Lueurs dans les Profondeurs",136,"Sleepy Hollow",Rubis,"Peu commune",N
-"Lueurs dans les Profondeurs",53,Nana,Améthyste,"Peu commune",N
-"Lueurs dans les Profondeurs",30,"Page retrouvée",Ambre,"Peu commune",N
-"Lueurs dans les Profondeurs",18,"Balthazar Picsou",Ambre,Rare,N
-"Lueurs dans les Profondeurs",188,"Maire Winddancer",Acier,Rare,N
-"Lueurs dans les Profondeurs",215,Mulan,Rubis,Épique,Y
 
