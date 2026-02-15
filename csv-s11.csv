@@ -19,7 +19,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 18;Pikly;"Peu commune";Ambre;5;2
 19;"Jumba Jookiba";Rare;Ambre;5;0
 20;Nani;"Peu commune";Ambre;8;0
-21;Reuben;Rare;Ambre;2;1
+21;Reuben;Rare;Ambre;2;0
 22;Pocahontas;Légendaire;Ambre;0;0
 23;Simba;"Peu commune";Ambre;4;1
 24;Bambi;"Super rare";Ambre;1;1
@@ -47,8 +47,8 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 46;Meeko;"Peu commune";Améthyste;6;0
 47;Morgana;Rare;Améthyste;3;1
 48;"La Fée Clochette";Légendaire;Améthyste;0;0
-49;Génie;Rare;Améthyste;4;0
-50;Anna;Légendaire;Améthyste;1;0
+49;Génie;Rare;Améthyste;2;0
+50;Anna;Légendaire;Améthyste;0;0
 51;Kristoff;Rare;Améthyste;2;0
 52;Anna;"Peu commune";Améthyste;6;0
 53;Guimauve;Rare;Améthyste;2;0
@@ -58,7 +58,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 57;"Les sorcières de Morva";Rare;Améthyste;4;0
 58;Heihei;Commune;Améthyste;8;2
 59;Pua;Commune;Améthyste;8;0
-60;Sven;"Super rare";Améthyste;3;0
+60;Sven;"Super rare";Améthyste;1;0
 61;"Je voudrais un bonhomme de neige";Rare;Améthyste;2;0
 62;"Viens te battre !";Commune;Améthyste;9;0
 63;"Manier l'épée";Commune;Améthyste;8;0
@@ -117,7 +117,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 116;"Sinister Mask";Rare;Rubis;3;0
 117;Hercule;Commune;Rubis;8;0
 118;"La Bête";"Super rare";Rubis;1;0
-119;Blizzard;"Peu commune";Rubis;7;1
+119;Blizzard;"Peu commune";Rubis;7;0
 120;Dingo;Commune;Rubis;7;1
 121;Dingo;Rare;Rubis;2;0
 122;Olaf;Rare;Rubis;3;0
