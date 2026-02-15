@@ -42,7 +42,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 41;"Géant de la Terre";Commune;Améthyste;15;2
 42;"Courant d’Air";Commune;Améthyste;15;3
 43;"Le lapin blanc";Commune;Améthyste;13;1
-44;"Madame Mime";"Super rare";Améthyste;1;0
+44;"Madame Mime";"Super rare";Améthyste;0;0
 45;"Luisa Madrigal";Rare;Améthyste;4;0
 46;Anna;Rare;Améthyste;3;0
 47;Archimède;"Peu commune";Améthyste;12;0
