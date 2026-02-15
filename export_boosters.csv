@@ -1,4 +1,30 @@
 saison,number,nom,encre,rareté,is_foil
+Givresort,30,"Maman te protégera",Ambre,Commune,N
+Givresort,43,"Myster Mask",Améthyste,Commune,N
+Givresort,70,Stitch,Émeraude,Commune,N
+Givresort,128,"Plus puissant que les ouragans",Rubis,Commune,N
+Givresort,197,"La terreur qui corrige les erreurs",Acier,Commune,N
+Givresort,141,Minnie,Saphir,Commune,N
+Givresort,46,Meeko,Améthyste,"Peu commune",N
+Givresort,13,"Grand-Mère Feuillage",Ambre,"Peu commune",N
+Givresort,149,"Poucinette Colvert",Saphir,"Peu commune",N
+Givresort,135,"Cimetière du Noël futur",Rubis,Rare,N
+Givresort,195,Lilo,Acier,"Super rare",N
+Givresort,44,Taram,Améthyste,"Peu commune",Y
+
+Givresort,2,Lilo,Ambre,Commune,N
+Givresort,58,Heihei,Améthyste,Commune,N
+Givresort,110,"Fa Zhou",Rubis,Commune,N
+Givresort,80,Twist,Émeraude,Commune,N
+Givresort,141,Minnie,Saphir,Commune,N
+Givresort,180,"Amos Slade",Acier,Commune,N
+Givresort,44,Taram,Améthyste,"Peu commune",N
+Givresort,108,Mulan,Rubis,"Peu commune",N
+Givresort,189,Gigi,Acier,"Peu commune",N
+Givresort,64,"L’air du vent",Améthyste,"Super rare",N
+Givresort,156,Tamatoa,Saphir,"Super rare",N
+Givresort,47,Morgana,Améthyste,Rare,Y
+
 Givresort,27,Percy,Ambre,Commune,N
 Givresort,67,"Pot de miel",Améthyste,Commune,N
 Givresort,73,Yao,Émeraude,Commune,N
@@ -2572,30 +2598,4 @@ Fabuleux,183,Bourriquet,Acier,Commune,Y
 "Lueurs dans les Profondeurs",185,"Chef Bogo",Acier,Rare,N
 "Lueurs dans les Profondeurs",156,"Judy Hopps",Saphir,"Super rare",N
 "Lueurs dans les Profondeurs",68,"Le grand Illuminarium",Améthyste,"Peu commune",Y
-
-"Lueurs dans les Profondeurs",65,"Aussi fragile qu’une fleur",Améthyste,Commune,N
-"Lueurs dans les Profondeurs",194,"Le Cavalier sans tête",Acier,Commune,N
-"Lueurs dans les Profondeurs",120,Brooklyn,Rubis,Commune,N
-"Lueurs dans les Profondeurs",94,"Alors tant pis !",Émeraude,Commune,N
-"Lueurs dans les Profondeurs",14,Flash,Ambre,Commune,N
-"Lueurs dans les Profondeurs",145,"Li Shang",Saphir,Commune,N
-"Lueurs dans les Profondeurs",104,Arès,Rubis,"Peu commune",N
-"Lueurs dans les Profondeurs",68,"Le grand Illuminarium",Améthyste,"Peu commune",N
-"Lueurs dans les Profondeurs",26,"Rechercher des indices",Ambre,"Peu commune",N
-"Lueurs dans les Profondeurs",151,"Le Sultan",Saphir,Rare,N
-"Lueurs dans les Profondeurs",88,"Shere Khan",Émeraude,Légendaire,N
-"Lueurs dans les Profondeurs",33,"Mâchouiller et crachouiller",Ambre,Commune,Y
-
-"Lueurs dans les Profondeurs",46,Mushu,Améthyste,Commune,N
-"Lueurs dans les Profondeurs",181,Minnie,Acier,Commune,N
-"Lueurs dans les Profondeurs",109,Rama,Rubis,Commune,N
-"Lueurs dans les Profondeurs",72,Kaa,Émeraude,Commune,N
-"Lueurs dans les Profondeurs",13,Shanti,Ambre,Commune,N
-"Lueurs dans les Profondeurs",161,"Visions de Tirelire",Saphir,Commune,N
-"Lueurs dans les Profondeurs",169,Encre-jet,Saphir,"Peu commune",N
-"Lueurs dans les Profondeurs",2,Gaston,Ambre,"Peu commune",N
-"Lueurs dans les Profondeurs",136,"Sleepy Hollow",Rubis,"Peu commune",N
-"Lueurs dans les Profondeurs",91,Dingo,Émeraude,Rare,N
-"Lueurs dans les Profondeurs",34,Canardville,Ambre,Rare,N
-"Lueurs dans les Profondeurs",32,"Le Chaudron magique",Ambre,Légendaire,Y
 
