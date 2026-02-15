@@ -1,5 +1,5 @@
 card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
-1;Thomas;Commune;Ambre;6;0
+1;Thomas;Commune;Ambre;7;0
 2;Lilo;Commune;Ambre;6;1
 3;Doudou;"Peu commune";Ambre;4;1
 4;Pumbaa;Commune;Ambre;5;0
@@ -7,17 +7,17 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 6;Nakoma;Commune;Ambre;8;1
 7;Stitch;Rare;Ambre;2;0
 8;Pocahontas;Commune;Ambre;5;0
-9;David;Commune;Ambre;7;1
+9;David;Commune;Ambre;8;1
 10;Cromeyer;Commune;Ambre;6;0
 11;Powhatan;"Peu commune";Ambre;3;0
-12;Sarabi;Commune;Ambre;6;1
-13;"Grand-Mère Feuillage";"Peu commune";Ambre;5;0
+12;Sarabi;Commune;Ambre;7;1
+13;"Grand-Mère Feuillage";"Peu commune";Ambre;6;0
 14;"Cobra Bubbles";Rare;Ambre;2;0
 15;"John Smith";"Peu commune";Ambre;4;0
 16;Timon;Rare;Ambre;2;0
 17;Lilo;"Super rare";Ambre;2;0
 18;Pikly;"Peu commune";Ambre;3;1
-19;"Jumba Jookiba";Rare;Ambre;3;0
+19;"Jumba Jookiba";Rare;Ambre;5;0
 20;Nani;"Peu commune";Ambre;4;0
 21;Reuben;Rare;Ambre;2;1
 22;Pocahontas;Légendaire;Ambre;0;0
@@ -29,28 +29,28 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 28;"Tempête violente";"Super rare";Ambre;2;0
 29;"Akood et Emuti";Rare;Ambre;2;1
 30;"Maman te protégera";Commune;Ambre;5;0
-31;"La sagesse du saule";"Peu commune";Ambre;5;0
+31;"La sagesse du saule";"Peu commune";Ambre;6;0
 32;"Ohana signifie famille";Légendaire;Ambre;1;0
 33;"Boussole de John Smith";Rare;Ambre;2;0
 34;Zootopie;Commune;Ambre;7;0
-35;Nala;Commune;Améthyste;6;0
+35;Nala;Commune;Améthyste;7;0
 36;Alice;"Peu commune";Améthyste;4;0
 37;Tigrou;Commune;Améthyste;6;1
 38;"Fraîcheneige von Frimas";Commune;Améthyste;5;0
 39;Flit;"Peu commune";Améthyste;4;0
-40;Morgana;Commune;Améthyste;7;1
+40;Morgana;Commune;Améthyste;8;1
 41;"Coco Lapin";"Peu commune";Améthyste;5;0
 42;Pocahontas;"Super rare";Améthyste;0;0
-43;"Myster Mask";Commune;Améthyste;6;1
+43;"Myster Mask";Commune;Améthyste;7;2
 44;Taram;"Peu commune";Améthyste;4;1
 45;Bourriquet;Rare;Améthyste;2;1
 46;Meeko;"Peu commune";Améthyste;5;0
 47;Morgana;Rare;Améthyste;2;0
 48;"La Fée Clochette";Légendaire;Améthyste;0;0
-49;Génie;Rare;Améthyste;3;0
+49;Génie;Rare;Améthyste;4;0
 50;Anna;Légendaire;Améthyste;1;0
 51;Kristoff;Rare;Améthyste;2;0
-52;Anna;"Peu commune";Améthyste;4;0
+52;Anna;"Peu commune";Améthyste;5;0
 53;Guimauve;Rare;Améthyste;2;0
 54;"Vaches de l’espace";Commune;Améthyste;6;1
 55;Jean-Christophe;"Peu commune";Améthyste;3;0
@@ -69,7 +69,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 68;"La Plante gelée";"Peu commune";Améthyste;4;0
 69;Mulan;"Super rare";Émeraude;1;0
 70;Stitch;Commune;Émeraude;5;0
-71;"Big Mama";"Peu commune";Émeraude;4;1
+71;"Big Mama";"Peu commune";Émeraude;5;1
 72;Minnie;Commune;Émeraude;8;1
 73;Yao;Commune;Émeraude;6;2
 74;Chien-Po;"Peu commune";Émeraude;6;1
@@ -78,12 +78,12 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 77;Chernabog;"Super rare";Émeraude;1;0
 78;Dinky;Commune;Émeraude;5;0
 79;Sigmund;Rare;Émeraude;3;0
-80;Twist;Commune;Émeraude;6;0
+80;Twist;Commune;Émeraude;7;0
 81;Aladdin;Commune;Émeraude;8;0
-82;Mushu;"Peu commune";Émeraude;4;1
+82;Mushu;"Peu commune";Émeraude;5;1
 83;Dingo;"Super rare";Émeraude;3;1
 84;Rouky;Rare;Émeraude;2;0
-85;Rouky;Commune;Émeraude;6;0
+85;Rouky;Commune;Émeraude;7;0
 86;Vixy;"Peu commune";Émeraude;4;0
 87;Rox;Commune;Émeraude;6;0
 88;Minnie;Rare;Émeraude;2;0
@@ -92,14 +92,14 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 91;"Mickey Mouse";"Peu commune";Émeraude;4;1
 92;Rox;Légendaire;Émeraude;1;0
 93;Donald;Légendaire;Émeraude;1;1
-94;"Crois-moi j'ai vu pire";Commune;Émeraude;7;0
+94;"Crois-moi j'ai vu pire";Commune;Émeraude;8;0
 95;"Bataille de boules de neige";Commune;Émeraude;6;0
 96;"Geler la Plante";Rare;Émeraude;1;0
 97;"L’éducation ou l’élimination";"Peu commune";Émeraude;5;0
 98;"Fort de neige";"Peu commune";Émeraude;5;0
 99;"Bâton bakora de Rafiki";"Peu commune";Émeraude;4;0
 100;"Rétro-fusil à évolution";Rare;Émeraude;2;0
-101;Bélier;Rare;Émeraude;1;0
+101;Bélier;Rare;Émeraude;2;0
 102;"Réserve de chasse";Commune;Émeraude;6;1
 103;"Ralph la Casse";Légendaire;Rubis;2;0
 104;"Balthazar Picsou";"Peu commune";Rubis;3;0
@@ -111,13 +111,13 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 110;"Fa Zhou";Commune;Rubis;6;0
 111;Liquidator;"Peu commune";Rubis;6;0
 112;"Elisa Maza";Rare;Rubis;2;0
-113;Iduna;Commune;Rubis;6;0
-114;Agnarr;Commune;Rubis;5;0
+113;Iduna;Commune;Rubis;7;0
+114;Agnarr;Commune;Rubis;6;0
 115;"Sinister Mask";Commune;Rubis;7;0
 116;"Sinister Mask";Rare;Rubis;2;0
 117;Hercule;Commune;Rubis;6;0
 118;"La Bête";"Super rare";Rubis;1;0
-119;Blizzard;"Peu commune";Rubis;4;1
+119;Blizzard;"Peu commune";Rubis;5;1
 120;Dingo;Commune;Rubis;6;1
 121;Dingo;Rare;Rubis;2;0
 122;Olaf;Rare;Rubis;3;0
@@ -134,52 +134,52 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 133;"Luth de Kristoff";Rare;Rubis;2;0
 134;"Maison de comptage de Scrooge";"Peu commune";Rubis;4;0
 135;"Cimetière du Noël futur";Rare;Rubis;3;0
-136;"Château de la Bête";Commune;Rubis;6;0
+136;"Château de la Bête";Commune;Rubis;7;0
 137;"Petit Gourou";"Peu commune";Saphir;5;0
 138;"Maman Gourou";Commune;Saphir;8;2
-139;Porcinet;Commune;Saphir;8;0
+139;Porcinet;Commune;Saphir;8;1
 140;"Mickey Mouse";Commune;Saphir;5;0
 141;Minnie;Commune;Saphir;7;0
-142;Sina;Commune;Saphir;6;0
+142;Sina;Commune;Saphir;7;0
 143;"Cuicui Bourbifoot";Commune;Saphir;7;1
 144;Daisy;"Peu commune";Saphir;5;0
 145;"Myster Mask";"Peu commune";Saphir;3;0
 146;"Jiminy Cricket";"Peu commune";Saphir;3;0
 147;Porcinet;Rare;Saphir;2;1
 148;"Grand-mère Tala";Rare;Saphir;2;0
-149;"Poucinette Colvert";"Peu commune";Saphir;4;0
+149;"Poucinette Colvert";"Peu commune";Saphir;5;0
 150;"Myster Mask";"Super rare";Saphir;2;0
 151;"Winnie l'ourson";Commune;Saphir;6;2
 152;"Balthazar Picsou";Légendaire;Saphir;1;0
-153;"Calamity Fresque";"Peu commune";Saphir;3;0
+153;"Calamity Fresque";"Peu commune";Saphir;4;0
 154;Pat;Rare;Saphir;2;0
-155;Vaiana;Légendaire;Saphir;0;0
+155;Vaiana;Légendaire;Saphir;1;0
 156;Tamatoa;"Super rare";Saphir;2;0
 157;Jojo;Rare;Saphir;2;1
 158;Belle;"Super rare";Saphir;0;0
 159;"Mickey Mouse";Rare;Saphir;2;1
-160;"Balthazar Picsou";Commune;Saphir;6;0
+160;"Balthazar Picsou";Commune;Saphir;7;0
 161;Tui;Commune;Saphir;6;2
 162;"Visite des Noëls passés";Rare;Saphir;3;1
-163;"Libérée, Délivrée";Rare;Saphir;1;0
+163;"Libérée, Délivrée";Rare;Saphir;2;0
 164;Distraction;Commune;Saphir;6;0
 165;"Chute !";"Peu commune";Saphir;6;1
-166;"Fumée bleue";Commune;Saphir;5;1
+166;"Fumée bleue";Commune;Saphir;6;1
 167;"Béquille de Tiny Tim";Commune;Saphir;6;0
 168;"Fauteuils de Myster Mask";Rare;Saphir;2;0
 169;"Appareil à gaz de Myster Mask";"Peu commune";Saphir;4;1
-170;"Piège caché";"Peu commune";Saphir;4;1
+170;"Piège caché";"Peu commune";Saphir;5;1
 171;Raiponce;Rare;Acier;1;0
 172;"Flagada Jones";"Peu commune";Acier;5;2
-173;"Prince Naveen";Commune;Acier;6;2
-174;"Myster Mask";Commune;Acier;6;0
+173;"Prince Naveen";Commune;Acier;7;2
+174;"Myster Mask";Commune;Acier;7;0
 175;"Li Shang";Commune;Acier;7;1
 176;Gantu;"Peu commune";Acier;4;0
 177;"Flagada Jones";Commune;Acier;6;0
 178;Donald;Commune;Acier;7;0
 179;Chef;"Peu commune";Acier;3;1
 180;"Amos Slade";Commune;Acier;6;0
-181;McCorne;Commune;Acier;6;1
+181;McCorne;Commune;Acier;7;1
 182;"Duke Weaselton";Rare;Acier;2;0
 183;"Li Shang";"Peu commune";Acier;5;0
 184;Nani;Commune;Acier;7;2
