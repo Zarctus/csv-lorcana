@@ -1,4 +1,17 @@
 saison,number,nom,encre,rareté,is_foil
+Givresort,6,Nakoma,Ambre,Commune,N
+Givresort,37,Tigrou,Améthyste,Commune,N
+Givresort,106,"Toros Bulba",Rubis,Commune,N
+Givresort,85,Rouky,Émeraude,Commune,N
+Givresort,166,"Fumée bleue",Saphir,Commune,N
+Givresort,180,"Amos Slade",Acier,Commune,N
+Givresort,3,Doudou,Ambre,"Peu commune",N
+Givresort,74,Chien-Po,Émeraude,"Peu commune",N
+Givresort,169,"Appareil à gaz de Myster Mask",Saphir,"Peu commune",N
+Givresort,121,Dingo,Rubis,Rare,N
+Givresort,51,Kristoff,Améthyste,Rare,N
+Givresort,63,"Manier l'épée",Améthyste,Commune,Y
+
 Givresort,10,Cromeyer,Ambre,Commune,N
 Givresort,35,Nala,Améthyste,Commune,N
 Givresort,70,Stitch,Émeraude,Commune,N
@@ -2585,17 +2598,4 @@ Fabuleux,183,Bourriquet,Acier,Commune,Y
 "Le Règne de Jafar",17,"Le Colonel",Ambre,Rare,N
 "Le Règne de Jafar",179,"Le livre préféré de Belle",Saphir,Rare,N
 "Le Règne de Jafar",12,"Jim Chéri",Ambre,Commune,Y
-
-"Le Règne de Jafar",83,Scarabée,Améthyste,Commune,N
-"Le Règne de Jafar",90,"Bill le Lézard",Émeraude,Commune,N
-"Le Règne de Jafar",132,Lafayette,Rubis,Commune,N
-"Vol au Palais – Quête des Illumineurs",157,Anna,Saphir,Commune,N
-"Le Règne de Jafar",204,"Boule de hamster",Acier,Commune,N
-"Le Règne de Jafar",12,"Jim Chéri",Ambre,Commune,N
-"Le Règne de Jafar",34,"Alma Madrigal",Ambre,"Peu commune",N
-"Le Règne de Jafar",19,Pua,Ambre,"Peu commune",N
-"Le Règne de Jafar",140,"Le Cocher",Rubis,"Peu commune",N
-"Le Règne de Jafar",113,Archimède,Émeraude,Rare,N
-"Le Règne de Jafar",135,"Ralph la Casse",Rubis,Rare,N
-"Le Règne de Jafar",201,"Plan désespéré",Acier,Rare,Y
 
