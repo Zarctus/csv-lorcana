@@ -1,4 +1,134 @@
 saison,number,nom,encre,rareté,is_foil
+Givresort,30,"Maman te protégera",Ambre,Commune,N
+Givresort,62,"Viens te battre !",Améthyste,Commune,N
+Givresort,120,Dingo,Rubis,Commune,N
+Givresort,95,"Bataille de boules de neige",Émeraude,Commune,N
+Givresort,139,Porcinet,Saphir,Commune,N
+Givresort,175,"Li Shang",Acier,Commune,N
+Givresort,65,"Collier de la mère",Améthyste,"Peu commune",N
+Givresort,3,Doudou,Ambre,"Peu commune",N
+Givresort,107,Rouky,Rubis,"Peu commune",N
+Givresort,96,"Geler la Plante",Émeraude,Rare,N
+Givresort,61,"Je voudrais un bonhomme de neige",Améthyste,Rare,N
+Givresort,196,"Garde le feu millénaire",Acier,"Peu commune",Y
+
+Givresort,1,Thomas,Ambre,Commune,N
+Givresort,56,Lumpy,Améthyste,Commune,N
+Givresort,76,Piqueur,Émeraude,Commune,N
+Givresort,129,"Vers notre champ de bataille",Rubis,Commune,N
+Givresort,185,Stitch,Acier,Commune,N
+Givresort,161,Tui,Saphir,Commune,N
+Givresort,71,"Big Mama",Émeraude,"Peu commune",N
+Givresort,55,Jean-Christophe,Améthyste,"Peu commune",N
+Givresort,134,"Maison de comptage de Scrooge",Rubis,"Peu commune",N
+Givresort,7,Stitch,Ambre,Rare,N
+Givresort,182,"Duke Weaselton",Acier,Rare,N
+Givresort,139,Porcinet,Saphir,Commune,Y
+
+Givresort,10,Cromeyer,Ambre,Commune,N
+Givresort,35,Nala,Améthyste,Commune,N
+Givresort,128,"Plus puissant que les ouragans",Rubis,Commune,N
+Givresort,81,Aladdin,Émeraude,Commune,N
+Givresort,143,"Cuicui Bourbifoot",Saphir,Commune,N
+Givresort,200,"Presque invincible",Acier,Commune,N
+Givresort,91,"Mickey Mouse",Émeraude,"Peu commune",N
+Givresort,204,"Tour de Myster Mask",Acier,"Peu commune",N
+Givresort,153,"Calamity Fresque",Saphir,"Peu commune",N
+Givresort,33,"Boussole de John Smith",Ambre,Rare,N
+Givresort,193,"John Smith",Acier,"Super rare",N
+Givresort,10,Cromeyer,Ambre,Commune,Y
+
+Givresort,9,David,Ambre,Commune,N
+Givresort,63,"Manier l'épée",Améthyste,Commune,N
+Givresort,80,Twist,Émeraude,Commune,N
+Givresort,106,"Toros Bulba",Rubis,Commune,N
+Givresort,180,"Amos Slade",Acier,Commune,N
+Givresort,166,"Fumée bleue",Saphir,Commune,N
+Givresort,68,"La Plante gelée",Améthyste,"Peu commune",N
+Givresort,23,Simba,Ambre,"Peu commune",N
+Givresort,165,"Chute !",Saphir,"Peu commune",N
+Givresort,154,Pat,Saphir,Rare,N
+Givresort,198,"Cette chanson craint un mask",Acier,Rare,N
+Givresort,115,"Sinister Mask",Rubis,Commune,Y
+
+Givresort,34,Zootopie,Ambre,Commune,N
+Givresort,40,Morgana,Améthyste,Commune,N
+Givresort,128,"Plus puissant que les ouragans",Rubis,Commune,N
+Givresort,102,"Réserve de chasse",Émeraude,Commune,N
+Givresort,151,"Winnie l'ourson",Saphir,Commune,N
+Givresort,181,McCorne,Acier,Commune,N
+Givresort,68,"La Plante gelée",Améthyste,"Peu commune",N
+Givresort,125,Elsa,Rubis,"Peu commune",N
+Givresort,196,"Garde le feu millénaire",Acier,"Peu commune",N
+Givresort,168,"Fauteuils de Myster Mask",Saphir,Rare,N
+Givresort,92,Rox,Émeraude,Légendaire,N
+Givresort,160,"Balthazar Picsou",Saphir,Commune,Y
+
+Givresort,4,Pumbaa,Ambre,Commune,N
+Givresort,37,Tigrou,Améthyste,Commune,N
+Givresort,87,Rox,Émeraude,Commune,N
+Givresort,105,Donald,Rubis,Commune,N
+Givresort,174,"Myster Mask",Acier,Commune,N
+Givresort,140,"Mickey Mouse",Saphir,Commune,N
+Givresort,39,Flit,Améthyste,"Peu commune",N
+Givresort,11,Powhatan,Ambre,"Peu commune",N
+Givresort,144,Daisy,Saphir,"Peu commune",N
+Givresort,47,Morgana,Améthyste,Rare,N
+Givresort,127,"La revanche de Nani",Rubis,"Super rare",N
+Givresort,47,Morgana,Améthyste,Rare,Y
+
+Givresort,4,Pumbaa,Ambre,Commune,N
+Givresort,35,Nala,Améthyste,Commune,N
+Givresort,136,"Château de la Bête",Rubis,Commune,N
+Givresort,78,Dinky,Émeraude,Commune,N
+Givresort,167,"Béquille de Tiny Tim",Saphir,Commune,N
+Givresort,200,"Presque invincible",Acier,Commune,N
+Givresort,86,Vixy,Émeraude,"Peu commune",N
+Givresort,172,"Flagada Jones",Acier,"Peu commune",N
+Givresort,165,"Chute !",Saphir,"Peu commune",N
+Givresort,154,Pat,Saphir,Rare,N
+Givresort,188,"Myster Mask",Acier,Rare,N
+Givresort,149,"Poucinette Colvert",Saphir,"Peu commune",Y
+
+Givresort,6,Nakoma,Ambre,Commune,N
+Givresort,56,Lumpy,Améthyste,Commune,N
+Givresort,73,Yao,Émeraude,Commune,N
+Givresort,136,"Château de la Bête",Rubis,Commune,N
+Givresort,174,"Myster Mask",Acier,Commune,N
+Givresort,140,"Mickey Mouse",Saphir,Commune,N
+Givresort,65,"Collier de la mère",Améthyste,"Peu commune",N
+Givresort,23,Simba,Ambre,"Peu commune",N
+Givresort,145,"Myster Mask",Saphir,"Peu commune",N
+Givresort,83,Dingo,Émeraude,"Super rare",N
+Givresort,123,Elsa,Rubis,Légendaire,N
+Givresort,200,"Presque invincible",Acier,Commune,Y
+
+Givresort,4,Pumbaa,Ambre,Commune,N
+Givresort,38,"Fraîcheneige von Frimas",Améthyste,Commune,N
+Givresort,109,Maui,Rubis,Commune,N
+Givresort,102,"Réserve de chasse",Émeraude,Commune,N
+Givresort,140,"Mickey Mouse",Saphir,Commune,N
+Givresort,177,"Flagada Jones",Acier,Commune,N
+Givresort,39,Flit,Améthyste,"Peu commune",N
+Givresort,25,Angel,Ambre,"Peu commune",N
+Givresort,104,"Balthazar Picsou",Rubis,"Peu commune",N
+Givresort,147,Porcinet,Saphir,Rare,N
+Givresort,124,"Balthazar Picsou",Rubis,"Super rare",N
+Givresort,228,"L’air du vent",Améthyste,Enchantée,Y
+
+Givresort,30,"Maman te protégera",Ambre,Commune,N
+Givresort,43,"Myster Mask",Améthyste,Commune,N
+Givresort,87,Rox,Émeraude,Commune,N
+Givresort,110,"Fa Zhou",Rubis,Commune,N
+Givresort,197,"La terreur qui corrige les erreurs",Acier,Commune,N
+Givresort,141,Minnie,Saphir,Commune,N
+Givresort,98,"Fort de neige",Émeraude,"Peu commune",N
+Givresort,125,Elsa,Rubis,"Peu commune",N
+Givresort,172,"Flagada Jones",Acier,"Peu commune",N
+Givresort,29,"Akood et Emuti",Ambre,Rare,N
+Givresort,187,Angela,Acier,"Super rare",N
+Givresort,86,Vixy,Émeraude,"Peu commune",Y
+
 Givresort,10,Cromeyer,Ambre,Commune,N
 Givresort,38,"Fraîcheneige von Frimas",Améthyste,Commune,N
 Givresort,129,"Vers notre champ de bataille",Rubis,Commune,N
@@ -2468,134 +2598,4 @@ Prélude,18,Pluto,Ambre,"Peu commune",N
 "Lueurs dans les Profondeurs",148,"Ichabod Crane",Saphir,Rare,N
 "Lueurs dans les Profondeurs",173,Goliath,Acier,Légendaire,N
 "Lueurs dans les Profondeurs",1,Baloo,Ambre,Rare,Y
-
-"Ciel Scintillant",153,Basil,Saphir,Commune,N
-"Ciel Scintillant",120,Pat,Rubis,Commune,N
-"Ciel Scintillant",74,Ed,Émeraude,Commune,N
-"Ciel Scintillant",41,"Géant de la Terre",Améthyste,Commune,N
-"Ciel Scintillant",9,"Vanellope von Schweetz",Ambre,Commune,N
-"Ciel Scintillant",180,Atchoum,Acier,Commune,N
-"Ciel Scintillant",2,Nala,Ambre,"Peu commune",N
-"Ciel Scintillant",81,Ed,Émeraude,"Peu commune",N
-"Ciel Scintillant",189,Timide,Acier,"Peu commune",N
-"Ciel Scintillant",119,Gaston,Rubis,Rare,N
-"Ciel Scintillant",1,Koda,Ambre,Rare,N
-"Ciel Scintillant",61,L'explorateur,Améthyste,Rare,Y
-
-"Premier Chapitre",40,ELSA,Améthyste,Commune,N
-"Premier Chapitre",89,"MICKEY MOUSE",Émeraude,Commune,N
-"Premier Chapitre",155,MUFASA,Saphir,Commune,N
-"Premier Chapitre",120,PONGO,Rubis,Commune,N
-"Premier Chapitre",20,SIMBA,Ambre,Commune,N
-"Premier Chapitre",187,"PRINCE ERIC",Acier,Commune,N
-"Premier Chapitre",117,VAIANA,Rubis,"Peu commune",N
-Prélude,65,Réflexion,Améthyste,"Peu commune",N
-"Premier Chapitre",92,TAMATOA,Émeraude,"Peu commune",N
-Prélude,125,STITCH,Rubis,Rare,N
-"Premier Chapitre",186,"MICKEY MOUSE",Acier,Rare,N
-"Premier Chapitre",106,CAPITAINE,Rubis,"Peu commune",Y
-
-"Lueurs dans les Profondeurs",178,"Nick Wilde",Acier,Commune,N
-"Lueurs dans les Profondeurs",112,Hermès,Rubis,Commune,N
-"Lueurs dans les Profondeurs",90,Akela,Émeraude,Commune,N
-"Lueurs dans les Profondeurs",7,Eilonwy,Ambre,Commune,N
-"Lueurs dans les Profondeurs",144,"Fergus Mac Picsou",Saphir,Commune,N
-"Lueurs dans les Profondeurs",44,"Violette Campyloptère",Améthyste,Commune,N
-"Lueurs dans les Profondeurs",58,Merlin,Améthyste,"Peu commune",N
-"Lueurs dans les Profondeurs",99,"Carte indéchiffrable",Émeraude,"Peu commune",N
-"Lueurs dans les Profondeurs",26,"Rechercher des indices",Ambre,"Peu commune",N
-"Lueurs dans les Profondeurs",158,Daisy,Saphir,Rare,N
-"Lueurs dans les Profondeurs",154,Daisy,Saphir,Légendaire,N
-"Lueurs dans les Profondeurs",107,Raksha,Rubis,Commune,Y
-
-"Le Règne de Jafar",124,"Vanellope von Schweetz",Rubis,Commune,N
-"Le Règne de Jafar",160,"Madame De Garderobe",Saphir,Commune,N
-"Le Règne de Jafar",193,Khan,Acier,Commune,N
-"Le Règne de Jafar",65,Néron,Améthyste,Commune,N
-"Le Règne de Jafar",89,Tipo,Émeraude,Commune,N
-"Le Règne de Jafar",12,"Jim Chéri",Ambre,Commune,N
-"Le Règne de Jafar",41,"Qu’une toute petite place",Ambre,"Peu commune",N
-"Vol au Palais – Quête des Illumineurs",202,"Beyond the Horizon",Acier,"Peu commune",N
-"Le Règne de Jafar",148,"Allez-vous-en !",Rubis,"Peu commune",N
-"Le Règne de Jafar",70,"Mère Gothel",Améthyste,Rare,N
-"Le Règne de Jafar",86,Basil,Émeraude,Rare,N
-"Le Règne de Jafar",106,"Hiro Hamada",Émeraude,"Peu commune",Y
-
-"La Mer Azurite",42,Rafiki,Améthyste,Commune,N
-"La Mer Azurite",116,"Barbara Pappas",Rubis,Commune,N
-"La Mer Azurite",166,"Puce de soins de Baymax",Saphir,Commune,N
-"La Mer Azurite",78,Heathcliff,Émeraude,Commune,N
-"La Mer Azurite",10,"Prince Naveen",Ambre,Commune,N
-"La Mer Azurite",179,"Le Roi Hubert",Acier,Commune,N
-"La Mer Azurite",83,"Prince Philippe",Émeraude,"Peu commune",N
-"La Mer Azurite",143,Yokai,Saphir,"Peu commune",N
-"La Mer Azurite",186,Pluto,Acier,"Peu commune",N
-"La Mer Azurite",71,"Capitaine Crochet",Émeraude,Rare,N
-"La Mer Azurite",157,Baymax,Saphir,Légendaire,N
-"La Mer Azurite",133,"Pièce d’or",Rubis,Commune,Y
-
-"Le retour d’Ursula",60,"Pauvres âmes en perdition",Améthyste,Commune,N
-"Le retour d’Ursula",77,Jac,Émeraude,Commune,N
-"Le retour d’Ursula",163,Glaner,Saphir,Commune,N
-Prélude,5,"Big Ben",Ambre,Commune,N
-"Le retour d’Ursula",111,"Li Shang",Rubis,Commune,N
-"Le retour d’Ursula",173,Argès,Acier,Commune,N
-Prélude,15,"Mickey Mouse",Ambre,"Peu commune",N
-"Le retour d’Ursula",183,Ling,Acier,"Peu commune",N
-"Le retour d’Ursula",109,Hercule,Rubis,"Peu commune",N
-"Menace des profondeurs – Quête des Illumineurs",42,Elsa,Améthyste,Rare,N
-"Le retour d’Ursula",11,"La Harpe Magique",Ambre,Rare,N
-Prélude,146,Hans,Saphir,Commune,Y
-
-"Premier Chapitre",46,JETSAM,Améthyste,Commune,N
-"Premier Chapitre",77,GÉNIE,Émeraude,Commune,N
-"Premier Chapitre",161,"DÉVELOPPE TON CERVEAU",Saphir,Commune,N
-"Menace des profondeurs – Quête des Illumineurs",122,SCAR,Rubis,Commune,N
-"Premier Chapitre",28,"LUEUR RÉPARATRICE",Ambre,Commune,N
-"Premier Chapitre",188,SIMBA,Acier,Commune,N
-Prélude,127,TIGROU,Rubis,"Peu commune",N
-"Premier Chapitre",53,PASCAL,Améthyste,"Peu commune",N
-"Premier Chapitre",71,"CHAT DU CHESHIRE",Émeraude,"Peu commune",N
-"Menace des profondeurs – Quête des Illumineurs",51,"MICKEY MOUSE",Améthyste,"Super rare",N
-"Premier Chapitre",10,MAXIMUS,Ambre,"Super rare",N
-"Premier Chapitre",138,AURORE,Saphir,Commune,Y
-
-"Les Terres d'Encres",119,"Peter Pan",Rubis,Commune,N
-"Les Terres d'Encres",69,"Le Frisé",Émeraude,Commune,N
-"Les Terres d'Encres",56,"L'Oiseau de Feu",Améthyste,Commune,N
-"Les Terres d'Encres",162,Réparation,Saphir,Commune,N
-"Les Terres d'Encres",171,Tui,Acier,Commune,N
-"Les Terres d'Encres",13,Orville,Ambre,Commune,N
-"Les Terres d'Encres",156,"La Reine",Saphir,"Peu commune",N
-"Les Terres d'Encres",61,"Il m'appelle",Améthyste,"Peu commune",N
-"Les Terres d'Encres",113,Maui,Rubis,"Peu commune",N
-"Les Terres d'Encres",168,"La maison de Belle",Saphir,Rare,N
-"Les Terres d'Encres",38,Génie,Améthyste,"Super rare",N
-"Les Terres d'Encres",185,Mufasa,Acier,Rare,Y
-
-"Ciel Scintillant",127,"Se libérer",Rubis,Commune,N
-"Ciel Scintillant",72,Zazu,Émeraude,Commune,N
-"Ciel Scintillant",59,"Force hypnotique",Améthyste,Commune,N
-"Ciel Scintillant",17,"Félix Fixe Junior",Ambre,Commune,N
-"Ciel Scintillant",138,Chaca,Saphir,Commune,N
-"Ciel Scintillant",181,Simplet,Acier,Commune,N
-"Ciel Scintillant",60,"Qui trouve, garde",Améthyste,"Peu commune",N
-"Ciel Scintillant",136,"Fête de Ratigan",Rubis,"Peu commune",N
-"Ciel Scintillant",177,Dormeur,Acier,"Peu commune",N
-"Ciel Scintillant",182,Namaari,Acier,Rare,N
-"Ciel Scintillant",169,"Le grand Illuminarium",Saphir,Rare,N
-"Ciel Scintillant",181,Simplet,Acier,Commune,Y
-
-"Ciel Scintillant",139,"La Reine",Saphir,Commune,N
-"Ciel Scintillant",128,"La fin est proche",Rubis,Commune,N
-"Ciel Scintillant",78,Pâquerette,Émeraude,Commune,N
-"Vol au Palais – Quête des Illumineurs",36,Nokk,Améthyste,Commune,N
-"Ciel Scintillant",10,"Félix Fixe Junior",Ambre,Commune,N
-"Ciel Scintillant",197,"Où est la vraie vie ?",Acier,Commune,N
-"Ciel Scintillant",88,"Robin des Bois",Émeraude,"Peu commune",N
-"Ciel Scintillant",52,Monstro,Améthyste,"Peu commune",N
-"Ciel Scintillant",117,"Taffyta Crème Brûlée",Rubis,"Peu commune",N
-"Ciel Scintillant",144,"La Reine",Saphir,"Super rare",N
-"Ciel Scintillant",118,"Robin des Bois",Rubis,Légendaire,N
-"Ciel Scintillant",150,Mufasa,Saphir,Légendaire,Y
 
