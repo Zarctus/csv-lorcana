@@ -1,4 +1,17 @@
 saison,number,nom,encre,rareté,is_foil
+Givresort,10,Cromeyer,Ambre,Commune,N
+Givresort,38,"Fraîcheneige von Frimas",Améthyste,Commune,N
+Givresort,129,"Vers notre champ de bataille",Rubis,Commune,N
+Givresort,94,"Crois-moi j'ai vu pire",Émeraude,Commune,N
+Givresort,160,"Balthazar Picsou",Saphir,Commune,N
+Givresort,174,"Myster Mask",Acier,Commune,N
+Givresort,68,"La Plante gelée",Améthyste,"Peu commune",N
+Givresort,23,Simba,Ambre,"Peu commune",N
+Givresort,125,Elsa,Rubis,"Peu commune",N
+Givresort,60,Sven,Améthyste,"Super rare",N
+Givresort,22,Pocahontas,Ambre,Légendaire,N
+Givresort,154,Pat,Saphir,Rare,Y
+
 Givresort,2,Lilo,Ambre,Commune,N
 Givresort,58,Heihei,Améthyste,Commune,N
 Givresort,72,Minnie,Émeraude,Commune,N
@@ -2585,17 +2598,4 @@ Prélude,127,TIGROU,Rubis,"Peu commune",N
 "Ciel Scintillant",144,"La Reine",Saphir,"Super rare",N
 "Ciel Scintillant",118,"Robin des Bois",Rubis,Légendaire,N
 "Ciel Scintillant",150,Mufasa,Saphir,Légendaire,Y
-
-Fabuleux,27,"Guéris les blessures",Ambre,Commune,N
-Fabuleux,61,"Pauvres âmes en perdition",Améthyste,Commune,N
-Fabuleux,115,Gaston,Rubis,Commune,N
-Fabuleux,80,"Mickey Mouse",Émeraude,Commune,N
-Fabuleux,165,"Je Vole",Saphir,Commune,N
-Fabuleux,182,"Prince Naveen",Acier,Commune,N
-Fabuleux,53,Elsa,Améthyste,"Peu commune",N
-Fabuleux,161,Aurore,Saphir,"Peu commune",N
-Fabuleux,122,"Gardes cartes",Rubis,"Peu commune",N
-Fabuleux,72,"Prince Philippe",Émeraude,Rare,N
-Fabuleux,76,Génie,Émeraude,"Super rare",N
-Fabuleux,183,Bourriquet,Acier,Commune,Y
 
