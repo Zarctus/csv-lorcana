@@ -1,4 +1,17 @@
 saison,number,nom,encre,rareté,is_foil
+Givresort,27,Percy,Ambre,Commune,N
+Givresort,54,"Vaches de l’espace",Améthyste,Commune,N
+Givresort,76,Piqueur,Émeraude,Commune,N
+Givresort,129,"Vers notre champ de bataille",Rubis,Commune,N
+Givresort,177,"Flagada Jones",Acier,Commune,N
+Givresort,161,Tui,Saphir,Commune,N
+Givresort,91,"Mickey Mouse",Émeraude,"Peu commune",N
+Givresort,125,Elsa,Rubis,"Peu commune",N
+Givresort,172,"Flagada Jones",Acier,"Peu commune",N
+Givresort,190,"Présidente du Grand Conseil",Acier,Rare,N
+Givresort,193,"John Smith",Acier,"Super rare",N
+Givresort,154,Pat,Saphir,Rare,Y
+
 Givresort,30,"Maman te protégera",Ambre,Commune,N
 Givresort,62,"Viens te battre !",Améthyste,Commune,N
 Givresort,120,Dingo,Rubis,Commune,N
@@ -2585,17 +2598,4 @@ Prélude,18,Pluto,Ambre,"Peu commune",N
 "L'Ascension des Floodborn",82,"Flynn Rider",Émeraude,Rare,N
 "L'Ascension des Floodborn",9,"Grand Duke",Ambre,Rare,N
 "L'Ascension des Floodborn",87,Panique,Émeraude,Commune,Y
-
-"Lueurs dans les Profondeurs",194,"Le Cavalier sans tête",Acier,Commune,N
-"Lueurs dans les Profondeurs",120,Brooklyn,Rubis,Commune,N
-"Lueurs dans les Profondeurs",94,"Alors tant pis !",Émeraude,Commune,N
-"Lueurs dans les Profondeurs",14,Flash,Ambre,Commune,N
-"Lueurs dans les Profondeurs",145,"Li Shang",Saphir,Commune,N
-"Lueurs dans les Profondeurs",42,"Lena de Sortilège",Améthyste,Commune,N
-"Lueurs dans les Profondeurs",197,"Foudroyant d'un éclair",Acier,"Peu commune",N
-"Lueurs dans les Profondeurs",79,Kaa,Émeraude,"Peu commune",N
-"Lueurs dans les Profondeurs",157,Pluto,Saphir,"Peu commune",N
-"Lueurs dans les Profondeurs",148,"Ichabod Crane",Saphir,Rare,N
-"Lueurs dans les Profondeurs",173,Goliath,Acier,Légendaire,N
-"Lueurs dans les Profondeurs",1,Baloo,Ambre,Rare,Y
 
