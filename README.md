@@ -10,11 +10,11 @@
 
 
 **Quelques liens aléatoires / Some random links**
-- *[Lorcana - La Mer Azurite - 3x Navire Des Fées 68/204 - Commune - ID=1267](https://www.vinted.fr/items/6046251949-lorcana-la-mer-azurite-3x-navire-des-fees-68204-commune-id1267)*
-- *[Lorcana - Fabuleux - 3x Minnie 5/204 - Super rare - ID=1941](https://www.vinted.fr/items/7845394167-lorcana-fabuleux-3x-minnie-5204-super-rare-id1941)*
-- *[Lorcana - Le Règne de Jafar - Géo Trouvetou 123/204 - Rare Foil - ID=1787](https://www.vinted.fr/items/6549814684-lorcana-le-regne-de-jafar-geo-trouvetou-123204-rare-foil-id1787)*
-- *[Lorcana - L'ile d' Archazia - 4x Gardes Cartes 129/204 - Commune - ID=1562](https://www.vinted.fr/items/7098738169-lorcana-lile-d-archazia-4x-gardes-cartes-129204-commune-id1562)*
-- *[Lorcana - Fabuleux - 3x La Reine De Cœur 120/204 - Peu commune - ID=2056](https://www.vinted.fr/items/7256284494-lorcana-fabuleux-3x-la-reine-de-coeur-120204-peu-commune-id2056)*
+- *[Lorcana - Premier Chapitre - Génie 75/204 - Super rare Foil - ID=75](https://www.vinted.fr/items/5682137495-lorcana-premier-chapitre-genie-75204-super-rare-foil-id75)*
+- *[Disney Lorcana - L'Ascension des Floodborn - Deck box + Sleeves Sisu](https://www.vinted.fr/items/5259110551-disney-lorcana-lascension-des-floodborn-deck-box-sleeves-sisu)*
+- *[Lorcana - Ciel Scintillant - Prince Jean 147/204 - Super rare - ID=1103](https://www.vinted.fr/items/5899967810-lorcana-ciel-scintillant-prince-jean-147204-super-rare-id1103)*
+- *[Lorcana - Lueurs dans les Profondeurs - 3x Anna 139/204 - Commune - ID=2328](https://www.vinted.fr/items/7935658488-lorcana-lueurs-dans-les-profondeurs-3x-anna-139204-commune-id2328)*
+- *[Lorcana - Lueurs dans les Profondeurs - 3x Foudroyant D'Un Éclair 197/204 - Peu commune - ID=2386](https://www.vinted.fr/items/8036890633-lorcana-lueurs-dans-les-profondeurs-3x-foudroyant-dun-eclair-197204-peu-commune-id2386)*
 
 
 **🔎 Recherches Lorcana par rareté / Search Lorcana by rarity**
