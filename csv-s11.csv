@@ -15,7 +15,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 14;"Cobra Bubbles";Rare;Ambre;4;0
 15;"John Smith";"Peu commune";Ambre;7;0
 16;Timon;Rare;Ambre;2;0
-17;Lilo;"Super rare";Ambre;3;0
+17;Lilo;"Super rare";Ambre;2;0
 18;Pikly;"Peu commune";Ambre;5;2
 19;"Jumba Jookiba";Rare;Ambre;5;0
 20;Nani;"Peu commune";Ambre;8;0
@@ -91,7 +91,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 90;Rox;Rare;Émeraude;4;0
 91;"Mickey Mouse";"Peu commune";Émeraude;6;1
 92;Rox;Légendaire;Émeraude;2;0
-93;Donald;Légendaire;Émeraude;2;0
+93;Donald;Légendaire;Émeraude;1;0
 94;"Crois-moi j'ai vu pire";Commune;Émeraude;9;0
 95;"Bataille de boules de neige";Commune;Émeraude;10;0
 96;"Geler la Plante";Rare;Émeraude;3;0
@@ -150,7 +150,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 149;"Poucinette Colvert";"Peu commune";Saphir;6;1
 150;"Myster Mask";"Super rare";Saphir;2;0
 151;"Winnie l'ourson";Commune;Saphir;10;2
-152;"Balthazar Picsou";Légendaire;Saphir;1;0
+152;"Balthazar Picsou";Légendaire;Saphir;0;0
 153;"Calamity Fresque";"Peu commune";Saphir;7;1
 154;Pat;Rare;Saphir;4;2
 155;Vaiana;Légendaire;Saphir;1;0
@@ -210,7 +210,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 209;Anna;Épique;Améthyste;0;0
 210;Génie;Épique;Améthyste;0;0
 211;Aladdin;Épique;Émeraude;0;0
-212;Mushu;Épique;Émeraude;0;1
+212;Mushu;Épique;Émeraude;0;0
 213;Minnie;Épique;Émeraude;0;0
 214;Hercule;Épique;Rubis;0;0
 215;Elsa;Épique;Rubis;0;0
