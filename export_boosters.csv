@@ -1,4 +1,30 @@
 saison,number,nom,encre,rareté,is_foil
+Fabuleux,61,"Pauvres âmes en perdition",Améthyste,Commune,N
+Fabuleux,27,"Guéris les blessures",Ambre,Commune,N
+Fabuleux,112,"Max Dingo",Rubis,Commune,N
+Fabuleux,79,Mégara,Émeraude,Commune,N
+Fabuleux,196,Ariel,Acier,Commune,N
+Fabuleux,147,Polochon,Saphir,Commune,N
+Fabuleux,23,"La Reine de Cœur",Ambre,"Peu commune",N
+Fabuleux,46,Dumbo,Améthyste,"Peu commune",N
+Fabuleux,167,"Gyroscope lumineux",Saphir,"Peu commune",N
+Fabuleux,137,Anna,Saphir,Rare,N
+Fabuleux,33,"Pendentif en Coquillage d'Ursula",Ambre,Rare,N
+Fabuleux,88,"La Fée Clochette",Émeraude,Commune,Y
+
+Fabuleux,68,"Casa Madrigal",Améthyste,Commune,N
+Fabuleux,27,"Guéris les blessures",Ambre,Commune,N
+Fabuleux,112,"Max Dingo",Rubis,Commune,N
+Fabuleux,98,"Concocter la Potion",Émeraude,Commune,N
+Fabuleux,180,Benja,Acier,Commune,N
+Fabuleux,144,Mufasa,Saphir,Commune,N
+Fabuleux,99,"N'écoute que Moi",Émeraude,"Peu commune",N
+Fabuleux,113,Roxane,Rubis,"Peu commune",N
+Fabuleux,202,"Tous avec moi !",Acier,"Peu commune",N
+Fabuleux,5,Minnie,Ambre,"Super rare",N
+Fabuleux,87,Shenzi,Émeraude,"Super rare",N
+Fabuleux,222,"Il me reste un espoir",Acier,Épique,Y
+
 Givresort,27,Percy,Ambre,Commune,N
 Givresort,54,"Vaches de l’espace",Améthyste,Commune,N
 Givresort,76,Piqueur,Émeraude,Commune,N
@@ -2572,30 +2598,4 @@ Prélude,161,"Le bleu lumière",Saphir,"Peu commune",N
 "Les Terres d'Encres",176,"John Silver",Acier,Rare,N
 "Les Terres d'Encres",132,"L'hameçon de Maui",Rubis,Rare,N
 "Menace des profondeurs – Quête des Illumineurs",65,"Le chapeau de sorcier",Améthyste,Rare,Y
-
-"Les Terres d'Encres",131,Voyage,Rubis,Commune,N
-"Les Terres d'Encres",72,Flotsam,Émeraude,Commune,N
-"Les Terres d'Encres",60,"Offrir un don",Améthyste,Commune,N
-"Les Terres d'Encres",148,Kit,Saphir,Commune,N
-"Les Terres d'Encres",177,Kida,Acier,Commune,N
-"Les Terres d'Encres",4e,"Chiot dalmatien",Ambre,Commune,N
-Prélude,18,Pluto,Ambre,"Peu commune",N
-"Les Terres d'Encres",141,Génie,Saphir,"Peu commune",N
-"Les Terres d'Encres",107,Heihei,Rubis,"Peu commune",N
-"Les Terres d'Encres",59,Ursula,Améthyste,Rare,N
-"Les Terres d'Encres",158,"Wendy Darling",Saphir,"Super rare",N
-"Les Terres d'Encres",40,Iago,Améthyste,Commune,Y
-
-"L'Ascension des Floodborn",108,Fidget,Rubis,Commune,N
-"L'Ascension des Floodborn",87,Panique,Émeraude,Commune,N
-"L'Ascension des Floodborn",150,James,Saphir,Commune,N
-"L'Ascension des Floodborn",27,"La Reine",Ambre,Commune,N
-"L'Ascension des Floodborn",66,"Maillet de croquet",Améthyste,Commune,N
-"L'Ascension des Floodborn",171,"La Bête",Acier,Commune,N
-"L'Ascension des Floodborn",8,Gaston,Ambre,"Peu commune",N
-"L'Ascension des Floodborn",170,"Boîte de sardines",Saphir,"Peu commune",N
-"L'Ascension des Floodborn",116,"Mère Gothel",Rubis,"Peu commune",N
-"L'Ascension des Floodborn",82,"Flynn Rider",Émeraude,Rare,N
-"L'Ascension des Floodborn",9,"Grand Duke",Ambre,Rare,N
-"L'Ascension des Floodborn",87,Panique,Émeraude,Commune,Y
 
