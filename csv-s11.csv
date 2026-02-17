@@ -21,7 +21,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 20;Nani;"Peu commune";Ambre;8;0
 21;Reuben;Rare;Ambre;3;0
 22;Pocahontas;Légendaire;Ambre;1;0
-23;Simba;"Peu commune";Ambre;7;1
+23;Simba;"Peu commune";Ambre;7;0
 24;Bambi;"Super rare";Ambre;2;2
 25;Angel;"Peu commune";Ambre;7;0
 26;"Veuve Tartine";Rare;Ambre;2;0
@@ -80,7 +80,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 79;Sigmund;Rare;Émeraude;4;0
 80;Twist;Commune;Émeraude;11;0
 81;Aladdin;Commune;Émeraude;10;0
-82;Mushu;"Peu commune";Émeraude;7;1
+82;Mushu;"Peu commune";Émeraude;6;1
 83;Dingo;"Super rare";Émeraude;4;1
 84;Rouky;Rare;Émeraude;3;0
 85;Rouky;Commune;Émeraude;11;0
@@ -88,7 +88,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 87;Rox;Commune;Émeraude;10;0
 88;Minnie;Rare;Émeraude;2;0
 89;"Le lapin blanc";"Peu commune";Émeraude;5;0
-90;Rox;Rare;Émeraude;4;0
+90;Rox;Rare;Émeraude;3;0
 91;"Mickey Mouse";"Peu commune";Émeraude;6;1
 92;Rox;Légendaire;Émeraude;1;0
 93;Donald;Légendaire;Émeraude;1;0
