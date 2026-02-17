@@ -5,7 +5,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 4;Pumbaa;Commune;Ambre;9;0
 5;Tiana;Commune;Ambre;9;0
 6;Nakoma;Commune;Ambre;11;1
-7;Stitch;Rare;Ambre;4;0
+7;Stitch;Rare;Ambre;1;0
 8;Pocahontas;Commune;Ambre;7;0
 9;David;Commune;Ambre;11;2
 10;Cromeyer;Commune;Ambre;10;1
@@ -26,7 +26,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 25;Angel;"Peu commune";Ambre;7;0
 26;"Veuve Tartine";Rare;Ambre;2;0
 27;Percy;Commune;Ambre;10;0
-28;"Tempête violente";"Super rare";Ambre;3;0
+28;"Tempête violente";"Super rare";Ambre;1;0
 29;"Akood et Emuti";Rare;Ambre;1;0
 30;"Maman te protégera";Commune;Ambre;10;0
 31;"La sagesse du saule";"Peu commune";Ambre;7;0
@@ -67,7 +67,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 66;"Invocateur d’encre mystique";Rare;Améthyste;2;1
 67;"Pot de miel";Commune;Améthyste;12;1
 68;"La Plante gelée";"Peu commune";Améthyste;8;0
-69;Mulan;"Super rare";Émeraude;2;0
+69;Mulan;"Super rare";Émeraude;1;0
 70;Stitch;Commune;Émeraude;10;0
 71;"Big Mama";"Peu commune";Émeraude;6;1
 72;Minnie;Commune;Émeraude;10;1
@@ -90,7 +90,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 89;"Le lapin blanc";"Peu commune";Émeraude;5;0
 90;Rox;Rare;Émeraude;4;0
 91;"Mickey Mouse";"Peu commune";Émeraude;6;1
-92;Rox;Légendaire;Émeraude;2;0
+92;Rox;Légendaire;Émeraude;1;0
 93;Donald;Légendaire;Émeraude;1;0
 94;"Crois-moi j'ai vu pire";Commune;Émeraude;9;0
 95;"Bataille de boules de neige";Commune;Émeraude;10;0
@@ -153,7 +153,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 152;"Balthazar Picsou";Légendaire;Saphir;0;0
 153;"Calamity Fresque";"Peu commune";Saphir;7;1
 154;Pat;Rare;Saphir;4;2
-155;Vaiana;Légendaire;Saphir;1;0
+155;Vaiana;Légendaire;Saphir;0;0
 156;Tamatoa;"Super rare";Saphir;3;0
 157;Jojo;Rare;Saphir;3;1
 158;Belle;"Super rare";Saphir;1;0
@@ -189,11 +189,11 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 188;"Myster Mask";Rare;Acier;4;1
 189;Gigi;"Peu commune";Acier;7;1
 190;"Présidente du Grand Conseil";Rare;Acier;4;0
-191;Angel;Légendaire;Acier;2;0
-192;"Myster Mask";Légendaire;Acier;2;0
+191;Angel;Légendaire;Acier;1;0
+192;"Myster Mask";Légendaire;Acier;1;0
 193;"John Smith";"Super rare";Acier;4;1
 194;"Judy Hopps";"Peu commune";Acier;6;0
-195;Lilo;"Super rare";Acier;5;1
+195;Lilo;"Super rare";Acier;4;1
 196;"Garde le feu millénaire";"Peu commune";Acier;7;1
 197;"La terreur qui corrige les erreurs";Commune;Acier;10;1
 198;"Cette chanson craint un mask";Rare;Acier;3;0
