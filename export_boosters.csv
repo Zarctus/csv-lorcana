@@ -1,4 +1,30 @@
 saison,number,nom,encre,rareté,is_foil
+Fabuleux,67,Rose-Lanterne,Améthyste,Commune,N
+Fabuleux,21,Pluto,Ambre,Commune,N
+Fabuleux,114,"Pat Junior",Rubis,Commune,N
+Fabuleux,80,"Mickey Mouse",Émeraude,Commune,N
+Fabuleux,203,"Miroir de la Bête",Acier,Commune,N
+Fabuleux,148,Hans,Saphir,Commune,N
+Fabuleux,57,"Mama Odie",Améthyste,"Peu commune",N
+Fabuleux,99,"N'écoute que Moi",Émeraude,"Peu commune",N
+Fabuleux,187,Lawrence,Acier,"Peu commune",N
+Fabuleux,15,Ariel,Ambre,Rare,N
+Fabuleux,106,Maui,Rubis,Rare,N
+Fabuleux,5,Minnie,Ambre,"Super rare",Y
+
+Fabuleux,50,Tic-Tac,Améthyste,Commune,N
+Fabuleux,9,Stitch,Ambre,Commune,N
+Fabuleux,136,Agrabah,Rubis,Commune,N
+Fabuleux,88,"La Fée Clochette",Émeraude,Commune,N
+Fabuleux,183,Bourriquet,Acier,Commune,N
+Fabuleux,155,Jasmine,Saphir,Commune,N
+Fabuleux,65,"Miroir Magique",Améthyste,"Peu commune",N
+Fabuleux,86,Heihei,Émeraude,"Peu commune",N
+Fabuleux,193,"Li Shang",Acier,"Peu commune",N
+Fabuleux,135,"Clochette du dîner",Rubis,Rare,N
+Fabuleux,89,"John Silver",Émeraude,Légendaire,N
+Fabuleux,84,Pégase,Émeraude,Commune,Y
+
 Fabuleux,58,"Luisa Madrigal",Améthyste,Commune,N
 Fabuleux,8,Raiponce,Ambre,Commune,N
 Fabuleux,123,"La Reine de Cœur",Rubis,Commune,N
@@ -2572,30 +2598,4 @@ Fabuleux,42,"Ombre de Peter Pan",Améthyste,"Super rare",Y
 "Lueurs dans les Profondeurs",187,"Nick Wilde",Acier,Rare,N
 "Lueurs dans les Profondeurs",36,"Le Seigneur des Ténèbres",Améthyste,"Super rare",N
 "Lueurs dans les Profondeurs",33,"Mâchouiller et crachouiller",Ambre,Commune,Y
-
-Fabuleux,8,Raiponce,Ambre,Commune,N
-Fabuleux,68,"Casa Madrigal",Améthyste,Commune,N
-Fabuleux,80,"Mickey Mouse",Émeraude,Commune,N
-Fabuleux,124,Raiponce,Rubis,Commune,N
-Fabuleux,189,"La Fée Clochette",Acier,Commune,N
-Fabuleux,158,"Belle Marianne",Saphir,Commune,N
-Fabuleux,93,Daisy,Émeraude,"Peu commune",N
-Fabuleux,19,Cendrillon,Ambre,"Peu commune",N
-Fabuleux,187,Lawrence,Acier,"Peu commune",N
-Fabuleux,197,"Il me reste un espoir",Acier,Rare,N
-Fabuleux,64,"La plume magique",Améthyste,Rare,N
-Fabuleux,84,Pégase,Émeraude,Commune,Y
-
-"Les Terres d'Encres",117,Vaiana,Rubis,Commune,N
-"Les Terres d'Encres",96,"Crois-moi j'ai vu pire",Émeraude,Commune,N
-Prélude,48,"Miss Tick",Améthyste,Commune,N
-"Les Terres d'Encres",159,Distraction,Saphir,Commune,N
-"Les Terres d'Encres",203,Nottingham,Acier,Commune,N
-"Les Terres d'Encres",6,Kida,Ambre,Commune,N
-"Les Terres d'Encres",92,Turbo,Émeraude,"Peu commune",N
-"Menace des profondeurs – Quête des Illumineurs",180,Lythos,Acier,"Peu commune",N
-"Menace des profondeurs – Quête des Illumineurs",44,"Balais magiques",Améthyste,"Peu commune",N
-"Les Terres d'Encres",120,"Peter Pan",Rubis,Rare,N
-"Les Terres d'Encres",201,"Carte de la Planète au Trésor",Acier,Rare,N
-"Les Terres d'Encres",138,"Capitaine Amélia",Saphir,Commune,Y
 
