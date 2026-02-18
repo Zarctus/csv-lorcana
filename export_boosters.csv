@@ -1,4 +1,56 @@
 saison,number,nom,encre,rareté,is_foil
+Fabuleux,58,"Luisa Madrigal",Améthyste,Commune,N
+Fabuleux,8,Raiponce,Ambre,Commune,N
+Fabuleux,123,"La Reine de Cœur",Rubis,Commune,N
+Fabuleux,92,Aladdin,Émeraude,Commune,N
+Fabuleux,196,Ariel,Acier,Commune,N
+Fabuleux,145,"Cruella d'Enfer",Saphir,Commune,N
+Fabuleux,91,Turbo,Émeraude,"Peu commune",N
+Fabuleux,23,"La Reine de Cœur",Ambre,"Peu commune",N
+Fabuleux,113,Roxane,Rubis,"Peu commune",N
+Fabuleux,178,Jasmine,Acier,Rare,N
+Fabuleux,66,"Montre à Gousset",Améthyste,Rare,N
+Fabuleux,137,Anna,Saphir,Rare,Y
+
+Fabuleux,49,Kuzco,Améthyste,Commune,N
+Fabuleux,34,Atlantica,Ambre,Commune,N
+Fabuleux,131,"Tu t'envoles",Rubis,Commune,N
+Fabuleux,96,Improviser,Émeraude,Commune,N
+Fabuleux,179,Tiana,Acier,Commune,N
+Fabuleux,146,Anna,Saphir,Commune,N
+Fabuleux,29,"Retour de Bruno",Ambre,"Peu commune",N
+Fabuleux,167,"Gyroscope lumineux",Saphir,"Peu commune",N
+Fabuleux,129,"Tuk Tuk",Rubis,"Peu commune",N
+Fabuleux,192,"John Silver",Acier,Rare,N
+Fabuleux,64,"La plume magique",Améthyste,Rare,N
+Fabuleux,181,Jafar,Acier,Commune,Y
+
+Fabuleux,41,"Winnie l'ourson",Améthyste,Commune,N
+Fabuleux,10,Mulan,Ambre,Commune,N
+Fabuleux,112,"Max Dingo",Rubis,Commune,N
+Fabuleux,79,Mégara,Émeraude,Commune,N
+Fabuleux,189,"La Fée Clochette",Acier,Commune,N
+Fabuleux,144,Mufasa,Saphir,Commune,N
+Fabuleux,93,Daisy,Émeraude,"Peu commune",N
+Fabuleux,103,"Le Fou",Rubis,"Peu commune",N
+Fabuleux,202,"Tous avec moi !",Acier,"Peu commune",N
+Fabuleux,25,"On est une Famille",Ambre,Rare,N
+Fabuleux,71,"Ondins Ensorcelés",Émeraude,Rare,N
+Fabuleux,51,"Dolores Madrigal",Améthyste,Commune,Y
+
+Fabuleux,47,Timothée,Améthyste,Commune,N
+Fabuleux,22,Ursula,Ambre,Commune,N
+Fabuleux,115,Gaston,Rubis,Commune,N
+Fabuleux,98,"Concocter la Potion",Émeraude,Commune,N
+Fabuleux,203,"Miroir de la Bête",Acier,Commune,N
+Fabuleux,165,"Je Vole",Saphir,Commune,N
+Fabuleux,19,Cendrillon,Ambre,"Peu commune",N
+Fabuleux,59,Jafar,Améthyste,"Peu commune",N
+Fabuleux,170,Motunui,Saphir,"Peu commune",N
+Fabuleux,105,Simba,Rubis,Rare,N
+Fabuleux,141,Alice,Saphir,Rare,N
+Fabuleux,55,Olaf,Améthyste,"Peu commune",Y
+
 Fabuleux,61,"Pauvres âmes en perdition",Améthyste,Commune,N
 Fabuleux,27,"Guéris les blessures",Ambre,Commune,N
 Fabuleux,112,"Max Dingo",Rubis,Commune,N
@@ -2546,56 +2598,4 @@ Prélude,48,"Miss Tick",Améthyste,Commune,N
 "Les Terres d'Encres",120,"Peter Pan",Rubis,Rare,N
 "Les Terres d'Encres",201,"Carte de la Planète au Trésor",Acier,Rare,N
 "Les Terres d'Encres",138,"Capitaine Amélia",Saphir,Commune,Y
-
-"L’ile d' Archazia",167,Pepper,Saphir,Commune,N
-"L’ile d' Archazia",121,"Grand-Mère Fa",Rubis,Commune,N
-"L’ile d' Archazia",16,"Mariano Guzmán",Ambre,Commune,N
-"L’ile d' Archazia",102,Pacha,Émeraude,Commune,N
-"L’ile d' Archazia",62,Rajah,Améthyste,Commune,N
-"Vol au Palais – Quête des Illumineurs",204,"Bâton d’entraînement",Acier,Commune,N
-"L’ile d' Archazia",112,Duchesse,Émeraude,"Peu commune",N
-"L’ile d' Archazia",158,"Gaëtan Molière",Saphir,"Peu commune",N
-"L’ile d' Archazia",183,"Helga Sinclair",Acier,"Peu commune",N
-"L’ile d' Archazia",201,"Reconstruire l’Atlantide",Acier,Rare,N
-"L’ile d' Archazia",141,Mulan,Rubis,"Super rare",N
-"L’ile d' Archazia",135,"Le Fantôme Noir",Rubis,"Peu commune",Y
-
-"L'Ascension des Floodborn",104,Boun,Rubis,Commune,N
-"L'Ascension des Floodborn",69,Arthur,Émeraude,Commune,N
-"L'Ascension des Floodborn",156,"Maître Hibou",Saphir,Commune,N
-"L'Ascension des Floodborn",22,Atchoum,Ambre,Commune,N
-"L'Ascension des Floodborn",42,"La Bonne Fée",Améthyste,Commune,N
-"Menace des profondeurs – Quête des Illumineurs",174,Benja,Acier,Commune,N
-"L'Ascension des Floodborn",141,"La Chenille",Saphir,"Peu commune",N
-"L'Ascension des Floodborn",29,"Ultime combat",Ambre,"Peu commune",N
-"L'Ascension des Floodborn",113,Minnie,Rubis,"Peu commune",N
-Prélude,4,"Cobra Bubbles",Ambre,Rare,N
-"L'Ascension des Floodborn",162,"Chute dans le terrier du lapin",Saphir,Rare,N
-"L'Ascension des Floodborn",30,"Peignons les roses en rouge",Ambre,Commune,Y
-
-"Le retour d’Ursula",91,Tor,Émeraude,Commune,N
-Prélude,141,Aurore,Saphir,Commune,N
-"Le retour d’Ursula",21,"Prince Eric",Ambre,Commune,N
-"Le retour d’Ursula",105,"Fa Zhou",Rubis,Commune,N
-"Le retour d’Ursula",62,"Passer à l'action",Améthyste,Commune,N
-"Le retour d’Ursula",178,Chien-Po,Acier,Commune,N
-"Le retour d’Ursula",30,"Signe le contrat",Ambre,"Peu commune",N
-"Le retour d’Ursula",182,"Li Shang",Acier,"Peu commune",N
-"Le retour d’Ursula",128,"La vie d'un pirate",Rubis,"Peu commune",N
-"Le retour d’Ursula",95,"Sous l'océan",Émeraude,Rare,N
-"Le retour d’Ursula",203,"La Muraille",Acier,Rare,N
-"Le retour d’Ursula",8,Donald,Ambre,"Peu commune",Y
-
-"Les Terres d'Encres",110,"Jim Hawkins",Rubis,Commune,N
-"Les Terres d'Encres",76,Jetsam,Émeraude,Commune,N
-"Les Terres d'Encres",47,"Tapis volant",Améthyste,Commune,N
-"Les Terres d'Encres",149,Loulou,Saphir,Commune,N
-"Les Terres d'Encres",183,Minnie,Acier,Commune,N
-"Les Terres d'Encres",4c,"Chiot dalmatien",Ambre,Commune,N
-Prélude,12,Nani,Ambre,"Peu commune",N
-Prélude,161,"Le bleu lumière",Saphir,"Peu commune",N
-"Les Terres d'Encres",124,"La Plume",Rubis,"Peu commune",N
-"Les Terres d'Encres",176,"John Silver",Acier,Rare,N
-"Les Terres d'Encres",132,"L'hameçon de Maui",Rubis,Rare,N
-"Menace des profondeurs – Quête des Illumineurs",65,"Le chapeau de sorcier",Améthyste,Rare,Y
 
