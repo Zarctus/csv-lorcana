@@ -91,7 +91,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 90;Rox;Rare;Émeraude;3;0
 91;"Mickey Mouse";"Peu commune";Émeraude;6;1
 92;Rox;Légendaire;Émeraude;1;0
-93;Donald;Légendaire;Émeraude;1;0
+93;Donald;Légendaire;Émeraude;0;0
 94;"Crois-moi j'ai vu pire";Commune;Émeraude;9;0
 95;"Bataille de boules de neige";Commune;Émeraude;10;0
 96;"Geler la Plante";Rare;Émeraude;3;0
@@ -101,7 +101,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 100;"Rétro-fusil à évolution";Rare;Émeraude;2;0
 101;Bélier;Rare;Émeraude;3;0
 102;"Réserve de chasse";Commune;Émeraude;10;1
-103;"Ralph la Casse";Légendaire;Rubis;2;0
+103;"Ralph la Casse";Légendaire;Rubis;1;0
 104;"Balthazar Picsou";"Peu commune";Rubis;5;0
 105;Donald;Commune;Rubis;10;1
 106;"Toros Bulba";Commune;Rubis;11;0
