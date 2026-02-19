@@ -1,12 +1,7 @@
 
 
-** invitation Vinted / Vinted invitation **
+**Invitation Vinted / Vinted invitation**
 - *[Lien / Links](https://www.vinted.fr/invite/lynadry)*
-
-
-** invitation Vinted / Vinted invitation **
-- *[Lien / Links](https://www.vinted.fr/invite/lynadry)*
-
 
 
 **Quelques liens aléatoires / Some random links**
@@ -35,6 +30,7 @@
 - *[#Lynadry_SET8](https://www.vinted.fr/catalog?search_text=%23Lynadry_SET8)*
 - *[#Lynadry_SET9](https://www.vinted.fr/catalog?search_text=%23Lynadry_SET9)*
 - *[#Lynadry_SET10](https://www.vinted.fr/catalog?search_text=%23Lynadry_SET10)*
+- *[#Lynadry_SET11](https://www.vinted.fr/catalog?search_text=%23Lynadry_SET11)*
 
 
 **🔎 Recherches Lorcana Foils uniquement / Search Lorcana Foils only**
