@@ -48,6 +48,7 @@
 
 
 
+
 <!-- BOOSTER_STATS_START -->
 ### 📊 Booster Opening Stats
 
@@ -184,6 +185,7 @@
 | Iconique | ![Iconique](img/rarity/rarity_iconic.svg) | 0 | 0% | 0 | 0% |
 
 <!-- BOOSTER_STATS_END -->
+
 
 
 
