@@ -1,4 +1,17 @@
 saison,number,nom,encre,rareté,is_foil
+Givresort,4,Pumbaa,Ambre,Commune,N
+Givresort,37,Tigrou,Améthyste,Commune,N
+Givresort,72,Minnie,Émeraude,Commune,N
+Givresort,129,"Vers notre champ de bataille",Rubis,Commune,N
+Givresort,174,"Myster Mask",Acier,Commune,N
+Givresort,140,"Mickey Mouse",Saphir,Commune,N
+Givresort,11,Powhatan,Ambre,"Peu commune",N
+Givresort,189,Gigi,Acier,"Peu commune",N
+Givresort,144,Daisy,Saphir,"Peu commune",N
+Givresort,101,Bélier,Émeraude,Rare,N
+Givresort,159,"Mickey Mouse",Saphir,Rare,N
+Givresort,16,Timon,Ambre,Rare,Y
+
 Fabuleux,67,Rose-Lanterne,Améthyste,Commune,N
 Fabuleux,21,Pluto,Ambre,Commune,N
 Fabuleux,114,"Pat Junior",Rubis,Commune,N
@@ -2585,17 +2598,4 @@ Fabuleux,176,"Petit Jean",Acier,"Peu commune",N
 Fabuleux,15,Ariel,Ambre,Rare,N
 Fabuleux,111,"Mickey Mouse",Rubis,Légendaire,N
 Fabuleux,42,"Ombre de Peter Pan",Améthyste,"Super rare",Y
-
-"Lueurs dans les Profondeurs",186,"Les jumeaux",Acier,Commune,N
-"Lueurs dans les Profondeurs",110,"Mère Gothel",Rubis,Commune,N
-"Lueurs dans les Profondeurs",77,Jetsam,Émeraude,Commune,N
-"Lueurs dans les Profondeurs",28,"Berceuse de la Lune de Della",Ambre,Commune,N
-"Lueurs dans les Profondeurs",160,"Mickey Mouse",Saphir,Commune,N
-"Lueurs dans les Profondeurs",61,"Ouste !",Améthyste,Commune,N
-"Lueurs dans les Profondeurs",190,Broadway,Acier,"Peu commune",N
-"Lueurs dans les Profondeurs",64,"Bilan de performance",Améthyste,"Peu commune",N
-"Lueurs dans les Profondeurs",152,"Ichabod Crane",Saphir,"Peu commune",N
-"Lueurs dans les Profondeurs",187,"Nick Wilde",Acier,Rare,N
-"Lueurs dans les Profondeurs",36,"Le Seigneur des Ténèbres",Améthyste,"Super rare",N
-"Lueurs dans les Profondeurs",33,"Mâchouiller et crachouiller",Ambre,Commune,Y
 
