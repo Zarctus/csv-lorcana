@@ -1,4 +1,69 @@
 saison,number,nom,encre,rareté,is_foil
+Givresort,6,Nakoma,Ambre,Commune,N
+Givresort,63,"Manier l'épée",Améthyste,Commune,N
+Givresort,114,Agnarr,Rubis,Commune,N
+Givresort,80,Twist,Émeraude,Commune,N
+Givresort,185,Stitch,Acier,Commune,N
+Givresort,161,Tui,Saphir,Commune,N
+Givresort,68,"La Plante gelée",Améthyste,"Peu commune",N
+Givresort,169,"Appareil à gaz de Myster Mask",Saphir,"Peu commune",N
+Givresort,111,Liquidator,Rubis,"Peu commune",N
+Givresort,130,"Le prix de la liberté",Rubis,Rare,N
+Givresort,49,Génie,Améthyste,Rare,N
+Givresort,94,"Crois-moi j'ai vu pire",Émeraude,Commune,Y
+
+Givresort,12,Sarabi,Ambre,Commune,N
+Givresort,38,"Fraîcheneige von Frimas",Améthyste,Commune,N
+Givresort,70,Stitch,Émeraude,Commune,N
+Givresort,110,"Fa Zhou",Rubis,Commune,N
+Givresort,184,Nani,Acier,Commune,N
+Givresort,141,Minnie,Saphir,Commune,N
+Givresort,25,Angel,Ambre,"Peu commune",N
+Givresort,97,"L’éducation ou l’élimination",Émeraude,"Peu commune",N
+Givresort,183,"Li Shang",Acier,"Peu commune",N
+Givresort,112,"Elisa Maza",Rubis,Rare,N
+Givresort,155,Vaiana,Saphir,Légendaire,N
+Givresort,206,"Grand-Mère Feuillage",Ambre,Épique,Y
+
+Givresort,8,Pocahontas,Ambre,Commune,N
+Givresort,54,"Vaches de l’espace",Améthyste,Commune,N
+Givresort,109,Maui,Rubis,Commune,N
+Givresort,87,Rox,Émeraude,Commune,N
+Givresort,180,"Amos Slade",Acier,Commune,N
+Givresort,166,"Fumée bleue",Saphir,Commune,N
+Givresort,46,Meeko,Améthyste,"Peu commune",N
+Givresort,137,"Petit Gourou",Saphir,"Peu commune",N
+Givresort,131,"À vos flèches",Rubis,"Peu commune",N
+Givresort,96,"Geler la Plante",Émeraude,Rare,N
+Givresort,195,Lilo,Acier,"Super rare",N
+Givresort,118,"La Bête",Rubis,"Super rare",Y
+
+Givresort,6,Nakoma,Ambre,Commune,N
+Givresort,56,Lumpy,Améthyste,Commune,N
+Givresort,81,Aladdin,Émeraude,Commune,N
+Givresort,113,Iduna,Rubis,Commune,N
+Givresort,174,"Myster Mask",Acier,Commune,N
+Givresort,140,"Mickey Mouse",Saphir,Commune,N
+Givresort,23,Simba,Ambre,"Peu commune",N
+Givresort,199,Givresort,Acier,"Peu commune",N
+Givresort,137,"Petit Gourou",Saphir,"Peu commune",N
+Givresort,21,Reuben,Ambre,Rare,N
+Givresort,24,Bambi,Ambre,"Super rare",N
+Givresort,122,Olaf,Rubis,Rare,Y
+
+Givresort,12,Sarabi,Ambre,Commune,N
+Givresort,43,"Myster Mask",Améthyste,Commune,N
+Givresort,136,"Château de la Bête",Rubis,Commune,N
+Givresort,76,Piqueur,Émeraude,Commune,N
+Givresort,200,"Presque invincible",Acier,Commune,N
+Givresort,139,Porcinet,Saphir,Commune,N
+Givresort,36,Alice,Améthyste,"Peu commune",N
+Givresort,20,Nani,Ambre,"Peu commune",N
+Givresort,169,"Appareil à gaz de Myster Mask",Saphir,"Peu commune",N
+Givresort,190,"Présidente du Grand Conseil",Acier,Rare,N
+Givresort,124,"Balthazar Picsou",Rubis,"Super rare",N
+Givresort,50,Anna,Améthyste,Légendaire,Y
+
 Givresort,4,Pumbaa,Ambre,Commune,N
 Givresort,37,Tigrou,Améthyste,Commune,N
 Givresort,72,Minnie,Émeraude,Commune,N
@@ -2533,69 +2598,4 @@ Fabuleux,122,"Gardes cartes",Rubis,"Peu commune",Y
 "L’ile d' Archazia",49,Iago,Améthyste,Rare,N
 "L’ile d' Archazia",140,"Lyle Tiberius Rourke",Rubis,Rare,N
 "L’ile d' Archazia",63,Kronk,Améthyste,Rare,Y
-
-"Le Règne de Jafar",58,"Poe De Sortilège",Améthyste,Commune,N
-"Le Règne de Jafar",85,"Wilhelmina Placard",Émeraude,Commune,N
-"Le Règne de Jafar",121,"Arnold Trufforange",Rubis,Commune,N
-"Le Règne de Jafar",158,Wasabi,Saphir,Commune,N
-"Le Règne de Jafar",187,"Général Li",Acier,Commune,N
-"Le Règne de Jafar",36,"Joey le pigeon",Ambre,Commune,N
-"Vol au Palais – Quête des Illumineurs",28,Pluto,Ambre,"Peu commune",N
-"Le Règne de Jafar",108,"Don Carnage",Émeraude,"Peu commune",N
-"Vol au Palais – Quête des Illumineurs",202,"Beyond the Horizon",Acier,"Peu commune",N
-"Le Règne de Jafar",113,Archimède,Émeraude,Rare,N
-"Le Règne de Jafar",37,Donald,Ambre,"Super rare",N
-"Vol au Palais – Quête des Illumineurs",55,Yelena,Améthyste,Commune,Y
-
-"Vol au Palais – Quête des Illumineurs",56,Ryder,Améthyste,Commune,N
-"Le Règne de Jafar",91,"Le Lièvre de Mars",Émeraude,Commune,N
-"Le Règne de Jafar",131,Cri-Kee,Rubis,Commune,N
-"Le Règne de Jafar",161,"Madame Samovar",Saphir,Commune,N
-"Le Règne de Jafar",193,Khan,Acier,Commune,N
-"Le Règne de Jafar",2,Fifi,Ambre,Commune,N
-"Le Règne de Jafar",106,"Hiro Hamada",Émeraude,"Peu commune",N
-"Le Règne de Jafar",34,"Alma Madrigal",Ambre,"Peu commune",N
-"Le Règne de Jafar",138,"Le Fou",Rubis,"Peu commune",N
-"Le Règne de Jafar",152,"L’épée de Shan-Yu",Rubis,Rare,N
-"Le Règne de Jafar",198,Namaari,Acier,Légendaire,N
-"Le Règne de Jafar",187,"Général Li",Acier,Commune,Y
-
-"L'Ascension des Floodborn",111,"Madame de Trémaine",Rubis,Commune,N
-"L'Ascension des Floodborn",83,Gaston,Émeraude,Commune,N
-"L'Ascension des Floodborn",167,"Marmite de Gumbo",Saphir,Commune,N
-"L'Ascension des Floodborn",21,Dormeur,Ambre,Commune,N
-Prélude,64,"La légende de l'épée dans l'enclume",Améthyste,Commune,N
-"L'Ascension des Floodborn",171,"La Bête",Acier,Commune,N
-"L'Ascension des Floodborn",186,Lawrence,Acier,"Peu commune",N
-"L'Ascension des Floodborn",73,Bucky,Émeraude,"Peu commune",N
-"L'Ascension des Floodborn",1,Timide,Ambre,"Peu commune",N
-"L'Ascension des Floodborn",109,"Grand Coquin",Rubis,Rare,N
-"L'Ascension des Floodborn",148,"Grand Pabbie",Saphir,"Super rare",N
-"L'Ascension des Floodborn",8,Gaston,Ambre,"Peu commune",Y
-
-Prélude,141,Aurore,Saphir,Commune,N
-"Le retour d’Ursula",21,"Prince Eric",Ambre,Commune,N
-"Le retour d’Ursula",105,"Fa Zhou",Rubis,Commune,N
-"Le retour d’Ursula",62,"Passer à l'action",Améthyste,Commune,N
-"Le retour d’Ursula",93,"Esquive !",Émeraude,Commune,N
-"Le retour d’Ursula",200,"Sphère d'endurance",Acier,Commune,N
-"Le retour d’Ursula",44,"Flotsam & Jetsam",Améthyste,"Peu commune",N
-"Le retour d’Ursula",80,Mégara,Émeraude,"Peu commune",N
-"Le retour d’Ursula",145,Hadès,Saphir,"Peu commune",N
-"Le retour d’Ursula",12,Dingo,Ambre,Rare,N
-"Le retour d’Ursula",39,"Bruno Madrigal",Améthyste,"Super rare",N
-"Le retour d’Ursula",176,"La Bête",Acier,Commune,Y
-
-Fabuleux,34,Atlantica,Ambre,Commune,N
-Fabuleux,49,Kuzco,Améthyste,Commune,N
-Fabuleux,116,Vaiana,Rubis,Commune,N
-Fabuleux,95,"Cruelle Diablesse",Émeraude,Commune,N
-Fabuleux,148,Hans,Saphir,Commune,N
-Fabuleux,200,"Allumez les Mêches !",Acier,Commune,N
-Fabuleux,90,Ursula,Émeraude,"Peu commune",N
-Fabuleux,13,"Mickey Mouse",Ambre,"Peu commune",N
-Fabuleux,176,"Petit Jean",Acier,"Peu commune",N
-Fabuleux,15,Ariel,Ambre,Rare,N
-Fabuleux,111,"Mickey Mouse",Rubis,Légendaire,N
-Fabuleux,42,"Ombre de Peter Pan",Améthyste,"Super rare",Y
 
