@@ -53,6 +53,7 @@
 
 
 
+
 <!-- BOOSTER_STATS_START -->
 ### 📊 Booster Opening Stats
 
@@ -189,6 +190,7 @@
 | Iconique | ![Iconique](https://zarctus.fr/lorcana/img/rarity/rarity_iconic.png) | 0 | 0% | 0 | 0% |
 
 <!-- BOOSTER_STATS_END -->
+
 
 
 
