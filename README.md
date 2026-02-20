@@ -45,6 +45,7 @@
 👉 [#Lynadry_FOIL](https://www.vinted.fr/catalog?search_text=%23Lynadry_FOIL)
 
 
+
 <!-- BOOSTER_STATS_START -->
 ### 📊 Booster Opening Stats
 
@@ -181,3 +182,4 @@
 | Iconique | <img src="./img/rarity/rarity_iconic.png" alt="Iconique" width="20" height="20"> | 0 | 0% | 0 | 0% |
 
 <!-- BOOSTER_STATS_END -->
+
