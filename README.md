@@ -54,142 +54,144 @@
 
 
 
+
 <!-- BOOSTER_STATS_START -->
 ### 📊 Booster Opening Stats
 
 #### Set 1  |  208 boosters
 | Rarity | Icon | Normal | % Norm | Foil | % Foil |
 |--------|------|--------|--------|------|--------|
-| Commune | ![Commune](https://zarctus.fr/lorcana/img/rarity/rarity_common.svg) | 1247 | 54.5% | 107 | 51.44% |
-| Peu commune | ![Peu commune](https://zarctus.fr/lorcana/img/rarity/rarity_uncommon.svg) | 622 | 27.19% | 55 | 26.44% |
-| Rare | ![Rare](https://zarctus.fr/lorcana/img/rarity/rarity_rare.svg) | 288 | 12.59% | 27 | 12.98% |
+| Commune | ![Commune](img/rarity/rarity_common.svg) | 1247 | 54.5% | 107 | 51.44% |
+| Peu commune | ![Peu commune](img/rarity/rarity_uncommon.svg) | 622 | 27.19% | 55 | 26.44% |
+| Rare | ![Rare](img/rarity/rarity_rare.svg) | 288 | 12.59% | 27 | 12.98% |
 | Super rare |  | 97 | 4.24% | 11 | 5.29% |
-| Légendaire | ![Légendaire](https://zarctus.fr/lorcana/img/rarity/rarity_legendary.svg) | 34 | 1.49% | 5 | 2.4% |
-| Épique | ![Épique](https://zarctus.fr/lorcana/img/rarity/rarity_epic.png) | 0 | 0% | 0 | 0% |
-| Enchantée | ![Enchantée](https://zarctus.fr/lorcana/img/rarity/rarity_enchanted1.png) | 0 | 0% | 3 | 1.44% |
-| Iconique | ![Iconique](https://zarctus.fr/lorcana/img/rarity/rarity_iconic.png) | 0 | 0% | 0 | 0% |
+| Légendaire | ![Légendaire](img/rarity/rarity_legendary.svg) | 34 | 1.49% | 5 | 2.4% |
+| Épique | ![Épique](img/rarity/rarity_epic.png) | 0 | 0% | 0 | 0% |
+| Enchantée | ![Enchantée](img/rarity/rarity_enchanted1.png) | 0 | 0% | 3 | 1.44% |
+| Iconique | ![Iconique](img/rarity/rarity_iconic.png) | 0 | 0% | 0 | 0% |
 
 #### Set 10  |  182 boosters
 | Rarity | Icon | Normal | % Norm | Foil | % Foil |
 |--------|------|--------|--------|------|--------|
-| Commune | ![Commune](https://zarctus.fr/lorcana/img/rarity/rarity_common.svg) | 1092 | 54.55% | 90 | 49.45% |
-| Peu commune | ![Peu commune](https://zarctus.fr/lorcana/img/rarity/rarity_uncommon.svg) | 546 | 27.27% | 39 | 21.43% |
-| Rare | ![Rare](https://zarctus.fr/lorcana/img/rarity/rarity_rare.svg) | 248 | 12.39% | 26 | 14.29% |
+| Commune | ![Commune](img/rarity/rarity_common.svg) | 1092 | 54.55% | 90 | 49.45% |
+| Peu commune | ![Peu commune](img/rarity/rarity_uncommon.svg) | 546 | 27.27% | 39 | 21.43% |
+| Rare | ![Rare](img/rarity/rarity_rare.svg) | 248 | 12.39% | 26 | 14.29% |
 | Super rare |  | 86 | 4.3% | 8 | 4.4% |
-| Légendaire | ![Légendaire](https://zarctus.fr/lorcana/img/rarity/rarity_legendary.svg) | 30 | 1.5% | 5 | 2.75% |
-| Épique | ![Épique](https://zarctus.fr/lorcana/img/rarity/rarity_epic.png) | 0 | 0% | 12 | 6.59% |
-| Enchantée | ![Enchantée](https://zarctus.fr/lorcana/img/rarity/rarity_enchanted1.png) | 0 | 0% | 2 | 1.1% |
-| Iconique | ![Iconique](https://zarctus.fr/lorcana/img/rarity/rarity_iconic.png) | 0 | 0% | 0 | 0% |
+| Légendaire | ![Légendaire](img/rarity/rarity_legendary.svg) | 30 | 1.5% | 5 | 2.75% |
+| Épique | ![Épique](img/rarity/rarity_epic.png) | 0 | 0% | 12 | 6.59% |
+| Enchantée | ![Enchantée](img/rarity/rarity_enchanted1.png) | 0 | 0% | 2 | 1.1% |
+| Iconique | ![Iconique](img/rarity/rarity_iconic.png) | 0 | 0% | 0 | 0% |
 
 #### Set 11  |  120 boosters
 | Rarity | Icon | Normal | % Norm | Foil | % Foil |
 |--------|------|--------|--------|------|--------|
-| Commune | ![Commune](https://zarctus.fr/lorcana/img/rarity/rarity_common.svg) | 720 | 54.55% | 58 | 48.33% |
-| Peu commune | ![Peu commune](https://zarctus.fr/lorcana/img/rarity/rarity_uncommon.svg) | 360 | 27.27% | 28 | 23.33% |
-| Rare | ![Rare](https://zarctus.fr/lorcana/img/rarity/rarity_rare.svg) | 164 | 12.42% | 16 | 13.33% |
+| Commune | ![Commune](img/rarity/rarity_common.svg) | 720 | 54.55% | 58 | 48.33% |
+| Peu commune | ![Peu commune](img/rarity/rarity_uncommon.svg) | 360 | 27.27% | 28 | 23.33% |
+| Rare | ![Rare](img/rarity/rarity_rare.svg) | 164 | 12.42% | 16 | 13.33% |
 | Super rare |  | 56 | 4.24% | 7 | 5.83% |
-| Légendaire | ![Légendaire](https://zarctus.fr/lorcana/img/rarity/rarity_legendary.svg) | 20 | 1.52% | 3 | 2.5% |
-| Épique | ![Épique](https://zarctus.fr/lorcana/img/rarity/rarity_epic.png) | 0 | 0% | 7 | 5.83% |
-| Enchantée | ![Enchantée](https://zarctus.fr/lorcana/img/rarity/rarity_enchanted1.png) | 0 | 0% | 1 | 0.83% |
-| Iconique | ![Iconique](https://zarctus.fr/lorcana/img/rarity/rarity_iconic.png) | 0 | 0% | 0 | 0% |
+| Légendaire | ![Légendaire](img/rarity/rarity_legendary.svg) | 20 | 1.52% | 3 | 2.5% |
+| Épique | ![Épique](img/rarity/rarity_epic.png) | 0 | 0% | 7 | 5.83% |
+| Enchantée | ![Enchantée](img/rarity/rarity_enchanted1.png) | 0 | 0% | 1 | 0.83% |
+| Iconique | ![Iconique](img/rarity/rarity_iconic.png) | 0 | 0% | 0 | 0% |
 
 #### Set 2  |  127 boosters
 | Rarity | Icon | Normal | % Norm | Foil | % Foil |
 |--------|------|--------|--------|------|--------|
-| Commune | ![Commune](https://zarctus.fr/lorcana/img/rarity/rarity_common.svg) | 763 | 54.62% | 71 | 55.91% |
-| Peu commune | ![Peu commune](https://zarctus.fr/lorcana/img/rarity/rarity_uncommon.svg) | 380 | 27.2% | 28 | 22.05% |
-| Rare | ![Rare](https://zarctus.fr/lorcana/img/rarity/rarity_rare.svg) | 177 | 12.67% | 19 | 14.96% |
+| Commune | ![Commune](img/rarity/rarity_common.svg) | 763 | 54.62% | 71 | 55.91% |
+| Peu commune | ![Peu commune](img/rarity/rarity_uncommon.svg) | 380 | 27.2% | 28 | 22.05% |
+| Rare | ![Rare](img/rarity/rarity_rare.svg) | 177 | 12.67% | 19 | 14.96% |
 | Super rare |  | 51 | 3.65% | 4 | 3.15% |
-| Légendaire | ![Légendaire](https://zarctus.fr/lorcana/img/rarity/rarity_legendary.svg) | 26 | 1.86% | 3 | 2.36% |
-| Épique | ![Épique](https://zarctus.fr/lorcana/img/rarity/rarity_epic.png) | 0 | 0% | 0 | 0% |
-| Enchantée | ![Enchantée](https://zarctus.fr/lorcana/img/rarity/rarity_enchanted1.png) | 0 | 0% | 2 | 1.57% |
-| Iconique | ![Iconique](https://zarctus.fr/lorcana/img/rarity/rarity_iconic.png) | 0 | 0% | 0 | 0% |
+| Légendaire | ![Légendaire](img/rarity/rarity_legendary.svg) | 26 | 1.86% | 3 | 2.36% |
+| Épique | ![Épique](img/rarity/rarity_epic.png) | 0 | 0% | 0 | 0% |
+| Enchantée | ![Enchantée](img/rarity/rarity_enchanted1.png) | 0 | 0% | 2 | 1.57% |
+| Iconique | ![Iconique](img/rarity/rarity_iconic.png) | 0 | 0% | 0 | 0% |
 
 #### Set 3  |  122 boosters
 | Rarity | Icon | Normal | % Norm | Foil | % Foil |
 |--------|------|--------|--------|------|--------|
-| Commune | ![Commune](https://zarctus.fr/lorcana/img/rarity/rarity_common.svg) | 731 | 54.47% | 66 | 54.1% |
-| Peu commune | ![Peu commune](https://zarctus.fr/lorcana/img/rarity/rarity_uncommon.svg) | 366 | 27.27% | 29 | 23.77% |
-| Rare | ![Rare](https://zarctus.fr/lorcana/img/rarity/rarity_rare.svg) | 168 | 12.52% | 18 | 14.75% |
+| Commune | ![Commune](img/rarity/rarity_common.svg) | 731 | 54.47% | 66 | 54.1% |
+| Peu commune | ![Peu commune](img/rarity/rarity_uncommon.svg) | 366 | 27.27% | 29 | 23.77% |
+| Rare | ![Rare](img/rarity/rarity_rare.svg) | 168 | 12.52% | 18 | 14.75% |
 | Super rare |  | 55 | 4.1% | 7 | 5.74% |
-| Légendaire | ![Légendaire](https://zarctus.fr/lorcana/img/rarity/rarity_legendary.svg) | 22 | 1.64% | 2 | 1.64% |
-| Épique | ![Épique](https://zarctus.fr/lorcana/img/rarity/rarity_epic.png) | 0 | 0% | 0 | 0% |
-| Enchantée | ![Enchantée](https://zarctus.fr/lorcana/img/rarity/rarity_enchanted1.png) | 0 | 0% | 0 | 0% |
-| Iconique | ![Iconique](https://zarctus.fr/lorcana/img/rarity/rarity_iconic.png) | 0 | 0% | 0 | 0% |
+| Légendaire | ![Légendaire](img/rarity/rarity_legendary.svg) | 22 | 1.64% | 2 | 1.64% |
+| Épique | ![Épique](img/rarity/rarity_epic.png) | 0 | 0% | 0 | 0% |
+| Enchantée | ![Enchantée](img/rarity/rarity_enchanted1.png) | 0 | 0% | 0 | 0% |
+| Iconique | ![Iconique](img/rarity/rarity_iconic.png) | 0 | 0% | 0 | 0% |
 
 #### Set 4  |  224 boosters
 | Rarity | Icon | Normal | % Norm | Foil | % Foil |
 |--------|------|--------|--------|------|--------|
-| Commune | ![Commune](https://zarctus.fr/lorcana/img/rarity/rarity_common.svg) | 1343 | 54.5% | 160 | 71.43% |
-| Peu commune | ![Peu commune](https://zarctus.fr/lorcana/img/rarity/rarity_uncommon.svg) | 673 | 27.31% | 19 | 8.48% |
-| Rare | ![Rare](https://zarctus.fr/lorcana/img/rarity/rarity_rare.svg) | 301 | 12.22% | 30 | 13.39% |
+| Commune | ![Commune](img/rarity/rarity_common.svg) | 1343 | 54.5% | 160 | 71.43% |
+| Peu commune | ![Peu commune](img/rarity/rarity_uncommon.svg) | 673 | 27.31% | 19 | 8.48% |
+| Rare | ![Rare](img/rarity/rarity_rare.svg) | 301 | 12.22% | 30 | 13.39% |
 | Super rare |  | 107 | 4.34% | 8 | 3.57% |
-| Légendaire | ![Légendaire](https://zarctus.fr/lorcana/img/rarity/rarity_legendary.svg) | 40 | 1.62% | 6 | 2.68% |
-| Épique | ![Épique](https://zarctus.fr/lorcana/img/rarity/rarity_epic.png) | 0 | 0% | 0 | 0% |
-| Enchantée | ![Enchantée](https://zarctus.fr/lorcana/img/rarity/rarity_enchanted1.png) | 0 | 0% | 1 | 0.45% |
-| Iconique | ![Iconique](https://zarctus.fr/lorcana/img/rarity/rarity_iconic.png) | 0 | 0% | 0 | 0% |
+| Légendaire | ![Légendaire](img/rarity/rarity_legendary.svg) | 40 | 1.62% | 6 | 2.68% |
+| Épique | ![Épique](img/rarity/rarity_epic.png) | 0 | 0% | 0 | 0% |
+| Enchantée | ![Enchantée](img/rarity/rarity_enchanted1.png) | 0 | 0% | 1 | 0.45% |
+| Iconique | ![Iconique](img/rarity/rarity_iconic.png) | 0 | 0% | 0 | 0% |
 
 #### Set 5  |  178 boosters
 | Rarity | Icon | Normal | % Norm | Foil | % Foil |
 |--------|------|--------|--------|------|--------|
-| Commune | ![Commune](https://zarctus.fr/lorcana/img/rarity/rarity_common.svg) | 1069 | 54.6% | 88 | 49.44% |
-| Peu commune | ![Peu commune](https://zarctus.fr/lorcana/img/rarity/rarity_uncommon.svg) | 532 | 27.17% | 45 | 25.28% |
-| Rare | ![Rare](https://zarctus.fr/lorcana/img/rarity/rarity_rare.svg) | 240 | 12.26% | 29 | 16.29% |
+| Commune | ![Commune](img/rarity/rarity_common.svg) | 1069 | 54.6% | 88 | 49.44% |
+| Peu commune | ![Peu commune](img/rarity/rarity_uncommon.svg) | 532 | 27.17% | 45 | 25.28% |
+| Rare | ![Rare](img/rarity/rarity_rare.svg) | 240 | 12.26% | 29 | 16.29% |
 | Super rare |  | 88 | 4.49% | 8 | 4.49% |
-| Légendaire | ![Légendaire](https://zarctus.fr/lorcana/img/rarity/rarity_legendary.svg) | 29 | 1.48% | 6 | 3.37% |
-| Épique | ![Épique](https://zarctus.fr/lorcana/img/rarity/rarity_epic.png) | 0 | 0% | 0 | 0% |
-| Enchantée | ![Enchantée](https://zarctus.fr/lorcana/img/rarity/rarity_enchanted1.png) | 0 | 0% | 2 | 1.12% |
-| Iconique | ![Iconique](https://zarctus.fr/lorcana/img/rarity/rarity_iconic.png) | 0 | 0% | 0 | 0% |
+| Légendaire | ![Légendaire](img/rarity/rarity_legendary.svg) | 29 | 1.48% | 6 | 3.37% |
+| Épique | ![Épique](img/rarity/rarity_epic.png) | 0 | 0% | 0 | 0% |
+| Enchantée | ![Enchantée](img/rarity/rarity_enchanted1.png) | 0 | 0% | 2 | 1.12% |
+| Iconique | ![Iconique](img/rarity/rarity_iconic.png) | 0 | 0% | 0 | 0% |
 
 #### Set 6  |  121 boosters
 | Rarity | Icon | Normal | % Norm | Foil | % Foil |
 |--------|------|--------|--------|------|--------|
-| Commune | ![Commune](https://zarctus.fr/lorcana/img/rarity/rarity_common.svg) | 723 | 54.32% | 68 | 56.2% |
-| Peu commune | ![Peu commune](https://zarctus.fr/lorcana/img/rarity/rarity_uncommon.svg) | 363 | 27.27% | 27 | 22.31% |
-| Rare | ![Rare](https://zarctus.fr/lorcana/img/rarity/rarity_rare.svg) | 164 | 12.32% | 15 | 12.4% |
+| Commune | ![Commune](img/rarity/rarity_common.svg) | 723 | 54.32% | 68 | 56.2% |
+| Peu commune | ![Peu commune](img/rarity/rarity_uncommon.svg) | 363 | 27.27% | 27 | 22.31% |
+| Rare | ![Rare](img/rarity/rarity_rare.svg) | 164 | 12.32% | 15 | 12.4% |
 | Super rare |  | 59 | 4.43% | 7 | 5.79% |
-| Légendaire | ![Légendaire](https://zarctus.fr/lorcana/img/rarity/rarity_legendary.svg) | 22 | 1.65% | 3 | 2.48% |
-| Épique | ![Épique](https://zarctus.fr/lorcana/img/rarity/rarity_epic.png) | 0 | 0% | 0 | 0% |
-| Enchantée | ![Enchantée](https://zarctus.fr/lorcana/img/rarity/rarity_enchanted1.png) | 0 | 0% | 1 | 0.83% |
-| Iconique | ![Iconique](https://zarctus.fr/lorcana/img/rarity/rarity_iconic.png) | 0 | 0% | 0 | 0% |
+| Légendaire | ![Légendaire](img/rarity/rarity_legendary.svg) | 22 | 1.65% | 3 | 2.48% |
+| Épique | ![Épique](img/rarity/rarity_epic.png) | 0 | 0% | 0 | 0% |
+| Enchantée | ![Enchantée](img/rarity/rarity_enchanted1.png) | 0 | 0% | 1 | 0.83% |
+| Iconique | ![Iconique](img/rarity/rarity_iconic.png) | 0 | 0% | 0 | 0% |
 
 #### Set 7  |  148 boosters
 | Rarity | Icon | Normal | % Norm | Foil | % Foil |
 |--------|------|--------|--------|------|--------|
-| Commune | ![Commune](https://zarctus.fr/lorcana/img/rarity/rarity_common.svg) | 889 | 54.61% | 74 | 50% |
-| Peu commune | ![Peu commune](https://zarctus.fr/lorcana/img/rarity/rarity_uncommon.svg) | 443 | 27.21% | 39 | 26.35% |
-| Rare | ![Rare](https://zarctus.fr/lorcana/img/rarity/rarity_rare.svg) | 199 | 12.22% | 22 | 14.86% |
+| Commune | ![Commune](img/rarity/rarity_common.svg) | 889 | 54.61% | 74 | 50% |
+| Peu commune | ![Peu commune](img/rarity/rarity_uncommon.svg) | 443 | 27.21% | 39 | 26.35% |
+| Rare | ![Rare](img/rarity/rarity_rare.svg) | 199 | 12.22% | 22 | 14.86% |
 | Super rare |  | 73 | 4.48% | 9 | 6.08% |
-| Légendaire | ![Légendaire](https://zarctus.fr/lorcana/img/rarity/rarity_legendary.svg) | 24 | 1.47% | 3 | 2.03% |
-| Épique | ![Épique](https://zarctus.fr/lorcana/img/rarity/rarity_epic.png) | 0 | 0% | 0 | 0% |
-| Enchantée | ![Enchantée](https://zarctus.fr/lorcana/img/rarity/rarity_enchanted1.png) | 0 | 0% | 1 | 0.68% |
-| Iconique | ![Iconique](https://zarctus.fr/lorcana/img/rarity/rarity_iconic.png) | 0 | 0% | 0 | 0% |
+| Légendaire | ![Légendaire](img/rarity/rarity_legendary.svg) | 24 | 1.47% | 3 | 2.03% |
+| Épique | ![Épique](img/rarity/rarity_epic.png) | 0 | 0% | 0 | 0% |
+| Enchantée | ![Enchantée](img/rarity/rarity_enchanted1.png) | 0 | 0% | 1 | 0.68% |
+| Iconique | ![Iconique](img/rarity/rarity_iconic.png) | 0 | 0% | 0 | 0% |
 
 #### Set 8  |  164 boosters
 | Rarity | Icon | Normal | % Norm | Foil | % Foil |
 |--------|------|--------|--------|------|--------|
-| Commune | ![Commune](https://zarctus.fr/lorcana/img/rarity/rarity_common.svg) | 984 | 54.55% | 77 | 46.95% |
-| Peu commune | ![Peu commune](https://zarctus.fr/lorcana/img/rarity/rarity_uncommon.svg) | 492 | 27.27% | 44 | 26.83% |
-| Rare | ![Rare](https://zarctus.fr/lorcana/img/rarity/rarity_rare.svg) | 222 | 12.31% | 26 | 15.85% |
+| Commune | ![Commune](img/rarity/rarity_common.svg) | 984 | 54.55% | 77 | 46.95% |
+| Peu commune | ![Peu commune](img/rarity/rarity_uncommon.svg) | 492 | 27.27% | 44 | 26.83% |
+| Rare | ![Rare](img/rarity/rarity_rare.svg) | 222 | 12.31% | 26 | 15.85% |
 | Super rare |  | 77 | 4.27% | 7 | 4.27% |
-| Légendaire | ![Légendaire](https://zarctus.fr/lorcana/img/rarity/rarity_legendary.svg) | 29 | 1.61% | 7 | 4.27% |
-| Épique | ![Épique](https://zarctus.fr/lorcana/img/rarity/rarity_epic.png) | 0 | 0% | 0 | 0% |
-| Enchantée | ![Enchantée](https://zarctus.fr/lorcana/img/rarity/rarity_enchanted1.png) | 0 | 0% | 3 | 1.83% |
-| Iconique | ![Iconique](https://zarctus.fr/lorcana/img/rarity/rarity_iconic.png) | 0 | 0% | 0 | 0% |
+| Légendaire | ![Légendaire](img/rarity/rarity_legendary.svg) | 29 | 1.61% | 7 | 4.27% |
+| Épique | ![Épique](img/rarity/rarity_epic.png) | 0 | 0% | 0 | 0% |
+| Enchantée | ![Enchantée](img/rarity/rarity_enchanted1.png) | 0 | 0% | 3 | 1.83% |
+| Iconique | ![Iconique](img/rarity/rarity_iconic.png) | 0 | 0% | 0 | 0% |
 
 #### Set 9  |  298 boosters
 | Rarity | Icon | Normal | % Norm | Foil | % Foil |
 |--------|------|--------|--------|------|--------|
-| Commune | ![Commune](https://zarctus.fr/lorcana/img/rarity/rarity_common.svg) | 1788 | 54.55% | 143 | 47.99% |
-| Peu commune | ![Peu commune](https://zarctus.fr/lorcana/img/rarity/rarity_uncommon.svg) | 894 | 27.27% | 67 | 22.48% |
-| Rare | ![Rare](https://zarctus.fr/lorcana/img/rarity/rarity_rare.svg) | 409 | 12.48% | 42 | 14.09% |
+| Commune | ![Commune](img/rarity/rarity_common.svg) | 1788 | 54.55% | 143 | 47.99% |
+| Peu commune | ![Peu commune](img/rarity/rarity_uncommon.svg) | 894 | 27.27% | 67 | 22.48% |
+| Rare | ![Rare](img/rarity/rarity_rare.svg) | 409 | 12.48% | 42 | 14.09% |
 | Super rare |  | 138 | 4.21% | 19 | 6.38% |
-| Légendaire | ![Légendaire](https://zarctus.fr/lorcana/img/rarity/rarity_legendary.svg) | 49 | 1.49% | 7 | 2.35% |
-| Épique | ![Épique](https://zarctus.fr/lorcana/img/rarity/rarity_epic.png) | 0 | 0% | 19 | 6.38% |
-| Enchantée | ![Enchantée](https://zarctus.fr/lorcana/img/rarity/rarity_enchanted1.png) | 0 | 0% | 1 | 0.34% |
-| Iconique | ![Iconique](https://zarctus.fr/lorcana/img/rarity/rarity_iconic.png) | 0 | 0% | 0 | 0% |
+| Légendaire | ![Légendaire](img/rarity/rarity_legendary.svg) | 49 | 1.49% | 7 | 2.35% |
+| Épique | ![Épique](img/rarity/rarity_epic.png) | 0 | 0% | 19 | 6.38% |
+| Enchantée | ![Enchantée](img/rarity/rarity_enchanted1.png) | 0 | 0% | 1 | 0.34% |
+| Iconique | ![Iconique](img/rarity/rarity_iconic.png) | 0 | 0% | 0 | 0% |
 
 <!-- BOOSTER_STATS_END -->
+
 
 
 
