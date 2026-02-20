@@ -60,6 +60,7 @@
 
 
 
+
 <!-- BOOSTER_STATS_START -->
 ### 📊 Booster Opening Stats
 
@@ -67,12 +68,12 @@
 | Rarity | Icon | Normal | % Norm | Foil | % Foil |
 |--------|------|--------|--------|------|--------|
 | Commune | <img src="rarity/rarity_common.svg" alt="Commune" width="24" /> | 1247 | 54.5% | 107 | 51.44% |
+| Super rare | <img src="rarity/rarity_super_rare.svg" alt="Super rare" width="24" /> | 97 | 4.24% | 11 | 5.29% |
 | Peu commune | <img src="rarity/rarity_uncommon.svg" alt="Peu commune" width="24" /> | 622 | 27.19% | 55 | 26.44% |
 | Rare | <img src="rarity/rarity_rare.svg" alt="Rare" width="24" /> | 288 | 12.59% | 27 | 12.98% |
-| Super rare | <img src="rarity/rarity_super_rare.svg" alt="Super rare" width="24" /> | 97 | 4.24% | 11 | 5.29% |
 | Légendaire | <img src="rarity/rarity_legendary.svg" alt="Légendaire" width="24" /> | 34 | 1.49% | 5 | 2.4% |
-| Épique | <img src="rarity/rarity_epic.png" alt="Épique" width="24" /> | 0 | 0% | 0 | 0% |
 | Enchantée | <img src="rarity/rarity_enchanted1.png" alt="Enchantée" width="24" /> | 0 | 0% | 3 | 1.44% |
+| Épique | <img src="rarity/rarity_epic.png" alt="Épique" width="24" /> | 0 | 0% | 0 | 0% |
 | Iconique | <img src="rarity/rarity_iconic.png" alt="Iconique" width="24" /> | 0 | 0% | 0 | 0% |
 
 #### Set 10  |  182 boosters
@@ -82,8 +83,8 @@
 | Peu commune | <img src="rarity/rarity_uncommon.svg" alt="Peu commune" width="24" /> | 546 | 27.27% | 39 | 21.43% |
 | Rare | <img src="rarity/rarity_rare.svg" alt="Rare" width="24" /> | 248 | 12.39% | 26 | 14.29% |
 | Super rare | <img src="rarity/rarity_super_rare.svg" alt="Super rare" width="24" /> | 86 | 4.3% | 8 | 4.4% |
-| Légendaire | <img src="rarity/rarity_legendary.svg" alt="Légendaire" width="24" /> | 30 | 1.5% | 5 | 2.75% |
 | Épique | <img src="rarity/rarity_epic.png" alt="Épique" width="24" /> | 0 | 0% | 12 | 6.59% |
+| Légendaire | <img src="rarity/rarity_legendary.svg" alt="Légendaire" width="24" /> | 30 | 1.5% | 5 | 2.75% |
 | Enchantée | <img src="rarity/rarity_enchanted1.png" alt="Enchantée" width="24" /> | 0 | 0% | 2 | 1.1% |
 | Iconique | <img src="rarity/rarity_iconic.png" alt="Iconique" width="24" /> | 0 | 0% | 0 | 0% |
 
@@ -93,8 +94,8 @@
 | Commune | <img src="rarity/rarity_common.svg" alt="Commune" width="24" /> | 720 | 54.55% | 58 | 48.33% |
 | Peu commune | <img src="rarity/rarity_uncommon.svg" alt="Peu commune" width="24" /> | 360 | 27.27% | 28 | 23.33% |
 | Rare | <img src="rarity/rarity_rare.svg" alt="Rare" width="24" /> | 164 | 12.42% | 16 | 13.33% |
-| Super rare | <img src="rarity/rarity_super_rare.svg" alt="Super rare" width="24" /> | 56 | 4.24% | 7 | 5.83% |
 | Légendaire | <img src="rarity/rarity_legendary.svg" alt="Légendaire" width="24" /> | 20 | 1.52% | 3 | 2.5% |
+| Super rare | <img src="rarity/rarity_super_rare.svg" alt="Super rare" width="24" /> | 56 | 4.24% | 7 | 5.83% |
 | Épique | <img src="rarity/rarity_epic.png" alt="Épique" width="24" /> | 0 | 0% | 7 | 5.83% |
 | Enchantée | <img src="rarity/rarity_enchanted1.png" alt="Enchantée" width="24" /> | 0 | 0% | 1 | 0.83% |
 | Iconique | <img src="rarity/rarity_iconic.png" alt="Iconique" width="24" /> | 0 | 0% | 0 | 0% |
@@ -107,8 +108,8 @@
 | Rare | <img src="rarity/rarity_rare.svg" alt="Rare" width="24" /> | 177 | 12.67% | 19 | 14.96% |
 | Super rare | <img src="rarity/rarity_super_rare.svg" alt="Super rare" width="24" /> | 51 | 3.65% | 4 | 3.15% |
 | Légendaire | <img src="rarity/rarity_legendary.svg" alt="Légendaire" width="24" /> | 26 | 1.86% | 3 | 2.36% |
-| Épique | <img src="rarity/rarity_epic.png" alt="Épique" width="24" /> | 0 | 0% | 0 | 0% |
 | Enchantée | <img src="rarity/rarity_enchanted1.png" alt="Enchantée" width="24" /> | 0 | 0% | 2 | 1.57% |
+| Épique | <img src="rarity/rarity_epic.png" alt="Épique" width="24" /> | 0 | 0% | 0 | 0% |
 | Iconique | <img src="rarity/rarity_iconic.png" alt="Iconique" width="24" /> | 0 | 0% | 0 | 0% |
 
 #### Set 3  |  122 boosters
@@ -129,10 +130,10 @@
 | Commune | <img src="rarity/rarity_common.svg" alt="Commune" width="24" /> | 1343 | 54.5% | 160 | 71.43% |
 | Peu commune | <img src="rarity/rarity_uncommon.svg" alt="Peu commune" width="24" /> | 673 | 27.31% | 19 | 8.48% |
 | Rare | <img src="rarity/rarity_rare.svg" alt="Rare" width="24" /> | 301 | 12.22% | 30 | 13.39% |
-| Super rare | <img src="rarity/rarity_super_rare.svg" alt="Super rare" width="24" /> | 107 | 4.34% | 8 | 3.57% |
 | Légendaire | <img src="rarity/rarity_legendary.svg" alt="Légendaire" width="24" /> | 40 | 1.62% | 6 | 2.68% |
-| Épique | <img src="rarity/rarity_epic.png" alt="Épique" width="24" /> | 0 | 0% | 0 | 0% |
+| Super rare | <img src="rarity/rarity_super_rare.svg" alt="Super rare" width="24" /> | 107 | 4.34% | 8 | 3.57% |
 | Enchantée | <img src="rarity/rarity_enchanted1.png" alt="Enchantée" width="24" /> | 0 | 0% | 1 | 0.45% |
+| Épique | <img src="rarity/rarity_epic.png" alt="Épique" width="24" /> | 0 | 0% | 0 | 0% |
 | Iconique | <img src="rarity/rarity_iconic.png" alt="Iconique" width="24" /> | 0 | 0% | 0 | 0% |
 
 #### Set 5  |  178 boosters
@@ -141,10 +142,10 @@
 | Commune | <img src="rarity/rarity_common.svg" alt="Commune" width="24" /> | 1069 | 54.6% | 88 | 49.44% |
 | Peu commune | <img src="rarity/rarity_uncommon.svg" alt="Peu commune" width="24" /> | 532 | 27.17% | 45 | 25.28% |
 | Rare | <img src="rarity/rarity_rare.svg" alt="Rare" width="24" /> | 240 | 12.26% | 29 | 16.29% |
-| Super rare | <img src="rarity/rarity_super_rare.svg" alt="Super rare" width="24" /> | 88 | 4.49% | 8 | 4.49% |
 | Légendaire | <img src="rarity/rarity_legendary.svg" alt="Légendaire" width="24" /> | 29 | 1.48% | 6 | 3.37% |
-| Épique | <img src="rarity/rarity_epic.png" alt="Épique" width="24" /> | 0 | 0% | 0 | 0% |
+| Super rare | <img src="rarity/rarity_super_rare.svg" alt="Super rare" width="24" /> | 88 | 4.49% | 8 | 4.49% |
 | Enchantée | <img src="rarity/rarity_enchanted1.png" alt="Enchantée" width="24" /> | 0 | 0% | 2 | 1.12% |
+| Épique | <img src="rarity/rarity_epic.png" alt="Épique" width="24" /> | 0 | 0% | 0 | 0% |
 | Iconique | <img src="rarity/rarity_iconic.png" alt="Iconique" width="24" /> | 0 | 0% | 0 | 0% |
 
 #### Set 6  |  121 boosters
@@ -155,8 +156,8 @@
 | Rare | <img src="rarity/rarity_rare.svg" alt="Rare" width="24" /> | 164 | 12.32% | 15 | 12.4% |
 | Super rare | <img src="rarity/rarity_super_rare.svg" alt="Super rare" width="24" /> | 59 | 4.43% | 7 | 5.79% |
 | Légendaire | <img src="rarity/rarity_legendary.svg" alt="Légendaire" width="24" /> | 22 | 1.65% | 3 | 2.48% |
-| Épique | <img src="rarity/rarity_epic.png" alt="Épique" width="24" /> | 0 | 0% | 0 | 0% |
 | Enchantée | <img src="rarity/rarity_enchanted1.png" alt="Enchantée" width="24" /> | 0 | 0% | 1 | 0.83% |
+| Épique | <img src="rarity/rarity_epic.png" alt="Épique" width="24" /> | 0 | 0% | 0 | 0% |
 | Iconique | <img src="rarity/rarity_iconic.png" alt="Iconique" width="24" /> | 0 | 0% | 0 | 0% |
 
 #### Set 7  |  148 boosters
@@ -167,8 +168,8 @@
 | Rare | <img src="rarity/rarity_rare.svg" alt="Rare" width="24" /> | 199 | 12.22% | 22 | 14.86% |
 | Super rare | <img src="rarity/rarity_super_rare.svg" alt="Super rare" width="24" /> | 73 | 4.48% | 9 | 6.08% |
 | Légendaire | <img src="rarity/rarity_legendary.svg" alt="Légendaire" width="24" /> | 24 | 1.47% | 3 | 2.03% |
-| Épique | <img src="rarity/rarity_epic.png" alt="Épique" width="24" /> | 0 | 0% | 0 | 0% |
 | Enchantée | <img src="rarity/rarity_enchanted1.png" alt="Enchantée" width="24" /> | 0 | 0% | 1 | 0.68% |
+| Épique | <img src="rarity/rarity_epic.png" alt="Épique" width="24" /> | 0 | 0% | 0 | 0% |
 | Iconique | <img src="rarity/rarity_iconic.png" alt="Iconique" width="24" /> | 0 | 0% | 0 | 0% |
 
 #### Set 8  |  164 boosters
@@ -179,8 +180,8 @@
 | Rare | <img src="rarity/rarity_rare.svg" alt="Rare" width="24" /> | 222 | 12.31% | 26 | 15.85% |
 | Super rare | <img src="rarity/rarity_super_rare.svg" alt="Super rare" width="24" /> | 77 | 4.27% | 7 | 4.27% |
 | Légendaire | <img src="rarity/rarity_legendary.svg" alt="Légendaire" width="24" /> | 29 | 1.61% | 7 | 4.27% |
-| Épique | <img src="rarity/rarity_epic.png" alt="Épique" width="24" /> | 0 | 0% | 0 | 0% |
 | Enchantée | <img src="rarity/rarity_enchanted1.png" alt="Enchantée" width="24" /> | 0 | 0% | 3 | 1.83% |
+| Épique | <img src="rarity/rarity_epic.png" alt="Épique" width="24" /> | 0 | 0% | 0 | 0% |
 | Iconique | <img src="rarity/rarity_iconic.png" alt="Iconique" width="24" /> | 0 | 0% | 0 | 0% |
 
 #### Set 9  |  298 boosters
@@ -190,12 +191,13 @@
 | Peu commune | <img src="rarity/rarity_uncommon.svg" alt="Peu commune" width="24" /> | 894 | 27.27% | 67 | 22.48% |
 | Rare | <img src="rarity/rarity_rare.svg" alt="Rare" width="24" /> | 409 | 12.48% | 42 | 14.09% |
 | Super rare | <img src="rarity/rarity_super_rare.svg" alt="Super rare" width="24" /> | 138 | 4.21% | 19 | 6.38% |
-| Légendaire | <img src="rarity/rarity_legendary.svg" alt="Légendaire" width="24" /> | 49 | 1.49% | 7 | 2.35% |
 | Épique | <img src="rarity/rarity_epic.png" alt="Épique" width="24" /> | 0 | 0% | 19 | 6.38% |
+| Légendaire | <img src="rarity/rarity_legendary.svg" alt="Légendaire" width="24" /> | 49 | 1.49% | 7 | 2.35% |
 | Enchantée | <img src="rarity/rarity_enchanted1.png" alt="Enchantée" width="24" /> | 0 | 0% | 1 | 0.34% |
 | Iconique | <img src="rarity/rarity_iconic.png" alt="Iconique" width="24" /> | 0 | 0% | 0 | 0% |
 
 <!-- BOOSTER_STATS_END -->
+
 
 
 
