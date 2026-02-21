@@ -11,7 +11,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 10;Cromeyer;Commune;Ambre;10;2
 11;Powhatan;"Peu commune";Ambre;6;2
 12;Sarabi;Commune;Ambre;12;1
-13;"Grand-Mère Feuillage";"Peu commune";Ambre;9;1
+13;"Grand-Mère Feuillage";"Peu commune";Ambre;6;1
 14;"Cobra Bubbles";Rare;Ambre;4;0
 15;"John Smith";"Peu commune";Ambre;8;0
 16;Timon;Rare;Ambre;2;1
@@ -19,10 +19,10 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 18;Pikly;"Peu commune";Ambre;5;2
 19;"Jumba Jookiba";Rare;Ambre;6;0
 20;Nani;"Peu commune";Ambre;9;0
-21;Reuben;Rare;Ambre;4;0
+21;Reuben;Rare;Ambre;0;0
 22;Pocahontas;Légendaire;Ambre;1;0
 23;Simba;"Peu commune";Ambre;8;0
-24;Bambi;"Super rare";Ambre;3;2
+24;Bambi;"Super rare";Ambre;0;2
 25;Angel;"Peu commune";Ambre;8;0
 26;"Veuve Tartine";Rare;Ambre;3;0
 27;Percy;Commune;Ambre;11;0
