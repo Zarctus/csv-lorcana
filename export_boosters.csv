@@ -1,4 +1,17 @@
 saison,number,nom,encre,rareté,is_foil
+Fabuleux,10,Mulan,Ambre,Commune,N
+Fabuleux,39,Belle,Améthyste,Commune,N
+Fabuleux,115,Gaston,Rubis,Commune,N
+Fabuleux,80,"Mickey Mouse",Émeraude,Commune,N
+Fabuleux,189,"La Fée Clochette",Acier,Commune,N
+Fabuleux,163,"Développe ton Cerveau",Saphir,Commune,N
+Fabuleux,6,Aurore,Ambre,"Peu commune",N
+Fabuleux,62,"Effort désespéré",Améthyste,"Peu commune",N
+Fabuleux,133,"Un roi incontesté",Rubis,"Peu commune",N
+Fabuleux,44,Ursula,Améthyste,"Super rare",N
+Fabuleux,188,"La Fée Clochette",Acier,"Super rare",N
+Fabuleux,7,"La Reine",Ambre,Commune,Y
+
 Givresort,6,Nakoma,Ambre,Commune,N
 Givresort,63,"Manier l'épée",Améthyste,Commune,N
 Givresort,114,Agnarr,Rubis,Commune,N
@@ -2585,17 +2598,4 @@ Fabuleux,157,"Judy Hopps",Saphir,"Peu commune",N
 Fabuleux,160,Alice,Saphir,"Super rare",N
 Fabuleux,5,Minnie,Ambre,"Super rare",N
 Fabuleux,122,"Gardes cartes",Rubis,"Peu commune",Y
-
-"L’ile d' Archazia",148,"Hors service",Rubis,Commune,N
-"Vol au Palais – Quête des Illumineurs",18,Volt,Ambre,Commune,N
-"L’ile d' Archazia",99,Berlioz,Émeraude,Commune,N
-"L’ile d' Archazia",47,"Le gardien du Trésor",Améthyste,Commune,N
-"L’ile d' Archazia",156,Vaiana,Saphir,Commune,N
-"Vol au Palais – Quête des Illumineurs",193,Mulan,Acier,Commune,N
-"L’ile d' Archazia",33,Blanche-Neige,Ambre,"Peu commune",N
-"L’ile d' Archazia",163,Heihei,Saphir,"Peu commune",N
-"L’ile d' Archazia",19,Pascal,Ambre,"Peu commune",N
-"L’ile d' Archazia",49,Iago,Améthyste,Rare,N
-"L’ile d' Archazia",140,"Lyle Tiberius Rourke",Rubis,Rare,N
-"L’ile d' Archazia",63,Kronk,Améthyste,Rare,Y
 
