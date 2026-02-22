@@ -1,4 +1,17 @@
 saison,number,nom,encre,rareté,is_foil
+Givresort,34,Zootopie,Ambre,Commune,N
+Givresort,40,Morgana,Améthyste,Commune,N
+Givresort,113,Iduna,Rubis,Commune,N
+Givresort,70,Stitch,Émeraude,Commune,N
+Givresort,181,McCorne,Acier,Commune,N
+Givresort,151,"Winnie l'ourson",Saphir,Commune,N
+Givresort,39,Flit,Améthyste,"Peu commune",N
+Givresort,165,"Chute !",Saphir,"Peu commune",N
+Givresort,111,Liquidator,Rubis,"Peu commune",N
+Givresort,135,"Cimetière du Noël futur",Rubis,Rare,N
+Givresort,162,"Visite des Noëls passés",Saphir,Rare,N
+Givresort,140,"Mickey Mouse",Saphir,Commune,Y
+
 Givresort,8,Pocahontas,Ambre,Commune,N
 Givresort,67,"Pot de miel",Améthyste,Commune,N
 Givresort,87,Rox,Émeraude,Commune,N
@@ -2585,17 +2598,4 @@ Fabuleux,203,"Miroir de la Bête",Acier,Commune,Y
 "L’ile d' Archazia",138,Maurice,Rubis,Rare,N
 "L’ile d' Archazia",28,Lady,Ambre,"Super rare",N
 "L’ile d' Archazia",164,Kida,Saphir,Rare,Y
-
-"L’ile d' Archazia",159,Belle,Saphir,Commune,N
-"L’ile d' Archazia",128,"Un frère Stabbington",Rubis,Commune,N
-"Vol au Palais – Quête des Illumineurs",18,Volt,Ambre,Commune,N
-"L’ile d' Archazia",87,Baymax,Émeraude,Commune,N
-"L’ile d' Archazia",61,Peine,Améthyste,Commune,N
-"L’ile d' Archazia",194,Orville,Acier,Commune,N
-"Vol au Palais – Quête des Illumineurs",179,"Spirale de Saphir",Saphir,"Peu commune",N
-"L’ile d' Archazia",24,"Le Prince",Ambre,"Peu commune",N
-"L’ile d' Archazia",106,Fidget,Émeraude,"Peu commune",N
-"L’ile d' Archazia",161,Dawson,Saphir,Rare,N
-"L’ile d' Archazia",94,"Le Chapelier Fou",Émeraude,Rare,N
-"Vol au Palais – Quête des Illumineurs",48,Honeymaren,Améthyste,Commune,Y
 
