@@ -1,4 +1,43 @@
 saison,number,nom,encre,rareté,is_foil
+Givresort,8,Pocahontas,Ambre,Commune,N
+Givresort,67,"Pot de miel",Améthyste,Commune,N
+Givresort,87,Rox,Émeraude,Commune,N
+Givresort,106,"Toros Bulba",Rubis,Commune,N
+Givresort,175,"Li Shang",Acier,Commune,N
+Givresort,151,"Winnie l'ourson",Saphir,Commune,N
+Givresort,65,"Collier de la mère",Améthyste,"Peu commune",N
+Givresort,3,Doudou,Ambre,"Peu commune",N
+Givresort,165,"Chute !",Saphir,"Peu commune",N
+Givresort,122,Olaf,Rubis,Rare,N
+Givresort,64,"L’air du vent",Améthyste,"Super rare",N
+Givresort,80,Twist,Émeraude,Commune,Y
+
+Givresort,30,"Maman te protégera",Ambre,Commune,N
+Givresort,54,"Vaches de l’espace",Améthyste,Commune,N
+Givresort,109,Maui,Rubis,Commune,N
+Givresort,81,Aladdin,Émeraude,Commune,N
+Givresort,181,McCorne,Acier,Commune,N
+Givresort,164,Distraction,Saphir,Commune,N
+Givresort,52,Anna,Améthyste,"Peu commune",N
+Givresort,3,Doudou,Ambre,"Peu commune",N
+Givresort,170,"Piège caché",Saphir,"Peu commune",N
+Givresort,116,"Sinister Mask",Rubis,Rare,N
+Givresort,45,Bourriquet,Améthyste,Rare,N
+Givresort,148,"Grand-mère Tala",Saphir,Rare,Y
+
+Givresort,6,Nakoma,Ambre,Commune,N
+Givresort,40,Morgana,Améthyste,Commune,N
+Givresort,78,Dinky,Émeraude,Commune,N
+Givresort,117,Hercule,Rubis,Commune,N
+Givresort,200,"Presque invincible",Acier,Commune,N
+Givresort,139,Porcinet,Saphir,Commune,N
+Givresort,25,Angel,Ambre,"Peu commune",N
+Givresort,204,"Tour de Myster Mask",Acier,"Peu commune",N
+Givresort,153,"Calamity Fresque",Saphir,"Peu commune",N
+Givresort,127,"La revanche de Nani",Rubis,"Super rare",N
+Givresort,32,"Ohana signifie famille",Ambre,Légendaire,N
+Givresort,4,Pumbaa,Ambre,Commune,Y
+
 Givresort,12,Sarabi,Ambre,Commune,N
 Givresort,43,"Myster Mask",Améthyste,Commune,N
 Givresort,120,Dingo,Rubis,Commune,N
@@ -2559,43 +2598,4 @@ Fabuleux,203,"Miroir de la Bête",Acier,Commune,Y
 "L’ile d' Archazia",161,Dawson,Saphir,Rare,N
 "L’ile d' Archazia",94,"Le Chapelier Fou",Émeraude,Rare,N
 "Vol au Palais – Quête des Illumineurs",48,Honeymaren,Améthyste,Commune,Y
-
-"L'Ascension des Floodborn",122,Raya,Rubis,Commune,N
-"L'Ascension des Floodborn",80,L'Enchanteresse,Émeraude,Commune,N
-"L'Ascension des Floodborn",169,"Glace à l'eau",Saphir,Commune,N
-"L'Ascension des Floodborn",30,"Peignons les roses en rouge",Ambre,Commune,N
-"L'Ascension des Floodborn",50,Merlin,Améthyste,Commune,N
-"L'Ascension des Floodborn",176,Cendrillon,Acier,Commune,N
-"L'Ascension des Floodborn",145,"Cruella d'Enfer",Saphir,"Peu commune",N
-"L'Ascension des Floodborn",61,Yzma,Améthyste,"Peu commune",N
-"L'Ascension des Floodborn",120,"La Reine de Cœur",Rubis,"Peu commune",N
-"L'Ascension des Floodborn",72,Belle,Émeraude,Légendaire,N
-"L'Ascension des Floodborn",137,Alice,Saphir,Légendaire,N
-"L'Ascension des Floodborn",38,"Dr. Facilier",Améthyste,Commune,Y
-
-"Premier Chapitre",58,"LA FÉE CLOCHETTE",Améthyste,Commune,N
-"Premier Chapitre",91,"PETER PAN",Émeraude,Commune,N
-Prélude,154,"MICKEY MOUSE",Saphir,Commune,N
-"Premier Chapitre",119,"PETER PAN",Rubis,Commune,N
-"Premier Chapitre",15,"MONSIEUR MOUCHE",Ambre,Commune,N
-"Premier Chapitre",196,DÉCHIQUETÉ,Acier,Commune,N
-Prélude,160,TRITON,Saphir,"Peu commune",N
-"Premier Chapitre",31,"TU M'AS OUBLIÉ",Ambre,"Peu commune",N
-"Premier Chapitre",184,LILO,Acier,"Peu commune",N
-"Premier Chapitre",152,MAURICE,Saphir,Rare,N
-"Premier Chapitre",39,"DR. FACILIER",Améthyste,Rare,N
-"Premier Chapitre",60,YZMA,Améthyste,Commune,Y
-
-"Lueurs dans les Profondeurs",72,Kaa,Émeraude,Commune,N
-"Lueurs dans les Profondeurs",13,Shanti,Ambre,Commune,N
-"Lueurs dans les Profondeurs",161,"Visions de Tirelire",Saphir,Commune,N
-"Lueurs dans les Profondeurs",63,"Attaque en piqué",Améthyste,Commune,N
-"Lueurs dans les Profondeurs",196,"Rassembler les indices",Acier,Commune,N
-"Lueurs dans les Profondeurs",114,Bronx,Rubis,Commune,N
-"Lueurs dans les Profondeurs",164,"Frousse soudaine",Saphir,"Peu commune",N
-"Lueurs dans les Profondeurs",136,"Sleepy Hollow",Rubis,"Peu commune",N
-"Lueurs dans les Profondeurs",53,Nana,Améthyste,"Peu commune",N
-"Lueurs dans les Profondeurs",192,"La Bonne Fée",Acier,"Super rare",N
-"Lueurs dans les Profondeurs",124,"Madame de Trémaine",Rubis,"Super rare",N
-"Lueurs dans les Profondeurs",207,"Le Cavalier attaque !",Ambre,Épique,Y
 
