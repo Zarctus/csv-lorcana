@@ -21,7 +21,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 16;Porcinet;"Super rare";Ambre;0;0
 17;Pluto;Rare;Ambre;5;0
 18;Pluto;"Peu commune";Ambre;3;0
-19;Pongo;"Super rare";Ambre;1;0
+19;Pongo;"Super rare";Ambre;0;0
 20;"La Reine de Cœur";"Peu commune";Ambre;6;0
 21;Rolly;"Peu commune";Ambre;7;1
 22;"La Fée Clochette";"Peu commune";Ambre;6;0
@@ -32,7 +32,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 27;"Réparation de fortune";Commune;Ambre;13;0
 28;"Il en faut peu pour être heureux";Rare;Ambre;0;0
 29;"Eau de pluie purifiante";Commune;Ambre;9;0
-30;"Cœur de l'Atlantide";Rare;Ambre;4;0
+30;"Cœur de l'Atlantide";Rare;Ambre;3;0
 31;"Clé de Turbo";"Peu commune";Ambre;11;1
 32;"Le Pays Imaginaire";Commune;Ambre;9;0
 33;"La Terre des Lions";Rare;Ambre;0;0
@@ -40,7 +40,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 35;Alice;"Super rare";Améthyste;1;0
 36;"Adeptes de Chernabog";"Peu commune";Améthyste;0;0
 37;Diablo;Commune;Améthyste;9;0
-38;Génie;"Super rare";Améthyste;2;0
+38;Génie;"Super rare";Améthyste;1;0
 39;Hydros;"Peu commune";Améthyste;8;0
 40;Iago;Commune;Améthyste;13;1
 41;Jafar;"Peu commune";Améthyste;8;1
@@ -51,7 +51,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 46;"Balais magiques";Commune;Améthyste;11;0
 47;"Tapis volant";Commune;Améthyste;9;2
 48;"Miss Tick";Commune;Améthyste;7;1
-49;"Miss Tick";"Super rare";Améthyste;3;0
+49;"Miss Tick";"Super rare";Améthyste;2;0
 50;"Miss Tick";"Peu commune";Améthyste;6;0
 51;Maléfique;Légendaire;Améthyste;0;0
 52;"Mama Odie";"Peu commune";Améthyste;5;0
@@ -91,7 +91,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 86;"Triste Sire";Commune;Émeraude;12;0
 87;Bobby;Commune;Émeraude;9;0
 88;"Monsieur Starkey";"Peu commune";Émeraude;7;0
-89;Stitch;Rare;Émeraude;4;1
+89;Stitch;Rare;Émeraude;3;0
 90;Ursula;"Peu commune";Émeraude;0;0
 91;Ursula;Légendaire;Émeraude;0;0
 92;Turbo;"Peu commune";Émeraude;7;0
@@ -103,7 +103,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 98;"Arc de Robin";"Peu commune";Émeraude;7;0
 99;"Fiole de lumière d'étoile";Rare;Émeraude;5;0
 100;"Le Manoir d'Enfer";Commune;Émeraude;9;0
-101;"Croc du Dragon";Rare;Émeraude;1;0
+101;"Croc du Dragon";Rare;Émeraude;0;0
 102;"Palais de Kuzco";"Peu commune";Émeraude;9;0
 103;Ariel;"Super rare";Rubis;1;0
 104;"Billy Bones";Commune;Rubis;8;0
@@ -123,7 +123,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 118;Niquedouille;Commune;Rubis;11;1
 119;"Peter Pan";Commune;Rubis;11;0
 120;"Peter Pan";Rare;Rubis;5;0
-121;"Prince Eric";"Super rare";Rubis;3;0
+121;"Prince Eric";"Super rare";Rubis;2;0
 122;Scroop;"Peu commune";Rubis;6;0
 123;Simba;Rare;Rubis;1;0
 124;"La Plume";"Peu commune";Rubis;9;0
@@ -176,7 +176,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 171;Tui;Commune;Acier;11;0
 172;Bourriquet;Commune;Acier;8;0
 173;"Gustave le Géant";Rare;Acier;4;0
-174;Hadès;Rare;Acier;2;0
+174;Hadès;Rare;Acier;1;0
 175;"Helga Sinclair";Commune;Acier;11;1
 176;"John Silver";Rare;Acier;1;0
 177;Kida;Commune;Acier;11;0

@@ -245,7 +245,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 107;Dingo;Rare;Rubis;0;0
 108;Hercule;Commune;Rubis;19;1
 110;Khan;"Peu commune";Rubis;11;0
-113;Lumière;Rare;Rubis;4;0
+113;Lumière;Rare;Rubis;3;0
 115;Mulan;"Peu commune";Rubis;12;1
 116;Mulan;Commune;Rubis;15;1
 117;Namaari;Rare;Rubis;5;0
@@ -253,8 +253,8 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 132;"Médaillons Lestés";"Peu commune";Rubis;11;0
 134;"Sphère de Vitalité";Commune;Rubis;18;2
 185;"Balais Magiques";Commune;Acier;13;6
-186;"Balais Magiques";"Super rare";Acier;5;1
-193;Raya;"Super rare";Acier;2;0
+186;"Balais Magiques";"Super rare";Acier;4;0
+193;Raya;"Super rare";Acier;1;0
 197;"Il me reste un espoir";Rare;Acier;8;0
 198;"Tous avec moi !";"Peu commune";Acier;10;0
 223;Porcinet;"Super rare";Ambre;0;0
