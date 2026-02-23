@@ -11,7 +11,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 10;Grincheux;Commune;Ambre;11;2
 11;Joyeux;Commune;Ambre;13;0
 12;"Roi Louie";"Super rare";Ambre;1;0
-13;"Mickey Mouse";"Super rare";Ambre;3;0
+13;"Mickey Mouse";"Super rare";Ambre;2;0
 14;Mufasa;Légendaire;Ambre;0;0
 15;Mulan;Commune;Ambre;8;0
 16;Mulan;Rare;Ambre;6;0
@@ -53,7 +53,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 52;Merlin;Rare;Améthyste;0;0
 53;Merlin;Rare;Améthyste;2;1
 54;Merlin;Commune;Améthyste;15;2
-55;"Ombre de Peter Pan";"Super rare";Améthyste;1;0
+55;"Ombre de Peter Pan";"Super rare";Améthyste;0;0
 56;Pinocchio;Rare;Améthyste;0;0
 57;Pinocchio;"Peu commune";Améthyste;4;0
 58;Pinocchio;"Peu commune";Améthyste;8;0
@@ -74,10 +74,10 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 73;Bucky;"Peu commune";Émeraude;2;0
 74;"Chat du Cheshire";"Peu commune";Émeraude;7;0
 75;"Chat du Cheshire";"Super rare";Émeraude;1;0
-76;Daisy;"Peu commune";Émeraude;4;0
+76;Daisy;"Peu commune";Émeraude;3;0
 77;Donald;"Peu commune";Émeraude;9;0
 78;Donald;Commune;Émeraude;11;2
-79;"Dr. Facilier";"Super rare";Émeraude;4;0
+79;"Dr. Facilier";"Super rare";Émeraude;3;0
 80;L'Enchanteresse;Commune;Émeraude;6;0
 81;"Flynn Rider";Commune;Émeraude;14;1
 82;"Flynn Rider";Rare;Émeraude;1;0
@@ -135,7 +135,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 134;"Clochette du dîner";Rare;Rubis;1;0
 135;"Dague de Peter Pan";Commune;Rubis;10;0
 136;"L'épée dans l'enclume";"Peu commune";Rubis;10;0
-137;Alice;Légendaire;Saphir;1;0
+137;Alice;Légendaire;Saphir;0;0
 138;Basil;"Super rare";Saphir;3;0
 139;Basil;Commune;Saphir;9;0
 140;Basil;Commune;Saphir;15;0
@@ -165,7 +165,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 164;"Projectile de fortune";"Peu commune";Saphir;11;0
 165;"Rien à cacher";Commune;Saphir;3;0
 166;"Arbalète de Croc du Dragon";"Peu commune";Saphir;11;0
-167;"Marmite de Gumbo";Commune;Saphir;12;1
+167;"Marmite de Gumbo";Commune;Saphir;11;0
 168;"Atelier de Maurice";Rare;Saphir;1;0
 169;"Glace à l'eau";Commune;Saphir;2;0
 170;"Boîte de sardines";"Peu commune";Saphir;8;0
