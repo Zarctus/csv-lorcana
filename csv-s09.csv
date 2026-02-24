@@ -96,7 +96,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 94;"Stand Out";"Peu commune";Émeraude;18;1
 95;"Cruelle Diablesse";Commune;Émeraude;25;1
 96;Improviser;Commune;Émeraude;25;0
-97;"Sous l'océan";Rare;Émeraude;4;0
+97;"Sous l'océan";Rare;Émeraude;2;0
 98;"Concocter la Potion";Commune;Émeraude;28;2
 99;"N'écoute que Moi";"Peu commune";Émeraude;15;0
 100;"Canne à pêche familiale";Rare;Émeraude;11;0
@@ -172,7 +172,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 170;Motunui;"Peu commune";Saphir;17;3
 171;Philoctète;Rare;Acier;8;0
 172;"Mickey Mouse";"Super rare";Acier;4;0
-173;Nala;Rare;Acier;2;0
+173;Nala;Rare;Acier;1;0
 174;Lilo;"Super rare";Acier;2;0
 175;Scar;Légendaire;Acier;0;0
 176;"Petit Jean";"Peu commune";Acier;19;1
@@ -194,7 +194,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 192;"John Silver";Rare;Acier;10;0
 193;"Li Shang";"Peu commune";Acier;15;2
 194;"Prince Eric";Commune;Acier;24;3
-195;Ariel;Rare;Acier;7;0
+195;Ariel;Rare;Acier;6;0
 196;Ariel;Commune;Acier;26;0
 197;"Il me reste un espoir";Rare;Acier;7;0
 198;"Fracasser !";"Peu commune";Acier;15;1
