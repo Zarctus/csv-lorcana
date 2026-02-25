@@ -145,10 +145,10 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 144;"Fergus Mac Picsou";Commune;Saphir;15;2
 145;"Li Shang";Commune;Saphir;17;0
 146;Génie;Commune;Saphir;14;1
-147;Eurêka;"Peu commune";Saphir;9;1
+147;Eurêka;"Peu commune";Saphir;7;1
 148;"Ichabod Crane";Rare;Saphir;7;0
 149;Jasmine;"Peu commune";Saphir;8;0
-150;"Judy Hopps";Rare;Saphir;6;1
+150;"Judy Hopps";Rare;Saphir;3;1
 151;"Le Sultan";Rare;Saphir;5;0
 152;"Ichabod Crane";"Peu commune";Saphir;12;0
 153;Scar;"Super rare";Saphir;4;0
@@ -195,7 +195,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 194;"Le Cavalier sans tête";Commune;Acier;16;1
 195;"Quelle poursuite infernale";Commune;Acier;15;2
 196;"Rassembler les indices";Commune;Acier;16;1
-197;"Foudroyant d'un éclair";"Peu commune";Acier;6;0
+197;"Foudroyant d'un éclair";"Peu commune";Acier;3;0
 198;"Un complot se prépare";"Peu commune";Acier;10;1
 199;"La Reine robot";"Peu commune";Acier;10;0
 200;"L'épée d'Hercule";Rare;Acier;5;0
