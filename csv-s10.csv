@@ -195,7 +195,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 194;"Le Cavalier sans tête";Commune;Acier;16;1
 195;"Quelle poursuite infernale";Commune;Acier;15;2
 196;"Rassembler les indices";Commune;Acier;16;1
-197;"Foudroyant d'un éclair";"Peu commune";Acier;3;0
+197;"Foudroyant d'un éclair";"Peu commune";Acier;0;0
 198;"Un complot se prépare";"Peu commune";Acier;10;1
 199;"La Reine robot";"Peu commune";Acier;10;0
 200;"L'épée d'Hercule";Rare;Acier;5;0

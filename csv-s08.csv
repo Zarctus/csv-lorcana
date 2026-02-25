@@ -160,7 +160,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 159;"Go Go Tomago";Commune;Saphir;12;3
 160;"Madame De Garderobe";Commune;Saphir;15;1
 161;"Madame Samovar";Commune;Saphir;15;0
-162;Jasmine;Commune;Saphir;8;0
+162;Jasmine;Commune;Saphir;5;0
 163;"Soeur de Bobby";Commune;Saphir;14;0
 164;"Adélaïde De Bonnefamille";Commune;Saphir;14;2
 165;Nani;Rare;Saphir;4;0
@@ -169,7 +169,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 168;Arthur;"Peu commune";"Saphir, Acier";6;0
 169;Bernard;"Peu commune";"Saphir, Acier";9;0
 170;Aladdin;Rare;"Saphir, Acier";3;0
-171;Jasmine;"Super rare";"Saphir, Acier";2;0
+171;Jasmine;"Super rare";"Saphir, Acier";0;0
 172;Roquefort;"Peu commune";Saphir;11;0
 173;"Jumba Jookiba";"Peu commune";Saphir;10;2
 174;Geppetto;Rare;Saphir;4;0
