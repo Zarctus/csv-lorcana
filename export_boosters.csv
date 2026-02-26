@@ -1,4 +1,56 @@
 saison,number,nom,encre,rareté,is_foil
+Givresort,9,David,Ambre,Commune,N
+Givresort,35,Nala,Améthyste,Commune,N
+Givresort,72,Minnie,Émeraude,Commune,N
+Givresort,136,"Château de la Bête",Rubis,Commune,N
+Givresort,173,"Prince Naveen",Acier,Commune,N
+Givresort,166,"Fumée bleue",Saphir,Commune,N
+Givresort,82,Mushu,Émeraude,"Peu commune",N
+Givresort,108,Mulan,Rubis,"Peu commune",N
+Givresort,189,Gigi,Acier,"Peu commune",N
+Givresort,171,Raiponce,Acier,Rare,N
+Givresort,130,"Le prix de la liberté",Rubis,Rare,N
+Givresort,78,Dinky,Émeraude,Commune,Y
+
+Givresort,1,Thomas,Ambre,Commune,N
+Givresort,62,"Viens te battre !",Améthyste,Commune,N
+Givresort,106,"Toros Bulba",Rubis,Commune,N
+Givresort,102,"Réserve de chasse",Émeraude,Commune,N
+Givresort,184,Nani,Acier,Commune,N
+Givresort,151,"Winnie l'ourson",Saphir,Commune,N
+Givresort,98,"Fort de neige",Émeraude,"Peu commune",N
+Givresort,132,"Tombe solitaire",Rubis,"Peu commune",N
+Givresort,204,"Tour de Myster Mask",Acier,"Peu commune",N
+Givresort,159,"Mickey Mouse",Saphir,Rare,N
+Givresort,22,Pocahontas,Ambre,Légendaire,N
+Givresort,105,Donald,Rubis,Commune,Y
+
+Givresort,30,"Maman te protégera",Ambre,Commune,N
+Givresort,67,"Pot de miel",Améthyste,Commune,N
+Givresort,73,Yao,Émeraude,Commune,N
+Givresort,115,"Sinister Mask",Rubis,Commune,N
+Givresort,181,McCorne,Acier,Commune,N
+Givresort,151,"Winnie l'ourson",Saphir,Commune,N
+Givresort,39,Flit,Améthyste,"Peu commune",N
+Givresort,144,Daisy,Saphir,"Peu commune",N
+Givresort,134,"Maison de comptage de Scrooge",Rubis,"Peu commune",N
+Givresort,53,Guimauve,Améthyste,Rare,N
+Givresort,100,"Rétro-fusil à évolution",Émeraude,Rare,N
+Givresort,176,Gantu,Acier,"Peu commune",Y
+
+Givresort,9,David,Ambre,Commune,N
+Givresort,67,"Pot de miel",Améthyste,Commune,N
+Givresort,136,"Château de la Bête",Rubis,Commune,N
+Givresort,76,Piqueur,Émeraude,Commune,N
+Givresort,177,"Flagada Jones",Acier,Commune,N
+Givresort,160,"Balthazar Picsou",Saphir,Commune,N
+Givresort,98,"Fort de neige",Émeraude,"Peu commune",N
+Givresort,65,"Collier de la mère",Améthyste,"Peu commune",N
+Givresort,119,Blizzard,Rubis,"Peu commune",N
+Givresort,182,"Duke Weaselton",Acier,Rare,N
+Givresort,79,Sigmund,Émeraude,Rare,N
+Givresort,122,Olaf,Rubis,Rare,Y
+
 Givresort,2,Lilo,Ambre,Commune,N
 Givresort,58,Heihei,Améthyste,Commune,N
 Givresort,94,"Crois-moi j'ai vu pire",Émeraude,Commune,N
@@ -2546,56 +2598,4 @@ Fabuleux,9,Stitch,Ambre,Commune,Y
 "Lueurs dans les Profondeurs",122,"Elisa Maza",Rubis,Rare,N
 "Lueurs dans les Profondeurs",19,Mowgli,Ambre,"Super rare",N
 "Lueurs dans les Profondeurs",198,"Un complot se prépare",Acier,"Peu commune",Y
-
-"La Mer Azurite",68,"Navire des Fées",Améthyste,Commune,N
-"La Mer Azurite",129,"Montrer la voie",Rubis,Commune,N
-"Vol au Palais – Quête des Illumineurs",137,B.E.N.,Saphir,Commune,N
-"La Mer Azurite",94,"Paré à l'abordage !",Émeraude,Commune,N
-"La Mer Azurite",34,"Île des Rêves Bleus",Ambre,Commune,N
-"La Mer Azurite",173,"Jim Hawkins",Acier,Commune,N
-"La Mer Azurite",4,Grignotin,Ambre,"Peu commune",N
-"La Mer Azurite",90,Bellwether,Émeraude,"Peu commune",N
-"La Mer Azurite",67,"Poussière de fée",Améthyste,"Peu commune",N
-"La Mer Azurite",162,"We Could Be Immortals",Saphir,Rare,N
-"La Mer Azurite",32,"Bateau pirate de Winnie",Ambre,Rare,N
-"La Mer Azurite",193,Jafar,Acier,"Super rare",Y
-
-"Le retour d’Ursula",101,"La crique cachée",Émeraude,Commune,N
-Prélude,150,Olaf,Saphir,Commune,N
-"Le retour d’Ursula",19,"Mirabel Madrigal",Ambre,Commune,N
-"Le retour d’Ursula",130,Bagarre,Rubis,Commune,N
-"Le retour d’Ursula",60,"Pauvres âmes en perdition",Améthyste,Commune,N
-"Le retour d’Ursula",173,Argès,Acier,Commune,N
-"Le retour d’Ursula",96,"Ruse d'Ursula",Émeraude,"Peu commune",N
-"Le retour d’Ursula",171,Aladdin,Acier,"Peu commune",N
-"Le retour d’Ursula",109,Hercule,Rubis,"Peu commune",N
-"Le retour d’Ursula",18,"Mirabel Madrigal",Ambre,"Super rare",N
-"Le retour d’Ursula",139,Ariel,Saphir,"Super rare",N
-"Le retour d’Ursula",204,Thèbes,Acier,Commune,Y
-
-"La Mer Azurite",41,Juju,Améthyste,Commune,N
-"La Mer Azurite",133,"Pièce d’or",Rubis,Commune,N
-"La Mer Azurite",163,"Voguer sur la mer Azurite",Saphir,Commune,N
-"La Mer Azurite",76,Putois,Émeraude,Commune,N
-"La Mer Azurite",24,"M. Litwak",Ambre,Commune,N
-"La Mer Azurite",181,"John Silver",Acier,Commune,N
-"La Mer Azurite",90,Bellwether,Émeraude,"Peu commune",N
-"La Mer Azurite",185,"Billy Bones",Acier,"Peu commune",N
-"La Mer Azurite",67,"Poussière de fée",Améthyste,"Peu commune",N
-"La Mer Azurite",64,"En quête de la moitié de Couronne",Améthyste,Rare,N
-"La Mer Azurite",141,Ruzor,Saphir,Rare,N
-"La Mer Azurite",178,Kohut,Acier,Commune,Y
-
-Fabuleux,27,"Guéris les blessures",Ambre,Commune,N
-Fabuleux,50,Tic-Tac,Améthyste,Commune,N
-Fabuleux,79,Mégara,Émeraude,Commune,N
-Fabuleux,112,"Max Dingo",Rubis,Commune,N
-Fabuleux,185,"Mickey Mouse",Acier,Commune,N
-Fabuleux,165,"Je Vole",Saphir,Commune,N
-Fabuleux,57,"Mama Odie",Améthyste,"Peu commune",N
-Fabuleux,78,"Bobby Zimmeruski",Émeraude,"Peu commune",N
-Fabuleux,139,Fifi,Saphir,"Peu commune",N
-Fabuleux,117,Powerline,Rubis,Rare,N
-Fabuleux,44,Ursula,Améthyste,"Super rare",N
-Fabuleux,203,"Miroir de la Bête",Acier,Commune,Y
 
