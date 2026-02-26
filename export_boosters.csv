@@ -1,4 +1,17 @@
 saison,number,nom,encre,rareté,is_foil
+Givresort,2,Lilo,Ambre,Commune,N
+Givresort,58,Heihei,Améthyste,Commune,N
+Givresort,94,"Crois-moi j'ai vu pire",Émeraude,Commune,N
+Givresort,128,"Plus puissant que les ouragans",Rubis,Commune,N
+Givresort,177,"Flagada Jones",Acier,Commune,N
+Givresort,160,"Balthazar Picsou",Saphir,Commune,N
+Givresort,91,"Mickey Mouse",Émeraude,"Peu commune",N
+Givresort,46,Meeko,Améthyste,"Peu commune",N
+Givresort,134,"Maison de comptage de Scrooge",Rubis,"Peu commune",N
+Givresort,47,Morgana,Améthyste,Rare,N
+Givresort,7,Stitch,Ambre,Rare,N
+Givresort,98,"Fort de neige",Émeraude,"Peu commune",Y
+
 Givresort,34,Zootopie,Ambre,Commune,N
 Givresort,40,Morgana,Améthyste,Commune,N
 Givresort,113,Iduna,Rubis,Commune,N
@@ -2585,17 +2598,4 @@ Fabuleux,139,Fifi,Saphir,"Peu commune",N
 Fabuleux,117,Powerline,Rubis,Rare,N
 Fabuleux,44,Ursula,Améthyste,"Super rare",N
 Fabuleux,203,"Miroir de la Bête",Acier,Commune,Y
-
-"L’ile d' Archazia",180,"Chargeur de Baymax",Saphir,Commune,N
-"L’ile d' Archazia",130,"Big Ben",Rubis,Commune,N
-"L’ile d' Archazia",8,Suzy,Ambre,Commune,N
-"L’ile d' Archazia",116,"Réveille-toi, Alice !",Émeraude,Commune,N
-"L’ile d' Archazia",58,"TE KĀ",Améthyste,Commune,N
-"L’ile d' Archazia",189,Razoul,Acier,Commune,N
-"L’ile d' Archazia",12,"Wendy Darling",Ambre,"Peu commune",N
-"L’ile d' Archazia",77,Kashekim,Améthyste,"Peu commune",N
-"L’ile d' Archazia",134,Vaiana,Rubis,"Peu commune",N
-"L’ile d' Archazia",138,Maurice,Rubis,Rare,N
-"L’ile d' Archazia",28,Lady,Ambre,"Super rare",N
-"L’ile d' Archazia",164,Kida,Saphir,Rare,Y
 
