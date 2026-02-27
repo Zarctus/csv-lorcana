@@ -1,4 +1,17 @@
 saison,number,nom,encre,rareté,is_foil
+Givresort,5,Tiana,Ambre,Commune,N
+Givresort,63,"Manier l'épée",Améthyste,Commune,N
+Givresort,102,"Réserve de chasse",Émeraude,Commune,N
+Givresort,109,Maui,Rubis,Commune,N
+Givresort,181,McCorne,Acier,Commune,N
+Givresort,142,Sina,Saphir,Commune,N
+Givresort,98,"Fort de neige",Émeraude,"Peu commune",N
+Givresort,107,Rouky,Rubis,"Peu commune",N
+Givresort,196,"Garde le feu millénaire",Acier,"Peu commune",N
+Givresort,96,"Geler la Plante",Émeraude,Rare,N
+Givresort,61,"Je voudrais un bonhomme de neige",Améthyste,Rare,N
+Givresort,149,"Poucinette Colvert",Saphir,"Peu commune",Y
+
 Givresort,9,David,Ambre,Commune,N
 Givresort,35,Nala,Améthyste,Commune,N
 Givresort,72,Minnie,Émeraude,Commune,N
@@ -2585,17 +2598,4 @@ Fabuleux,9,Stitch,Ambre,Commune,Y
 "Lueurs dans les Profondeurs",103,Diablo,Rubis,Rare,N
 "Lueurs dans les Profondeurs",1,Baloo,Ambre,Rare,N
 "Lueurs dans les Profondeurs",51,Coldstone,Améthyste,Rare,Y
-
-"Lueurs dans les Profondeurs",83,"Flagada Jones",Émeraude,Commune,N
-"Lueurs dans les Profondeurs",11,"Mamie Baba",Ambre,Commune,N
-"Lueurs dans les Profondeurs",145,"Li Shang",Saphir,Commune,N
-"Lueurs dans les Profondeurs",46,Mushu,Améthyste,Commune,N
-"Lueurs dans les Profondeurs",181,Minnie,Acier,Commune,N
-"Lueurs dans les Profondeurs",132,"Histoire de fantôme",Rubis,Commune,N
-"Lueurs dans les Profondeurs",80,"Émilie Frappe",Émeraude,"Peu commune",N
-"Lueurs dans les Profondeurs",169,Encre-jet,Saphir,"Peu commune",N
-"Lueurs dans les Profondeurs",31,"Le journal de Zaza",Ambre,"Peu commune",N
-"Lueurs dans les Profondeurs",122,"Elisa Maza",Rubis,Rare,N
-"Lueurs dans les Profondeurs",19,Mowgli,Ambre,"Super rare",N
-"Lueurs dans les Profondeurs",198,"Un complot se prépare",Acier,"Peu commune",Y
 
