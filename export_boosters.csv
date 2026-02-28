@@ -1,4 +1,43 @@
 saison,number,nom,encre,rareté,is_foil
+Givresort,34,Zootopie,Ambre,Commune,N
+Givresort,54,"Vaches de l’espace",Améthyste,Commune,N
+Givresort,87,Rox,Émeraude,Commune,N
+Givresort,114,Agnarr,Rubis,Commune,N
+Givresort,178,Donald,Acier,Commune,N
+Givresort,143,"Cuicui Bourbifoot",Saphir,Commune,N
+Givresort,71,"Big Mama",Émeraude,"Peu commune",N
+Givresort,41,"Coco Lapin",Améthyste,"Peu commune",N
+Givresort,111,Liquidator,Rubis,"Peu commune",N
+Givresort,79,Sigmund,Émeraude,Rare,N
+Givresort,133,"Luth de Kristoff",Rubis,Rare,N
+Givresort,117,Hercule,Rubis,Commune,Y
+
+Givresort,10,Cromeyer,Ambre,Commune,N
+Givresort,38,"Fraîcheneige von Frimas",Améthyste,Commune,N
+Givresort,129,"Vers notre champ de bataille",Rubis,Commune,N
+Givresort,95,"Bataille de boules de neige",Émeraude,Commune,N
+Givresort,178,Donald,Acier,Commune,N
+Givresort,143,"Cuicui Bourbifoot",Saphir,Commune,N
+Givresort,91,"Mickey Mouse",Émeraude,"Peu commune",N
+Givresort,41,"Coco Lapin",Améthyste,"Peu commune",N
+Givresort,107,Rouky,Rubis,"Peu commune",N
+Givresort,133,"Luth de Kristoff",Rubis,Rare,N
+Givresort,60,Sven,Améthyste,"Super rare",N
+Givresort,214,Hercule,Rubis,Épique,Y
+
+Givresort,4,Pumbaa,Ambre,Commune,N
+Givresort,62,"Viens te battre !",Améthyste,Commune,N
+Givresort,95,"Bataille de boules de neige",Émeraude,Commune,N
+Givresort,129,"Vers notre champ de bataille",Rubis,Commune,N
+Givresort,201,"Jumelles de théâtre infra-rose",Acier,Commune,N
+Givresort,143,"Cuicui Bourbifoot",Saphir,Commune,N
+Givresort,13,"Grand-Mère Feuillage",Ambre,"Peu commune",N
+Givresort,74,Chien-Po,Émeraude,"Peu commune",N
+Givresort,194,"Judy Hopps",Acier,"Peu commune",N
+Givresort,163,"Libérée, Délivrée",Saphir,Rare,N
+Givresort,92,Rox,Émeraude,Légendaire,N
+Givresort,164,Distraction,Saphir,Commune,Y
+
 Givresort,5,Tiana,Ambre,Commune,N
 Givresort,59,Pua,Améthyste,Commune,N
 Givresort,115,"Sinister Mask",Rubis,Commune,N
@@ -2559,43 +2598,4 @@ Fabuleux,221,"Mickey Mouse",Acier,Épique,Y
 "Lueurs dans les Profondeurs",102,"Plaines de l’Agonie Blanche",Émeraude,Rare,N
 "Lueurs dans les Profondeurs",156,"Judy Hopps",Saphir,"Super rare",N
 "Lueurs dans les Profondeurs",30,"Page retrouvée",Ambre,"Peu commune",Y
-
-Fabuleux,68,"Casa Madrigal",Améthyste,Commune,N
-Fabuleux,27,"Guéris les blessures",Ambre,Commune,N
-Fabuleux,81,L'Enchanteresse,Émeraude,Commune,N
-Fabuleux,125,Mulan,Rubis,Commune,N
-Fabuleux,183,Bourriquet,Acier,Commune,N
-Fabuleux,155,Jasmine,Saphir,Commune,N
-Fabuleux,101,"Contrat signé",Émeraude,"Peu commune",N
-Fabuleux,19,Cendrillon,Ambre,"Peu commune",N
-Fabuleux,139,Fifi,Saphir,"Peu commune",N
-Fabuleux,36,Rafiki,Améthyste,Rare,N
-Fabuleux,5,Minnie,Ambre,"Super rare",N
-Fabuleux,96,Improviser,Émeraude,Commune,Y
-
-"Lueurs dans les Profondeurs",69,Baloo,Émeraude,Commune,N
-"Lueurs dans les Profondeurs",105,"Peter Pan",Rubis,Commune,N
-"Lueurs dans les Profondeurs",38,"Le Seigneur des Ténèbres",Améthyste,Commune,N
-"Lueurs dans les Profondeurs",138,Tirelire,Saphir,Commune,N
-"Lueurs dans les Profondeurs",172,Donald,Acier,Commune,N
-"Lueurs dans les Profondeurs",5,Higgins,Ambre,Commune,N
-"Lueurs dans les Profondeurs",68,"Le grand Illuminarium",Améthyste,"Peu commune",N
-"Lueurs dans les Profondeurs",26,"Rechercher des indices",Ambre,"Peu commune",N
-"Lueurs dans les Profondeurs",203,Zootopie,Acier,"Peu commune",N
-"Lueurs dans les Profondeurs",25,Gazelle,Ambre,Rare,N
-"Lueurs dans les Profondeurs",171,"Robin des Bois",Acier,Rare,N
-"Lueurs dans les Profondeurs",125,"Le Cavalier sans tête",Rubis,Légendaire,Y
-
-Fabuleux,63,"Je suis coincé !",Améthyste,Commune,N
-Fabuleux,21,Pluto,Ambre,Commune,N
-Fabuleux,96,Improviser,Émeraude,Commune,N
-Fabuleux,128,"Sergent Tibs",Rubis,Commune,N
-Fabuleux,200,"Allumez les Mêches !",Acier,Commune,N
-Fabuleux,165,"Je Vole",Saphir,Commune,N
-Fabuleux,55,Olaf,Améthyste,"Peu commune",N
-Fabuleux,91,Turbo,Émeraude,"Peu commune",N
-Fabuleux,134,"Médaillons Lestés",Rubis,"Peu commune",N
-Fabuleux,87,Shenzi,Émeraude,"Super rare",N
-Fabuleux,26,"L'histoire de la vie",Ambre,Légendaire,N
-Fabuleux,125,Mulan,Rubis,Commune,Y
 
