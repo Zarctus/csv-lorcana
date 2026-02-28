@@ -10,6 +10,11 @@
 
 
 **Quelques liens aléatoires / Some random links**
+- *[Lorcana - L'Ascension des Floodborn - 3x Hypnotiser 98/204 - Commune - ID=314](https://www.vinted.fr/items/6095555160-lorcana-lascension-des-floodborn-3x-hypnotiser-98204-commune-id314)*
+- *[Lorcana - Les Terres d'Encres - Helga Sinclair 74/204 - Super rare - ID=510](https://www.vinted.fr/items/6243890590-lorcana-les-terres-dencres-helga-sinclair-74204-super-rare-id510)*
+- *[Lorcana - L'ile d' Archazia - Manœuvres Magiques 80/204 - Peu commune - ID=1513](https://www.vinted.fr/items/7277017529-lorcana-lile-d-archazia-manoeuvres-magiques-80204-peu-commune-id1513)*
+- *[Lorcana - Le retour d'Ursula - 3x Pégase 120/204 - Commune - ID=811](https://www.vinted.fr/items/6145976838-lorcana-le-retour-dursula-3x-pegase-120204-commune-id811)*
+- *[Lorcana - Lueurs dans les Profondeurs - Le Cavalier Sans Tête 125/204 - Légendaire Foil - ID=2314](https://www.vinted.fr/items/7832414899-lorcana-lueurs-dans-les-profondeurs-le-cavalier-sans-tete-125204-legendaire-foil-id2314)*
 
 
 **🔎 Recherches Lorcana par rareté / Search Lorcana by rarity**
@@ -39,35 +44,6 @@
 
 **🔎 Recherches Lorcana Foils uniquement / Search Lorcana Foils only**
 - *[#Lynadry_FOIL](https://www.vinted.fr/catalog?search_text=%23Lynadry_FOIL)*
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 <!-- BOOSTER_STATS_START -->
@@ -206,32 +182,3 @@
 | Iconique | <img src="rarity/rarity_iconic.png" alt="Iconique" width="24" /> | 0 | 0% | 0 | 0% |
 
 <!-- BOOSTER_STATS_END -->
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
