@@ -1,4 +1,17 @@
 saison,number,nom,encre,rareté,is_foil
+Givresort,6,Nakoma,Ambre,Commune,N
+Givresort,37,Tigrou,Améthyste,Commune,N
+Givresort,113,Iduna,Rubis,Commune,N
+Givresort,70,Stitch,Émeraude,Commune,N
+Givresort,173,"Prince Naveen",Acier,Commune,N
+Givresort,141,Minnie,Saphir,Commune,N
+Givresort,97,"L’éducation ou l’élimination",Émeraude,"Peu commune",N
+Givresort,119,Blizzard,Rubis,"Peu commune",N
+Givresort,196,"Garde le feu millénaire",Acier,"Peu commune",N
+Givresort,84,Rouky,Émeraude,Rare,N
+Givresort,121,Dingo,Rubis,Rare,N
+Givresort,102,"Réserve de chasse",Émeraude,Commune,Y
+
 Givresort,34,Zootopie,Ambre,Commune,N
 Givresort,54,"Vaches de l’espace",Améthyste,Commune,N
 Givresort,87,Rox,Émeraude,Commune,N
@@ -2585,17 +2598,4 @@ Fabuleux,149,"La Reine",Saphir,"Peu commune",N
 Fabuleux,162,"Robin des Bois",Saphir,Rare,N
 Fabuleux,3,Stitch,Ambre,"Super rare",N
 Fabuleux,221,"Mickey Mouse",Acier,Épique,Y
-
-"Lueurs dans les Profondeurs",44,"Violette Campyloptère",Améthyste,Commune,N
-"Lueurs dans les Profondeurs",180,Hudson,Acier,Commune,N
-"Lueurs dans les Profondeurs",132,"Histoire de fantôme",Rubis,Commune,N
-"Lueurs dans les Profondeurs",75,Vladimir,Émeraude,Commune,N
-"Lueurs dans les Profondeurs",22,"Della Duck",Ambre,Commune,N
-"Lueurs dans les Profondeurs",162,"Piste prometteuse",Saphir,Commune,N
-"Lueurs dans les Profondeurs",79,Kaa,Émeraude,"Peu commune",N
-"Lueurs dans les Profondeurs",157,Pluto,Saphir,"Peu commune",N
-"Lueurs dans les Profondeurs",113,"La Bête",Rubis,"Peu commune",N
-"Lueurs dans les Profondeurs",102,"Plaines de l’Agonie Blanche",Émeraude,Rare,N
-"Lueurs dans les Profondeurs",156,"Judy Hopps",Saphir,"Super rare",N
-"Lueurs dans les Profondeurs",30,"Page retrouvée",Ambre,"Peu commune",Y
 

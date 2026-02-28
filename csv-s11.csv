@@ -4,7 +4,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 3;Doudou;"Peu commune";Ambre;10;1
 4;Pumbaa;Commune;Ambre;11;1
 5;Tiana;Commune;Ambre;13;0
-6;Nakoma;Commune;Ambre;14;1
+6;Nakoma;Commune;Ambre;15;1
 7;Stitch;Rare;Ambre;2;0
 8;Pocahontas;Commune;Ambre;10;0
 9;David;Commune;Ambre;13;2
@@ -35,7 +35,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 34;Zootopie;Commune;Ambre;13;0
 35;Nala;Commune;Améthyste;12;0
 36;Alice;"Peu commune";Améthyste;9;0
-37;Tigrou;Commune;Améthyste;12;2
+37;Tigrou;Commune;Améthyste;13;2
 38;"Fraîcheneige von Frimas";Commune;Améthyste;10;0
 39;Flit;"Peu commune";Améthyste;10;0
 40;Morgana;Commune;Améthyste;13;1
@@ -68,7 +68,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 67;"Pot de miel";Commune;Améthyste;15;1
 68;"La Plante gelée";"Peu commune";Améthyste;10;0
 69;Mulan;"Super rare";Émeraude;1;0
-70;Stitch;Commune;Émeraude;13;0
+70;Stitch;Commune;Émeraude;14;0
 71;"Big Mama";"Peu commune";Émeraude;7;1
 72;Minnie;Commune;Émeraude;13;1
 73;Yao;Commune;Émeraude;12;2
@@ -82,7 +82,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 81;Aladdin;Commune;Émeraude;13;0
 82;Mushu;"Peu commune";Émeraude;8;1
 83;Dingo;"Super rare";Émeraude;4;1
-84;Rouky;Rare;Émeraude;3;0
+84;Rouky;Rare;Émeraude;4;0
 85;Rouky;Commune;Émeraude;13;0
 86;Vixy;"Peu commune";Émeraude;9;1
 87;Rox;Commune;Émeraude;14;0
@@ -95,12 +95,12 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 94;"Crois-moi j'ai vu pire";Commune;Émeraude;11;0
 95;"Bataille de boules de neige";Commune;Émeraude;13;0
 96;"Geler la Plante";Rare;Émeraude;5;0
-97;"L’éducation ou l’élimination";"Peu commune";Émeraude;9;0
+97;"L’éducation ou l’élimination";"Peu commune";Émeraude;10;0
 98;"Fort de neige";"Peu commune";Émeraude;10;2
 99;"Bâton bakora de Rafiki";"Peu commune";Émeraude;8;0
 100;"Rétro-fusil à évolution";Rare;Émeraude;3;0
 101;Bélier;Rare;Émeraude;5;0
-102;"Réserve de chasse";Commune;Émeraude;13;1
+102;"Réserve de chasse";Commune;Émeraude;13;2
 103;"Ralph la Casse";Légendaire;Rubis;1;0
 104;"Balthazar Picsou";"Peu commune";Rubis;6;0
 105;Donald;Commune;Rubis;12;2
@@ -111,15 +111,15 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 110;"Fa Zhou";Commune;Rubis;14;2
 111;Liquidator;"Peu commune";Rubis;11;0
 112;"Elisa Maza";Rare;Rubis;3;0
-113;Iduna;Commune;Rubis;13;0
+113;Iduna;Commune;Rubis;14;0
 114;Agnarr;Commune;Rubis;14;0
 115;"Sinister Mask";Commune;Rubis;12;1
 116;"Sinister Mask";Rare;Rubis;5;0
 117;Hercule;Commune;Rubis;11;1
 118;"La Bête";"Super rare";Rubis;3;1
-119;Blizzard;"Peu commune";Rubis;8;0
+119;Blizzard;"Peu commune";Rubis;9;0
 120;Dingo;Commune;Rubis;9;1
-121;Dingo;Rare;Rubis;3;0
+121;Dingo;Rare;Rubis;4;0
 122;Olaf;Rare;Rubis;5;2
 123;Elsa;Légendaire;Rubis;0;0
 124;"Balthazar Picsou";"Super rare";Rubis;5;0
@@ -139,7 +139,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 138;"Maman Gourou";Commune;Saphir;13;2
 139;Porcinet;Commune;Saphir;13;2
 140;"Mickey Mouse";Commune;Saphir;11;1
-141;Minnie;Commune;Saphir;12;0
+141;Minnie;Commune;Saphir;13;0
 142;Sina;Commune;Saphir;11;0
 143;"Cuicui Bourbifoot";Commune;Saphir;14;1
 144;Daisy;"Peu commune";Saphir;10;0
@@ -171,7 +171,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 170;"Piège caché";"Peu commune";Saphir;9;2
 171;Raiponce;Rare;Acier;2;0
 172;"Flagada Jones";"Peu commune";Acier;9;2
-173;"Prince Naveen";Commune;Acier;12;2
+173;"Prince Naveen";Commune;Acier;13;2
 174;"Myster Mask";Commune;Acier;12;0
 175;"Li Shang";Commune;Acier;13;2
 176;Gantu;"Peu commune";Acier;8;1
@@ -194,7 +194,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 193;"John Smith";"Super rare";Acier;4;1
 194;"Judy Hopps";"Peu commune";Acier;7;0
 195;Lilo;"Super rare";Acier;5;1
-196;"Garde le feu millénaire";"Peu commune";Acier;9;1
+196;"Garde le feu millénaire";"Peu commune";Acier;10;1
 197;"La terreur qui corrige les erreurs";Commune;Acier;11;1
 198;"Cette chanson craint un mask";Rare;Acier;3;0
 199;Givresort;"Peu commune";Acier;8;1
