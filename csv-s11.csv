@@ -150,7 +150,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 149;"Poucinette Colvert";"Peu commune";Saphir;8;2
 150;"Myster Mask";"Super rare";Saphir;2;0
 151;"Winnie l'ourson";Commune;Saphir;14;2
-152;"Balthazar Picsou";Légendaire;Saphir;1;0
+152;"Balthazar Picsou";Légendaire;Saphir;0;0
 153;"Calamity Fresque";"Peu commune";Saphir;9;1
 154;Pat;Rare;Saphir;4;2
 155;Vaiana;Légendaire;Saphir;0;0
@@ -190,7 +190,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 189;Gigi;"Peu commune";Acier;9;1
 190;"Présidente du Grand Conseil";Rare;Acier;6;0
 191;Angel;Légendaire;Acier;0;0
-192;"Myster Mask";Légendaire;Acier;1;0
+192;"Myster Mask";Légendaire;Acier;0;0
 193;"John Smith";"Super rare";Acier;4;1
 194;"Judy Hopps";"Peu commune";Acier;7;0
 195;Lilo;"Super rare";Acier;5;1
