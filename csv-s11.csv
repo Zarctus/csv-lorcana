@@ -19,7 +19,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 18;Pikly;"Peu commune";Ambre;5;2
 19;"Jumba Jookiba";Rare;Ambre;6;0
 20;Nani;"Peu commune";Ambre;7;0
-21;Reuben;Rare;Ambre;0;0
+21;Reuben;Rare;Ambre;0;1
 22;Pocahontas;Légendaire;Ambre;2;0
 23;Simba;"Peu commune";Ambre;10;0
 24;Bambi;"Super rare";Ambre;0;1
@@ -117,7 +117,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 116;"Sinister Mask";Rare;Rubis;5;0
 117;Hercule;Commune;Rubis;11;1
 118;"La Bête";"Super rare";Rubis;3;1
-119;Blizzard;"Peu commune";Rubis;9;0
+119;Blizzard;"Peu commune";Rubis;9;1
 120;Dingo;Commune;Rubis;9;1
 121;Dingo;Rare;Rubis;4;0
 122;Olaf;Rare;Rubis;5;2
