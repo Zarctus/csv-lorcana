@@ -30,7 +30,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 29;"Akood et Emuti";Rare;Ambre;1;0
 30;"Maman te protégera";Commune;Ambre;12;0
 31;"La sagesse du saule";"Peu commune";Ambre;8;0
-32;"Ohana signifie famille";Légendaire;Ambre;1;0
+32;"Ohana signifie famille";Légendaire;Ambre;0;0
 33;"Boussole de John Smith";Rare;Ambre;4;0
 34;Zootopie;Commune;Ambre;13;0
 35;Nala;Commune;Améthyste;12;0
@@ -204,7 +204,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 203;"Unité de confinement";Rare;Acier;3;0
 204;"Tour de Myster Mask";"Peu commune";Acier;7;0
 205;Tiana;Épique;Ambre;0;0
-206;"Grand-Mère Feuillage";Épique;Ambre;0;1
+206;"Grand-Mère Feuillage";Épique;Ambre;0;0
 207;Stitch;Épique;Ambre;0;0
 208;Tigrou;Épique;Améthyste;0;0
 209;Anna;Épique;Améthyste;0;0
@@ -217,7 +217,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 216;Dingo;Épique;Rubis;0;0
 217;"Winnie l'ourson";Épique;Saphir;0;1
 218;"Jiminy Cricket";Épique;Saphir;0;0
-219;"Mickey Mouse";Épique;Saphir;0;1
+219;"Mickey Mouse";Épique;Saphir;0;0
 220;Donald;Épique;Acier;0;0
 221;"Judy Hopps";Épique;Acier;0;1
 222;Raiponce;Épique;Acier;0;0
