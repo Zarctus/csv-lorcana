@@ -10,11 +10,6 @@
 
 
 **Quelques liens aléatoires / Some random links**
-- *[Lorcana - Givresort - 3x Lilo 195/204 - Super rare - ID=2658](https://www.vinted.fr/items/8201819390-lorcana-givresort-3x-lilo-195204-super-rare-id2658)*
-- *[Lorcana - Lueurs dans les Profondeurs - Dingo 205/204 - Épique Foil - ID=2394](https://www.vinted.fr/items/7612442909-lorcana-lueurs-dans-les-profondeurs-dingo-205204-epique-foil-id2394)*
-- *[Lorcana - Le retour d'Ursula - 2x Contrat Signé 99/204 - Peu commune - ID=790](https://www.vinted.fr/items/6604763497-lorcana-le-retour-dursula-2x-contrat-signe-99204-peu-commune-id790)*
-- *[Lorcana - Fabuleux - 2x La Reine 1/204 - Rare - ID=1937](https://www.vinted.fr/items/7845326553-lorcana-fabuleux-2x-la-reine-1204-rare-id1937)*
-- *[Lorcana - Ciel Scintillant - 3x Scar 93/204 - Rare - ID=1049](https://www.vinted.fr/items/7583650646-lorcana-ciel-scintillant-3x-scar-93204-rare-id1049)*
 
 
 **🔎 Recherches Lorcana par rareté / Search Lorcana by rarity**
@@ -44,35 +39,6 @@
 
 **🔎 Recherches Lorcana Foils uniquement / Search Lorcana Foils only**
 - *[#Lynadry_FOIL](https://www.vinted.fr/catalog?search_text=%23Lynadry_FOIL)*
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 <!-- BOOSTER_STATS_START -->
@@ -211,32 +177,3 @@
 | Iconique | <img src="rarity/rarity_iconic.png" alt="Iconique" width="24" /> | 0 | 0% | 0 | 0% |
 
 <!-- BOOSTER_STATS_END -->
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
