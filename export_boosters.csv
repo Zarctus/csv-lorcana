@@ -1,4 +1,17 @@
 saison,number,nom,encre,rareté,is_foil
+Givresort,2,Lilo,Ambre,Commune,N
+Givresort,58,Heihei,Améthyste,Commune,N
+Givresort,76,Piqueur,Émeraude,Commune,N
+Givresort,128,"Plus puissant que les ouragans",Rubis,Commune,N
+Givresort,178,Donald,Acier,Commune,N
+Givresort,139,Porcinet,Saphir,Commune,N
+Givresort,68,"La Plante gelée",Améthyste,"Peu commune",N
+Givresort,153,"Calamity Fresque",Saphir,"Peu commune",N
+Givresort,119,Blizzard,Rubis,"Peu commune",N
+Givresort,126,"Willie le géant",Rubis,Rare,N
+Givresort,49,Génie,Améthyste,Rare,N
+Givresort,197,"La terreur qui corrige les erreurs",Acier,Commune,Y
+
 Givresort,30,"Maman te protégera",Ambre,Commune,N
 Givresort,62,"Viens te battre !",Améthyste,Commune,N
 Givresort,117,Hercule,Rubis,Commune,N
@@ -2585,17 +2598,4 @@ Fabuleux,82,Virana,Émeraude,Commune,Y
 "Lueurs dans les Profondeurs",24,Dingo,Ambre,"Super rare",N
 "Lueurs dans les Profondeurs",154,Daisy,Saphir,Légendaire,N
 "Lueurs dans les Profondeurs",182,"Le Héron noir",Acier,"Peu commune",Y
-
-Fabuleux,67,Rose-Lanterne,Améthyste,Commune,N
-Fabuleux,16,Pluto,Ambre,Commune,N
-Fabuleux,80,"Mickey Mouse",Émeraude,Commune,N
-Fabuleux,116,Vaiana,Rubis,Commune,N
-Fabuleux,185,"Mickey Mouse",Acier,Commune,N
-Fabuleux,144,Mufasa,Saphir,Commune,N
-Fabuleux,6,Aurore,Ambre,"Peu commune",N
-Fabuleux,198,"Fracasser !",Acier,"Peu commune",N
-Fabuleux,164,"Quatre douzaines d'œufs",Saphir,"Peu commune",N
-Fabuleux,100,"Canne à pêche familiale",Émeraude,Rare,N
-Fabuleux,138,Riri,Saphir,Rare,N
-Fabuleux,170,Motunui,Saphir,"Peu commune",Y
 

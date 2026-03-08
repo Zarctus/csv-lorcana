@@ -48,6 +48,7 @@
 
 
 
+
 <!-- BOOSTER_STATS_START -->
 ### 📊 Booster Opening Stats
 
@@ -75,15 +76,15 @@
 | Enchantée | <img src="rarity/rarity_enchanted1.png" alt="Enchantée" width="24" /> | 0 | 0% | 2 | 1.1% |
 | Iconique | <img src="rarity/rarity_iconic.png" alt="Iconique" width="24" /> | 0 | 0% | 0 | 0% |
 
-#### Set 11  |  163 boosters
+#### Set 11  |  164 boosters
 | Rarity | Icon | Normal | % Norm | Foil | % Foil |
 |--------|------|--------|--------|------|--------|
-| Commune | <img src="rarity/rarity_common.svg" alt="Commune" width="24" /> | 978 | 100% | 76 | 46.63% |
-| Peu commune | <img src="rarity/rarity_uncommon.svg" alt="Peu commune" width="24" /> | 489 | 100% | 38 | 23.31% |
-| Rare | <img src="rarity/rarity_rare.svg" alt="Rare" width="24" /> | 224 | 68.71% | 23 | 14.11% |
-| Légendaire | <img src="rarity/rarity_legendary.svg" alt="Légendaire" width="24" /> | 28 | 8.59% | 4 | 2.45% |
-| Super rare | <img src="rarity/rarity_super_rare.svg" alt="Super rare" width="24" /> | 74 | 22.7% | 10 | 6.13% |
-| Épique | <img src="rarity/rarity_epic.png" alt="Épique" width="24" /> | 0 | 0% | 10 | 6.13% |
+| Commune | <img src="rarity/rarity_common.svg" alt="Commune" width="24" /> | 984 | 100% | 77 | 46.95% |
+| Peu commune | <img src="rarity/rarity_uncommon.svg" alt="Peu commune" width="24" /> | 492 | 100% | 38 | 23.17% |
+| Rare | <img src="rarity/rarity_rare.svg" alt="Rare" width="24" /> | 226 | 68.9% | 23 | 14.02% |
+| Légendaire | <img src="rarity/rarity_legendary.svg" alt="Légendaire" width="24" /> | 28 | 8.54% | 4 | 2.44% |
+| Super rare | <img src="rarity/rarity_super_rare.svg" alt="Super rare" width="24" /> | 74 | 22.56% | 10 | 6.1% |
+| Épique | <img src="rarity/rarity_epic.png" alt="Épique" width="24" /> | 0 | 0% | 10 | 6.1% |
 | Enchantée | <img src="rarity/rarity_enchanted1.png" alt="Enchantée" width="24" /> | 0 | 0% | 1 | 0.61% |
 | Iconique | <img src="rarity/rarity_iconic.png" alt="Iconique" width="24" /> | 0 | 0% | 1 | 0.61% |
 
@@ -184,6 +185,7 @@
 | Iconique | <img src="rarity/rarity_iconic.png" alt="Iconique" width="24" /> | 0 | 0% | 0 | 0% |
 
 <!-- BOOSTER_STATS_END -->
+
 
 
 
