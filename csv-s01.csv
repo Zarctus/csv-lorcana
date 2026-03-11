@@ -20,7 +20,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 19;SÉBASTIEN;Commune;Ambre;25;2
 20;SIMBA;Commune;Ambre;19;1
 21;STITCH;Légendaire;Ambre;0;0
-22;STITCH;Commune;Ambre;23;3
+22;STITCH;Commune;Ambre;23;2
 23;STITCH;"Super rare";Ambre;3;0
 24;TIMON;Commune;Ambre;24;1
 25;"C'EST LA FÊTE";"Peu commune";Ambre;12;0
@@ -70,7 +70,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 69;Aladdin;Commune;Émeraude;29;2
 70;"LA BÊTE";Légendaire;Émeraude;0;0
 71;"CHAT DU CHESHIRE";"Peu commune";Émeraude;11;1
-72;"CRUELLA D'ENFER";Rare;Émeraude;4;1
+72;"CRUELLA D'ENFER";Rare;Émeraude;4;0
 73;"LE DUC DE WESELTON";Commune;Émeraude;29;0
 74;"FLYNN RIDER";"Peu commune";Émeraude;10;0
 75;GÉNIE;"Super rare";Émeraude;4;1

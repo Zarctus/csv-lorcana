@@ -1,6 +1,6 @@
 card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 1;Thomas;Commune;Ambre;15;0
-2;Lilo;Commune;Ambre;11;3
+2;Lilo;Commune;Ambre;11;2
 3;Doudou;"Peu commune";Ambre;10;1
 4;Pumbaa;Commune;Ambre;13;1
 5;Tiana;Commune;Ambre;13;0
@@ -11,7 +11,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 10;Cromeyer;Commune;Ambre;14;3
 11;Powhatan;"Peu commune";Ambre;6;2
 12;Sarabi;Commune;Ambre;13;1
-13;"Grand-Mère Feuillage";"Peu commune";Ambre;8;1
+13;"Grand-Mère Feuillage";"Peu commune";Ambre;8;0
 14;"Cobra Bubbles";Rare;Ambre;6;0
 15;"John Smith";"Peu commune";Ambre;10;0
 16;Timon;Rare;Ambre;3;2
@@ -116,8 +116,8 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 115;"Sinister Mask";Commune;Rubis;14;1
 116;"Sinister Mask";Rare;Rubis;5;0
 117;Hercule;Commune;Rubis;14;1
-118;"La Bête";"Super rare";Rubis;3;1
-119;Blizzard;"Peu commune";Rubis;10;1
+118;"La Bête";"Super rare";Rubis;3;0
+119;Blizzard;"Peu commune";Rubis;10;0
 120;Dingo;Commune;Rubis;11;1
 121;Dingo;Rare;Rubis;4;0
 122;Olaf;Rare;Rubis;6;2
@@ -152,12 +152,12 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 151;"Winnie l'ourson";Commune;Saphir;14;2
 152;"Balthazar Picsou";Légendaire;Saphir;0;0
 153;"Calamity Fresque";"Peu commune";Saphir;10;1
-154;Pat;Rare;Saphir;5;1
+154;Pat;Rare;Saphir;5;0
 155;Vaiana;Légendaire;Saphir;0;0
 156;Tamatoa;"Super rare";Saphir;5;0
 157;Jojo;Rare;Saphir;4;1
 158;Belle;"Super rare";Saphir;2;0
-159;"Mickey Mouse";Rare;Saphir;6;1
+159;"Mickey Mouse";Rare;Saphir;6;0
 160;"Balthazar Picsou";Commune;Saphir;14;3
 161;Tui;Commune;Saphir;14;2
 162;"Visite des Noëls passés";Rare;Saphir;5;1
@@ -186,7 +186,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 185;Stitch;Commune;Acier;14;0
 186;"Dr Hämsterviel";Rare;Acier;4;0
 187;Angela;"Super rare";Acier;4;0
-188;"Myster Mask";Rare;Acier;6;1
+188;"Myster Mask";Rare;Acier;6;0
 189;Gigi;"Peu commune";Acier;9;0
 190;"Présidente du Grand Conseil";Rare;Acier;6;0
 191;Angel;Légendaire;Acier;0;0
@@ -198,7 +198,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 197;"La terreur qui corrige les erreurs";Commune;Acier;13;2
 198;"Cette chanson craint un mask";Rare;Acier;3;0
 199;Givresort;"Peu commune";Acier;10;1
-200;"Presque invincible";Commune;Acier;14;3
+200;"Presque invincible";Commune;Acier;14;2
 201;"Jumelles de théâtre infra-rose";Commune;Acier;13;0
 202;"Le Myster Quack";Rare;Acier;4;0
 203;"Unité de confinement";Rare;Acier;3;0
