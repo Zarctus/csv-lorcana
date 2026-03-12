@@ -156,7 +156,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 155;Vaiana;Légendaire;Saphir;0;0
 156;Tamatoa;"Super rare";Saphir;5;0
 157;Jojo;Rare;Saphir;4;1
-158;Belle;"Super rare";Saphir;2;0
+158;Belle;"Super rare";Saphir;0;0
 159;"Mickey Mouse";Rare;Saphir;6;0
 160;"Balthazar Picsou";Commune;Saphir;14;3
 161;Tui;Commune;Saphir;14;2
@@ -215,7 +215,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 214;Hercule;Épique;Rubis;0;0
 215;Elsa;Épique;Rubis;0;0
 216;Dingo;Épique;Rubis;0;0
-217;"Winnie l'ourson";Épique;Saphir;0;1
+217;"Winnie l'ourson";Épique;Saphir;0;0
 218;"Jiminy Cricket";Épique;Saphir;0;0
 219;"Mickey Mouse";Épique;Saphir;0;0
 220;Donald;Épique;Acier;0;0
