@@ -65,7 +65,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 64;"Bilan de performance";"Peu commune";Améthyste;12;0
 65;"Aussi fragile qu’une fleur";Commune;Améthyste;14;0
 66;"Le Manuel des Castors Juniors";Commune;Améthyste;15;0
-67;"Grimorum Arcanorum";Rare;Améthyste;5;0
+67;"Grimorum Arcanorum";Rare;Améthyste;4;0
 68;"Le grand Illuminarium";"Peu commune";Améthyste;10;1
 69;Baloo;Commune;Émeraude;16;2
 70;L’amoureux;Commune;Émeraude;16;2
@@ -98,10 +98,10 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 97;"Malin, méchant, vilain";"Peu commune";Émeraude;7;1
 98;"Potion de malice";"Super rare";Émeraude;5;0
 99;"Carte indéchiffrable";"Peu commune";Émeraude;9;2
-100;"Invocateur d’encre mystérieux";Rare;Émeraude;5;0
+100;"Invocateur d’encre mystérieux";Rare;Émeraude;4;0
 101;"Cornemuse bénie";"Peu commune";Émeraude;10;1
 102;"Plaines de l’Agonie Blanche";Rare;Émeraude;5;0
-103;Diablo;Rare;Rubis;6;0
+103;Diablo;Rare;Rubis;5;0
 104;Arès;"Peu commune";Rubis;10;1
 105;"Peter Pan";Commune;Rubis;17;1
 106;"La Fée Clochette";Commune;Rubis;14;1
@@ -132,7 +132,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 131;"Il est temps de partir !";"Peu commune";Rubis;9;0
 132;"Histoire de fantôme";Commune;Rubis;16;1
 133;"Feu du Dragon";Commune;Rubis;14;2
-134;"Fusée de Mushu";"Peu commune";Rubis;9;2
+134;"Fusée de Mushu";"Peu commune";Rubis;8;2
 135;"Le Bois-Amer";Rare;Rubis;4;0
 136;"Sleepy Hollow";"Peu commune";Rubis;12;1
 137;"Judy Hopps";"Peu commune";Saphir;11;0
