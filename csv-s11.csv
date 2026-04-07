@@ -95,7 +95,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 94;"Crois-moi j'ai vu pire";Commune;Émeraude;14;0
 95;"Bataille de boules de neige";Commune;Émeraude;14;0
 96;"Geler la Plante";Rare;Émeraude;5;0
-97;"L’éducation ou l’élimination";"Peu commune";Émeraude;12;0
+97;"L’éducation ou l’élimination";"Peu commune";Émeraude;9;0
 98;"Fort de neige";"Peu commune";Émeraude;10;2
 99;"Bâton bakora de Rafiki";"Peu commune";Émeraude;10;0
 100;"Rétro-fusil à évolution";Rare;Émeraude;2;0
@@ -187,7 +187,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 186;"Dr Hämsterviel";Rare;Acier;3;0
 187;Angela;"Super rare";Acier;4;0
 188;"Myster Mask";Rare;Acier;6;0
-189;Gigi;"Peu commune";Acier;9;0
+189;Gigi;"Peu commune";Acier;6;0
 190;"Présidente du Grand Conseil";Rare;Acier;6;0
 191;Angel;Légendaire;Acier;0;0
 192;"Myster Mask";Légendaire;Acier;0;0
