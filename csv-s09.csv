@@ -70,7 +70,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 68;"Casa Madrigal";Commune;Améthyste;28;1
 69;Kuzco;Rare;Émeraude;7;0
 70;"Robin des Bois";Rare;Émeraude;7;0
-71;"Ondins Ensorcelés";Rare;Émeraude;6;0
+71;"Ondins Ensorcelés";Rare;Émeraude;3;0
 72;"Prince Philippe";Rare;Émeraude;10;0
 73;"Prince Philippe";"Super rare";Émeraude;0;1
 74;Dingo;Rare;Émeraude;8;2
@@ -125,7 +125,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 123;"La Reine de Cœur";Commune;Rubis;25;1
 124;Raiponce;Commune;Rubis;27;0
 125;Mulan;Commune;Rubis;21;1
-126;Mulan;"Super rare";Rubis;5;0
+126;Mulan;"Super rare";Rubis;3;0
 127;Raya;Commune;Rubis;25;1
 128;"Sergent Tibs";Commune;Rubis;23;3
 129;"Tuk Tuk";"Peu commune";Rubis;15;3
@@ -197,7 +197,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 195;Ariel;Rare;Acier;6;0
 196;Ariel;Commune;Acier;26;0
 197;"Il me reste un espoir";Rare;Acier;7;0
-198;"Fracasser !";"Peu commune";Acier;15;1
+198;"Fracasser !";"Peu commune";Acier;13;1
 199;"Ils cassent en deux comme je veux";"Peu commune";Acier;15;1
 200;"Allumez les Mêches !";Commune;Acier;19;1
 201;"Plus ardent que le feu des volcans";Rare;Acier;0;0

@@ -138,7 +138,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 137;Mushu;Rare;"Rubis, Acier";0;0
 138;Maurice;Rare;Rubis;6;0
 139;Dingo;"Super rare";Rubis;4;0
-140;"Lyle Tiberius Rourke";Rare;Rubis;6;1
+140;"Lyle Tiberius Rourke";Rare;Rubis;6;0
 141;Mulan;"Super rare";"Rubis, Acier";1;0
 142;Baloo;Légendaire;Rubis;0;0
 143;Ratigan;Légendaire;Rubis;0;0
@@ -191,7 +191,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 190;Jafar;Commune;Acier;4;1
 191;Tic-Tac;Commune;Acier;11;1
 192;Kakamora;Commune;Acier;11;1
-193;Mulan;Commune;Acier;6;0
+193;Mulan;Commune;Acier;3;0
 194;Orville;Commune;Acier;13;2
 195;"Miss Bianca";Commune;Acier;10;1
 196;Mufasa;"Peu commune";Acier;8;0

@@ -72,7 +72,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 71;"CHAT DU CHESHIRE";"Peu commune";Émeraude;11;1
 72;"CRUELLA D'ENFER";Rare;Émeraude;4;0
 73;"LE DUC DE WESELTON";Commune;Émeraude;29;0
-74;"FLYNN RIDER";"Peu commune";Émeraude;10;0
+74;"FLYNN RIDER";"Peu commune";Émeraude;7;0
 75;GÉNIE;"Super rare";Émeraude;4;1
 76;GÉNIE;Rare;Émeraude;7;0
 77;GÉNIE;Commune;Émeraude;27;2
@@ -126,7 +126,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 125;STITCH;Rare;Rubis;9;0
 126;"TE KĀ";"Super rare";Rubis;7;0
 127;TIGROU;"Peu commune";Rubis;16;1
-128;"SOYEZ PRÊTES !";Rare;Rubis;3;0
+128;"SOYEZ PRÊTES !";Rare;Rubis;2;0
 129;"DROIT AU BUT";"Peu commune";Rubis;18;2
 130;"FEU DU DRAGON";"Peu commune";Rubis;16;1
 131;"ATTISER LES FLAMMES";"Peu commune";Rubis;15;1
@@ -152,7 +152,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 151;MALÉFIQUE;Rare;Saphir;8;0
 152;MAURICE;Rare;Saphir;7;0
 153;MERLIN;Commune;Saphir;28;1
-154;"MICKEY MOUSE";Commune;Saphir;30;3
+154;"MICKEY MOUSE";Commune;Saphir;27;3
 155;MUFASA;Commune;Saphir;27;3
 156;PHILOCTÈTE;Commune;Saphir;27;2
 157;"ROBIN DES BOIS";"Super rare";Saphir;5;0
