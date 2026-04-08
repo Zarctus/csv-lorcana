@@ -7,7 +7,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 6;Nakoma;Commune;Ambre;17;1
 7;Stitch;Rare;Ambre;2;0
 8;Pocahontas;Commune;Ambre;12;0
-9;David;Commune;Ambre;16;2
+9;David;Commune;Ambre;17;2
 10;Cromeyer;Commune;Ambre;14;3
 11;Powhatan;"Peu commune";Ambre;8;2
 12;Sarabi;Commune;Ambre;15;2
@@ -16,8 +16,8 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 15;"John Smith";"Peu commune";Ambre;10;0
 16;Timon;Rare;Ambre;3;2
 17;Lilo;"Super rare";Ambre;2;0
-18;Pikly;"Peu commune";Ambre;9;2
-19;"Jumba Jookiba";Rare;Ambre;8;0
+18;Pikly;"Peu commune";Ambre;10;2
+19;"Jumba Jookiba";Rare;Ambre;9;0
 20;Nani;"Peu commune";Ambre;8;0
 21;Reuben;Rare;Ambre;0;1
 22;Pocahontas;Légendaire;Ambre;1;0
@@ -28,7 +28,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 27;Percy;Commune;Ambre;15;0
 28;"Tempête violente";"Super rare";Ambre;3;0
 29;"Akood et Emuti";Rare;Ambre;2;0
-30;"Maman te protégera";Commune;Ambre;15;1
+30;"Maman te protégera";Commune;Ambre;16;1
 31;"La sagesse du saule";"Peu commune";Ambre;10;0
 32;"Ohana signifie famille";Légendaire;Ambre;1;0
 33;"Boussole de John Smith";Rare;Ambre;7;0
@@ -36,15 +36,15 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 35;Nala;Commune;Améthyste;17;0
 36;Alice;"Peu commune";Améthyste;10;0
 37;Tigrou;Commune;Améthyste;16;2
-38;"Fraîcheneige von Frimas";Commune;Améthyste;14;0
+38;"Fraîcheneige von Frimas";Commune;Améthyste;15;0
 39;Flit;"Peu commune";Améthyste;11;0
 40;Morgana;Commune;Améthyste;15;1
 41;"Coco Lapin";"Peu commune";Améthyste;9;0
 42;Pocahontas;"Super rare";Améthyste;0;0
-43;"Myster Mask";Commune;Améthyste;14;2
+43;"Myster Mask";Commune;Améthyste;15;2
 44;Taram;"Peu commune";Améthyste;11;2
 45;Bourriquet;Rare;Améthyste;5;0
-46;Meeko;"Peu commune";Améthyste;10;1
+46;Meeko;"Peu commune";Améthyste;11;1
 47;Morgana;Rare;Améthyste;7;2
 48;"La Fée Clochette";Légendaire;Améthyste;0;0
 49;Génie;Rare;Améthyste;5;0
@@ -65,22 +65,22 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 64;"L’air du vent";"Super rare";Améthyste;6;1
 65;"Collier de la mère";"Peu commune";Améthyste;11;1
 66;"Invocateur d’encre mystique";Rare;Améthyste;2;1
-67;"Pot de miel";Commune;Améthyste;17;1
+67;"Pot de miel";Commune;Améthyste;17;2
 68;"La Plante gelée";"Peu commune";Améthyste;12;0
 69;Mulan;"Super rare";Émeraude;2;0
 70;Stitch;Commune;Émeraude;18;0
 71;"Big Mama";"Peu commune";Émeraude;8;1
 72;Minnie;Commune;Émeraude;14;1
-73;Yao;Commune;Émeraude;14;2
+73;Yao;Commune;Émeraude;15;2
 74;Chien-Po;"Peu commune";Émeraude;12;1
-75;Ling;Rare;Émeraude;4;1
-76;Piqueur;Commune;Émeraude;14;2
+75;Ling;Rare;Émeraude;5;1
+76;Piqueur;Commune;Émeraude;15;2
 77;Chernabog;"Super rare";Émeraude;3;0
 78;Dinky;Commune;Émeraude;11;1
 79;Sigmund;Rare;Émeraude;7;0
 80;Twist;Commune;Émeraude;18;1
 81;Aladdin;Commune;Émeraude;17;0
-82;Mushu;"Peu commune";Émeraude;10;1
+82;Mushu;"Peu commune";Émeraude;11;1
 83;Dingo;"Super rare";Émeraude;5;1
 84;Rouky;Rare;Émeraude;4;0
 85;Rouky;Commune;Émeraude;14;0
@@ -117,8 +117,8 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 116;"Sinister Mask";Rare;Rubis;5;0
 117;Hercule;Commune;Rubis;14;1
 118;"La Bête";"Super rare";Rubis;4;0
-119;Blizzard;"Peu commune";Rubis;11;0
-120;Dingo;Commune;Rubis;11;1
+119;Blizzard;"Peu commune";Rubis;12;0
+120;Dingo;Commune;Rubis;12;1
 121;Dingo;Rare;Rubis;4;0
 122;Olaf;Rare;Rubis;6;2
 123;Elsa;Légendaire;Rubis;0;0
@@ -134,14 +134,14 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 133;"Luth de Kristoff";Rare;Rubis;7;0
 134;"Maison de comptage de Scrooge";"Peu commune";Rubis;8;0
 135;"Cimetière du Noël futur";Rare;Rubis;6;0
-136;"Château de la Bête";Commune;Rubis;13;0
+136;"Château de la Bête";Commune;Rubis;14;0
 137;"Petit Gourou";"Peu commune";Saphir;12;0
 138;"Maman Gourou";Commune;Saphir;19;3
 139;Porcinet;Commune;Saphir;15;2
 140;"Mickey Mouse";Commune;Saphir;13;1
 141;Minnie;Commune;Saphir;17;0
 142;Sina;Commune;Saphir;14;0
-143;"Cuicui Bourbifoot";Commune;Saphir;15;1
+143;"Cuicui Bourbifoot";Commune;Saphir;16;1
 144;Daisy;"Peu commune";Saphir;10;0
 145;"Myster Mask";"Peu commune";Saphir;6;0
 146;"Jiminy Cricket";"Peu commune";Saphir;9;0
@@ -151,7 +151,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 150;"Myster Mask";"Super rare";Saphir;4;1
 151;"Winnie l'ourson";Commune;Saphir;15;2
 152;"Balthazar Picsou";Légendaire;Saphir;0;0
-153;"Calamity Fresque";"Peu commune";Saphir;10;1
+153;"Calamity Fresque";"Peu commune";Saphir;11;1
 154;Pat;Rare;Saphir;5;0
 155;Vaiana;Légendaire;Saphir;1;0
 156;Tamatoa;"Super rare";Saphir;6;0
@@ -161,8 +161,8 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 160;"Balthazar Picsou";Commune;Saphir;14;3
 161;Tui;Commune;Saphir;15;2
 162;"Visite des Noëls passés";Rare;Saphir;6;1
-163;"Libérée, Délivrée";Rare;Saphir;0;0
-164;Distraction;Commune;Saphir;14;1
+163;"Libérée, Délivrée";Rare;Saphir;1;0
+164;Distraction;Commune;Saphir;15;1
 165;"Chute !";"Peu commune";Saphir;10;1
 166;"Fumée bleue";Commune;Saphir;15;1
 167;"Béquille de Tiny Tim";Commune;Saphir;14;0
@@ -171,7 +171,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 170;"Piège caché";"Peu commune";Saphir;12;2
 171;Raiponce;Rare;Acier;1;0
 172;"Flagada Jones";"Peu commune";Acier;11;2
-173;"Prince Naveen";Commune;Acier;14;2
+173;"Prince Naveen";Commune;Acier;15;2
 174;"Myster Mask";Commune;Acier;15;0
 175;"Li Shang";Commune;Acier;15;2
 176;Gantu;"Peu commune";Acier;11;1
@@ -184,7 +184,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 183;"Li Shang";"Peu commune";Acier;9;0
 184;Nani;Commune;Acier;19;2
 185;Stitch;Commune;Acier;15;0
-186;"Dr Hämsterviel";Rare;Acier;3;0
+186;"Dr Hämsterviel";Rare;Acier;4;0
 187;Angela;"Super rare";Acier;4;0
 188;"Myster Mask";Rare;Acier;6;0
 189;Gigi;"Peu commune";Acier;6;0
@@ -194,12 +194,12 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 193;"John Smith";"Super rare";Acier;4;1
 194;"Judy Hopps";"Peu commune";Acier;8;0
 195;Lilo;"Super rare";Acier;6;0
-196;"Garde le feu millénaire";"Peu commune";Acier;10;2
-197;"La terreur qui corrige les erreurs";Commune;Acier;14;2
+196;"Garde le feu millénaire";"Peu commune";Acier;11;2
+197;"La terreur qui corrige les erreurs";Commune;Acier;14;3
 198;"Cette chanson craint un mask";Rare;Acier;3;0
 199;Givresort;"Peu commune";Acier;11;1
 200;"Presque invincible";Commune;Acier;15;2
-201;"Jumelles de théâtre infra-rose";Commune;Acier;14;0
+201;"Jumelles de théâtre infra-rose";Commune;Acier;15;0
 202;"Le Myster Quack";Rare;Acier;4;0
 203;"Unité de confinement";Rare;Acier;3;0
 204;"Tour de Myster Mask";"Peu commune";Acier;8;0

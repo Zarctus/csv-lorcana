@@ -1,4 +1,30 @@
 saison,number,nom,encre,rareté,is_foil
+Givresort,9,David,Ambre,Commune,N
+Givresort,38,"Fraîcheneige von Frimas",Améthyste,Commune,N
+Givresort,136,"Château de la Bête",Rubis,Commune,N
+Givresort,76,Piqueur,Émeraude,Commune,N
+Givresort,201,"Jumelles de théâtre infra-rose",Acier,Commune,N
+Givresort,143,"Cuicui Bourbifoot",Saphir,Commune,N
+Givresort,18,Pikly,Ambre,"Peu commune",N
+Givresort,82,Mushu,Émeraude,"Peu commune",N
+Givresort,196,"Garde le feu millénaire",Acier,"Peu commune",N
+Givresort,186,"Dr Hämsterviel",Acier,Rare,N
+Givresort,75,Ling,Émeraude,Rare,N
+Givresort,67,"Pot de miel",Améthyste,Commune,Y
+
+Givresort,30,"Maman te protégera",Ambre,Commune,N
+Givresort,43,"Myster Mask",Améthyste,Commune,N
+Givresort,120,Dingo,Rubis,Commune,N
+Givresort,73,Yao,Émeraude,Commune,N
+Givresort,173,"Prince Naveen",Acier,Commune,N
+Givresort,164,Distraction,Saphir,Commune,N
+Givresort,46,Meeko,Améthyste,"Peu commune",N
+Givresort,153,"Calamity Fresque",Saphir,"Peu commune",N
+Givresort,119,Blizzard,Rubis,"Peu commune",N
+Givresort,163,"Libérée, Délivrée",Saphir,Rare,N
+Givresort,19,"Jumba Jookiba",Ambre,Rare,N
+Givresort,197,"La terreur qui corrige les erreurs",Acier,Commune,Y
+
 Givresort,12,Sarabi,Ambre,Commune,N
 Givresort,35,Nala,Améthyste,Commune,N
 Givresort,114,Agnarr,Rubis,Commune,N
@@ -2572,30 +2598,4 @@ Fabuleux,158,"Belle Marianne",Saphir,Commune,Y
 "Lueurs dans les Profondeurs",18,"Balthazar Picsou",Ambre,Rare,N
 "Lueurs dans les Profondeurs",188,"Maire Winddancer",Acier,Rare,N
 "Lueurs dans les Profondeurs",196,"Rassembler les indices",Acier,Commune,Y
-
-Fabuleux,51,"Dolores Madrigal",Améthyste,Commune,N
-Fabuleux,28,"J'ai perdu le Nord",Ambre,Commune,N
-Fabuleux,79,Mégara,Émeraude,Commune,N
-Fabuleux,112,"Max Dingo",Rubis,Commune,N
-Fabuleux,196,Ariel,Acier,Commune,N
-Fabuleux,146,Anna,Saphir,Commune,N
-Fabuleux,65,"Miroir Magique",Améthyste,"Peu commune",N
-Fabuleux,94,"Stand Out",Émeraude,"Peu commune",N
-Fabuleux,132,"La vie d'un pirate",Rubis,"Peu commune",N
-Fabuleux,54,Génie,Améthyste,Rare,N
-Fabuleux,160,Alice,Saphir,"Super rare",N
-Fabuleux,46,Dumbo,Améthyste,"Peu commune",Y
-
-"Lueurs dans les Profondeurs",71,Flotsam,Émeraude,Commune,N
-"Lueurs dans les Profondeurs",106,"La Fée Clochette",Rubis,Commune,N
-"Lueurs dans les Profondeurs",40,Démona,Améthyste,Commune,N
-"Lueurs dans les Profondeurs",141,Daisy,Saphir,Commune,N
-"Lueurs dans les Profondeurs",175,Clawhauser,Acier,Commune,N
-"Lueurs dans les Profondeurs",4,"Le destrier sans tête",Ambre,Commune,N
-"Lueurs dans les Profondeurs",58,Merlin,Améthyste,"Peu commune",N
-"Lueurs dans les Profondeurs",81,"Flynn Rider",Émeraude,"Peu commune",N
-"Lueurs dans les Profondeurs",15,Taram,Ambre,"Peu commune",N
-"Lueurs dans les Profondeurs",23,"Mickey Mouse",Ambre,Rare,N
-"Lueurs dans les Profondeurs",191,Pluto,Acier,Rare,N
-"Lueurs dans les Profondeurs",83,"Flagada Jones",Émeraude,Commune,Y
 
