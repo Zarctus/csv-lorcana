@@ -78,7 +78,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 77;"Duel en Forêt";"Peu commune";Améthyste;11;0
 78;"Jamais plus des enfants";"Peu commune";Améthyste;9;1
 79;"Miraculeux et merveilleux";Rare;Améthyste;5;0
-80;"Abaisse le levier !";"Peu commune";"Améthyste, Émeraude";8;0
+80;"Abaisse le levier !";"Peu commune";"Améthyste, Émeraude";8;0
 81;"Dans un autre monde";"Super rare";"Améthyste, Saphir";0;0
 82;"Tout le monde a une faiblesse";Rare;Améthyste;4;0
 83;Scarabée;Commune;Améthyste;16;2
@@ -114,9 +114,9 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 113;Archimède;Rare;Émeraude;9;1
 114;"Qui prend son avion de chassage";Commune;Émeraude;12;1
 115;"Foudroyant d'un éclair ces brutes";"Peu commune";Émeraude;6;2
-116;"Pas ce levier-là !";Rare;Émeraude;1;0
+116;"Pas ce levier-là !";Rare;Émeraude;1;0
 117;Bousillage;"Peu commune";"Émeraude, Rubis";9;1
-118;"Sur la planche !";"Peu commune";"Émeraude, Acier";8;1
+118;"Sur la planche !";"Peu commune";"Émeraude, Acier";8;1
 119;Nano-sac;Commune;Émeraude;14;1
 120;"Collier incrusté";"Peu commune";"Émeraude, Saphir";12;2
 121;"Arnold Trufforange";Commune;Rubis;15;0
@@ -214,7 +214,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 213;"Dans un autre monde";Enchantée;"Améthyste, Saphir";0;0
 214;Raiponce;Enchantée;Émeraude;0;0
 215;"Capitaine Crochet";Enchantée;"Émeraude, Acier";0;0
-216;"Pas ce levier-là !";Enchantée;Émeraude;0;0
+216;"Pas ce levier-là !";Enchantée;Émeraude;0;0
 217;Lilo;Enchantée;Rubis;0;0
 218;Mushu;Enchantée;"Rubis, Acier";0;0
 219;"L’épée de Shan-Yu";Enchantée;Rubis;0;0

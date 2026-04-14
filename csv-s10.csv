@@ -27,7 +27,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 26;"Rechercher des indices";"Peu commune";Ambre;11;1
 27;"Nous entrerons dans la bande";"Peu commune";Ambre;8;0
 28;"Berceuse de la Lune de Della";Commune;Ambre;16;2
-29;"Le Cavalier attaque !";Rare;Ambre;5;0
+29;"Le Cavalier attaque !";Rare;Ambre;5;0
 30;"Page retrouvée";"Peu commune";Ambre;11;1
 31;"Le journal de Zaza";"Peu commune";Ambre;11;1
 32;"Le Chaudron magique";Légendaire;Ambre;0;0
@@ -92,9 +92,9 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 91;Dingo;Rare;Émeraude;5;0
 92;"Petit Jean";"Super rare";Émeraude;5;1
 93;Zaza;Légendaire;Émeraude;0;0
-94;"Alors tant pis !";Commune;Émeraude;16;2
+94;"Alors tant pis !";Commune;Émeraude;16;2
 95;"Aie confiance";Rare;Émeraude;4;0
-96;"Croque !";Commune;Émeraude;14;2
+96;Croque !;Commune;Émeraude;14;2
 97;"Malin, méchant, vilain";"Peu commune";Émeraude;4;0
 98;"Potion de malice";"Super rare";Émeraude;5;0
 99;"Carte indéchiffrable";"Peu commune";Émeraude;9;2
@@ -127,8 +127,8 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 126;Mulan;"Peu commune";Rubis;7;0
 127;"Brom Bones";Commune;Rubis;15;0
 128;"Shere Khan";Rare;Rubis;6;0
-129;"Prochaine étape, l’Olympe !";Rare;Rubis;6;0
-130;"Vite, à l'abri !";Rare;Rubis;6;0
+129;"Prochaine étape, l’Olympe !";Rare;Rubis;6;0
+130;"Vite, à l'abri !";Rare;Rubis;6;0
 131;"Il est temps de partir !";"Peu commune";Rubis;9;0
 132;"Histoire de fantôme";Commune;Rubis;16;1
 133;"Feu du Dragon";Commune;Rubis;14;2
@@ -205,7 +205,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 204;"Château de Wyvern";Rare;Acier;4;0
 205;Dingo;Épique;Ambre;0;1
 206;Gaston;Épique;Ambre;0;0
-207;"Le Cavalier attaque !";Épique;Ambre;0;1
+207;"Le Cavalier attaque !";Épique;Ambre;0;1
 208;Elsa;Épique;Améthyste;0;1
 209;Merlin;Épique;Améthyste;0;1
 210;"Le Seigneur des Ténèbres";Épique;Améthyste;0;0
@@ -232,7 +232,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 231;"Malin, méchant, vilain";Enchantée;Émeraude;0;0
 232;"Le Cavalier sans tête";Enchantée;Rubis;0;0
 233;"Madame de Trémaine";Enchantée;Rubis;0;1
-234;"Prochaine étape, l’Olympe !";Enchantée;Rubis;0;0
+234;"Prochaine étape, l’Olympe !";Enchantée;Rubis;0;0
 235;"Judy Hopps";Enchantée;Saphir;0;0
 236;Cendrillon;Enchantée;Saphir;0;0
 237;"Apparition effrayante";Enchantée;Saphir;0;0
