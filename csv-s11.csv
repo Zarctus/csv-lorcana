@@ -14,7 +14,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 13;"Grand-Mère Feuillage";"Peu commune";Ambre;9;0
 14;"Cobra Bubbles";Rare;Ambre;6;0
 15;"John Smith";"Peu commune";Ambre;10;0
-16;Timon;Rare;Ambre;3;2
+16;Timon;Rare;Ambre;2;1
 17;Lilo;"Super rare";Ambre;2;0
 18;Pikly;"Peu commune";Ambre;10;2
 19;"Jumba Jookiba";Rare;Ambre;9;0
@@ -27,7 +27,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 26;"Veuve Tartine";Rare;Ambre;3;0
 27;Percy;Commune;Ambre;15;0
 28;"Tempête violente";"Super rare";Ambre;3;0
-29;"Akood et Emuti";Rare;Ambre;2;0
+29;"Akood et Emuti";Rare;Ambre;1;0
 30;"Maman te protégera";Commune;Ambre;16;1
 31;"La sagesse du saule";"Peu commune";Ambre;10;0
 32;"Ohana signifie famille";Légendaire;Ambre;1;0
@@ -43,13 +43,13 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 42;Pocahontas;"Super rare";Améthyste;0;0
 43;"Myster Mask";Commune;Améthyste;15;2
 44;Taram;"Peu commune";Améthyste;11;2
-45;Bourriquet;Rare;Améthyste;5;0
+45;Bourriquet;Rare;Améthyste;4;0
 46;Meeko;"Peu commune";Améthyste;11;1
 47;Morgana;Rare;Améthyste;7;2
 48;"La Fée Clochette";Légendaire;Améthyste;0;0
 49;Génie;Rare;Améthyste;5;0
-50;Anna;Légendaire;Améthyste;1;0
-51;Kristoff;Rare;Améthyste;4;0
+50;Anna;Légendaire;Améthyste;0;0
+51;Kristoff;Rare;Améthyste;3;0
 52;Anna;"Peu commune";Améthyste;10;0
 53;Guimauve;Rare;Améthyste;2;0
 54;"Vaches de l’espace";Commune;Améthyste;15;1
@@ -62,12 +62,12 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 61;"Je voudrais un bonhomme de neige";Rare;Améthyste;5;0
 62;"Viens te battre !";Commune;Améthyste;15;0
 63;"Manier l'épée";Commune;Améthyste;14;2
-64;"L’air du vent";"Super rare";Améthyste;6;1
+64;"L’air du vent";"Super rare";Améthyste;5;0
 65;"Collier de la mère";"Peu commune";Améthyste;11;1
-66;"Invocateur d’encre mystique";Rare;Améthyste;2;1
+66;"Invocateur d’encre mystique";Rare;Améthyste;1;0
 67;"Pot de miel";Commune;Améthyste;17;2
 68;"La Plante gelée";"Peu commune";Améthyste;12;0
-69;Mulan;"Super rare";Émeraude;2;0
+69;Mulan;"Super rare";Émeraude;1;0
 70;Stitch;Commune;Émeraude;18;0
 71;"Big Mama";"Peu commune";Émeraude;8;1
 72;Minnie;Commune;Émeraude;14;1
@@ -81,16 +81,16 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 80;Twist;Commune;Émeraude;18;1
 81;Aladdin;Commune;Émeraude;17;0
 82;Mushu;"Peu commune";Émeraude;11;1
-83;Dingo;"Super rare";Émeraude;5;1
-84;Rouky;Rare;Émeraude;4;0
+83;Dingo;"Super rare";Émeraude;4;0
+84;Rouky;Rare;Émeraude;3;0
 85;Rouky;Commune;Émeraude;14;0
 86;Vixy;"Peu commune";Émeraude;11;1
 87;Rox;Commune;Émeraude;16;1
-88;Minnie;Rare;Émeraude;2;0
+88;Minnie;Rare;Émeraude;1;0
 89;"Le lapin blanc";"Peu commune";Émeraude;9;0
-90;Rox;Rare;Émeraude;3;1
+90;Rox;Rare;Émeraude;2;0
 91;"Mickey Mouse";"Peu commune";Émeraude;9;1
-92;Rox;Légendaire;Émeraude;1;0
+92;Rox;Légendaire;Émeraude;0;0
 93;Donald;Légendaire;Émeraude;0;0
 94;"Crois-moi j'ai vu pire";Commune;Émeraude;14;0
 95;"Bataille de boules de neige";Commune;Émeraude;14;0
@@ -114,18 +114,18 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 113;Iduna;Commune;Rubis;18;1
 114;Agnarr;Commune;Rubis;17;0
 115;"Sinister Mask";Commune;Rubis;14;1
-116;"Sinister Mask";Rare;Rubis;5;0
+116;"Sinister Mask";Rare;Rubis;4;0
 117;Hercule;Commune;Rubis;14;1
 118;"La Bête";"Super rare";Rubis;4;0
 119;Blizzard;"Peu commune";Rubis;12;0
 120;Dingo;Commune;Rubis;12;1
-121;Dingo;Rare;Rubis;4;0
+121;Dingo;Rare;Rubis;3;0
 122;Olaf;Rare;Rubis;6;2
 123;Elsa;Légendaire;Rubis;0;0
 124;"Balthazar Picsou";"Super rare";Rubis;5;0
 125;Elsa;"Peu commune";Rubis;10;0
 126;"Willie le géant";Rare;Rubis;4;0
-127;"La revanche de Nani";"Super rare";Rubis;4;0
+127;"La revanche de Nani";"Super rare";Rubis;3;0
 128;"Plus puissant que les ouragans";Commune;Rubis;17;1
 129;"Vers notre champ de bataille";Commune;Rubis;14;1
 130;"Le prix de la liberté";Rare;Rubis;4;0
@@ -152,8 +152,8 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 151;"Winnie l'ourson";Commune;Saphir;15;2
 152;"Balthazar Picsou";Légendaire;Saphir;0;0
 153;"Calamity Fresque";"Peu commune";Saphir;11;1
-154;Pat;Rare;Saphir;5;0
-155;Vaiana;Légendaire;Saphir;1;0
+154;Pat;Rare;Saphir;4;0
+155;Vaiana;Légendaire;Saphir;0;0
 156;Tamatoa;"Super rare";Saphir;6;0
 157;Jojo;Rare;Saphir;3;1
 158;Belle;"Super rare";Saphir;0;0
@@ -166,7 +166,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 165;"Chute !";"Peu commune";Saphir;10;1
 166;"Fumée bleue";Commune;Saphir;15;1
 167;"Béquille de Tiny Tim";Commune;Saphir;14;0
-168;"Fauteuils de Myster Mask";Rare;Saphir;7;0
+168;"Fauteuils de Myster Mask";Rare;Saphir;6;0
 169;"Appareil à gaz de Myster Mask";"Peu commune";Saphir;9;1
 170;"Piège caché";"Peu commune";Saphir;12;2
 171;Raiponce;Rare;Acier;1;0
@@ -191,17 +191,17 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 190;"Présidente du Grand Conseil";Rare;Acier;6;0
 191;Angel;Légendaire;Acier;0;0
 192;"Myster Mask";Légendaire;Acier;0;0
-193;"John Smith";"Super rare";Acier;4;1
+193;"John Smith";"Super rare";Acier;3;0
 194;"Judy Hopps";"Peu commune";Acier;8;0
-195;Lilo;"Super rare";Acier;6;0
+195;Lilo;"Super rare";Acier;5;0
 196;"Garde le feu millénaire";"Peu commune";Acier;11;2
 197;"La terreur qui corrige les erreurs";Commune;Acier;14;3
-198;"Cette chanson craint un mask";Rare;Acier;3;0
+198;"Cette chanson craint un mask";Rare;Acier;2;0
 199;Givresort;"Peu commune";Acier;11;1
 200;"Presque invincible";Commune;Acier;15;2
 201;"Jumelles de théâtre infra-rose";Commune;Acier;15;0
-202;"Le Myster Quack";Rare;Acier;4;0
-203;"Unité de confinement";Rare;Acier;3;0
+202;"Le Myster Quack";Rare;Acier;3;0
+203;"Unité de confinement";Rare;Acier;2;0
 204;"Tour de Myster Mask";"Peu commune";Acier;8;0
 205;Tiana;Épique;Ambre;0;0
 206;"Grand-Mère Feuillage";Épique;Ambre;0;0
@@ -213,7 +213,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 212;Mushu;Épique;Émeraude;0;0
 213;Minnie;Épique;Émeraude;0;0
 214;Hercule;Épique;Rubis;0;0
-215;Elsa;Épique;Rubis;0;1
+215;Elsa;Épique;Rubis;0;0
 216;Dingo;Épique;Rubis;0;0
 217;"Winnie l'ourson";Épique;Saphir;0;0
 218;"Jiminy Cricket";Épique;Saphir;0;0
