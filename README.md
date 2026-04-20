@@ -10,6 +10,11 @@
 
 
 **Quelques liens aléatoires / Some random links**
+- *[Lorcana - La Mer Azurite - 2x Dingo 123/204 - Rare - ID=1322](https://www.vinted.fr/items/7194188503-lorcana-la-mer-azurite-2x-dingo-123204-rare-id1322)*
+- *[Lorcana - Les Terres d'Encres - 3x Grand-Mère Tala 142/204 - Commune - ID=578](https://www.vinted.fr/items/5646745621-lorcana-les-terres-dencres-3x-grand-mere-tala-142204-commune-id578)*
+- *[Lorcana - Lueurs dans les Profondeurs - 2x Olaf 57/204 - Peu commune - ID=2246](https://www.vinted.fr/items/8036894387-lorcana-lueurs-dans-les-profondeurs-2x-olaf-57204-peu-commune-id2246)*
+- *[Lorcana - Le retour d'Ursula - 2x On Est Une Famille 28/204 - Rare - ID=719](https://www.vinted.fr/items/6604789894-lorcana-le-retour-dursula-2x-on-est-une-famille-28204-rare-id719)*
+- *[Lorcana - Fabuleux - Lilo 174/204 - Super rare - ID=2110](https://www.vinted.fr/items/7268611056-lorcana-fabuleux-lilo-174204-super-rare-id2110)*
 
 
 **🔎 Recherches Lorcana par rareté / Search Lorcana by rarity**
@@ -39,35 +44,6 @@
 
 **🔎 Recherches Lorcana Foils uniquement / Search Lorcana Foils only**
 - *[#Lynadry_FOIL](https://www.vinted.fr/catalog?search_text=%23Lynadry_FOIL)*
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 <!-- BOOSTER_STATS_START -->
@@ -206,32 +182,3 @@
 | Iconique | <img src="rarity/rarity_iconic.png" alt="Iconique" width="24" /> | 0 | 0% | 0 | 0% |
 
 <!-- BOOSTER_STATS_END -->
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
