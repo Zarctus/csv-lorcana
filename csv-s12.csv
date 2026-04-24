@@ -1,23 +1,34 @@
 card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
+1;"Poussinette Colvert";Commune;Ambre;0;0
 2;"Jack le Costaud";Commune;Ambre;0;0
+3;Woody;Commune;Ambre;0;0
 4;Tac;Commune;Ambre;0;0
 5;"Pedro Madrigal";"Peu commune";Ambre;0;0
 6;"Agustín Madrigal";Commune;Ambre;0;0
 7;"Adam de la Halle";Commune;Ambre;0;0
 8;"Prince Eric";Commune;Ambre;0;0
 9;"Dolores Madrigal";Commune;Ambre;0;0
+10;Rex;Rare;Ambre;0;0
+11;Bayonne;"Peu commune";Ambre;0;0
 12;"Jack le Costaud";Rare;Ambre;0;0
 13;"Bo, la bergère";"Peu commune";Ambre;0;0
 14;Tic;"Peu commune";Ambre;0;0
 15;Woody;Légendaire;Ambre;0;0
+16;"Isabela Madrigal";"Peu commune";Ambre;0;0
 17;Pile-Poil;Commune;Ambre;0;0
 18;Ariel;Rare;Ambre;0;0
+19;"Isabela Madrigal";Rare;Ambre;0;0
 20;Jessie;"Super rare";Ambre;0;0
 21;Woody;"Peu commune";Ambre;0;0
+22;Tac;Légendaire;Ambre;0;0
 23;"Le Prince";Rare;Ambre;0;0
+25;Pluto;"Peu commune";Ambre;0;0
 26;"Mickey Mouse";"Super rare";Ambre;0;0
 27;Tic;Commune;Ambre;0;0
+28;"Les rangers font équipe";"Peu commune";Ambre;0;0
+29;"L’énorme pression";Commune;Ambre;0;0
 31;Métamorphose;Rare;Ambre;0;0
+32;"Criez au secours et ils rappliquent";Rare;Ambre;0;0
 33;"Corde de sécurité";"Peu commune";Ambre;0;0
 34;"Chambre d'Andy";Rare;Ambre;0;0
 35;Mor'du;Commune;Améthyste;0;0
@@ -38,6 +49,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 53;Mirage;Commune;Améthyste;0;0
 54;"Edna Mode";Rare;Améthyste;0;0
 55;Maléfique;Rare;Améthyste;0;0
+56;"Pepa Madrigal";"Super rare";Améthyste;0;0
 57;Mor'du;"Super rare";Améthyste;0;0
 58;"Alma Madrigal";Rare;Améthyste;0;0
 59;Frozone;Rare;Améthyste;0;0
@@ -45,11 +57,13 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 61;"Flèche Parr";"Super rare";Améthyste;0;0
 62;"Luisa Madrigal";Commune;Améthyste;0;0
 64;"Tous derrière toi";"Peu commune";Améthyste;0;0
+65;"Ne sois pas si nerveux";Rare;Améthyste;0;0
 66;Super-costume;"Peu commune";Améthyste;0;0
 67;"Tapisserie familiale de DunBroch";Rare;Améthyste;0;0
 68;"Cercle de pierres";Rare;Améthyste;0;0
 69;Merida;Commune;Émeraude;0;0
 70;"Hamish, Hubert et Harris";Commune;Émeraude;0;0
+71;"Le fils MacGuffin";Commune;Émeraude;0;0
 72;Rox;Commune;Émeraude;0;0
 73;"Helga Sinclair";Commune;Émeraude;0;0
 74;"La Sorcière";Commune;Émeraude;0;0
@@ -58,26 +72,32 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 79;Lenny;Rare;Émeraude;0;0
 80;"Gaëtan Molière";"Peu commune";Émeraude;0;0
 81;"Peter Pan";"Peu commune";Émeraude;0;0
+82;"Milo Thatch";"Super rare";Émeraude;0;0
 84;Donald;"Peu commune";Émeraude;0;0
 86;Elinor;"Super rare";Émeraude;0;0
 87;"Lyle Tiberius Rourke";"Peu commune";Émeraude;0;0
 88;"Amadou Gentil";Commune;Émeraude;0;0
 89;Merida;Rare;Émeraude;0;0
+90;"La Reine";Légendaire;Émeraude;0;0
 91;"Buzz l'Éclair";Légendaire;Émeraude;0;0
 92;"Cruella d'Enfer";Rare;Émeraude;0;0
 93;"Helga Sinclair";Rare;Émeraude;0;0
 94;"Le chasseur";"Peu commune";Émeraude;0;0
 95;"Étrange Bazar";"Peu commune";Émeraude;0;0
+96;Sabotage;Commune;Émeraude;0;0
 97;"Famille dispersée";"Super rare";Émeraude;0;0
 98;"Bras de Buzz";"Peu commune";Émeraude;0;0
 100;Gyro-Evac;"Peu commune";Émeraude;0;0
 101;"Arc de Merida";Commune;Émeraude;0;0
 102;"Pizza Planet";Rare;Émeraude;0;0
+103;"Lyle Tiberius Rourke";Rare;Rubis;0;0
 105;"Lyle Tiberius Rourke";Commune;Rubis;0;0
 106;Pégase;Commune;Rubis;0;0
 107;"Audrey Ramirez";Commune;Rubis;0;0
 109;Zeus;"Peu commune";Rubis;0;0
+110;"Preston Whitmore";Commune;Rubis;0;0
 111;"Jingle Joe";Commune;Rubis;0;0
+112;"La grenouille";Commune;Rubis;0;0
 113;"Roller Bob";"Peu commune";Rubis;0;0
 114;"La Main dans la Boîte";"Peu commune";Rubis;0;0
 115;Daisy;"Peu commune";Rubis;0;0
@@ -87,7 +107,9 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 119;"Tête de bébé";Rare;Rubis;0;0
 120;Canard;Rare;Rubis;0;0
 122;"La Reine de Cœur";Rare;Rubis;0;0
+123;Hercule;"Super rare";Rubis;0;0
 124;"Vincenzo Santorini";Rare;Rubis;0;0
+125;"Le Léviathan";"Super rare";Rubis;0;0
 126;"Sid Phillips";Légendaire;Rubis;0;0
 127;"M. Indestructible";Légendaire;Rubis;0;0
 128;"La poupée ptérodactyle";Commune;Rubis;0;0
@@ -99,6 +121,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 135;"Terres d'encres reculées";Rare;Rubis;0;0
 136;"Antre du Léviathan";Rare;Rubis;0;0
 137;"Robin des Bois";Commune;Saphir;0;0
+138;"Prince charmant";Commune;Saphir;0;0
 140;Pâquerette;Commune;Saphir;0;0
 141;Flora;Rare;Saphir;0;0
 143;Syndrome;Commune;Saphir;0;0
@@ -107,31 +130,47 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 146;"Professeur Nimnul";"Peu commune";Saphir;0;0
 147;Gadget;Commune;Saphir;0;0
 148;Ruzor;"Peu commune";Saphir;0;0
+150;Ruzor;"Super rare";Saphir;0;0
+151;"Luisa Madrigal";"Peu commune";Saphir;0;0
 152;"Irma Tièregrise";Commune;Saphir;0;0
+153;"Isabela Madrigal";"Super rare";Saphir;0;0
+154;"Bruno Madrigal";Rare;Saphir;0;0
 155;Cendrillon;Rare;Saphir;0;0
 157;Kida;Rare;Saphir;0;0
 158;Kashekim;"Peu commune";Saphir;0;0
 159;Minnie;"Peu commune";Saphir;0;0
+160;Kida;Légendaire;Saphir;0;0
+161;Ursula;Légendaire;Saphir;0;0
 162;"On leur coupera la tête";Commune;Saphir;0;0
+163;"Que sais-je faire d’autre ?";Rare;Saphir;0;0
 164;"Plan d’évasion";Rare;Saphir;0;0
 165;"Réparations de fortune";"Peu commune";Saphir;0;0
 166;"Arepas de Julieta";Commune;Saphir;0;0
+167;Socissoplane;Rare;Saphir;0;0
 168;"Lunettes de Gadget";"Peu commune";Saphir;0;0
 169;"Le Manuscrit du Berger";"Peu commune";Saphir;0;0
 170;"Casa Madrigal";Commune;Saphir;0;0
 171;Pocahontas;Rare;Acier;0;0
+172;Syndrome;"Super rare";Acier;0;0
+173;Omnidroïde;Commune;Acier;0;0
+174;Angus;Commune;Acier;0;0
 176;"Le Petit Dingwall";Commune;Acier;0;0
 177;Indestructiboy;Commune;Acier;0;0
 178;"Violette Parr";Commune;Acier;0;0
 180;"Le fils Macintosh";Commune;Acier;0;0
 181;"Seigneur Macintosh";"Peu commune";Acier;0;0
 182;Catox;Commune;Acier;0;0
+183;"Rat Capone";Commune;Acier;0;0
 184;Omnidroïde;"Peu commune";Acier;0;0
 185;"M. Indestructible";"Peu commune";Acier;0;0
 186;"Seigneur Dingwall";"Peu commune";Acier;0;0
+187;Catox;Rare;Acier;0;0
+188;Maude;"Peu commune";Acier;0;0
+190;Omnidroïde;Rare;Acier;0;0
 191;Merida;Légendaire;Acier;0;0
 192;"John Smith";Rare;Acier;0;0
 193;Robotik;Rare;Acier;0;0
+194;Fergus;"Super rare";Acier;0;0
 195;"Mme Indestructible";Légendaire;Acier;0;0
 196;Diablo;"Super rare";Acier;0;0
 197;"Triple flèche";"Peu commune";Acier;0;0
@@ -142,6 +181,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 202;"Porte du Club";"Peu commune";Acier;0;0
 203;"Club de Catox";Commune;Acier;0;0
 204;"Île de Nomanisan";Rare;Acier;0;0
+205;Woody;Épique;Ambre;0;0
 207;"Isabela Madrigal";Épique;Ambre;0;0
 216;Daisy;Épique;Rubis;0;0
 222;"Triple flèche";Épique;Acier;0;0
