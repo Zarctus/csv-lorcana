@@ -12,7 +12,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 11;Lady;Rare;Ambre;0;0
 12;"Jim Chéri";Commune;Ambre;16;1
 13;Gene;Commune;Ambre;12;2
-14;Perdita;Commune;Ambre;13;1
+14;Perdita;Commune;Ambre;14;1
 15;Rhino;Commune;Ambre;6;0
 16;Darling;Commune;Ambre;16;0
 17;"Le Colonel";Rare;Ambre;4;0
@@ -23,7 +23,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 22;Clochard;"Super rare";"Ambre, Émeraude";1;0
 23;"Sa Sucrerie";"Peu commune";"Ambre, Rubis";8;1
 24;"Ralph la Casse";"Super rare";"Ambre, Rubis";3;0
-25;Patch;"Peu commune";"Ambre, Saphir";8;1
+25;Patch;"Peu commune";"Ambre, Saphir";9;1
 26;Rolly;"Peu commune";"Ambre, Saphir";8;0
 27;Perdita;"Super rare";"Ambre, Saphir";1;0
 28;Pluto;"Peu commune";"Ambre, Acier";11;0
@@ -40,7 +40,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 39;"Dérapage sucré";"Peu commune";"Ambre, Rubis";7;0
 40;"C’est ta maîtresse";"Peu commune";"Ambre, Acier";8;2
 41;"Qu’une toute petite place";"Peu commune";"Ambre, Émeraude";10;0
-42;"Sans aucun souci";Rare;Ambre;3;0
+42;"Sans aucun souci";Rare;Ambre;4;0
 43;"Je travaillerai sans trêve";"Peu commune";Ambre;9;2
 44;"La tirelire des neveux";"Peu commune";Ambre;8;0
 45;"Garde du palais";Commune;Améthyste;8;0
@@ -56,9 +56,9 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 55;Yelena;Commune;Améthyste;12;2
 56;Ryder;Commune;Améthyste;14;2
 57;Bambi;Commune;Améthyste;13;0
-58;"Poe De Sortilège";Commune;Améthyste;15;1
+58;"Poe De Sortilège";Commune;Améthyste;16;1
 59;"Madame Mime";"Peu commune";Améthyste;8;2
-60;Elsa;Rare;Améthyste;4;0
+60;Elsa;Rare;Améthyste;5;0
 61;Pinocchio;Légendaire;Améthyste;0;0
 62;"Jiminy Cricket";Rare;Améthyste;3;0
 63;Bambi;Légendaire;Améthyste;0;0
@@ -90,10 +90,10 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 89;Tipo;Commune;Émeraude;16;1
 90;"Bill le Lézard";Commune;Émeraude;16;0
 91;"Le Lièvre de Mars";Commune;Émeraude;14;0
-92;Fred;Commune;Émeraude;15;0
+92;Fred;Commune;Émeraude;16;0
 93;Truffe;Commune;Émeraude;12;2
 94;Tac;Commune;Émeraude;13;0
-95;Louis;"Peu commune";Émeraude;0;0
+95;Louis;"Peu commune";Émeraude;1;0
 96;Napoléon;"Peu commune";Émeraude;9;0
 97;Tic;"Peu commune";Émeraude;10;1
 98;Fred;Rare;Émeraude;1;0
@@ -122,7 +122,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 121;"Arnold Trufforange";Commune;Rubis;15;0
 122;"Grand Coquin";"Peu commune";Rubis;8;0
 123;"Géo Trouvetou";Rare;"Rubis, Saphir";5;2
-124;"Vanellope von Schweetz";Commune;Rubis;15;0
+124;"Vanellope von Schweetz";Commune;Rubis;16;0
 125;Brutus;Commune;Rubis;13;0
 126;Dodo;Commune;Rubis;13;1
 127;Alice;Commune;Rubis;12;2
@@ -157,7 +157,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 156;Olaf;Commune;Saphir;12;1
 157;Anna;Commune;Saphir;13;0
 158;Wasabi;Commune;Saphir;14;1
-159;"Go Go Tomago";Commune;Saphir;12;3
+159;"Go Go Tomago";Commune;Saphir;13;3
 160;"Madame De Garderobe";Commune;Saphir;15;1
 161;"Madame Samovar";Commune;Saphir;15;0
 162;Jasmine;Commune;Saphir;5;0
@@ -171,7 +171,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 170;Aladdin;Rare;"Saphir, Acier";3;0
 171;Jasmine;"Super rare";"Saphir, Acier";0;0
 172;Roquefort;"Peu commune";Saphir;11;0
-173;"Jumba Jookiba";"Peu commune";Saphir;10;2
+173;"Jumba Jookiba";"Peu commune";Saphir;11;2
 174;Geppetto;Rare;Saphir;4;0
 175;"Nous sommes là pour vous aider";Rare;Saphir;4;0
 176;"Entraînement au bond";"Peu commune";Saphir;7;0
@@ -181,7 +181,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 180;"Cristal atlante";Rare;Saphir;4;0
 181;Atitaya;"Peu commune";Acier;9;0
 182;"Bobby le pigeon";Commune;Acier;13;0
-183;"Tapis Volant";Commune;Acier;12;1
+183;"Tapis Volant";Commune;Acier;13;1
 184;"Prince Achmed";Commune;Acier;13;1
 185;Nazo;Commune;Acier;14;1
 186;"Capitaine Crochet";Commune;Acier;3;1
@@ -196,7 +196,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 195;Iago;Rare;Acier;3;1
 196;"Nathaniel Flint";Rare;Acier;3;0
 197;"Vincenzo Santorini";Rare;Acier;0;0
-198;Namaari;Légendaire;Acier;1;0
+198;Namaari;Légendaire;Acier;1;1
 199;"Mickey Mouse";Légendaire;Acier;0;0
 200;Stitch;Rare;Acier;0;0
 201;"Plan désespéré";Rare;Acier;0;1
