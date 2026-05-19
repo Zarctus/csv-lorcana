@@ -41,7 +41,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 39;Belle;Commune;Améthyste;20;1
 40;Belle;"Super rare";Améthyste;1;0
 41;"Winnie l'ourson";Commune;Améthyste;25;2
-42;"Ombre de Peter Pan";"Super rare";Améthyste;8;0
+42;"Ombre de Peter Pan";"Super rare";Améthyste;7;0
 43;Elsa;Légendaire;Améthyste;0;0
 44;Ursula;"Super rare";Améthyste;6;1
 45;Dumbo;Légendaire;Améthyste;0;0
@@ -152,7 +152,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 150;"Grand Pabbie";Rare;Saphir;9;2
 151;Hadès;Légendaire;Saphir;0;0
 152;"Mama Odie";Rare;Saphir;9;1
-153;Aurore;"Super rare";Saphir;2;0
+153;Aurore;"Super rare";Saphir;1;0
 154;Aurore;Commune;Saphir;23;0
 155;Jasmine;Commune;Saphir;24;0
 156;Belle;"Peu commune";Saphir;16;1
@@ -238,7 +238,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 218;Anna;Épique;Saphir;0;0
 219;"La Reine";Épique;Saphir;0;0
 220;"Robin des Bois";Épique;Acier;0;0
-221;"Mickey Mouse";Épique;Acier;0;1
+221;"Mickey Mouse";Épique;Acier;0;0
 222;"Il me reste un espoir";Épique;Acier;0;1
 241;Minnie;Iconique;Ambre;0;0
 242;"Mickey Mouse";Iconique;Rubis;0;0

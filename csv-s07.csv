@@ -18,7 +18,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 17;"Adèle Machandelle";Commune;Ambre;12;0
 18;Volt;Commune;Ambre;14;0
 19;Pascal;"Peu commune";"Ambre, Améthyste";9;2
-20;"Sa Sucrerie";"Super rare";"Ambre, Rubis";4;2
+20;"Sa Sucrerie";"Super rare";"Ambre, Rubis";4;1
 21;Penny;"Peu commune";"Ambre, Acier";3;1
 22;"Félix Fixe Junior";"Peu commune";"Ambre, Rubis";8;1
 23;Ouragan;"Peu commune";"Ambre, Saphir";1;0
@@ -33,7 +33,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 32;Perla;"Peu commune";"Ambre, Émeraude";6;0
 33;Blanche-Neige;"Peu commune";Ambre;10;0
 34;Koda;"Peu commune";Ambre;10;0
-35;"Mirabel Madrigal";"Super rare";"Ambre, Améthyste";3;1
+35;"Mirabel Madrigal";"Super rare";"Ambre, Améthyste";3;0
 36;Calhoun;Commune;Ambre;14;1
 37;"Pepa Madrigal";Commune;Ambre;11;1
 38;"La vie nous a réunis";Commune;Ambre;13;2
@@ -61,7 +61,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 60;Bucky;Commune;Améthyste;12;1
 61;Peine;Commune;Améthyste;10;1
 62;Rajah;Commune;Améthyste;13;1
-63;Kronk;Rare;"Améthyste, Émeraude";3;1
+63;Kronk;Rare;"Améthyste, Émeraude";3;0
 64;"Mère Gothel";"Peu commune";"Améthyste, Rubis";1;0
 65;Sven;"Peu commune";"Améthyste, Saphir";11;0
 66;Diablo;"Peu commune";"Améthyste, Émeraude";2;0
@@ -160,9 +160,9 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 159;Belle;Commune;Saphir;3;0
 160;Lucky;Rare;Saphir;3;0
 161;Dawson;Rare;Saphir;6;0
-162;Tamatoa;Légendaire;Saphir;1;0
+162;Tamatoa;Légendaire;Saphir;0;0
 163;Heihei;"Peu commune";"Saphir, Acier";8;1
-164;Kida;Rare;Saphir;0;1
+164;Kida;Rare;Saphir;0;0
 165;Toulouse;Commune;Saphir;13;1
 166;Marie;"Peu commune";Saphir;9;1
 167;Pepper;Commune;Saphir;14;1
@@ -173,7 +173,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 172;"Dame Gertrude";"Peu commune";"Saphir, Acier";6;1
 173;Jasmine;Rare;"Saphir, Acier";5;0
 174;"Jebidiah Farnsworth";"Peu commune";Saphir;8;1
-175;Baymax;Rare;Saphir;5;1
+175;Baymax;Rare;Saphir;5;0
 176;"Belle Marianne";"Super rare";"Saphir, Acier";4;0
 177;"L’eau a de la mémoire";Commune;Saphir;15;0
 178;"La berceuse d'Ahtohallan";Rare;Saphir;1;0

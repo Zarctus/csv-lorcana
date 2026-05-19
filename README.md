@@ -10,11 +10,11 @@
 
 
 **Quelques liens aléatoires / Some random links**
-- *[Lorcana - Le retour d'Ursula - Cri-Kee 69/204 - Rare Foil - ID=760](https://www.vinted.fr/items/6192196355-lorcana-le-retour-dursula-cri-kee-69204-rare-foil-id760)*
+- *[Lorcana - L'Ascension des Floodborn - 3x Jafar 184/204 - Commune - ID=400](https://www.vinted.fr/items/6243679364-lorcana-lascension-des-floodborn-3x-jafar-184204-commune-id400)*
+- *[Lorcana - Les Terres d'Encres - 2x Kit 77/204 - Peu commune - ID=513](https://www.vinted.fr/items/6770959924-lorcana-les-terres-dencres-2x-kit-77204-peu-commune-id513)*
+- *[Lorcana - La Mer Azurite - 3x Fred 75/204 - Commune - ID=1274](https://www.vinted.fr/items/7301117220-lorcana-la-mer-azurite-3x-fred-75204-commune-id1274)*
+- *[Lorcana - Contrées Inconnues - Kida 217/204 - Épique Foil - ID=2932](https://www.vinted.fr/items/8936627960-lorcana-contrees-inconnues-kida-217204-epique-foil-id2932)*
 - *[Lorcana - Premier Chapitre - Stitch 206/204 - Enchantée Foil - ID=206](https://www.vinted.fr/items/5990455295-lorcana-premier-chapitre-stitch-206204-enchantee-foil-id206)*
-- *[Lorcana - Lueurs dans les Profondeurs - Quelle Poursuite Infernale 195/204 - Commune Foil - ID=2384](https://www.vinted.fr/items/7955977137-lorcana-lueurs-dans-les-profondeurs-quelle-poursuite-infernale-195204-commune-foil-id2384)*
-- *[Lorcana - Contrées Inconnues - Triple Flèche 222/204 - Épique Foil - ID=2937](https://www.vinted.fr/items/8870861349-lorcana-contrees-inconnues-triple-fleche-222204-epique-foil-id2937)*
-- *[Lorcana - L'ile d' Archazia - 3x Le Prince 24/204 - Peu commune - ID=1457](https://www.vinted.fr/items/6604625777-lorcana-lile-d-archazia-3x-le-prince-24204-peu-commune-id1457)*
 
 
 **🔎 Recherches Lorcana par rareté / Search Lorcana by rarity**
@@ -44,6 +44,11 @@
 
 **🔎 Recherches Lorcana Foils uniquement / Search Lorcana Foils only**
 - *[#Lynadry_FOIL](https://www.vinted.fr/catalog?search_text=%23Lynadry_FOIL)*
+
+
+
+
+
 
 
 
@@ -97,16 +102,16 @@
 | Enchantée | <img src="rarity/rarity_enchanted1.png" alt="Enchantée" width="24" /> | 0 | 0% | 1 | 0.55% |
 | Iconique | <img src="rarity/rarity_iconic.png" alt="Iconique" width="24" /> | 0 | 0% | 1 | 0.55% |
 
-#### Set 12  |  104 boosters
+#### Set 12  |  120 boosters
 | Rarity | Icon | Normal | % Norm | Foil | % Foil |
 |--------|------|--------|--------|------|--------|
-| Commune | <img src="rarity/rarity_common.svg" alt="Commune" width="24" /> | 624 | 100% | 42 | 40.38% |
-| Peu commune | <img src="rarity/rarity_uncommon.svg" alt="Peu commune" width="24" /> | 312 | 100% | 21 | 20.19% |
-| Légendaire | <img src="rarity/rarity_legendary.svg" alt="Légendaire" width="24" /> | 28 | 13.46% | 3 | 2.88% |
-| Épique | <img src="rarity/rarity_epic.png" alt="Épique" width="24" /> | 0 | 0% | 10 | 9.62% |
-| Rare | <img src="rarity/rarity_rare.svg" alt="Rare" width="24" /> | 137 | 65.87% | 20 | 19.23% |
-| Super rare | <img src="rarity/rarity_super_rare.svg" alt="Super rare" width="24" /> | 43 | 20.67% | 7 | 6.73% |
-| Enchantée | <img src="rarity/rarity_enchanted1.png" alt="Enchantée" width="24" /> | 0 | 0% | 1 | 0.96% |
+| Commune | <img src="rarity/rarity_common.svg" alt="Commune" width="24" /> | 720 | 100% | 47 | 39.17% |
+| Peu commune | <img src="rarity/rarity_uncommon.svg" alt="Peu commune" width="24" /> | 360 | 100% | 25 | 20.83% |
+| Légendaire | <img src="rarity/rarity_legendary.svg" alt="Légendaire" width="24" /> | 32 | 13.33% | 3 | 2.5% |
+| Épique | <img src="rarity/rarity_epic.png" alt="Épique" width="24" /> | 0 | 0% | 11 | 9.17% |
+| Rare | <img src="rarity/rarity_rare.svg" alt="Rare" width="24" /> | 158 | 65.83% | 25 | 20.83% |
+| Super rare | <img src="rarity/rarity_super_rare.svg" alt="Super rare" width="24" /> | 50 | 20.83% | 8 | 6.67% |
+| Enchantée | <img src="rarity/rarity_enchanted1.png" alt="Enchantée" width="24" /> | 0 | 0% | 1 | 0.83% |
 | Iconique | <img src="rarity/rarity_iconic.png" alt="Iconique" width="24" /> | 0 | 0% | 0 | 0% |
 
 #### Set 2  |  127 boosters
@@ -206,6 +211,11 @@
 | Iconique | <img src="rarity/rarity_iconic.png" alt="Iconique" width="24" /> | 0 | 0% | 0 | 0% |
 
 <!-- BOOSTER_STATS_END -->
+
+
+
+
+
 
 
 
