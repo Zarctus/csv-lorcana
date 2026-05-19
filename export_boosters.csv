@@ -1,4 +1,30 @@
 saison,number,nom,encre,rareté,is_foil
+"Contrées Inconnues",35,Mor'du,Améthyste,Commune,N
+"Contrées Inconnues",140,Pâquerette,Saphir,Commune,N
+"Contrées Inconnues",77,Karting,Émeraude,Commune,N
+"Contrées Inconnues",111,"Jingle Joe",Rubis,Commune,N
+"Contrées Inconnues",1,"Poussinette Colvert",Ambre,Commune,N
+"Contrées Inconnues",173,Omnidroïde,Acier,Commune,N
+"Contrées Inconnues",151,"Luisa Madrigal",Saphir,"Peu commune",N
+"Contrées Inconnues",184,Omnidroïde,Acier,"Peu commune",N
+"Contrées Inconnues",28,"Les rangers font équipe",Ambre,"Peu commune",N
+"Contrées Inconnues",93,"Helga Sinclair",Émeraude,Rare,N
+"Contrées Inconnues",26,"Mickey Mouse",Ambre,"Super rare",N
+"Contrées Inconnues",223,Jessie,Ambre,Enchantée,Y
+
+"Contrées Inconnues",162,"On leur coupera la tête",Saphir,Commune,N
+"Contrées Inconnues",69,Merida,Émeraude,Commune,N
+"Contrées Inconnues",110,"Preston Whitmore",Rubis,Commune,N
+"Contrées Inconnues",8,"Prince Eric",Ambre,Commune,N
+"Contrées Inconnues",41,Grincheux,Améthyste,Commune,N
+"Contrées Inconnues",203,"Club de Catox",Acier,Commune,N
+"Contrées Inconnues",117,"Jebidiah Farnsworth",Rubis,"Peu commune",N
+"Contrées Inconnues",185,"M. Indestructible",Acier,"Peu commune",N
+"Contrées Inconnues",52,"Mickey Mouse",Améthyste,"Peu commune",N
+"Contrées Inconnues",92,"Cruella d'Enfer",Émeraude,Rare,N
+"Contrées Inconnues",20,Jessie,Ambre,"Super rare",N
+"Contrées Inconnues",129,"Force intérieure",Rubis,Commune,Y
+
 "Contrées Inconnues",46,Frozone,Améthyste,Commune,N
 "Contrées Inconnues",156,"Bruno Madrigal",Saphir,Commune,N
 "Contrées Inconnues",75,"La Reine",Émeraude,Commune,N
@@ -2572,30 +2598,4 @@ Givresort,107,Rouky,Rubis,"Peu commune",N
 Givresort,96,"Geler la Plante",Émeraude,Rare,N
 Givresort,61,"Je voudrais un bonhomme de neige",Améthyste,Rare,N
 Givresort,196,"Garde le feu millénaire",Acier,"Peu commune",Y
-
-Givresort,1,Thomas,Ambre,Commune,N
-Givresort,56,Lumpy,Améthyste,Commune,N
-Givresort,76,Piqueur,Émeraude,Commune,N
-Givresort,129,"Vers notre champ de bataille",Rubis,Commune,N
-Givresort,185,Stitch,Acier,Commune,N
-Givresort,161,Tui,Saphir,Commune,N
-Givresort,71,"Big Mama",Émeraude,"Peu commune",N
-Givresort,55,Jean-Christophe,Améthyste,"Peu commune",N
-Givresort,134,"Maison de comptage de Scrooge",Rubis,"Peu commune",N
-Givresort,7,Stitch,Ambre,Rare,N
-Givresort,182,"Duke Weaselton",Acier,Rare,N
-Givresort,139,Porcinet,Saphir,Commune,Y
-
-Givresort,10,Cromeyer,Ambre,Commune,N
-Givresort,35,Nala,Améthyste,Commune,N
-Givresort,128,"Plus puissant que les ouragans",Rubis,Commune,N
-Givresort,81,Aladdin,Émeraude,Commune,N
-Givresort,143,"Cuicui Bourbifoot",Saphir,Commune,N
-Givresort,200,"Presque invincible",Acier,Commune,N
-Givresort,91,"Mickey Mouse",Émeraude,"Peu commune",N
-Givresort,204,"Tour de Myster Mask",Acier,"Peu commune",N
-Givresort,153,"Calamity Fresque",Saphir,"Peu commune",N
-Givresort,33,"Boussole de John Smith",Ambre,Rare,N
-Givresort,193,"John Smith",Acier,"Super rare",N
-Givresort,10,Cromeyer,Ambre,Commune,Y
 
