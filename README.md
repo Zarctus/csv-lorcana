@@ -10,11 +10,11 @@
 
 
 **Quelques liens aléatoires / Some random links**
-- *[Lorcana - L'Ascension des Floodborn - 3x Jafar 184/204 - Commune - ID=400](https://www.vinted.fr/items/6243679364-lorcana-lascension-des-floodborn-3x-jafar-184204-commune-id400)*
-- *[Lorcana - Les Terres d'Encres - 2x Kit 77/204 - Peu commune - ID=513](https://www.vinted.fr/items/6770959924-lorcana-les-terres-dencres-2x-kit-77204-peu-commune-id513)*
-- *[Lorcana - La Mer Azurite - 3x Fred 75/204 - Commune - ID=1274](https://www.vinted.fr/items/7301117220-lorcana-la-mer-azurite-3x-fred-75204-commune-id1274)*
-- *[Lorcana - Contrées Inconnues - Kida 217/204 - Épique Foil - ID=2932](https://www.vinted.fr/items/8936627960-lorcana-contrees-inconnues-kida-217204-epique-foil-id2932)*
-- *[Lorcana - Premier Chapitre - Stitch 206/204 - Enchantée Foil - ID=206](https://www.vinted.fr/items/5990455295-lorcana-premier-chapitre-stitch-206204-enchantee-foil-id206)*
+- *[Lorcana - Les Terres d'Encres - 3x Grand-Mère Tala 142/204 - Commune - ID=578](https://www.vinted.fr/items/5646745621-lorcana-les-terres-dencres-3x-grand-mere-tala-142204-commune-id578)*
+- *[Lorcana - Fabuleux - Bobby Zimmeruski 78/204 - Peu commune Foil - ID=2014](https://www.vinted.fr/items/7477228461-lorcana-fabuleux-bobby-zimmeruski-78204-peu-commune-foil-id2014)*
+- *[Lorcana - Les Terres d'Encres - 2x Triste Sire 86/204 - Commune - ID=522](https://www.vinted.fr/items/6220765218-lorcana-les-terres-dencres-2x-triste-sire-86204-commune-id522)*
+- *[Lorcana - Lueurs dans les Profondeurs - 2x Basil 179/204 - Commune - ID=2368](https://www.vinted.fr/items/7899113372-lorcana-lueurs-dans-les-profondeurs-2x-basil-179204-commune-id2368)*
+- *[Lorcana - Le retour d'Ursula - Balais Magiques 185/204 - Commune Foil - ID=876](https://www.vinted.fr/items/6116835938-lorcana-le-retour-dursula-balais-magiques-185204-commune-foil-id876)*
 
 
 **🔎 Recherches Lorcana par rareté / Search Lorcana by rarity**
@@ -44,36 +44,6 @@
 
 **🔎 Recherches Lorcana Foils uniquement / Search Lorcana Foils only**
 - *[#Lynadry_FOIL](https://www.vinted.fr/catalog?search_text=%23Lynadry_FOIL)*
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 <!-- BOOSTER_STATS_START -->
@@ -224,33 +194,3 @@
 | Iconique | <img src="rarity/rarity_iconic.png" alt="Iconique" width="24" /> | 0 | 0% | 0 | 0% |
 
 <!-- BOOSTER_STATS_END -->
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
