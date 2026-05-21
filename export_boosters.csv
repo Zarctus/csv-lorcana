@@ -1,4 +1,17 @@
 saison,number,nom,encre,rareté,is_foil
+"Contrées Inconnues",142,"Mirabel Madrigal",Saphir,Commune,N
+"Contrées Inconnues",74,"La Sorcière",Émeraude,Commune,N
+"Contrées Inconnues",131,"Je pourrais m'envoler",Rubis,Commune,N
+"Contrées Inconnues",4,Tac,Ambre,Commune,N
+"Contrées Inconnues",43,Joyeux,Améthyste,Commune,N
+"Contrées Inconnues",182,Catox,Acier,Commune,N
+"Contrées Inconnues",51,Elinor,Améthyste,"Peu commune",N
+"Contrées Inconnues",158,Kashekim,Saphir,"Peu commune",N
+"Contrées Inconnues",189,Dingo,Acier,"Peu commune",N
+"Contrées Inconnues",65,"Ne sois pas si nerveux",Améthyste,Rare,N
+"Contrées Inconnues",10,Rex,Ambre,Rare,N
+"Contrées Inconnues",112,"La grenouille",Rubis,Commune,Y
+
 "Contrées Inconnues",35,Mor'du,Améthyste,Commune,N
 "Contrées Inconnues",140,Pâquerette,Saphir,Commune,N
 "Contrées Inconnues",77,Karting,Émeraude,Commune,N
@@ -2585,17 +2598,4 @@ Givresort,172,"Flagada Jones",Acier,"Peu commune",N
 Givresort,190,"Présidente du Grand Conseil",Acier,Rare,N
 Givresort,193,"John Smith",Acier,"Super rare",N
 Givresort,154,Pat,Saphir,Rare,Y
-
-Givresort,30,"Maman te protégera",Ambre,Commune,N
-Givresort,62,"Viens te battre !",Améthyste,Commune,N
-Givresort,120,Dingo,Rubis,Commune,N
-Givresort,95,"Bataille de boules de neige",Émeraude,Commune,N
-Givresort,139,Porcinet,Saphir,Commune,N
-Givresort,175,"Li Shang",Acier,Commune,N
-Givresort,65,"Collier de la mère",Améthyste,"Peu commune",N
-Givresort,3,Doudou,Ambre,"Peu commune",N
-Givresort,107,Rouky,Rubis,"Peu commune",N
-Givresort,96,"Geler la Plante",Émeraude,Rare,N
-Givresort,61,"Je voudrais un bonhomme de neige",Améthyste,Rare,N
-Givresort,196,"Garde le feu millénaire",Acier,"Peu commune",Y
 

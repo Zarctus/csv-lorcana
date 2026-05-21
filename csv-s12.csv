@@ -2,13 +2,13 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 1;"Poussinette Colvert";Commune;Ambre;11;1
 2;"Jack le Costaud";Commune;Ambre;8;0
 3;Woody;Commune;Ambre;10;0
-4;Tac;Commune;Ambre;10;2
+4;Tac;Commune;Ambre;11;2
 5;"Pedro Madrigal";"Peu commune";Ambre;7;0
 6;"Agustín Madrigal";Commune;Ambre;10;0
 7;"Adam de la Halle";Commune;Ambre;10;1
 8;"Prince Eric";Commune;Ambre;10;0
 9;"Dolores Madrigal";Commune;Ambre;12;1
-10;Rex;Rare;Ambre;0;1
+10;Rex;Rare;Ambre;1;1
 11;Bayonne;"Peu commune";Ambre;9;1
 12;"Jack le Costaud";Rare;Ambre;3;1
 13;"Bo, la bergère";"Peu commune";Ambre;5;1
@@ -41,7 +41,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 40;Prof;"Peu commune";Améthyste;8;0
 41;Grincheux;Commune;Améthyste;11;0
 42;Atchoum;Commune;Améthyste;9;0
-43;Joyeux;Commune;Améthyste;11;0
+43;Joyeux;Commune;Améthyste;12;0
 44;Dormeur;Commune;Améthyste;9;0
 45;"Alma Madrigal";Commune;Améthyste;9;1
 46;Frozone;Commune;Améthyste;11;1
@@ -49,7 +49,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 48;"Violette Parr";"Peu commune";Améthyste;7;1
 49;"Mme Indestructible";Rare;Améthyste;1;1
 50;"Hamish, Hubert et Harris";"Peu commune";Améthyste;6;1
-51;Elinor;"Peu commune";Améthyste;6;1
+51;Elinor;"Peu commune";Améthyste;7;1
 52;"Mickey Mouse";"Peu commune";Améthyste;8;0
 53;Mirage;Commune;Améthyste;10;0
 54;"Edna Mode";Rare;Améthyste;2;0
@@ -63,7 +63,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 62;"Luisa Madrigal";Commune;Améthyste;8;1
 63;"Programme de réinsertion des Supers";Commune;Améthyste;9;1
 64;"Tous derrière toi";"Peu commune";Améthyste;6;0
-65;"Ne sois pas si nerveux";Rare;Améthyste;1;0
+65;"Ne sois pas si nerveux";Rare;Améthyste;2;0
 66;Super-costume;"Peu commune";Améthyste;6;0
 67;"Tapisserie familiale de DunBroch";Rare;Améthyste;3;0
 68;"Cercle de pierres";Rare;Améthyste;1;0
@@ -72,7 +72,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 71;"Le fils MacGuffin";Commune;Émeraude;11;0
 72;Rox;Commune;Émeraude;9;1
 73;"Helga Sinclair";Commune;Émeraude;10;0
-74;"La Sorcière";Commune;Émeraude;10;1
+74;"La Sorcière";Commune;Émeraude;11;1
 75;"La Reine";Commune;Émeraude;9;1
 76;"Buzz l'Éclair";Commune;Émeraude;10;1
 77;Karting;Commune;Émeraude;11;1
@@ -110,7 +110,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 109;Zeus;"Peu commune";Rubis;8;1
 110;"Preston Whitmore";Commune;Rubis;11;0
 111;"Jingle Joe";Commune;Rubis;10;1
-112;"La grenouille";Commune;Rubis;9;1
+112;"La grenouille";Commune;Rubis;9;2
 113;"Roller Bob";"Peu commune";Rubis;8;0
 114;"La Main dans la Boîte";"Peu commune";Rubis;6;0
 115;Daisy;"Peu commune";Rubis;6;0
@@ -129,7 +129,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 128;"La poupée ptérodactyle";Commune;Rubis;12;2
 129;"Force intérieure";Commune;Rubis;11;2
 130;"Essaim de lucioles";"Peu commune";Rubis;7;0
-131;"Je pourrais m'envoler";Commune;Rubis;8;0
+131;"Je pourrais m'envoler";Commune;Rubis;9;0
 132;Super-héroïsme;Rare;Rubis;3;1
 133;"Plan dangereux";Commune;Rubis;10;1
 134;"Invocateur d’Encre d’Amazu";"Peu commune";Rubis;7;1
@@ -140,7 +140,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 139;Pimprenelle;"Peu commune";Saphir;1;0
 140;Pâquerette;Commune;Saphir;11;1
 141;Flora;Rare;Saphir;5;0
-142;"Mirabel Madrigal";Commune;Saphir;9;1
+142;"Mirabel Madrigal";Commune;Saphir;10;1
 143;Syndrome;Commune;Saphir;11;0
 144;Kida;Commune;Saphir;8;0
 145;Gadget;"Super rare";Saphir;3;1
@@ -156,7 +156,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 155;Cendrillon;Rare;Saphir;3;0
 156;"Bruno Madrigal";Commune;Saphir;12;1
 157;Kida;Rare;Saphir;1;0
-158;Kashekim;"Peu commune";Saphir;5;1
+158;Kashekim;"Peu commune";Saphir;6;1
 159;Minnie;"Peu commune";Saphir;7;0
 160;Kida;Légendaire;Saphir;1;0
 161;Ursula;Légendaire;Saphir;2;0
@@ -180,14 +180,14 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 179;"Mme Indestructible";Commune;Acier;10;1
 180;"Le fils Macintosh";Commune;Acier;9;1
 181;"Seigneur Macintosh";"Peu commune";Acier;7;1
-182;Catox;Commune;Acier;9;2
+182;Catox;Commune;Acier;10;2
 183;"Rat Capone";Commune;Acier;10;0
 184;Omnidroïde;"Peu commune";Acier;8;0
 185;"M. Indestructible";"Peu commune";Acier;8;0
 186;"Seigneur Dingwall";"Peu commune";Acier;8;0
 187;Catox;Rare;Acier;3;1
 188;Maude;"Peu commune";Acier;7;1
-189;Dingo;"Peu commune";Acier;7;1
+189;Dingo;"Peu commune";Acier;8;1
 190;Omnidroïde;Rare;Acier;2;1
 191;Merida;Légendaire;Acier;1;0
 192;"John Smith";Rare;Acier;5;0
