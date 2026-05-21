@@ -1,4 +1,43 @@
 saison,number,nom,encre,rareté,is_foil
+"Contrées Inconnues",62,"Luisa Madrigal",Améthyste,Commune,N
+"Contrées Inconnues",147,Gadget,Saphir,Commune,N
+"Contrées Inconnues",71,"Le fils MacGuffin",Émeraude,Commune,N
+"Contrées Inconnues",110,"Preston Whitmore",Rubis,Commune,N
+"Contrées Inconnues",4,Tac,Ambre,Commune,N
+"Contrées Inconnues",174,Angus,Acier,Commune,N
+"Contrées Inconnues",36,"Alma Madrigal",Améthyste,"Peu commune",N
+"Contrées Inconnues",13,"Bo, la bergère",Ambre,"Peu commune",N
+"Contrées Inconnues",81,"Peter Pan",Émeraude,"Peu commune",N
+"Contrées Inconnues",103,"Lyle Tiberius Rourke",Rubis,Rare,N
+"Contrées Inconnues",125,"Le Léviathan",Rubis,"Super rare",N
+"Contrées Inconnues",73,"Helga Sinclair",Émeraude,Commune,Y
+
+"Contrées Inconnues",166,"Arepas de Julieta",Saphir,Commune,N
+"Contrées Inconnues",96,Sabotage,Émeraude,Commune,N
+"Contrées Inconnues",105,"Lyle Tiberius Rourke",Rubis,Commune,N
+"Contrées Inconnues",17,Pile-Poil,Ambre,Commune,N
+"Contrées Inconnues",63,"Programme de réinsertion des Supers",Améthyste,Commune,N
+"Contrées Inconnues",179,"Mme Indestructible",Acier,Commune,N
+"Contrées Inconnues",5,"Pedro Madrigal",Ambre,"Peu commune",N
+"Contrées Inconnues",87,"Lyle Tiberius Rourke",Émeraude,"Peu commune",N
+"Contrées Inconnues",169,"Le Manuscrit du Berger",Saphir,"Peu commune",N
+"Contrées Inconnues",187,Catox,Acier,Rare,N
+"Contrées Inconnues",15,Woody,Ambre,Légendaire,N
+"Contrées Inconnues",215,"M. Indestructible",Rubis,Épique,Y
+
+"Contrées Inconnues",47,"Feux follets",Améthyste,Commune,N
+"Contrées Inconnues",138,"Prince charmant",Saphir,Commune,N
+"Contrées Inconnues",73,"Helga Sinclair",Émeraude,Commune,N
+"Contrées Inconnues",107,"Audrey Ramirez",Rubis,Commune,N
+"Contrées Inconnues",3,Woody,Ambre,Commune,N
+"Contrées Inconnues",200,"Ventouse au harpon",Acier,Commune,N
+"Contrées Inconnues",115,Daisy,Rubis,"Peu commune",N
+"Contrées Inconnues",100,Gyro-Evac,Émeraude,"Peu commune",N
+"Contrées Inconnues",51,Elinor,Améthyste,"Peu commune",N
+"Contrées Inconnues",65,"Ne sois pas si nerveux",Améthyste,Rare,N
+"Contrées Inconnues",154,"Bruno Madrigal",Saphir,Rare,N
+"Contrées Inconnues",152,"Irma Tièregrise",Saphir,Commune,Y
+
 "Contrées Inconnues",142,"Mirabel Madrigal",Saphir,Commune,N
 "Contrées Inconnues",74,"La Sorcière",Émeraude,Commune,N
 "Contrées Inconnues",131,"Je pourrais m'envoler",Rubis,Commune,N
@@ -2559,43 +2598,4 @@ Fabuleux,170,Motunui,Saphir,"Peu commune",N
 Fabuleux,105,Simba,Rubis,Rare,N
 Fabuleux,141,Alice,Saphir,Rare,N
 Fabuleux,55,Olaf,Améthyste,"Peu commune",Y
-
-Fabuleux,61,"Pauvres âmes en perdition",Améthyste,Commune,N
-Fabuleux,27,"Guéris les blessures",Ambre,Commune,N
-Fabuleux,112,"Max Dingo",Rubis,Commune,N
-Fabuleux,79,Mégara,Émeraude,Commune,N
-Fabuleux,196,Ariel,Acier,Commune,N
-Fabuleux,147,Polochon,Saphir,Commune,N
-Fabuleux,23,"La Reine de Cœur",Ambre,"Peu commune",N
-Fabuleux,46,Dumbo,Améthyste,"Peu commune",N
-Fabuleux,167,"Gyroscope lumineux",Saphir,"Peu commune",N
-Fabuleux,137,Anna,Saphir,Rare,N
-Fabuleux,33,"Pendentif en Coquillage d'Ursula",Ambre,Rare,N
-Fabuleux,88,"La Fée Clochette",Émeraude,Commune,Y
-
-Fabuleux,68,"Casa Madrigal",Améthyste,Commune,N
-Fabuleux,27,"Guéris les blessures",Ambre,Commune,N
-Fabuleux,112,"Max Dingo",Rubis,Commune,N
-Fabuleux,98,"Concocter la Potion",Émeraude,Commune,N
-Fabuleux,180,Benja,Acier,Commune,N
-Fabuleux,144,Mufasa,Saphir,Commune,N
-Fabuleux,99,"N'écoute que Moi",Émeraude,"Peu commune",N
-Fabuleux,113,Roxane,Rubis,"Peu commune",N
-Fabuleux,202,"Tous avec moi !",Acier,"Peu commune",N
-Fabuleux,5,Minnie,Ambre,"Super rare",N
-Fabuleux,87,Shenzi,Émeraude,"Super rare",N
-Fabuleux,222,"Il me reste un espoir",Acier,Épique,Y
-
-Givresort,27,Percy,Ambre,Commune,N
-Givresort,54,"Vaches de l’espace",Améthyste,Commune,N
-Givresort,76,Piqueur,Émeraude,Commune,N
-Givresort,129,"Vers notre champ de bataille",Rubis,Commune,N
-Givresort,177,"Flagada Jones",Acier,Commune,N
-Givresort,161,Tui,Saphir,Commune,N
-Givresort,91,"Mickey Mouse",Émeraude,"Peu commune",N
-Givresort,125,Elsa,Rubis,"Peu commune",N
-Givresort,172,"Flagada Jones",Acier,"Peu commune",N
-Givresort,190,"Présidente du Grand Conseil",Acier,Rare,N
-Givresort,193,"John Smith",Acier,"Super rare",N
-Givresort,154,Pat,Saphir,Rare,Y
 
