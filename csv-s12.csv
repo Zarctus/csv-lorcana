@@ -8,7 +8,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 7;"Adam de la Halle";Commune;Ambre;10;1
 8;"Prince Eric";Commune;Ambre;10;0
 9;"Dolores Madrigal";Commune;Ambre;12;1
-10;Rex;Rare;Ambre;1;1
+10;Rex;Rare;Ambre;1;0
 11;Bayonne;"Peu commune";Ambre;9;1
 12;"Jack le Costaud";Rare;Ambre;3;1
 13;"Bo, la bergère";"Peu commune";Ambre;6;1
@@ -194,7 +194,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 193;Robotik;Rare;Acier;3;0
 194;Fergus;"Super rare";Acier;4;0
 195;"Mme Indestructible";Légendaire;Acier;1;0
-196;Diablo;"Super rare";Acier;4;1
+196;Diablo;"Super rare";Acier;4;0
 197;"Triple flèche";"Peu commune";Acier;7;1
 198;"Cartes bonus";"Peu commune";Acier;6;1
 199;"Vers le ciel";Rare;Acier;1;0
