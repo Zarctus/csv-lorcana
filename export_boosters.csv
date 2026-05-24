@@ -1,4 +1,56 @@
 saison,number,nom,encre,rareté,is_foil
+"Contrées Inconnues",43,Joyeux,Améthyste,Commune,N
+"Contrées Inconnues",166,"Arepas de Julieta",Saphir,Commune,N
+"Contrées Inconnues",96,Sabotage,Émeraude,Commune,N
+"Contrées Inconnues",105,"Lyle Tiberius Rourke",Rubis,Commune,N
+"Contrées Inconnues",17,Pile-Poil,Ambre,Commune,N
+"Contrées Inconnues",182,Catox,Acier,Commune,N
+"Contrées Inconnues",115,Daisy,Rubis,"Peu commune",N
+"Contrées Inconnues",100,Gyro-Evac,Émeraude,"Peu commune",N
+"Contrées Inconnues",51,Elinor,Améthyste,"Peu commune",N
+"Contrées Inconnues",57,Mor'du,Améthyste,"Super rare",N
+"Contrées Inconnues",195,"Mme Indestructible",Acier,Légendaire,N
+"Contrées Inconnues",108,"Milo Thatch",Rubis,Commune,Y
+
+"Contrées Inconnues",140,Pâquerette,Saphir,Commune,N
+"Contrées Inconnues",77,Karting,Émeraude,Commune,N
+"Contrées Inconnues",111,"Jingle Joe",Rubis,Commune,N
+"Contrées Inconnues",1,"Poussinette Colvert",Ambre,Commune,N
+"Contrées Inconnues",46,Frozone,Améthyste,Commune,N
+"Contrées Inconnues",200,"Ventouse au harpon",Acier,Commune,N
+"Contrées Inconnues",66,Super-costume,Améthyste,"Peu commune",N
+"Contrées Inconnues",165,"Réparations de fortune",Saphir,"Peu commune",N
+"Contrées Inconnues",198,"Cartes bonus",Acier,"Peu commune",N
+"Contrées Inconnues",199,"Vers le ciel",Acier,Rare,N
+"Contrées Inconnues",68,"Cercle de pierres",Améthyste,Rare,N
+"Contrées Inconnues",144,Kida,Saphir,Commune,Y
+
+"Contrées Inconnues",53,Mirage,Améthyste,Commune,N
+"Contrées Inconnues",170,"Casa Madrigal",Saphir,Commune,N
+"Contrées Inconnues",101,"Arc de Merida",Émeraude,Commune,N
+"Contrées Inconnues",106,Pégase,Rubis,Commune,N
+"Contrées Inconnues",6,"Agustín Madrigal",Ambre,Commune,N
+"Contrées Inconnues",183,"Rat Capone",Acier,Commune,N
+"Contrées Inconnues",146,"Professeur Nimnul",Saphir,"Peu commune",N
+"Contrées Inconnues",114,"La Main dans la Boîte",Rubis,"Peu commune",N
+"Contrées Inconnues",202,"Porte du Club",Acier,"Peu commune",N
+"Contrées Inconnues",195,"Mme Indestructible",Acier,Légendaire,N
+"Contrées Inconnues",90,"La Reine",Émeraude,Légendaire,N
+"Contrées Inconnues",172,Syndrome,Acier,"Super rare",Y
+
+"Contrées Inconnues",137,"Robin des Bois",Saphir,Commune,N
+"Contrées Inconnues",75,"La Reine",Émeraude,Commune,N
+"Contrées Inconnues",112,"La grenouille",Rubis,Commune,N
+"Contrées Inconnues",24,"Julieta Madrigal",Ambre,Commune,N
+"Contrées Inconnues",35,Mor'du,Améthyste,Commune,N
+"Contrées Inconnues",180,"Le fils Macintosh",Acier,Commune,N
+"Contrées Inconnues",13,"Bo, la bergère",Ambre,"Peu commune",N
+"Contrées Inconnues",81,"Peter Pan",Émeraude,"Peu commune",N
+"Contrées Inconnues",146,"Professeur Nimnul",Saphir,"Peu commune",N
+"Contrées Inconnues",93,"Helga Sinclair",Émeraude,Rare,N
+"Contrées Inconnues",153,"Isabela Madrigal",Saphir,"Super rare",N
+"Contrées Inconnues",154,"Bruno Madrigal",Saphir,Rare,Y
+
 "Contrées Inconnues",41,Grincheux,Améthyste,Commune,N
 "Contrées Inconnues",142,"Mirabel Madrigal",Saphir,Commune,N
 "Contrées Inconnues",74,"La Sorcière",Émeraude,Commune,N
@@ -2546,56 +2598,4 @@ Givresort,137,"Petit Gourou",Saphir,"Peu commune",N
 Givresort,21,Reuben,Ambre,Rare,N
 Givresort,24,Bambi,Ambre,"Super rare",N
 Givresort,122,Olaf,Rubis,Rare,Y
-
-Givresort,12,Sarabi,Ambre,Commune,N
-Givresort,43,"Myster Mask",Améthyste,Commune,N
-Givresort,136,"Château de la Bête",Rubis,Commune,N
-Givresort,76,Piqueur,Émeraude,Commune,N
-Givresort,200,"Presque invincible",Acier,Commune,N
-Givresort,139,Porcinet,Saphir,Commune,N
-Givresort,36,Alice,Améthyste,"Peu commune",N
-Givresort,20,Nani,Ambre,"Peu commune",N
-Givresort,169,"Appareil à gaz de Myster Mask",Saphir,"Peu commune",N
-Givresort,190,"Présidente du Grand Conseil",Acier,Rare,N
-Givresort,124,"Balthazar Picsou",Rubis,"Super rare",N
-Givresort,50,Anna,Améthyste,Légendaire,Y
-
-Givresort,4,Pumbaa,Ambre,Commune,N
-Givresort,37,Tigrou,Améthyste,Commune,N
-Givresort,72,Minnie,Émeraude,Commune,N
-Givresort,129,"Vers notre champ de bataille",Rubis,Commune,N
-Givresort,174,"Myster Mask",Acier,Commune,N
-Givresort,140,"Mickey Mouse",Saphir,Commune,N
-Givresort,11,Powhatan,Ambre,"Peu commune",N
-Givresort,189,Gigi,Acier,"Peu commune",N
-Givresort,144,Daisy,Saphir,"Peu commune",N
-Givresort,101,Bélier,Émeraude,Rare,N
-Givresort,159,"Mickey Mouse",Saphir,Rare,N
-Givresort,16,Timon,Ambre,Rare,Y
-
-Fabuleux,67,Rose-Lanterne,Améthyste,Commune,N
-Fabuleux,21,Pluto,Ambre,Commune,N
-Fabuleux,114,"Pat Junior",Rubis,Commune,N
-Fabuleux,80,"Mickey Mouse",Émeraude,Commune,N
-Fabuleux,203,"Miroir de la Bête",Acier,Commune,N
-Fabuleux,148,Hans,Saphir,Commune,N
-Fabuleux,57,"Mama Odie",Améthyste,"Peu commune",N
-Fabuleux,99,"N'écoute que Moi",Émeraude,"Peu commune",N
-Fabuleux,187,Lawrence,Acier,"Peu commune",N
-Fabuleux,15,Ariel,Ambre,Rare,N
-Fabuleux,106,Maui,Rubis,Rare,N
-Fabuleux,5,Minnie,Ambre,"Super rare",Y
-
-Fabuleux,50,Tic-Tac,Améthyste,Commune,N
-Fabuleux,9,Stitch,Ambre,Commune,N
-Fabuleux,136,Agrabah,Rubis,Commune,N
-Fabuleux,88,"La Fée Clochette",Émeraude,Commune,N
-Fabuleux,183,Bourriquet,Acier,Commune,N
-Fabuleux,155,Jasmine,Saphir,Commune,N
-Fabuleux,65,"Miroir Magique",Améthyste,"Peu commune",N
-Fabuleux,86,Heihei,Émeraude,"Peu commune",N
-Fabuleux,193,"Li Shang",Acier,"Peu commune",N
-Fabuleux,135,"Clochette du dîner",Rubis,Rare,N
-Fabuleux,89,"John Silver",Émeraude,Légendaire,N
-Fabuleux,84,Pégase,Émeraude,Commune,Y
 
