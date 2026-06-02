@@ -14,7 +14,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 13;"Grand-Mère Feuillage";"Peu commune";Ambre;9;0
 14;"Cobra Bubbles";Rare;Ambre;6;0
 15;"John Smith";"Peu commune";Ambre;10;0
-16;Timon;Rare;Ambre;2;1
+16;Timon;Rare;Ambre;2;0
 17;Lilo;"Super rare";Ambre;2;0
 18;Pikly;"Peu commune";Ambre;10;2
 19;"Jumba Jookiba";Rare;Ambre;9;0
@@ -30,7 +30,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 29;"Akood et Emuti";Rare;Ambre;1;0
 30;"Maman te protégera";Commune;Ambre;16;1
 31;"La sagesse du saule";"Peu commune";Ambre;10;0
-32;"Ohana signifie famille";Légendaire;Ambre;1;0
+32;"Ohana signifie famille";Légendaire;Ambre;0;0
 33;"Boussole de John Smith";Rare;Ambre;7;0
 34;Zootopie;Commune;Ambre;17;0
 35;Nala;Commune;Améthyste;17;0

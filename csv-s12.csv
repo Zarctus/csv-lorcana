@@ -2,7 +2,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 1;"Poussinette Colvert";Commune;Ambre;15;1
 2;"Jack le Costaud";Commune;Ambre;14;0
 3;Woody;Commune;Ambre;15;0
-4;Tac;Commune;Ambre;15;2
+4;Tac;Commune;Ambre;15;1
 5;"Pedro Madrigal";"Peu commune";Ambre;10;0
 6;"Agustín Madrigal";Commune;Ambre;15;0
 7;"Adam de la Halle";Commune;Ambre;14;1
@@ -12,7 +12,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 11;Bayonne;"Peu commune";Ambre;11;1
 12;"Jack le Costaud";Rare;Ambre;5;1
 13;"Bo, la bergère";"Peu commune";Ambre;9;1
-14;Tic;"Peu commune";Ambre;8;1
+14;Tic;"Peu commune";Ambre;8;0
 15;Woody;Légendaire;Ambre;1;0
 16;"Isabela Madrigal";"Peu commune";Ambre;8;0
 17;Pile-Poil;Commune;Ambre;12;1
@@ -25,7 +25,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 24;"Julieta Madrigal";Commune;Ambre;15;2
 25;Pluto;"Peu commune";Ambre;9;0
 26;"Mickey Mouse";"Super rare";Ambre;4;0
-27;Tic;Commune;Ambre;15;2
+27;Tic;Commune;Ambre;15;1
 28;"Les rangers font équipe";"Peu commune";Ambre;10;0
 29;"L’énorme pression";Commune;Ambre;14;0
 30;"Je suis ton ami";"Super rare";Ambre;0;1
