@@ -10,11 +10,11 @@
 
 
 **Quelques liens aléatoires / Some random links**
-- *[Lorcana - Ciel Scintillant - 3x Vaiana 18/204 - Rare - ID=974](https://www.vinted.fr/items/7751240344-lorcana-ciel-scintillant-3x-vaiana-18204-rare-id974)*
-- *[Lorcana - Lueurs dans les Profondeurs - 2x Potion De Malice 98/204 - Super rare - ID=2287](https://www.vinted.fr/items/7736101237-lorcana-lueurs-dans-les-profondeurs-2x-potion-de-malice-98204-super-rare-id2287)*
-- *[Lorcana - Contrées Inconnues - 3x Buzz L'Éclair 76/204 - Commune - ID=2791](https://www.vinted.fr/items/8898114442-lorcana-contrees-inconnues-3x-buzz-leclair-76204-commune-id2791)*
-- *[Lorcana - La Mer Azurite - 2x Raya 107/204 - Rare - ID=1306](https://www.vinted.fr/items/6197973236-lorcana-la-mer-azurite-2x-raya-107204-rare-id1306)*
-- *[Lorcana - Premier Chapitre - 3x Allumez Les Mêches ! 197/204 - Commune - ID=197](https://www.vinted.fr/items/5404987119-lorcana-premier-chapitre-3x-allumez-les-meches-197204-commune-id197)*
+- *[Lorcana - Lueurs dans les Profondeurs - 3x Flynn Rider 81/204 - Peu commune - ID=2270](https://www.vinted.fr/items/7778381986-lorcana-lueurs-dans-les-profondeurs-3x-flynn-rider-81204-peu-commune-id2270)*
+- *[Lorcana - Lueurs dans les Profondeurs - Bagheera 12/204 - Peu commune Foil - ID=2201](https://www.vinted.fr/items/7531428412-lorcana-lueurs-dans-les-profondeurs-bagheera-12204-peu-commune-foil-id2201)*
+- *[Lorcana - Le Règne de Jafar - 3x Génie 189/204 - Commune - ID=1853](https://www.vinted.fr/items/6549870951-lorcana-le-regne-de-jafar-3x-genie-189204-commune-id1853)*
+- *[Lorcana - Contrées Inconnues - 2x Frozone 59/204 - Rare - ID=2774](https://www.vinted.fr/items/8970655702-lorcana-contrees-inconnues-2x-frozone-59204-rare-id2774)*
+- *[Lorcana - La Mer Azurite - Sisu 54/204 - Super rare - ID=1253](https://www.vinted.fr/items/6115806118-lorcana-la-mer-azurite-sisu-54204-super-rare-id1253)*
 
 
 **🔎 Recherches Lorcana par rareté / Search Lorcana by rarity**
@@ -44,20 +44,6 @@
 
 **🔎 Recherches Lorcana Foils uniquement / Search Lorcana Foils only**
 - *[#Lynadry_FOIL](https://www.vinted.fr/catalog?search_text=%23Lynadry_FOIL)*
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 <!-- BOOSTER_STATS_START -->
@@ -208,17 +194,3 @@
 | Iconique | <img src="rarity/rarity_iconic.png" alt="Iconique" width="24" /> | 0 | 0% | 0 | 0% |
 
 <!-- BOOSTER_STATS_END -->
-
-
-
-
-
-
-
-
-
-
-
-
-
-
