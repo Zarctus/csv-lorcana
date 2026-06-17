@@ -10,11 +10,11 @@
 
 
 **Quelques liens aléatoires / Some random links**
-- *[Lorcana - Lueurs dans les Profondeurs - 3x Balthazar Picsou 18/204 - Rare - ID=2207](https://www.vinted.fr/items/7736078411-lorcana-lueurs-dans-les-profondeurs-3x-balthazar-picsou-18204-rare-id2207)*
-- *[Lorcana - Contrées Inconnues - Kida 217/204 - Épique Foil - ID=2932](https://www.vinted.fr/items/8936627960-lorcana-contrees-inconnues-kida-217204-epique-foil-id2932)*
-- *[Lorcana - Contrées Inconnues - La Reine 90/204 - Légendaire - ID=2805](https://www.vinted.fr/items/8934277715-lorcana-contrees-inconnues-la-reine-90204-legendaire-id2805)*
-- *[Lorcana - Fabuleux - 3x Donald 85/204 - Peu commune - ID=2021](https://www.vinted.fr/items/7038576357-lorcana-fabuleux-3x-donald-85204-peu-commune-id2021)*
-- *[Lorcana - Fabuleux - 3x Ursula 90/204 - Peu commune - ID=2026](https://www.vinted.fr/items/7289621565-lorcana-fabuleux-3x-ursula-90204-peu-commune-id2026)*
+- *[Lorcana - Les Terres d'Encres - 2x Diablo 37/204 - Commune - ID=473](https://www.vinted.fr/items/6506304190-lorcana-les-terres-dencres-2x-diablo-37204-commune-id473)*
+- *[Lorcana - Lueurs dans les Profondeurs - 2x Bronx 114/204 - Commune - ID=2303](https://www.vinted.fr/items/7954606131-lorcana-lueurs-dans-les-profondeurs-2x-bronx-114204-commune-id2303)*
+- *[Lorcana - L'Ascension des Floodborn - 3x Hypnotiser 98/204 - Commune - ID=314](https://www.vinted.fr/items/6095555160-lorcana-lascension-des-floodborn-3x-hypnotiser-98204-commune-id314)*
+- *[Lorcana - Givresort - 4x Stitch 70/204 - Commune - ID=2533](https://www.vinted.fr/items/8223693693-lorcana-givresort-4x-stitch-70204-commune-id2533)*
+- *[Lorcana - Givresort - Ralph La Casse 103/204 - Légendaire - ID=2566](https://www.vinted.fr/items/9016386423-lorcana-givresort-ralph-la-casse-103204-legendaire-id2566)*
 
 
 **🔎 Recherches Lorcana par rareté / Search Lorcana by rarity**
@@ -44,20 +44,6 @@
 
 **🔎 Recherches Lorcana Foils uniquement / Search Lorcana Foils only**
 - *[#Lynadry_FOIL](https://www.vinted.fr/catalog?search_text=%23Lynadry_FOIL)*
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 <!-- BOOSTER_STATS_START -->
@@ -208,17 +194,3 @@
 | Iconique | <img src="rarity/rarity_iconic.png" alt="Iconique" width="24" /> | 0 | 0% | 0 | 0% |
 
 <!-- BOOSTER_STATS_END -->
-
-
-
-
-
-
-
-
-
-
-
-
-
-
