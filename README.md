@@ -10,11 +10,11 @@
 
 
 **Quelques liens aléatoires / Some random links**
-- *[Lorcana - L'ile d' Archazia - Les Problèmes Vont Par Paire 202/204 - Peu commune Foil - ID=1635](https://www.vinted.fr/items/6631802549-lorcana-lile-d-archazia-les-problemes-vont-par-paire-202204-peu-commune-foil-id1635)*
-- *[Lorcana - Fabuleux - Prince Philippe 72/204 - Rare - ID=2008](https://www.vinted.fr/items/7471467345-lorcana-fabuleux-prince-philippe-72204-rare-id2008)*
-- *[Lorcana - Premier Chapitre - 3x Simba 188/204 - Commune - ID=188](https://www.vinted.fr/items/5687382497-lorcana-premier-chapitre-3x-simba-188204-commune-id188)*
-- *[Lorcana - Le retour d'Ursula - Aladdin 172/204 - Commune Foil - ID=863](https://www.vinted.fr/items/7891565748-lorcana-le-retour-dursula-aladdin-172204-commune-foil-id863)*
-- *[Lorcana - Les Terres d'Encres - Ariel 103/204 - Super rare - ID=539](https://www.vinted.fr/items/5835816506-lorcana-les-terres-dencres-ariel-103204-super-rare-id539)*
+- *[Lorcana - Fabuleux - 2x Aurore 154/204 - Commune - ID=2090](https://www.vinted.fr/items/7928301148-lorcana-fabuleux-2x-aurore-154204-commune-id2090)*
+- *[Lorcana - Givresort - Garde Le Feu Millénaire 196/204 - Peu commune - ID=2659](https://www.vinted.fr/items/9126859428-lorcana-givresort-garde-le-feu-millenaire-196204-peu-commune-id2659)*
+- *[Lorcana - L'Ascension des Floodborn - Merlin 53/204 - Rare Foil - ID=269](https://www.vinted.fr/items/5830072437-lorcana-lascension-des-floodborn-merlin-53204-rare-foil-id269)*
+- *[Lorcana - Contrées Inconnues - 2x Que Sais-Je Faire D’autre ? 163/204 - Rare - ID=2878](https://www.vinted.fr/items/8889846974-lorcana-contrees-inconnues-2x-que-sais-je-faire-dautre-163204-rare-id2878)*
+- *[Lorcana - Ciel Scintillant - 2x Vision De L'Avenir 160/204 - Commune - ID=1116](https://www.vinted.fr/items/5449269699-lorcana-ciel-scintillant-2x-vision-de-lavenir-160204-commune-id1116)*
 
 
 **🔎 Recherches Lorcana par rareté / Search Lorcana by rarity**
@@ -44,20 +44,6 @@
 
 **🔎 Recherches Lorcana Foils uniquement / Search Lorcana Foils only**
 - *[#Lynadry_FOIL](https://www.vinted.fr/catalog?search_text=%23Lynadry_FOIL)*
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 <!-- BOOSTER_STATS_START -->
@@ -208,17 +194,3 @@
 | Iconique | <img src="rarity/rarity_iconic.png" alt="Iconique" width="24" /> | 0 | 0% | 0 | 0% |
 
 <!-- BOOSTER_STATS_END -->
-
-
-
-
-
-
-
-
-
-
-
-
-
-
