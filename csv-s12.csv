@@ -9,7 +9,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 8;"Prince Eric";Commune;Ambre;14;0
 9;"Dolores Madrigal";Commune;Ambre;15;2
 10;Rex;Rare;Ambre;2;1
-11;Bayonne;"Peu commune";Ambre;11;1
+11;Bayonne;"Peu commune";Ambre;11;0
 12;"Jack le Costaud";Rare;Ambre;5;1
 13;"Bo, la bergère";"Peu commune";Ambre;9;1
 14;Tic;"Peu commune";Ambre;8;0
@@ -24,7 +24,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 23;"Le Prince";Rare;Ambre;6;0
 24;"Julieta Madrigal";Commune;Ambre;15;2
 25;Pluto;"Peu commune";Ambre;9;0
-26;"Mickey Mouse";"Super rare";Ambre;4;0
+26;"Mickey Mouse";"Super rare";Ambre;1;0
 27;Tic;Commune;Ambre;15;1
 28;"Les rangers font équipe";"Peu commune";Ambre;10;0
 29;"L’énorme pression";Commune;Ambre;14;0
@@ -47,7 +47,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 46;Frozone;Commune;Améthyste;15;1
 47;"Feux follets";Commune;Améthyste;14;0
 48;"Violette Parr";"Peu commune";Améthyste;11;1
-49;"Mme Indestructible";Rare;Améthyste;2;1
+49;"Mme Indestructible";Rare;Améthyste;2;0
 50;"Hamish, Hubert et Harris";"Peu commune";Améthyste;9;1
 51;Elinor;"Peu commune";Améthyste;11;1
 52;"Mickey Mouse";"Peu commune";Améthyste;10;1
@@ -80,11 +80,11 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 79;Lenny;Rare;Émeraude;5;1
 80;"Gaëtan Molière";"Peu commune";Émeraude;9;1
 81;"Peter Pan";"Peu commune";Émeraude;10;1
-82;"Milo Thatch";"Super rare";Émeraude;4;1
+82;"Milo Thatch";"Super rare";Émeraude;4;0
 83;Alien;Rare;Émeraude;5;1
 84;Donald;"Peu commune";Émeraude;11;0
 85;"Buzz l'Éclair";Rare;Émeraude;4;0
-86;Elinor;"Super rare";Émeraude;1;1
+86;Elinor;"Super rare";Émeraude;0;0
 87;"Lyle Tiberius Rourke";"Peu commune";Émeraude;10;1
 88;"Amadou Gentil";Commune;Émeraude;14;2
 89;Merida;Rare;Émeraude;5;0
@@ -100,7 +100,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 99;"Le Grappin";Rare;Émeraude;5;1
 100;Gyro-Evac;"Peu commune";Émeraude;10;1
 101;"Arc de Merida";Commune;Émeraude;14;0
-102;"Pizza Planet";Rare;Émeraude;6;1
+102;"Pizza Planet";Rare;Émeraude;6;0
 103;"Lyle Tiberius Rourke";Rare;Rubis;6;1
 104;"M. Indestructible";Commune;Rubis;15;0
 105;"Lyle Tiberius Rourke";Commune;Rubis;15;0
@@ -110,7 +110,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 109;Zeus;"Peu commune";Rubis;11;1
 110;"Preston Whitmore";Commune;Rubis;15;0
 111;"Jingle Joe";Commune;Rubis;15;1
-112;"La grenouille";Commune;Rubis;14;2
+112;"La grenouille";Commune;Rubis;14;1
 113;"Roller Bob";"Peu commune";Rubis;10;0
 114;"La Main dans la Boîte";"Peu commune";Rubis;9;0
 115;Daisy;"Peu commune";Rubis;10;1
@@ -118,7 +118,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 117;"Jebidiah Farnsworth";"Peu commune";Rubis;9;0
 118;"Flèche Parr";"Peu commune";Rubis;10;0
 119;"Tête de bébé";Rare;Rubis;1;0
-120;Canard;Rare;Rubis;4;1
+120;Canard;Rare;Rubis;4;0
 121;"Jack-Jack Parr";"Super rare";Rubis;3;0
 122;"La Reine de Cœur";Rare;Rubis;5;1
 123;Hercule;"Super rare";Rubis;3;1
