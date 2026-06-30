@@ -46,6 +46,7 @@
 - *[#Lynadry_FOIL](https://www.vinted.fr/catalog?search_text=%23Lynadry_FOIL)*
 
 
+
 <!-- BOOSTER_STATS_START -->
 ### 📊 Booster Opening Stats
 
@@ -181,16 +182,17 @@
 | Épique | <img src="rarity/rarity_epic.png" alt="Épique" width="24" /> | 0 | 0% | 0 | 0% |
 | Iconique | <img src="rarity/rarity_iconic.png" alt="Iconique" width="24" /> | 0 | 0% | 0 | 0% |
 
-#### Set 9  |  299 boosters
+#### Set 9  |  302 boosters
 | Rarity | Icon | Normal | % Norm | Foil | % Foil |
 |--------|------|--------|--------|------|--------|
-| Commune | <img src="rarity/rarity_common.svg" alt="Commune" width="24" /> | 1794 | 100% | 144 | 48.16% |
-| Peu commune | <img src="rarity/rarity_uncommon.svg" alt="Peu commune" width="24" /> | 897 | 100% | 67 | 22.41% |
-| Rare | <img src="rarity/rarity_rare.svg" alt="Rare" width="24" /> | 409 | 68.39% | 42 | 14.05% |
-| Super rare | <img src="rarity/rarity_super_rare.svg" alt="Super rare" width="24" /> | 140 | 23.41% | 19 | 6.35% |
-| Épique | <img src="rarity/rarity_epic.png" alt="Épique" width="24" /> | 0 | 0% | 19 | 6.35% |
-| Légendaire | <img src="rarity/rarity_legendary.svg" alt="Légendaire" width="24" /> | 49 | 8.19% | 7 | 2.34% |
+| Commune | <img src="rarity/rarity_common.svg" alt="Commune" width="24" /> | 1812 | 100% | 146 | 48.34% |
+| Peu commune | <img src="rarity/rarity_uncommon.svg" alt="Peu commune" width="24" /> | 906 | 100% | 68 | 22.52% |
+| Rare | <img src="rarity/rarity_rare.svg" alt="Rare" width="24" /> | 415 | 68.71% | 42 | 13.91% |
+| Super rare | <img src="rarity/rarity_super_rare.svg" alt="Super rare" width="24" /> | 140 | 23.18% | 19 | 6.29% |
+| Épique | <img src="rarity/rarity_epic.png" alt="Épique" width="24" /> | 0 | 0% | 19 | 6.29% |
+| Légendaire | <img src="rarity/rarity_legendary.svg" alt="Légendaire" width="24" /> | 49 | 8.11% | 7 | 2.32% |
 | Enchantée | <img src="rarity/rarity_enchanted1.png" alt="Enchantée" width="24" /> | 0 | 0% | 1 | 0.33% |
 | Iconique | <img src="rarity/rarity_iconic.png" alt="Iconique" width="24" /> | 0 | 0% | 0 | 0% |
 
 <!-- BOOSTER_STATS_END -->
+

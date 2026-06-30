@@ -1,4 +1,43 @@
 saison,number,nom,encre,rareté,is_foil
+Fabuleux,28,"J'ai perdu le Nord",Ambre,Commune,N
+Fabuleux,51,"Dolores Madrigal",Améthyste,Commune,N
+Fabuleux,95,"Cruelle Diablesse",Émeraude,Commune,N
+Fabuleux,131,"Tu t'envoles",Rubis,Commune,N
+Fabuleux,194,"Prince Eric",Acier,Commune,N
+Fabuleux,169,"Panier de Noix de Coco",Saphir,Commune,N
+Fabuleux,6,Aurore,Ambre,"Peu commune",N
+Fabuleux,62,"Effort désespéré",Améthyste,"Peu commune",N
+Fabuleux,204,"Île d'exil de Maui",Acier,"Peu commune",N
+Fabuleux,71,"Ondins Ensorcelés",Émeraude,Rare,N
+Fabuleux,162,"Robin des Bois",Saphir,Rare,N
+Fabuleux,127,Raya,Rubis,Commune,Y
+
+Fabuleux,7,"La Reine",Ambre,Commune,N
+Fabuleux,63,"Je suis coincé !",Améthyste,Commune,N
+Fabuleux,92,Aladdin,Émeraude,Commune,N
+Fabuleux,131,"Tu t'envoles",Rubis,Commune,N
+Fabuleux,194,"Prince Eric",Acier,Commune,N
+Fabuleux,146,Anna,Saphir,Commune,N
+Fabuleux,57,"Mama Odie",Améthyste,"Peu commune",N
+Fabuleux,101,"Contrat signé",Émeraude,"Peu commune",N
+Fabuleux,120,"La Reine de Cœur",Rubis,"Peu commune",N
+Fabuleux,35,"La Reine",Améthyste,Rare,N
+Fabuleux,74,Dingo,Émeraude,Rare,N
+Fabuleux,112,"Max Dingo",Rubis,Commune,Y
+
+Fabuleux,16,Pluto,Ambre,Commune,N
+Fabuleux,47,Timothée,Améthyste,Commune,N
+Fabuleux,84,Pégase,Émeraude,Commune,N
+Fabuleux,123,"La Reine de Cœur",Rubis,Commune,N
+Fabuleux,191,Hercule,Acier,Commune,N
+Fabuleux,155,Jasmine,Saphir,Commune,N
+Fabuleux,19,Cendrillon,Ambre,"Peu commune",N
+Fabuleux,202,"Tous avec moi !",Acier,"Peu commune",N
+Fabuleux,167,"Gyroscope lumineux",Saphir,"Peu commune",N
+Fabuleux,97,"Sous l'océan",Émeraude,Rare,N
+Fabuleux,195,Ariel,Acier,Rare,N
+Fabuleux,85,Donald,Émeraude,"Peu commune",Y
+
 "Contrées Inconnues",137,"Robin des Bois",Saphir,Commune,N
 "Contrées Inconnues",75,"La Reine",Émeraude,Commune,N
 "Contrées Inconnues",112,"La grenouille",Rubis,Commune,N
@@ -2559,43 +2598,4 @@ Givresort,172,"Flagada Jones",Acier,"Peu commune",N
 Givresort,188,"Myster Mask",Acier,Rare,N
 Givresort,64,"L’air du vent",Améthyste,"Super rare",N
 Givresort,128,"Plus puissant que les ouragans",Rubis,Commune,Y
-
-Givresort,9,David,Ambre,Commune,N
-Givresort,38,"Fraîcheneige von Frimas",Améthyste,Commune,N
-Givresort,76,Piqueur,Émeraude,Commune,N
-Givresort,115,"Sinister Mask",Rubis,Commune,N
-Givresort,184,Nani,Acier,Commune,N
-Givresort,138,"Maman Gourou",Saphir,Commune,N
-Givresort,82,Mushu,Émeraude,"Peu commune",N
-Givresort,44,Taram,Améthyste,"Peu commune",N
-Givresort,108,Mulan,Rubis,"Peu commune",N
-Givresort,42,Pocahontas,Améthyste,"Super rare",N
-Givresort,150,"Myster Mask",Saphir,"Super rare",N
-Givresort,211,Aladdin,Émeraude,Épique,Y
-
-Givresort,9,David,Ambre,Commune,N
-Givresort,67,"Pot de miel",Améthyste,Commune,N
-Givresort,115,"Sinister Mask",Rubis,Commune,N
-Givresort,73,Yao,Émeraude,Commune,N
-Givresort,174,"Myster Mask",Acier,Commune,N
-Givresort,167,"Béquille de Tiny Tim",Saphir,Commune,N
-Givresort,99,"Bâton bakora de Rafiki",Émeraude,"Peu commune",N
-Givresort,104,"Balthazar Picsou",Rubis,"Peu commune",N
-Givresort,194,"Judy Hopps",Acier,"Peu commune",N
-Givresort,33,"Boussole de John Smith",Ambre,Rare,N
-Givresort,24,Bambi,Ambre,"Super rare",N
-Givresort,181,McCorne,Acier,Commune,Y
-
-Givresort,2,Lilo,Ambre,Commune,N
-Givresort,58,Heihei,Améthyste,Commune,N
-Givresort,76,Piqueur,Émeraude,Commune,N
-Givresort,128,"Plus puissant que les ouragans",Rubis,Commune,N
-Givresort,178,Donald,Acier,Commune,N
-Givresort,139,Porcinet,Saphir,Commune,N
-Givresort,68,"La Plante gelée",Améthyste,"Peu commune",N
-Givresort,153,"Calamity Fresque",Saphir,"Peu commune",N
-Givresort,119,Blizzard,Rubis,"Peu commune",N
-Givresort,126,"Willie le géant",Rubis,Rare,N
-Givresort,49,Génie,Améthyste,Rare,N
-Givresort,197,"La terreur qui corrige les erreurs",Acier,Commune,Y
 
