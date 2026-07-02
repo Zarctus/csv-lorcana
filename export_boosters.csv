@@ -1,4 +1,30 @@
 saison,number,nom,encre,rareté,is_foil
+Fabuleux,27,"Guéris les blessures",Ambre,Commune,N
+Fabuleux,49,Kuzco,Améthyste,Commune,N
+Fabuleux,92,Aladdin,Émeraude,Commune,N
+Fabuleux,125,Mulan,Rubis,Commune,N
+Fabuleux,196,Ariel,Acier,Commune,N
+Fabuleux,155,Jasmine,Saphir,Commune,N
+Fabuleux,99,"N'écoute que Moi",Émeraude,"Peu commune",N
+Fabuleux,139,Fifi,Saphir,"Peu commune",N
+Fabuleux,113,Roxane,Rubis,"Peu commune",N
+Fabuleux,168,"Le Cœur de Te Fiti",Saphir,Rare,N
+Fabuleux,20,Vaiana,Ambre,Rare,N
+Fabuleux,17,Nani,Ambre,"Peu commune",Y
+
+Fabuleux,9,Stitch,Ambre,Commune,N
+Fabuleux,50,Tic-Tac,Améthyste,Commune,N
+Fabuleux,82,Virana,Émeraude,Commune,N
+Fabuleux,127,Raya,Rubis,Commune,N
+Fabuleux,182,"Prince Naveen",Acier,Commune,N
+Fabuleux,154,Aurore,Saphir,Commune,N
+Fabuleux,55,Olaf,Améthyste,"Peu commune",N
+Fabuleux,91,Turbo,Émeraude,"Peu commune",N
+Fabuleux,133,"Un roi incontesté",Rubis,"Peu commune",N
+Fabuleux,3,Stitch,Ambre,"Super rare",N
+Fabuleux,160,Alice,Saphir,"Super rare",N
+Fabuleux,182,"Prince Naveen",Acier,Commune,Y
+
 Fabuleux,28,"J'ai perdu le Nord",Ambre,Commune,N
 Fabuleux,51,"Dolores Madrigal",Améthyste,Commune,N
 Fabuleux,95,"Cruelle Diablesse",Émeraude,Commune,N
@@ -2572,30 +2598,4 @@ Givresort,107,Rouky,Rubis,"Peu commune",N
 Givresort,133,"Luth de Kristoff",Rubis,Rare,N
 Givresort,195,Lilo,Acier,"Super rare",N
 Givresort,113,Iduna,Rubis,Commune,Y
-
-Givresort,38,"Fraîcheneige von Frimas",Améthyste,Commune,N
-Givresort,12,Sarabi,Ambre,Commune,N
-Givresort,109,Maui,Rubis,Commune,N
-Givresort,81,Aladdin,Émeraude,Commune,N
-Givresort,141,Minnie,Saphir,Commune,N
-Givresort,184,Nani,Acier,Commune,N
-Givresort,44,Taram,Améthyste,"Peu commune",N
-Givresort,18,Pikly,Ambre,"Peu commune",N
-Givresort,179,Chef,Acier,"Peu commune",N
-Givresort,47,Morgana,Améthyste,Rare,N
-Givresort,7,Stitch,Ambre,Rare,N
-Givresort,23,Simba,Ambre,"Peu commune",Y
-
-Givresort,6,Nakoma,Ambre,Commune,N
-Givresort,56,Lumpy,Améthyste,Commune,N
-Givresort,128,"Plus puissant que les ouragans",Rubis,Commune,N
-Givresort,81,Aladdin,Émeraude,Commune,N
-Givresort,197,"La terreur qui corrige les erreurs",Acier,Commune,N
-Givresort,141,Minnie,Saphir,Commune,N
-Givresort,18,Pikly,Ambre,"Peu commune",N
-Givresort,97,"L’éducation ou l’élimination",Émeraude,"Peu commune",N
-Givresort,172,"Flagada Jones",Acier,"Peu commune",N
-Givresort,188,"Myster Mask",Acier,Rare,N
-Givresort,64,"L’air du vent",Améthyste,"Super rare",N
-Givresort,128,"Plus puissant que les ouragans",Rubis,Commune,Y
 
