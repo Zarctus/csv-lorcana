@@ -1,4 +1,56 @@
 saison,number,nom,encre,rareté,is_foil
+Fabuleux,34,Atlantica,Ambre,Commune,N
+Fabuleux,49,Kuzco,Améthyste,Commune,N
+Fabuleux,98,"Concocter la Potion",Émeraude,Commune,N
+Fabuleux,124,Raiponce,Rubis,Commune,N
+Fabuleux,200,"Allumez les Mêches !",Acier,Commune,N
+Fabuleux,148,Hans,Saphir,Commune,N
+Fabuleux,18,"Julieta Madrigal",Ambre,"Peu commune",N
+Fabuleux,46,Dumbo,Améthyste,"Peu commune",N
+Fabuleux,176,"Petit Jean",Acier,"Peu commune",N
+Fabuleux,100,"Canne à pêche familiale",Émeraude,Rare,N
+Fabuleux,138,Riri,Saphir,Rare,N
+Fabuleux,41,"Winnie l'ourson",Améthyste,Commune,Y
+
+Fabuleux,8,Raiponce,Ambre,Commune,N
+Fabuleux,61,"Pauvres âmes en perdition",Améthyste,Commune,N
+Fabuleux,102,"La crique cachée",Émeraude,Commune,N
+Fabuleux,109,Powerline,Rubis,Commune,N
+Fabuleux,196,Ariel,Acier,Commune,N
+Fabuleux,140,Loulou,Saphir,Commune,N
+Fabuleux,53,Elsa,Améthyste,"Peu commune",N
+Fabuleux,122,"Gardes cartes",Rubis,"Peu commune",N
+Fabuleux,198,"Fracasser !",Acier,"Peu commune",N
+Fabuleux,104,"Shere Khan",Rubis,Rare,N
+Fabuleux,171,Philoctète,Acier,Rare,N
+Fabuleux,66,"Montre à Gousset",Améthyste,Rare,Y
+
+Fabuleux,8,Raiponce,Ambre,Commune,N
+Fabuleux,51,"Dolores Madrigal",Améthyste,Commune,N
+Fabuleux,84,Pégase,Émeraude,Commune,N
+Fabuleux,131,"Tu t'envoles",Rubis,Commune,N
+Fabuleux,191,Hercule,Acier,Commune,N
+Fabuleux,145,"Cruella d'Enfer",Saphir,Commune,N
+Fabuleux,17,Nani,Ambre,"Peu commune",N
+Fabuleux,184,"Robin des Bois",Acier,"Peu commune",N
+Fabuleux,166,"Creuse encore et encore",Saphir,"Peu commune",N
+Fabuleux,72,"Prince Philippe",Émeraude,Rare,N
+Fabuleux,160,Alice,Saphir,"Super rare",N
+Fabuleux,51,"Dolores Madrigal",Améthyste,Commune,Y
+
+Fabuleux,16,Pluto,Ambre,Commune,N
+Fabuleux,67,Rose-Lanterne,Améthyste,Commune,N
+Fabuleux,88,"La Fée Clochette",Émeraude,Commune,N
+Fabuleux,109,Powerline,Rubis,Commune,N
+Fabuleux,179,Tiana,Acier,Commune,N
+Fabuleux,147,Polochon,Saphir,Commune,N
+Fabuleux,6,Aurore,Ambre,"Peu commune",N
+Fabuleux,187,Lawrence,Acier,"Peu commune",N
+Fabuleux,139,Fifi,Saphir,"Peu commune",N
+Fabuleux,75,"Max Dingo",Émeraude,Rare,N
+Fabuleux,171,Philoctète,Acier,Rare,N
+Fabuleux,37,Ursula,Améthyste,Rare,Y
+
 Fabuleux,27,"Guéris les blessures",Ambre,Commune,N
 Fabuleux,49,Kuzco,Améthyste,Commune,N
 Fabuleux,92,Aladdin,Émeraude,Commune,N
@@ -2546,56 +2598,4 @@ Givresort,172,"Flagada Jones",Acier,"Peu commune",N
 Givresort,162,"Visite des Noëls passés",Saphir,Rare,N
 Givresort,33,"Boussole de John Smith",Ambre,Rare,N
 Givresort,96,"Geler la Plante",Émeraude,Rare,Y
-
-Givresort,37,Tigrou,Améthyste,Commune,N
-Givresort,34,Zootopie,Ambre,Commune,N
-Givresort,113,Iduna,Rubis,Commune,N
-Givresort,70,Stitch,Émeraude,Commune,N
-Givresort,138,"Maman Gourou",Saphir,Commune,N
-Givresort,174,"Myster Mask",Acier,Commune,N
-Givresort,20,Nani,Ambre,"Peu commune",N
-Givresort,86,Vixy,Émeraude,"Peu commune",N
-Givresort,104,"Balthazar Picsou",Rubis,"Peu commune",N
-Givresort,182,"Duke Weaselton",Acier,Rare,N
-Givresort,118,"La Bête",Rubis,"Super rare",N
-Givresort,60,Sven,Améthyste,"Super rare",Y
-
-Givresort,59,Pua,Améthyste,Commune,N
-Givresort,5,Tiana,Ambre,Commune,N
-Givresort,129,"Vers notre champ de bataille",Rubis,Commune,N
-Givresort,94,"Crois-moi j'ai vu pire",Émeraude,Commune,N
-Givresort,138,"Maman Gourou",Saphir,Commune,N
-Givresort,197,"La terreur qui corrige les erreurs",Acier,Commune,N
-Givresort,89,"Le lapin blanc",Émeraude,"Peu commune",N
-Givresort,170,"Piège caché",Saphir,"Peu commune",N
-Givresort,119,Blizzard,Rubis,"Peu commune",N
-Givresort,159,"Mickey Mouse",Saphir,Rare,N
-Givresort,69,Mulan,Émeraude,"Super rare",N
-Givresort,110,"Fa Zhou",Rubis,Commune,Y
-
-Givresort,56,Lumpy,Améthyste,Commune,N
-Givresort,2,Lilo,Ambre,Commune,N
-Givresort,113,Iduna,Rubis,Commune,N
-Givresort,70,Stitch,Émeraude,Commune,N
-Givresort,142,Sina,Saphir,Commune,N
-Givresort,173,"Prince Naveen",Acier,Commune,N
-Givresort,39,Flit,Améthyste,"Peu commune",N
-Givresort,199,Givresort,Acier,"Peu commune",N
-Givresort,146,"Jiminy Cricket",Saphir,"Peu commune",N
-Givresort,57,"Les sorcières de Morva",Améthyste,Rare,N
-Givresort,103,"Ralph la Casse",Rubis,Légendaire,N
-Givresort,215,Elsa,Rubis,Épique,Y
-
-Givresort,62,"Viens te battre !",Améthyste,Commune,N
-Givresort,27,Percy,Ambre,Commune,N
-Givresort,114,Agnarr,Rubis,Commune,N
-Givresort,85,Rouky,Émeraude,Commune,N
-Givresort,151,"Winnie l'ourson",Saphir,Commune,N
-Givresort,181,McCorne,Acier,Commune,N
-Givresort,13,"Grand-Mère Feuillage",Ambre,"Peu commune",N
-Givresort,82,Mushu,Émeraude,"Peu commune",N
-Givresort,107,Rouky,Rubis,"Peu commune",N
-Givresort,133,"Luth de Kristoff",Rubis,Rare,N
-Givresort,195,Lilo,Acier,"Super rare",N
-Givresort,113,Iduna,Rubis,Commune,Y
 
