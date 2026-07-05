@@ -11,7 +11,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 10;Cromeyer;Commune;Ambre;14;3
 11;Powhatan;"Peu commune";Ambre;8;2
 12;Sarabi;Commune;Ambre;15;2
-13;"Grand-Mère Feuillage";"Peu commune";Ambre;9;0
+13;"Grand-Mère Feuillage";"Peu commune";Ambre;6;0
 14;"Cobra Bubbles";Rare;Ambre;6;0
 15;"John Smith";"Peu commune";Ambre;10;0
 16;Timon;Rare;Ambre;2;0
@@ -96,7 +96,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 95;"Bataille de boules de neige";Commune;Émeraude;14;0
 96;"Geler la Plante";Rare;Émeraude;5;0
 97;"L’éducation ou l’élimination";"Peu commune";Émeraude;9;0
-98;"Fort de neige";"Peu commune";Émeraude;10;3
+98;"Fort de neige";"Peu commune";Émeraude;10;2
 99;"Bâton bakora de Rafiki";"Peu commune";Émeraude;10;0
 100;"Rétro-fusil à évolution";Rare;Émeraude;3;0
 101;Bélier;Rare;Émeraude;5;0
