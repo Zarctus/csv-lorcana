@@ -10,11 +10,11 @@
 
 
 **Quelques liens aléatoires / Some random links**
-- *[Lorcana - Le Règne de Jafar - 3x Jamais Plus Des Enfants 78/204 - Peu commune - ID=1742](https://www.vinted.fr/items/7105959898-lorcana-le-regne-de-jafar-3x-jamais-plus-des-enfants-78204-peu-commune-id1742)*
-- *[Lorcana - Ciel Scintillant - 2x Joyeux 191/204 - Commune - ID=1147](https://www.vinted.fr/items/8961558705-lorcana-ciel-scintillant-2x-joyeux-191204-commune-id1147)*
-- *[Lorcana - La Mer Azurite - Madame Mime 55/204 - Super rare - ID=1254](https://www.vinted.fr/items/6404427357-lorcana-la-mer-azurite-madame-mime-55204-super-rare-id1254)*
-- *[Lorcana - Fabuleux - 3x Ariel 107/204 - Super rare - ID=2043](https://www.vinted.fr/items/7378271112-lorcana-fabuleux-3x-ariel-107204-super-rare-id2043)*
-- *[Lorcana - Contrées Inconnues - Lyle Tiberius Rourke 214/204 - Épique Foil - ID=2929](https://www.vinted.fr/items/8870882723-lorcana-contrees-inconnues-lyle-tiberius-rourke-214204-epique-foil-id2929)*
+- *[Lorcana - Givresort - 3x Doudou 3/204 - Peu commune - ID=2466](https://www.vinted.fr/items/8187490412-lorcana-givresort-3x-doudou-3204-peu-commune-id2466)*
+- *[Lorcana - Givresort - Reuben 21/204 - Rare Foil - ID=2484](https://www.vinted.fr/items/8313802301-lorcana-givresort-reuben-21204-rare-foil-id2484)*
+- *[Lorcana - Fabuleux - 3x Shere Khan 104/204 - Rare - ID=2040](https://www.vinted.fr/items/7447468430-lorcana-fabuleux-3x-shere-khan-104204-rare-id2040)*
+- *[Lorcana - La Mer Azurite - 2x Perdre Son Chemin 63/204 - Peu commune - ID=1262](https://www.vinted.fr/items/7378338683-lorcana-la-mer-azurite-2x-perdre-son-chemin-63204-peu-commune-id1262)*
+- *[Lorcana - Fabuleux - 2x Heihei 86/204 - Peu commune - ID=2022](https://www.vinted.fr/items/7899220662-lorcana-fabuleux-2x-heihei-86204-peu-commune-id2022)*
 
 
 **🔎 Recherches Lorcana par rareté / Search Lorcana by rarity**
@@ -44,20 +44,6 @@
 
 **🔎 Recherches Lorcana Foils uniquement / Search Lorcana Foils only**
 - *[#Lynadry_FOIL](https://www.vinted.fr/catalog?search_text=%23Lynadry_FOIL)*
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 <!-- BOOSTER_STATS_START -->
@@ -208,17 +194,3 @@
 | Iconique | <img src="rarity/rarity_iconic.png" alt="Iconique" width="24" /> | 0 | 0% | 0 | 0% |
 
 <!-- BOOSTER_STATS_END -->
-
-
-
-
-
-
-
-
-
-
-
-
-
-
