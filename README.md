@@ -10,11 +10,11 @@
 
 
 **Quelques liens aléatoires / Some random links**
-- *[Lorcana - Fabuleux - Powerline 110/204 - Super rare Foil - ID=2046](https://www.vinted.fr/items/7238463439-lorcana-fabuleux-powerline-110204-super-rare-foil-id2046)*
-- *[Lorcana - Premier Chapitre - 3x Jafar 44/204 - Rare - ID=44](https://www.vinted.fr/items/6356576527-lorcana-premier-chapitre-3x-jafar-44204-rare-id44)*
+- *[Lorcana - Contrées Inconnues - 2x Canard 120/204 - Rare - ID=2835](https://www.vinted.fr/items/8953924386-lorcana-contrees-inconnues-2x-canard-120204-rare-id2835)*
+- *[Lorcana - Les Terres d'Encres - 3x Grand-Mère Tala 142/204 - Commune - ID=578](https://www.vinted.fr/items/5646745621-lorcana-les-terres-dencres-3x-grand-mere-tala-142204-commune-id578)*
 - *[Lorcana - Lueurs dans les Profondeurs - 2x Violette Campyloptère 44/204 - Commune - ID=2233](https://www.vinted.fr/items/7736026703-lorcana-lueurs-dans-les-profondeurs-2x-violette-campyloptere-44204-commune-id2233)*
-- *[Lorcana - Lueurs dans les Profondeurs - 2x Démona 40/204 - Commune - ID=2229](https://www.vinted.fr/items/7575898168-lorcana-lueurs-dans-les-profondeurs-2x-demona-40204-commune-id2229)*
-- *[Lorcana - Fabuleux - 3x Max Dingo 75/204 - Rare - ID=2011](https://www.vinted.fr/items/7067157471-lorcana-fabuleux-3x-max-dingo-75204-rare-id2011)*
+- *[Lorcana - Fabuleux - 2x La Crique Cachée 102/204 - Commune - ID=2038](https://www.vinted.fr/items/7221794144-lorcana-fabuleux-2x-la-crique-cachee-102204-commune-id2038)*
+- *[Lorcana - Givresort - 3x Stitch 7/204 - Rare - ID=2470](https://www.vinted.fr/items/9309930572-lorcana-givresort-3x-stitch-7204-rare-id2470)*
 
 
 **🔎 Recherches Lorcana par rareté / Search Lorcana by rarity**
@@ -44,20 +44,6 @@
 
 **🔎 Recherches Lorcana Foils uniquement / Search Lorcana Foils only**
 - *[#Lynadry_FOIL](https://www.vinted.fr/catalog?search_text=%23Lynadry_FOIL)*
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 <!-- BOOSTER_STATS_START -->
@@ -208,17 +194,3 @@
 | Iconique | <img src="rarity/rarity_iconic.png" alt="Iconique" width="24" /> | 0 | 0% | 0 | 0% |
 
 <!-- BOOSTER_STATS_END -->
-
-
-
-
-
-
-
-
-
-
-
-
-
-
