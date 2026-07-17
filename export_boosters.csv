@@ -1,4 +1,69 @@
 saison,number,nom,encre,rareté,is_foil
+"Invasion épineuse!",138,"Ce sera génial !",Rubis,Commune,N
+"Invasion épineuse!",21,"Bob Razowski",Ambre,Commune,N
+"Invasion épineuse!",80,Raiponce,Émeraude,Commune,N
+"Invasion épineuse!",47,Meeko,Améthyste,Commune,N
+"Invasion épineuse!",159,"Robin des Bois",Saphir,Commune,N
+"Invasion épineuse!",192,Mulan,Acier,Commune,N
+"Invasion épineuse!",157,"Antonio Madrigal",Saphir,"Peu commune",N
+"Invasion épineuse!",15,Gaston,Ambre,"Peu commune",N
+"Invasion épineuse!",86,"Madame Mime",Émeraude,"Peu commune",N
+"Invasion épineuse!",158,"Belle Marianne",Saphir,Rare,N
+"Invasion épineuse!",22,"Le Seigneur des Ténèbres",Ambre,Légendaire,N
+"Invasion épineuse!",37,"Tour de Raiponce",Ambre,"Peu commune",Y
+
+"Invasion épineuse!",115,Gaston,Rubis,Commune,N
+"Invasion épineuse!",3,"Isabela Madrigal",Ambre,Commune,N
+"Invasion épineuse!",75,"Ellie Fredricksen",Émeraude,Commune,N
+"Invasion épineuse!",41,Panique,Améthyste,Commune,N
+"Invasion épineuse!",152,Sulli,Saphir,Commune,N
+"Invasion épineuse!",193,Diablo,Acier,Commune,N
+"Invasion épineuse!",118,Pacha,Rubis,"Peu commune",N
+"Invasion épineuse!",45,Génie,Améthyste,"Peu commune",N
+"Invasion épineuse!",186,Mégavolt,Acier,"Peu commune",N
+"Invasion épineuse!",195,Maximus,Acier,Rare,N
+"Invasion épineuse!",50,Merida,Améthyste,Légendaire,N
+"Invasion épineuse!",139,"Bonbonne de cris",Rubis,"Peu commune",Y
+
+"Invasion épineuse!",131,"Peter Pan",Rubis,Commune,N
+"Invasion épineuse!",10,Lilo,Ambre,Commune,N
+"Invasion épineuse!",85,Aladdin,Émeraude,Commune,N
+"Invasion épineuse!",38,Ritournel,Améthyste,Commune,N
+"Invasion épineuse!",159,"Robin des Bois",Saphir,Commune,N
+"Invasion épineuse!",193,Diablo,Acier,Commune,N
+"Invasion épineuse!",201,"Elle m’a cassé le nez",Acier,"Peu commune",N
+"Invasion épineuse!",175,"La Forêt des Rêves Bleus",Saphir,"Peu commune",N
+"Invasion épineuse!",135,"Alerte rouge",Rubis,"Peu commune",N
+"Invasion épineuse!",25,"Mirabel Madrigal",Ambre,Rare,N
+"Invasion épineuse!",162,"Charles Muntz",Saphir,"Super rare",N
+"Invasion épineuse!",216,"Peter Pan",Émeraude,Épique,Y
+
+"Invasion épineuse!",131,"Peter Pan",Rubis,Commune,N
+"Invasion épineuse!",10,Lilo,Ambre,Commune,N
+"Invasion épineuse!",85,Aladdin,Émeraude,Commune,N
+"Invasion épineuse!",38,Ritournel,Améthyste,Commune,N
+"Invasion épineuse!",159,"Robin des Bois",Saphir,Commune,N
+"Invasion épineuse!",199,"Et brandissez vos oriflammes !",Acier,Commune,N
+"Invasion épineuse!",33,"I'm Never Not by Your Side",Ambre,"Peu commune",N
+"Invasion épineuse!",205,"La débroussailleuse",Acier,"Peu commune",N
+"Invasion épineuse!",175,"La Forêt des Rêves Bleus",Saphir,"Peu commune",N
+"Invasion épineuse!",108,"Chutes du Paradis",Émeraude,Rare,N
+"Invasion épineuse!",173,"Collier traducteur",Saphir,Rare,N
+"Invasion épineuse!",161,Pluto,Saphir,Commune,Y
+
+"Invasion épineuse!",115,Gaston,Rubis,Commune,N
+"Invasion épineuse!",9,"Miriam Mendelsohn",Ambre,Commune,N
+"Invasion épineuse!",105,Patate,Émeraude,Commune,N
+"Invasion épineuse!",41,Panique,Améthyste,Commune,N
+"Invasion épineuse!",152,Sulli,Saphir,Commune,N
+"Invasion épineuse!",180,Stitch,Acier,Commune,N
+"Invasion épineuse!",164,Bourriquet,Saphir,"Peu commune",N
+"Invasion épineuse!",5,"Coco Lapin",Ambre,"Peu commune",N
+"Invasion épineuse!",88,Kevin,Émeraude,"Peu commune",N
+"Invasion épineuse!",77,"Buzz l'Éclair",Émeraude,Rare,N
+"Invasion épineuse!",125,"Meilin Lee",Rubis,Légendaire,N
+"Invasion épineuse!",121,"Roi Louie",Rubis,Commune,Y
+
 "Invasion épineuse!",124,Donald,Rubis,Commune,N
 "Invasion épineuse!",20,Jasmine,Ambre,Commune,N
 "Invasion épineuse!",105,Patate,Émeraude,Commune,N
@@ -2533,69 +2598,4 @@ Fabuleux,85,Donald,Émeraude,"Peu commune",Y
 "Contrées Inconnues",141,Flora,Saphir,Rare,N
 "Contrées Inconnues",161,Ursula,Saphir,Légendaire,N
 "Contrées Inconnues",198,"Cartes bonus",Acier,"Peu commune",Y
-
-"Contrées Inconnues",1,"Poussinette Colvert",Ambre,Commune,N
-"Contrées Inconnues",46,Frozone,Améthyste,Commune,N
-"Contrées Inconnues",143,Syndrome,Saphir,Commune,N
-"Contrées Inconnues",76,"Buzz l'Éclair",Émeraude,Commune,N
-"Contrées Inconnues",129,"Force intérieure",Rubis,Commune,N
-"Contrées Inconnues",180,"Le fils Macintosh",Acier,Commune,N
-"Contrées Inconnues",165,"Réparations de fortune",Saphir,"Peu commune",N
-"Contrées Inconnues",198,"Cartes bonus",Acier,"Peu commune",N
-"Contrées Inconnues",11,Bayonne,Ambre,"Peu commune",N
-"Contrées Inconnues",149,"Edna Mode",Saphir,Rare,N
-"Contrées Inconnues",56,"Pepa Madrigal",Améthyste,"Super rare",N
-"Contrées Inconnues",196,Diablo,Acier,"Super rare",Y
-
-"Contrées Inconnues",24,"Julieta Madrigal",Ambre,Commune,N
-"Contrées Inconnues",39,Timide,Améthyste,Commune,N
-"Contrées Inconnues",143,Syndrome,Saphir,Commune,N
-"Contrées Inconnues",70,"Hamish, Hubert et Harris",Émeraude,Commune,N
-"Contrées Inconnues",128,"La poupée ptérodactyle",Rubis,Commune,N
-"Contrées Inconnues",173,Omnidroïde,Acier,Commune,N
-"Contrées Inconnues",14,Tic,Ambre,"Peu commune",N
-"Contrées Inconnues",80,"Gaëtan Molière",Émeraude,"Peu commune",N
-"Contrées Inconnues",139,Pimprenelle,Saphir,"Peu commune",N
-"Contrées Inconnues",135,"Terres d'encres reculées",Rubis,Rare,N
-"Contrées Inconnues",99,"Le Grappin",Émeraude,Rare,N
-"Contrées Inconnues",19,"Isabela Madrigal",Ambre,Rare,Y
-
-"Contrées Inconnues",24,"Julieta Madrigal",Ambre,Commune,N
-"Contrées Inconnues",35,Mor'du,Améthyste,Commune,N
-"Contrées Inconnues",140,Pâquerette,Saphir,Commune,N
-"Contrées Inconnues",77,Karting,Émeraude,Commune,N
-"Contrées Inconnues",111,"Jingle Joe",Rubis,Commune,N
-"Contrées Inconnues",173,Omnidroïde,Acier,Commune,N
-"Contrées Inconnues",14,Tic,Ambre,"Peu commune",N
-"Contrées Inconnues",95,"Étrange Bazar",Émeraude,"Peu commune",N
-"Contrées Inconnues",139,Pimprenelle,Saphir,"Peu commune",N
-"Contrées Inconnues",99,"Le Grappin",Émeraude,Rare,N
-"Contrées Inconnues",32,"Criez au secours et ils rappliquent",Ambre,Rare,N
-"Contrées Inconnues",212,Donald,Émeraude,Épique,Y
-
-"Contrées Inconnues",2,"Jack le Costaud",Ambre,Commune,N
-"Contrées Inconnues",63,"Programme de réinsertion des Supers",Améthyste,Commune,N
-"Contrées Inconnues",140,Pâquerette,Saphir,Commune,N
-"Contrées Inconnues",101,"Arc de Merida",Émeraude,Commune,N
-"Contrées Inconnues",129,"Force intérieure",Rubis,Commune,N
-"Contrées Inconnues",182,Catox,Acier,Commune,N
-"Contrées Inconnues",134,"Invocateur d’Encre d’Amazu",Rubis,"Peu commune",N
-"Contrées Inconnues",98,"Bras de Buzz",Émeraude,"Peu commune",N
-"Contrées Inconnues",51,Elinor,Améthyste,"Peu commune",N
-"Contrées Inconnues",155,Cendrillon,Saphir,Rare,N
-"Contrées Inconnues",97,"Famille dispersée",Émeraude,"Super rare",N
-"Contrées Inconnues",7,"Adam de la Halle",Ambre,Commune,Y
-
-"Contrées Inconnues",29,"L’énorme pression",Ambre,Commune,N
-"Contrées Inconnues",45,"Alma Madrigal",Améthyste,Commune,N
-"Contrées Inconnues",137,"Robin des Bois",Saphir,Commune,N
-"Contrées Inconnues",75,"La Reine",Émeraude,Commune,N
-"Contrées Inconnues",112,"La grenouille",Rubis,Commune,N
-"Contrées Inconnues",176,"Le Petit Dingwall",Acier,Commune,N
-"Contrées Inconnues",109,Zeus,Rubis,"Peu commune",N
-"Contrées Inconnues",78,"Seigneur MacGuffin",Émeraude,"Peu commune",N
-"Contrées Inconnues",66,Super-costume,Améthyste,"Peu commune",N
-"Contrées Inconnues",19,"Isabela Madrigal",Ambre,Rare,N
-"Contrées Inconnues",124,"Vincenzo Santorini",Rubis,Rare,N
-"Contrées Inconnues",15,Woody,Ambre,Légendaire,Y
 
