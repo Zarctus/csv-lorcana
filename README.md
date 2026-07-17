@@ -50,6 +50,7 @@
 
 
 
+
 <!-- BOOSTER_STATS_START -->
 ### 📊 Booster Opening Stats
 
@@ -99,6 +100,18 @@
 | Rare | <img src="rarity/rarity_rare.svg" alt="Rare" width="24" /> | 231 | 65.63% | 33 | 18.75% |
 | Super rare | <img src="rarity/rarity_super_rare.svg" alt="Super rare" width="24" /> | 73 | 20.74% | 12 | 6.82% |
 | Enchantée | <img src="rarity/rarity_enchanted1.png" alt="Enchantée" width="24" /> | 0 | 0% | 3 | 1.7% |
+| Iconique | <img src="rarity/rarity_iconic.png" alt="Iconique" width="24" /> | 0 | 0% | 0 | 0% |
+
+#### Set 13  |  8 boosters
+| Rarity | Icon | Normal | % Norm | Foil | % Foil |
+|--------|------|--------|--------|------|--------|
+| Commune | <img src="rarity/rarity_common.svg" alt="Commune" width="24" /> | 48 | 100% | 4 | 50% |
+| Peu commune | <img src="rarity/rarity_uncommon.svg" alt="Peu commune" width="24" /> | 24 | 100% | 2 | 25% |
+| Rare | <img src="rarity/rarity_rare.svg" alt="Rare" width="24" /> | 10 | 62.5% | 1 | 12.5% |
+| Super rare | <img src="rarity/rarity_super_rare.svg" alt="Super rare" width="24" /> | 5 | 31.25% | 0 | 0% |
+| Légendaire | <img src="rarity/rarity_legendary.svg" alt="Légendaire" width="24" /> | 1 | 6.25% | 0 | 0% |
+| Épique | <img src="rarity/rarity_epic.png" alt="Épique" width="24" /> | 0 | 0% | 1 | 12.5% |
+| Enchantée | <img src="rarity/rarity_enchanted1.png" alt="Enchantée" width="24" /> | 0 | 0% | 0 | 0% |
 | Iconique | <img src="rarity/rarity_iconic.png" alt="Iconique" width="24" /> | 0 | 0% | 0 | 0% |
 
 #### Set 2  |  127 boosters
@@ -198,6 +211,7 @@
 | Iconique | <img src="rarity/rarity_iconic.png" alt="Iconique" width="24" /> | 0 | 0% | 0 | 0% |
 
 <!-- BOOSTER_STATS_END -->
+
 
 
 
