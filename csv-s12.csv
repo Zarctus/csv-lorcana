@@ -8,7 +8,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 7;"Adam de la Halle";Commune;Ambre;14;1
 8;"Prince Eric";Commune;Ambre;14;0
 9;"Dolores Madrigal";Commune;Ambre;15;2
-10;Rex;Rare;Ambre;2;1
+10;Rex;Rare;Ambre;0;0
 11;Bayonne;"Peu commune";Ambre;11;0
 12;"Jack le Costaud";Rare;Ambre;5;1
 13;"Bo, la bergère";"Peu commune";Ambre;9;1
@@ -81,7 +81,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 80;"Gaëtan Molière";"Peu commune";Émeraude;9;1
 81;"Peter Pan";"Peu commune";Émeraude;10;1
 82;"Milo Thatch";"Super rare";Émeraude;4;0
-83;Alien;Rare;Émeraude;5;1
+83;Alien;Rare;Émeraude;2;1
 84;Donald;"Peu commune";Émeraude;11;0
 85;"Buzz l'Éclair";Rare;Émeraude;4;0
 86;Elinor;"Super rare";Émeraude;0;0
@@ -124,7 +124,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 123;Hercule;"Super rare";Rubis;3;1
 124;"Vincenzo Santorini";Rare;Rubis;5;0
 125;"Le Léviathan";"Super rare";Rubis;2;0
-126;"Sid Phillips";Légendaire;Rubis;3;0
+126;"Sid Phillips";Légendaire;Rubis;2;0
 127;"M. Indestructible";Légendaire;Rubis;4;0
 128;"La poupée ptérodactyle";Commune;Rubis;15;2
 129;"Force intérieure";Commune;Rubis;15;2
@@ -189,7 +189,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 188;Maude;"Peu commune";Acier;10;1
 189;Dingo;"Peu commune";Acier;9;1
 190;Omnidroïde;Rare;Acier;3;1
-191;Merida;Légendaire;Acier;1;0
+191;Merida;Légendaire;Acier;0;0
 192;"John Smith";Rare;Acier;6;0
 193;Robotik;Rare;Acier;5;0
 194;Fergus;"Super rare";Acier;5;0
