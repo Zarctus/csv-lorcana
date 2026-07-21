@@ -10,7 +10,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 9;"Dolores Madrigal";Commune;Ambre;15;2
 10;Rex;Rare;Ambre;0;0
 11;Bayonne;"Peu commune";Ambre;11;0
-12;"Jack le Costaud";Rare;Ambre;5;1
+12;"Jack le Costaud";Rare;Ambre;4;1
 13;"Bo, la bergère";"Peu commune";Ambre;9;1
 14;Tic;"Peu commune";Ambre;8;0
 15;Woody;Légendaire;Ambre;1;0
@@ -28,7 +28,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 27;Tic;Commune;Ambre;15;1
 28;"Les rangers font équipe";"Peu commune";Ambre;10;0
 29;"L’énorme pression";Commune;Ambre;14;0
-30;"Je suis ton ami";"Super rare";Ambre;0;1
+30;"Je suis ton ami";"Super rare";Ambre;0;0
 31;Métamorphose;Rare;Ambre;4;0
 32;"Criez au secours et ils rappliquent";Rare;Ambre;4;1
 33;"Corde de sécurité";"Peu commune";Ambre;11;1
@@ -52,7 +52,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 51;Elinor;"Peu commune";Améthyste;11;1
 52;"Mickey Mouse";"Peu commune";Améthyste;10;1
 53;Mirage;Commune;Améthyste;15;0
-54;"Edna Mode";Rare;Améthyste;4;0
+54;"Edna Mode";Rare;Améthyste;3;0
 55;Maléfique;Rare;Améthyste;6;0
 56;"Pepa Madrigal";"Super rare";Améthyste;4;0
 57;Mor'du;"Super rare";Améthyste;5;1
@@ -66,7 +66,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 65;"Ne sois pas si nerveux";Rare;Améthyste;4;0
 66;Super-costume;"Peu commune";Améthyste;9;0
 67;"Tapisserie familiale de DunBroch";Rare;Améthyste;4;0
-68;"Cercle de pierres";Rare;Améthyste;2;0
+68;"Cercle de pierres";Rare;Améthyste;1;0
 69;Merida;Commune;Émeraude;14;0
 70;"Hamish, Hubert et Harris";Commune;Émeraude;15;0
 71;"Le fils MacGuffin";Commune;Émeraude;15;0
@@ -130,7 +130,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 129;"Force intérieure";Commune;Rubis;15;2
 130;"Essaim de lucioles";"Peu commune";Rubis;10;1
 131;"Je pourrais m'envoler";Commune;Rubis;14;0
-132;Super-héroïsme;Rare;Rubis;4;1
+132;Super-héroïsme;Rare;Rubis;3;1
 133;"Plan dangereux";Commune;Rubis;14;2
 134;"Invocateur d’Encre d’Amazu";"Peu commune";Rubis;10;1
 135;"Terres d'encres reculées";Rare;Rubis;4;1
@@ -148,14 +148,14 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 147;Gadget;Commune;Saphir;15;0
 148;Ruzor;"Peu commune";Saphir;9;0
 149;"Edna Mode";Rare;Saphir;5;0
-150;Ruzor;"Super rare";Saphir;4;0
+150;Ruzor;"Super rare";Saphir;3;0
 151;"Luisa Madrigal";"Peu commune";Saphir;11;0
 152;"Irma Tièregrise";Commune;Saphir;15;1
 153;"Isabela Madrigal";"Super rare";Saphir;4;0
 154;"Bruno Madrigal";Rare;Saphir;5;1
 155;Cendrillon;Rare;Saphir;5;0
 156;"Bruno Madrigal";Commune;Saphir;15;2
-157;Kida;Rare;Saphir;2;0
+157;Kida;Rare;Saphir;1;0
 158;Kashekim;"Peu commune";Saphir;9;1
 159;Minnie;"Peu commune";Saphir;9;1
 160;Kida;Légendaire;Saphir;2;0
@@ -194,7 +194,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 193;Robotik;Rare;Acier;5;0
 194;Fergus;"Super rare";Acier;5;0
 195;"Mme Indestructible";Légendaire;Acier;3;0
-196;Diablo;"Super rare";Acier;4;0
+196;Diablo;"Super rare";Acier;3;0
 197;"Triple flèche";"Peu commune";Acier;10;1
 198;"Cartes bonus";"Peu commune";Acier;10;1
 199;"Vers le ciel";Rare;Acier;4;0
