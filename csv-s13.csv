@@ -48,7 +48,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 47;Meeko;Commune;Améthyste;10;2
 48;Peine;Commune;Améthyste;16;2
 49;"Ming Lee";Rare;Améthyste;4;0
-50;Merida;Légendaire;Améthyste;4;0
+50;Merida;Légendaire;Améthyste;3;0
 51;"Mme Indestructible";Rare;Améthyste;5;1
 52;Pat;Commune;Améthyste;12;2
 53;"Grand-mère Wu";Rare;Améthyste;0;0
@@ -192,7 +192,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 191;Kronk;Rare;Acier;5;0
 192;Mulan;Commune;Acier;12;0
 193;Diablo;Commune;Acier;18;3
-194;Scar;Légendaire;Acier;3;0
+194;Scar;Légendaire;Acier;2;0
 195;Maximus;Rare;Acier;5;2
 196;Omnidroïde;Rare;Acier;3;0
 197;"La Plante";"Super rare";Acier;4;0
