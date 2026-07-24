@@ -4,17 +4,13 @@
 - *[Lien / Links](https://www.vinted.fr/invite/lynadry)*
 
 
-** invitation Vinted / Vinted invitation **
-- *[Lien / Links](https://www.vinted.fr/invite/lynadry)*
-
-
 
 **Quelques liens aléatoires / Some random links**
-- *[Lorcana - Fabuleux - 3x La Fée Clochette 188/204 - Super rare - ID=2124](https://www.vinted.fr/items/7551217562-lorcana-fabuleux-3x-la-fee-clochette-188204-super-rare-id2124)*
-- *[Lorcana - Le retour d'Ursula - La Bête 176/204 - Commune Foil - ID=867](https://www.vinted.fr/items/7891586078-lorcana-le-retour-dursula-la-bete-176204-commune-foil-id867)*
-- *[Lorcana - Fabuleux - 2x Heihei 86/204 - Peu commune - ID=2022](https://www.vinted.fr/items/7899220662-lorcana-fabuleux-2x-heihei-86204-peu-commune-id2022)*
-- *[Lorcana - Ciel Scintillant - 2x Basil 153/204 - Commune - ID=1109](https://www.vinted.fr/items/8125897910-lorcana-ciel-scintillant-2x-basil-153204-commune-id1109)*
-- *[Lorcana - Ciel Scintillant - 2x Banzaï 87/204 - Commune - ID=1043](https://www.vinted.fr/items/5085534898-lorcana-ciel-scintillant-2x-banzai-87204-commune-id1043)*
+- *[Lorcana - Lueurs dans les Profondeurs - 3x Le Héron Noir 182/204 - Peu commune - ID=2371](https://www.vinted.fr/items/8036897946-lorcana-lueurs-dans-les-profondeurs-3x-le-heron-noir-182204-peu-commune-id2371)*
+- *[Lorcana - Lueurs dans les Profondeurs - Le Cavalier Sans Tête 174/204 - Super rare - ID=2363](https://www.vinted.fr/items/7583824771-lorcana-lueurs-dans-les-profondeurs-le-cavalier-sans-tete-174204-super-rare-id2363)*
+- *[Lorcana - Givresort - 3x Hercule 117/204 - Commune - ID=2580](https://www.vinted.fr/items/8977526107-lorcana-givresort-3x-hercule-117204-commune-id2580)*
+- *[Lorcana - Contrées Inconnues - Catox 187/204 - Rare Foil - ID=2902](https://www.vinted.fr/items/8926311248-lorcana-contrees-inconnues-catox-187204-rare-foil-id2902)*
+- *[Lorcana - La Mer Azurite - Baymax 157/204 - Légendaire - ID=1356](https://www.vinted.fr/items/7735911089-lorcana-la-mer-azurite-baymax-157204-legendaire-id1356)*
 
 
 **🔎 Recherches Lorcana par rareté / Search Lorcana by rarity**
@@ -40,24 +36,13 @@
 - *[#Lynadry_SET8](https://www.vinted.fr/catalog?search_text=%23Lynadry_SET8)*
 - *[#Lynadry_SET9](https://www.vinted.fr/catalog?search_text=%23Lynadry_SET9)*
 - *[#Lynadry_SET10](https://www.vinted.fr/catalog?search_text=%23Lynadry_SET10)*
+- *[#Lynadry_SET11](https://www.vinted.fr/catalog?search_text=%23Lynadry_SET11)*
+- *[#Lynadry_SET12](https://www.vinted.fr/catalog?search_text=%23Lynadry_SET12)*
+- *[#Lynadry_SET13](https://www.vinted.fr/catalog?search_text=%23Lynadry_SET13)*
 
 
 **🔎 Recherches Lorcana Foils uniquement / Search Lorcana Foils only**
 - *[#Lynadry_FOIL](https://www.vinted.fr/catalog?search_text=%23Lynadry_FOIL)*
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 <!-- BOOSTER_STATS_START -->
@@ -111,17 +96,17 @@
 | Enchantée | <img src="rarity/rarity_enchanted1.png" alt="Enchantée" width="24" /> | 0 | 0% | 3 | 1.7% |
 | Iconique | <img src="rarity/rarity_iconic.png" alt="Iconique" width="24" /> | 0 | 0% | 0 | 0% |
 
-#### Set 13  |  168 boosters
+#### Set 13  |  172 boosters
 | Rarity | Icon | Normal | % Norm | Foil | % Foil |
 |--------|------|--------|--------|------|--------|
-| Commune | <img src="rarity/rarity_common.svg" alt="Commune" width="24" /> | 1008 | 100% | 66 | 39.29% |
-| Peu commune | <img src="rarity/rarity_uncommon.svg" alt="Peu commune" width="24" /> | 504 | 100% | 38 | 22.62% |
-| Rare | <img src="rarity/rarity_rare.svg" alt="Rare" width="24" /> | 217 | 64.58% | 32 | 19.05% |
-| Super rare | <img src="rarity/rarity_super_rare.svg" alt="Super rare" width="24" /> | 73 | 21.73% | 9 | 5.36% |
-| Légendaire | <img src="rarity/rarity_legendary.svg" alt="Légendaire" width="24" /> | 46 | 13.69% | 4 | 2.38% |
-| Épique | <img src="rarity/rarity_epic.png" alt="Épique" width="24" /> | 0 | 0% | 17 | 10.12% |
-| Iconique | <img src="rarity/rarity_iconic.png" alt="Iconique" width="24" /> | 0 | 0% | 1 | 0.6% |
-| Enchantée | <img src="rarity/rarity_enchanted1.png" alt="Enchantée" width="24" /> | 0 | 0% | 1 | 0.6% |
+| Commune | <img src="rarity/rarity_common.svg" alt="Commune" width="24" /> | 1032 | 100% | 69 | 40.12% |
+| Peu commune | <img src="rarity/rarity_uncommon.svg" alt="Peu commune" width="24" /> | 516 | 100% | 39 | 22.67% |
+| Rare | <img src="rarity/rarity_rare.svg" alt="Rare" width="24" /> | 224 | 65.12% | 32 | 18.6% |
+| Super rare | <img src="rarity/rarity_super_rare.svg" alt="Super rare" width="24" /> | 74 | 21.51% | 9 | 5.23% |
+| Légendaire | <img src="rarity/rarity_legendary.svg" alt="Légendaire" width="24" /> | 46 | 13.37% | 4 | 2.33% |
+| Épique | <img src="rarity/rarity_epic.png" alt="Épique" width="24" /> | 0 | 0% | 17 | 9.88% |
+| Iconique | <img src="rarity/rarity_iconic.png" alt="Iconique" width="24" /> | 0 | 0% | 1 | 0.58% |
+| Enchantée | <img src="rarity/rarity_enchanted1.png" alt="Enchantée" width="24" /> | 0 | 0% | 1 | 0.58% |
 
 #### Set 2  |  127 boosters
 | Rarity | Icon | Normal | % Norm | Foil | % Foil |
@@ -220,17 +205,3 @@
 | Iconique | <img src="rarity/rarity_iconic.png" alt="Iconique" width="24" /> | 0 | 0% | 0 | 0% |
 
 <!-- BOOSTER_STATS_END -->
-
-
-
-
-
-
-
-
-
-
-
-
-
-
