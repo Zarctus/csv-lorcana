@@ -170,8 +170,8 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 169;"Le Manuscrit du Berger";"Peu commune";Saphir;11;1
 170;"Casa Madrigal";Commune;Saphir;14;0
 171;Pocahontas;Rare;Acier;3;0
-172;Syndrome;"Super rare";Acier;3;2
-173;Omnidroïde;Commune;Acier;15;1
+172;Syndrome;"Super rare";Acier;0;2
+173;Omnidroïde;Commune;Acier;11;1
 174;Angus;Commune;Acier;14;2
 175;Fergus;Commune;Acier;15;1
 176;"Le Petit Dingwall";Commune;Acier;15;0
@@ -188,7 +188,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 187;Catox;Rare;Acier;5;1
 188;Maude;"Peu commune";Acier;10;1
 189;Dingo;"Peu commune";Acier;9;1
-190;Omnidroïde;Rare;Acier;3;1
+190;Omnidroïde;Rare;Acier;0;0
 191;Merida;Légendaire;Acier;0;0
 192;"John Smith";Rare;Acier;6;0
 193;Robotik;Rare;Acier;5;0

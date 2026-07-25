@@ -13,7 +13,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 12;Pocahontas;Rare;Ambre;0;0
 13;Woody;Commune;Ambre;13;1
 14;"Abby Park";"Peu commune";Ambre;9;0
-15;Gaston;"Peu commune";Ambre;10;0
+15;Gaston;"Peu commune";Ambre;8;0
 16;"Meilin Lee";Rare;Ambre;0;1
 17;4*Town;Rare;Ambre;3;0
 18;"Bob Razowski";"Super rare";Ambre;1;0
@@ -55,7 +55,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 54;Heihei;Rare;Améthyste;4;0
 55;Héra;"Peu commune";Améthyste;8;0
 56;"La Fée Clochette";"Peu commune";Améthyste;11;0
-57;Morph;"Peu commune";Améthyste;6;1
+57;Morph;"Peu commune";Améthyste;3;1
 58;"Peter Pan";Commune;Améthyste;12;0
 59;"Aladdin & Génie";"Super rare";"Améthyste, Émeraude";5;0
 60;"Peter Pan & La Fée Clochette";"Super rare";"Améthyste, Rubis";3;0
@@ -174,7 +174,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 173;"Collier traducteur";Rare;Saphir;7;1
 174;"Grand livre du miel";"Peu commune";Saphir;8;1
 175;"La Forêt des Rêves Bleus";"Peu commune";Saphir;11;1
-176;"Violette Parr";"Super rare";Acier;3;0
+176;"Violette Parr";"Super rare";Acier;1;0
 177;Aladdin;Rare;Acier;3;1
 178;"Willie le géant";"Peu commune";Acier;10;1
 179;Sprout;Rare;Acier;5;0
@@ -194,7 +194,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 193;Diablo;Commune;Acier;19;3
 194;Scar;Légendaire;Acier;2;0
 195;Maximus;Rare;Acier;5;2
-196;Omnidroïde;Rare;Acier;4;0
+196;Omnidroïde;Rare;Acier;1;0
 197;"La Plante";"Super rare";Acier;4;0
 198;"Tremblez devant moi !";Commune;Acier;15;0
 199;"Et brandissez vos oriflammes !";Commune;Acier;16;1
