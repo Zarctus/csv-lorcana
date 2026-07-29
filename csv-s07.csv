@@ -17,7 +17,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 16;"Mariano Guzmán";Commune;Ambre;15;1
 17;"Adèle Machandelle";Commune;Ambre;12;0
 18;Volt;Commune;Ambre;14;0
-19;Pascal;"Peu commune";"Ambre, Améthyste";9;2
+19;Pascal;"Peu commune";"Ambre, Améthyste";9;1
 20;"Sa Sucrerie";"Super rare";"Ambre, Rubis";4;1
 21;Penny;"Peu commune";"Ambre, Acier";3;1
 22;"Félix Fixe Junior";"Peu commune";"Ambre, Rubis";8;1
@@ -164,7 +164,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 163;Heihei;"Peu commune";"Saphir, Acier";8;1
 164;Kida;Rare;Saphir;0;0
 165;Toulouse;Commune;Saphir;13;1
-166;Marie;"Peu commune";Saphir;9;1
+166;Marie;"Peu commune";Saphir;9;0
 167;Pepper;Commune;Saphir;14;1
 168;Biscotte;Commune;Saphir;11;1
 169;"Honey Lemon";Commune;Saphir;10;1
