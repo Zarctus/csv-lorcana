@@ -10,7 +10,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 9;"Dolores Madrigal";Commune;Ambre;15;2
 10;Rex;Rare;Ambre;0;0
 11;Bayonne;"Peu commune";Ambre;11;0
-12;"Jack le Costaud";Rare;Ambre;4;0
+12;"Jack le Costaud";Rare;Ambre;4;1
 13;"Bo, la bergère";"Peu commune";Ambre;9;1
 14;Tic;"Peu commune";Ambre;8;0
 15;Woody;Légendaire;Ambre;1;0
@@ -88,7 +88,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 87;"Lyle Tiberius Rourke";"Peu commune";Émeraude;10;1
 88;"Amadou Gentil";Commune;Émeraude;14;2
 89;Merida;Rare;Émeraude;5;0
-90;"La Reine";Légendaire;Émeraude;2;0
+90;"La Reine";Légendaire;Émeraude;2;1
 91;"Buzz l'Éclair";Légendaire;Émeraude;2;0
 92;"Cruella d'Enfer";Rare;Émeraude;3;1
 93;"Helga Sinclair";Rare;Émeraude;5;1
@@ -233,7 +233,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 232;"Jack-Jack Parr";Enchantée;Rubis;0;0
 233;"Le Léviathan";Enchantée;Rubis;0;0
 234;"M. Indestructible";Enchantée;Rubis;0;0
-235;Ruzor;Enchantée;Saphir;0;0
+235;Ruzor;Enchantée;Saphir;0;1
 236;Kida;Enchantée;Saphir;0;0
 237;"Que sais-je faire d’autre ?";Enchantée;Saphir;0;0
 238;Syndrome;Enchantée;Acier;0;0
