@@ -19,7 +19,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 18;Pikly;"Peu commune";Ambre;10;2
 19;"Jumba Jookiba";Rare;Ambre;9;0
 20;Nani;"Peu commune";Ambre;8;0
-21;Reuben;Rare;Ambre;0;1
+21;Reuben;Rare;Ambre;0;0
 22;Pocahontas;Légendaire;Ambre;0;0
 23;Simba;"Peu commune";Ambre;10;2
 24;Bambi;"Super rare";Ambre;1;0
@@ -160,7 +160,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 159;"Mickey Mouse";Rare;Saphir;7;0
 160;"Balthazar Picsou";Commune;Saphir;14;3
 161;Tui;Commune;Saphir;15;2
-162;"Visite des Noëls passés";Rare;Saphir;6;1
+162;"Visite des Noëls passés";Rare;Saphir;6;0
 163;"Libérée, Délivrée";Rare;Saphir;0;0
 164;Distraction;Commune;Saphir;15;1
 165;"Chute !";"Peu commune";Saphir;10;1
