@@ -48,9 +48,9 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 47;"Feux follets";Commune;Améthyste;14;0
 48;"Violette Parr";"Peu commune";Améthyste;11;1
 49;"Mme Indestructible";Rare;Améthyste;2;0
-50;"Hamish, Hubert et Harris";"Peu commune";Améthyste;9;1
+50;"Hamish, Hubert et Harris";"Peu commune";Améthyste;9;0
 51;Elinor;"Peu commune";Améthyste;11;1
-52;"Mickey Mouse";"Peu commune";Améthyste;10;1
+52;"Mickey Mouse";"Peu commune";Améthyste;10;0
 53;Mirage;Commune;Améthyste;15;0
 54;"Edna Mode";Rare;Améthyste;3;0
 55;Maléfique;Rare;Améthyste;6;0
@@ -76,7 +76,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 75;"La Reine";Commune;Émeraude;14;1
 76;"Buzz l'Éclair";Commune;Émeraude;15;1
 77;Karting;Commune;Émeraude;15;2
-78;"Seigneur MacGuffin";"Peu commune";Émeraude;10;1
+78;"Seigneur MacGuffin";"Peu commune";Émeraude;10;0
 79;Lenny;Rare;Émeraude;2;1
 80;"Gaëtan Molière";"Peu commune";Émeraude;9;1
 81;"Peter Pan";"Peu commune";Émeraude;10;1
@@ -88,7 +88,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 87;"Lyle Tiberius Rourke";"Peu commune";Émeraude;10;1
 88;"Amadou Gentil";Commune;Émeraude;14;2
 89;Merida;Rare;Émeraude;5;0
-90;"La Reine";Légendaire;Émeraude;2;1
+90;"La Reine";Légendaire;Émeraude;2;0
 91;"Buzz l'Éclair";Légendaire;Émeraude;2;0
 92;"Cruella d'Enfer";Rare;Émeraude;3;1
 93;"Helga Sinclair";Rare;Émeraude;5;1
@@ -128,7 +128,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 127;"M. Indestructible";Légendaire;Rubis;4;0
 128;"La poupée ptérodactyle";Commune;Rubis;15;2
 129;"Force intérieure";Commune;Rubis;15;2
-130;"Essaim de lucioles";"Peu commune";Rubis;10;1
+130;"Essaim de lucioles";"Peu commune";Rubis;10;0
 131;"Je pourrais m'envoler";Commune;Rubis;14;0
 132;Super-héroïsme;Rare;Rubis;3;1
 133;"Plan dangereux";Commune;Rubis;14;2
@@ -157,7 +157,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 156;"Bruno Madrigal";Commune;Saphir;15;2
 157;Kida;Rare;Saphir;1;0
 158;Kashekim;"Peu commune";Saphir;9;1
-159;Minnie;"Peu commune";Saphir;9;1
+159;Minnie;"Peu commune";Saphir;9;0
 160;Kida;Légendaire;Saphir;2;0
 161;Ursula;Légendaire;Saphir;5;0
 162;"On leur coupera la tête";Commune;Saphir;14;1
@@ -168,7 +168,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 167;Socissoplane;Rare;Saphir;4;0
 168;"Lunettes de Gadget";"Peu commune";Saphir;9;1
 169;"Le Manuscrit du Berger";"Peu commune";Saphir;11;1
-170;"Casa Madrigal";Commune;Saphir;14;0
+170;"Casa Madrigal";Commune;Saphir;13;0
 171;Pocahontas;Rare;Acier;3;0
 172;Syndrome;"Super rare";Acier;0;2
 173;Omnidroïde;Commune;Acier;11;1
@@ -184,7 +184,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 183;"Rat Capone";Commune;Acier;15;0
 184;Omnidroïde;"Peu commune";Acier;11;1
 185;"M. Indestructible";"Peu commune";Acier;9;0
-186;"Seigneur Dingwall";"Peu commune";Acier;10;1
+186;"Seigneur Dingwall";"Peu commune";Acier;10;0
 187;Catox;Rare;Acier;5;1
 188;Maude;"Peu commune";Acier;10;1
 189;Dingo;"Peu commune";Acier;9;1
@@ -233,7 +233,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 232;"Jack-Jack Parr";Enchantée;Rubis;0;0
 233;"Le Léviathan";Enchantée;Rubis;0;0
 234;"M. Indestructible";Enchantée;Rubis;0;0
-235;Ruzor;Enchantée;Saphir;0;1
+235;Ruzor;Enchantée;Saphir;0;0
 236;Kida;Enchantée;Saphir;0;0
 237;"Que sais-je faire d’autre ?";Enchantée;Saphir;0;0
 238;Syndrome;Enchantée;Acier;0;0
