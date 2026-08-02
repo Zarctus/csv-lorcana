@@ -6,11 +6,11 @@
 
 
 **Quelques liens aléatoires / Some random links**
-- *[Lorcana - Premier Chapitre - 4x Cruelle Diablesse 98/204 - Commune - ID=98](https://www.vinted.fr/items/6179423580-lorcana-premier-chapitre-4x-cruelle-diablesse-98204-commune-id98)*
-- *[Lorcana - L'ile d' Archazia - Pat 114/204 - Super rare - ID=1547](https://www.vinted.fr/items/7277042473-lorcana-lile-d-archazia-pat-114204-super-rare-id1547)*
-- *[Lorcana - Lueurs dans les Profondeurs - 3x Nick Wilde 178/204 - Commune - ID=2367](https://www.vinted.fr/items/8210090708-lorcana-lueurs-dans-les-profondeurs-3x-nick-wilde-178204-commune-id2367)*
-- *[Lorcana - Invasion épineuse! - 3x Flèche Parr 114/204 - Commune - ID=3085](https://www.vinted.fr/items/9469108161-lorcana-invasion-epineuse-3x-fleche-parr-114204-commune-id3085)*
-- *[Lorcana - Le retour d'Ursula - 4x Diablo 71/204 - Commune - ID=762](https://www.vinted.fr/items/5364810329-lorcana-le-retour-dursula-4x-diablo-71204-commune-id762)*
+- *[Lorcana - L'Ascension des Floodborn - Namaari 118/204 - Super rare - ID=334](https://www.vinted.fr/items/5835747736-lorcana-lascension-des-floodborn-namaari-118204-super-rare-id334)*
+- *[Lorcana - L'ile d' Archazia - 2x Jafar 190/204 - Commune - ID=1623](https://www.vinted.fr/items/7353128521-lorcana-lile-d-archazia-2x-jafar-190204-commune-id1623)*
+- *[Lorcana - Invasion épineuse! - 2x Source De La Plante 72/204 - Super rare - ID=3043](https://www.vinted.fr/items/9511309243-lorcana-invasion-epineuse-2x-source-de-la-plante-72204-super-rare-id3043)*
+- *[Lorcana - Fabuleux - 2x Je Vole 165/204 - Commune - ID=2101](https://www.vinted.fr/items/7352982223-lorcana-fabuleux-2x-je-vole-165204-commune-id2101)*
+- *[Lorcana - Lueurs dans les Profondeurs - 3x Le Héron Noir 182/204 - Peu commune - ID=2371](https://www.vinted.fr/items/8036897946-lorcana-lueurs-dans-les-profondeurs-3x-le-heron-noir-182204-peu-commune-id2371)*
 
 
 **🔎 Recherches Lorcana par rareté / Search Lorcana by rarity**
@@ -43,20 +43,6 @@
 
 **🔎 Recherches Lorcana Foils uniquement / Search Lorcana Foils only**
 - *[#Lynadry_FOIL](https://www.vinted.fr/catalog?search_text=%23Lynadry_FOIL)*
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 <!-- BOOSTER_STATS_START -->
@@ -219,17 +205,3 @@
 | Iconique | <img src="rarity/rarity_iconic.png" alt="Iconique" width="24" /> | 0 | 0% | 0 | 0% |
 
 <!-- BOOSTER_STATS_END -->
-
-
-
-
-
-
-
-
-
-
-
-
-
-
