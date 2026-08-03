@@ -61,7 +61,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 60;"Peter Pan & La Fée Clochette";"Super rare";"Améthyste, Rubis";3;0
 61;Jean-Christophe;Légendaire;"Améthyste, Saphir";4;0
 62;"Winnie l'Ourson & Porcinet";"Super rare";"Améthyste, Saphir";5;0
-63;"Maléfique & Diablo";Rare;"Améthyste, Acier";6;0
+63;"Maléfique & Diablo";Rare;"Améthyste, Acier";3;0
 64;"Enfile tes gants";Commune;Améthyste;15;0
 65;"Deux trois bons amis";Rare;Améthyste;5;1
 66;Pétrifier;Commune;Améthyste;14;2
@@ -70,7 +70,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 69;"Échapper de justesse";Commune;Améthyste;17;0
 70;"Bulbe brisé";"Peu commune";Améthyste;9;2
 71;"Bâton magique mellifique";Rare;Améthyste;4;2
-72;"Source de la Plante";"Super rare";Améthyste;3;1
+72;"Source de la Plante";"Super rare";Améthyste;1;1
 73;"Cercle de pierres";Rare;Améthyste;3;1
 74;"Carl Fredricksen";"Peu commune";Émeraude;11;1
 75;"Ellie Fredricksen";Commune;Émeraude;17;1
@@ -92,7 +92,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 91;Rosie;"Peu commune";Émeraude;9;0
 92;"Dr Raidi Moudugenou";Rare;Émeraude;3;2
 93;"Mère Gothel";Commune;Émeraude;18;1
-94;"Rox & Rouky";Rare;Émeraude;3;0
+94;"Rox & Rouky";Rare;Émeraude;0;0
 95;Raiponce;"Super rare";Émeraude;4;0
 96;Cétus;Commune;Émeraude;17;2
 97;Mushu;Légendaire;Émeraude;1;0
