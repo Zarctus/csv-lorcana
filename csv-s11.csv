@@ -11,7 +11,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 10;Cromeyer;Commune;Ambre;14;3
 11;Powhatan;"Peu commune";Ambre;8;2
 12;Sarabi;Commune;Ambre;15;2
-13;"Grand-Mère Feuillage";"Peu commune";Ambre;3;0
+13;"Grand-Mère Feuillage";"Peu commune";Ambre;0;0
 14;"Cobra Bubbles";Rare;Ambre;6;0
 15;"John Smith";"Peu commune";Ambre;10;0
 16;Timon;Rare;Ambre;2;0
@@ -75,7 +75,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 74;Chien-Po;"Peu commune";Émeraude;12;1
 75;Ling;Rare;Émeraude;5;0
 76;Piqueur;Commune;Émeraude;15;2
-77;Chernabog;"Super rare";Émeraude;3;0
+77;Chernabog;"Super rare";Émeraude;0;0
 78;Dinky;Commune;Émeraude;11;1
 79;Sigmund;Rare;Émeraude;7;0
 80;Twist;Commune;Émeraude;18;1

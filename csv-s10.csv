@@ -64,7 +64,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 63;"Attaque en piqué";Commune;Améthyste;16;0
 64;"Bilan de performance";"Peu commune";Améthyste;12;0
 65;"Aussi fragile qu’une fleur";Commune;Améthyste;14;0
-66;"Le Manuel des Castors Juniors";Commune;Améthyste;16;0
+66;"Le Manuel des Castors Juniors";Commune;Améthyste;13;0
 67;"Grimorum Arcanorum";Rare;Améthyste;4;0
 68;"Le grand Illuminarium";"Peu commune";Améthyste;10;1
 69;Baloo;Commune;Émeraude;16;2
@@ -95,7 +95,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 94;"Alors tant pis !";Commune;Émeraude;16;2
 95;"Aie confiance";Rare;Émeraude;4;0
 96;Croque !;Commune;Émeraude;14;2
-97;"Malin, méchant, vilain";"Peu commune";Émeraude;4;0
+97;"Malin, méchant, vilain";"Peu commune";Émeraude;0;0
 98;"Potion de malice";"Super rare";Émeraude;5;0
 99;"Carte indéchiffrable";"Peu commune";Émeraude;9;2
 100;"Invocateur d’encre mystérieux";Rare;Émeraude;3;0
