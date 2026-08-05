@@ -1,6 +1,6 @@
 card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 1;Woody;Rare;Ambre;9;0
-2;"Ming Lee";Rare;Ambre;5;1
+2;"Ming Lee";Rare;Ambre;5;0
 3;"Isabela Madrigal";Commune;Ambre;18;1
 4;"Tyler Nguyen-Baker";Commune;Ambre;12;1
 5;"Coco Lapin";"Peu commune";Ambre;8;1
@@ -16,7 +16,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 15;Gaston;"Peu commune";Ambre;9;0
 16;"Meilin Lee";Rare;Ambre;0;1
 17;4*Town;Rare;Ambre;3;0
-18;"Bob Razowski";"Super rare";Ambre;1;0
+18;"Bob Razowski";"Super rare";Ambre;0;0
 19;Bouh;"Peu commune";Ambre;8;1
 20;Jasmine;Commune;Ambre;16;0
 21;"Bob Razowski";Commune;Ambre;12;2
@@ -25,11 +25,11 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 24;Sulli;"Super rare";Ambre;1;0
 25;"Mirabel Madrigal";Rare;Ambre;4;1
 26;Ursula;Rare;Ambre;3;0
-27;"Pocahontas & Meeko";Légendaire;"Ambre, Améthyste";1;1
+27;"Pocahontas & Meeko";Légendaire;"Ambre, Améthyste";1;0
 28;"Woody & Buzz l'Éclair";Légendaire;"Ambre, Émeraude";2;0
-29;"Sulli & Bouh";"Super rare";"Ambre, Rubis";6;1
+29;"Sulli & Bouh";"Super rare";"Ambre, Rubis";6;0
 30;"La famille Madrigal";Rare;"Ambre, Saphir";6;0
-31;"Lilo & Stitch";"Super rare";"Ambre, Acier";2;2
+31;"Lilo & Stitch";"Super rare";"Ambre, Acier";2;1
 32;"Si je ne t'avais pas";Commune;Ambre;13;2
 33;"I'm Never Not by Your Side";"Peu commune";Ambre;9;0
 34;"Les filles, regroupage !";Commune;Ambre;17;0
@@ -63,14 +63,14 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 62;"Winnie l'Ourson & Porcinet";"Super rare";"Améthyste, Saphir";5;0
 63;"Maléfique & Diablo";Rare;"Améthyste, Acier";3;0
 64;"Enfile tes gants";Commune;Améthyste;15;0
-65;"Deux trois bons amis";Rare;Améthyste;5;1
+65;"Deux trois bons amis";Rare;Améthyste;5;0
 66;Pétrifier;Commune;Améthyste;14;2
 67;"Le seul et unique";"Peu commune";Améthyste;11;1
 68;"Aura protectrice";"Peu commune";Améthyste;11;1
 69;"Échapper de justesse";Commune;Améthyste;17;0
 70;"Bulbe brisé";"Peu commune";Améthyste;9;2
 71;"Bâton magique mellifique";Rare;Améthyste;4;2
-72;"Source de la Plante";"Super rare";Améthyste;1;1
+72;"Source de la Plante";"Super rare";Améthyste;1;0
 73;"Cercle de pierres";Rare;Améthyste;3;1
 74;"Carl Fredricksen";"Peu commune";Émeraude;11;1
 75;"Ellie Fredricksen";Commune;Émeraude;17;1
@@ -106,7 +106,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 105;Patate;Commune;Émeraude;17;1
 106;"Mon livre d’aventure";"Peu commune";Émeraude;9;1
 107;"Bulbe de la plante";Rare;Émeraude;6;0
-108;"Chutes du Paradis";Rare;Émeraude;7;1
+108;"Chutes du Paradis";Rare;Émeraude;7;0
 109;"Flèche Parr";Rare;Rubis;4;0
 110;Yzma;Commune;Rubis;15;1
 111;Kuzco;"Peu commune";Rubis;10;1
@@ -127,7 +127,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 126;Tigrou;Rare;Rubis;1;0
 127;Bouh;Rare;Rubis;3;1
 128;Sulli;"Peu commune";Rubis;11;0
-129;"Ming Lee";"Super rare";Rubis;2;1
+129;"Ming Lee";"Super rare";Rubis;2;0
 130;"Capitaine Crochet";"Peu commune";Rubis;10;1
 131;"Peter Pan";Commune;Rubis;16;1
 132;"Belle & La Bête";"Super rare";"Rubis, Saphir";1;0
@@ -145,7 +145,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 144;Doug;"Peu commune";Saphir;10;1
 145;Germaine;Commune;Saphir;17;2
 146;Merlin;Rare;Saphir;3;0
-147;Poker-Naze;Légendaire;Saphir;4;1
+147;Poker-Naze;Légendaire;Saphir;4;0
 148;Belle;Commune;Saphir;12;0
 149;"Ellie Fredricksen";Commune;Saphir;17;2
 150;"Madame Hasagawa";"Peu commune";Saphir;11;0
@@ -158,9 +158,9 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 157;"Antonio Madrigal";"Peu commune";Saphir;10;1
 158;"Belle Marianne";Rare;Saphir;4;1
 159;"Robin des Bois";Commune;Saphir;15;1
-160;Bouh;Rare;Saphir;3;1
+160;Bouh;Rare;Saphir;3;0
 161;Pluto;Commune;Saphir;13;2
-162;"Charles Muntz";"Super rare";Saphir;4;2
+162;"Charles Muntz";"Super rare";Saphir;4;1
 163;"Henri J. Waternousse III";Rare;Saphir;5;0
 164;Bourriquet;"Peu commune";Saphir;8;0
 165;"Myster Mask & Flagada Jones";"Super rare";"Saphir, Acier";5;0
@@ -205,7 +205,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 204;"Armure délaissée";"Peu commune";Acier;9;0
 205;"La débroussailleuse";"Peu commune";Acier;10;0
 206;"Fleur absorbante";"Peu commune";Acier;12;0
-207;"Entrée de la Plante";Rare;Acier;3;1
+207;"Entrée de la Plante";Rare;Acier;3;0
 208;Jasmine;Épique;Ambre;0;0
 209;Bouh;Épique;Ambre;0;0
 210;"Meilin Lee";Épique;Ambre;0;0
