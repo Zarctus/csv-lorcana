@@ -53,7 +53,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 52;Anna;"Peu commune";Améthyste;10;0
 53;Guimauve;Rare;Améthyste;2;0
 54;"Vaches de l’espace";Commune;Améthyste;15;1
-55;Jean-Christophe;"Peu commune";Améthyste;3;0
+55;Jean-Christophe;"Peu commune";Améthyste;0;0
 56;Lumpy;Commune;Améthyste;15;0
 57;"Les sorcières de Morva";Rare;Améthyste;7;0
 58;Heihei;Commune;Améthyste;15;2
@@ -102,7 +102,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 101;Bélier;Rare;Émeraude;5;0
 102;"Réserve de chasse";Commune;Émeraude;15;2
 103;"Ralph la Casse";Légendaire;Rubis;1;0
-104;"Balthazar Picsou";"Peu commune";Rubis;5;0
+104;"Balthazar Picsou";"Peu commune";Rubis;2;0
 105;Donald;Commune;Rubis;14;3
 106;"Toros Bulba";Commune;Rubis;16;0
 107;Rouky;"Peu commune";Rubis;9;1
