@@ -26,7 +26,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 25;"Mirabel Madrigal";Rare;Ambre;4;1
 26;Ursula;Rare;Ambre;3;0
 27;"Pocahontas & Meeko";Légendaire;"Ambre, Améthyste";1;0
-28;"Woody & Buzz l'Éclair";Légendaire;"Ambre, Émeraude";2;0
+28;"Woody & Buzz l'Éclair";Légendaire;"Ambre, Émeraude";3;0
 29;"Sulli & Bouh";"Super rare";"Ambre, Rubis";6;0
 30;"La famille Madrigal";Rare;"Ambre, Saphir";6;0
 31;"Lilo & Stitch";"Super rare";"Ambre, Acier";2;1
@@ -207,7 +207,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 206;"Fleur absorbante";"Peu commune";Acier;12;0
 207;"Entrée de la Plante";Rare;Acier;3;0
 208;Jasmine;Épique;Ambre;0;0
-209;Bouh;Épique;Ambre;0;0
+209;Bouh;Épique;Ambre;0;1
 210;"Meilin Lee";Épique;Ambre;0;0
 211;Heihei;Épique;Améthyste;0;1
 212;"Winnie l'Ourson";Épique;Améthyste;0;0
