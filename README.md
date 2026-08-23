@@ -6,11 +6,11 @@
 
 
 **Quelques liens aléatoires / Some random links**
-- *[Lorcana - Le retour d'Ursula - Dingo 12/204 - Rare Foil - ID=703](https://www.vinted.fr/items/6116798107-lorcana-le-retour-dursula-dingo-12204-rare-foil-id703)*
-- *[Lorcana - L'Ascension des Floodborn - 4x Duke Weaselton 146/204 - Commune - ID=362](https://www.vinted.fr/items/6631932038-lorcana-lascension-des-floodborn-4x-duke-weaselton-146204-commune-id362)*
-- *[Lorcana - Contrées Inconnues - 2x Canard 120/204 - Rare - ID=2835](https://www.vinted.fr/items/8953924386-lorcana-contrees-inconnues-2x-canard-120204-rare-id2835)*
-- *[Lorcana - L'ile d' Archazia - 3x Miss Bianca 195/204 - Commune - ID=1628](https://www.vinted.fr/items/6030181049-lorcana-lile-d-archazia-3x-miss-bianca-195204-commune-id1628)*
-- *[Lorcana - Fabuleux - 3x Pluto 21/204 - Commune - ID=1957](https://www.vinted.fr/items/7256444675-lorcana-fabuleux-3x-pluto-21204-commune-id1957)*
+- *[Lorcana - Lueurs dans les Profondeurs - Le Cavalier Sans Tête 174/204 - Super rare - ID=2363](https://www.vinted.fr/items/7583824771-lorcana-lueurs-dans-les-profondeurs-le-cavalier-sans-tete-174204-super-rare-id2363)*
+- *[Lorcana - Fabuleux - Powerline 109/204 - Commune Foil - ID=2045](https://www.vinted.fr/items/7930465155-lorcana-fabuleux-powerline-109204-commune-foil-id2045)*
+- *[Lorcana - Contrées Inconnues - 3x Bayonne 11/204 - Peu commune - ID=2726](https://www.vinted.fr/items/8870918464-lorcana-contrees-inconnues-3x-bayonne-11204-peu-commune-id2726)*
+- *[Lorcana - Contrées Inconnues - Tête De Bébé 119/204 - Rare - ID=2834](https://www.vinted.fr/items/9309624536-lorcana-contrees-inconnues-tete-de-bebe-119204-rare-id2834)*
+- *[Lorcana - Le Règne de Jafar - Namaari 198/204 - Légendaire Foil - ID=1862](https://www.vinted.fr/items/8887065752-lorcana-le-regne-de-jafar-namaari-198204-legendaire-foil-id1862)*
 
 
 **🔎 Recherches Lorcana par rareté / Search Lorcana by rarity**
@@ -43,20 +43,6 @@
 
 **🔎 Recherches Lorcana Foils uniquement / Search Lorcana Foils only**
 - *[#Lynadry_FOIL](https://www.vinted.fr/catalog?search_text=%23Lynadry_FOIL)*
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 <!-- BOOSTER_STATS_START -->
@@ -219,17 +205,3 @@
 | Iconique | <img src="rarity/rarity_iconic.png" alt="Iconique" width="24" /> | 0 | 0% | 0 | 0% |
 
 <!-- BOOSTER_STATS_END -->
-
-
-
-
-
-
-
-
-
-
-
-
-
-
