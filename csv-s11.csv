@@ -58,7 +58,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 57;"Les sorcières de Morva";Rare;Améthyste;7;0
 58;Heihei;Commune;Améthyste;15;2
 59;Pua;Commune;Améthyste;13;0
-60;Sven;"Super rare";Améthyste;4;1
+60;Sven;"Super rare";Améthyste;2;1
 61;"Je voudrais un bonhomme de neige";Rare;Améthyste;5;0
 62;"Viens te battre !";Commune;Améthyste;15;0
 63;"Manier l'épée";Commune;Améthyste;14;2
@@ -195,7 +195,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 194;"Judy Hopps";"Peu commune";Acier;8;0
 195;Lilo;"Super rare";Acier;5;0
 196;"Garde le feu millénaire";"Peu commune";Acier;11;2
-197;"La terreur qui corrige les erreurs";Commune;Acier;14;3
+197;"La terreur qui corrige les erreurs";Commune;Acier;11;3
 198;"Cette chanson craint un mask";Rare;Acier;2;0
 199;Givresort;"Peu commune";Acier;11;1
 200;"Presque invincible";Commune;Acier;15;2
