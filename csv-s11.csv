@@ -58,11 +58,11 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 57;"Les sorcières de Morva";Rare;Améthyste;7;0
 58;Heihei;Commune;Améthyste;15;2
 59;Pua;Commune;Améthyste;13;0
-60;Sven;"Super rare";Améthyste;2;1
+60;Sven;"Super rare";Améthyste;0;1
 61;"Je voudrais un bonhomme de neige";Rare;Améthyste;5;0
 62;"Viens te battre !";Commune;Améthyste;15;0
 63;"Manier l'épée";Commune;Améthyste;14;2
-64;"L’air du vent";"Super rare";Améthyste;2;0
+64;"L’air du vent";"Super rare";Améthyste;0;0
 65;"Collier de la mère";"Peu commune";Améthyste;11;1
 66;"Invocateur d’encre mystique";Rare;Améthyste;1;0
 67;"Pot de miel";Commune;Améthyste;17;2
@@ -102,7 +102,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 101;Bélier;Rare;Émeraude;5;0
 102;"Réserve de chasse";Commune;Émeraude;15;2
 103;"Ralph la Casse";Légendaire;Rubis;1;0
-104;"Balthazar Picsou";"Peu commune";Rubis;2;0
+104;"Balthazar Picsou";"Peu commune";Rubis;0;0
 105;Donald;Commune;Rubis;14;3
 106;"Toros Bulba";Commune;Rubis;16;0
 107;Rouky;"Peu commune";Rubis;9;1
@@ -120,7 +120,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 119;Blizzard;"Peu commune";Rubis;12;0
 120;Dingo;Commune;Rubis;12;1
 121;Dingo;Rare;Rubis;3;0
-122;Olaf;Rare;Rubis;6;2
+122;Olaf;Rare;Rubis;3;2
 123;Elsa;Légendaire;Rubis;0;0
 124;"Balthazar Picsou";"Super rare";Rubis;5;0
 125;Elsa;"Peu commune";Rubis;10;0

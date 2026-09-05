@@ -64,7 +64,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 63;"Programme de réinsertion des Supers";Commune;Améthyste;14;1
 64;"Tous derrière toi";"Peu commune";Améthyste;9;0
 65;"Ne sois pas si nerveux";Rare;Améthyste;4;0
-66;Super-costume;"Peu commune";Améthyste;9;0
+66;Super-costume;"Peu commune";Améthyste;7;0
 67;"Tapisserie familiale de DunBroch";Rare;Améthyste;4;0
 68;"Cercle de pierres";Rare;Améthyste;1;0
 69;Merida;Commune;Émeraude;14;0
@@ -197,7 +197,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 196;Diablo;"Super rare";Acier;3;0
 197;"Triple flèche";"Peu commune";Acier;10;1
 198;"Cartes bonus";"Peu commune";Acier;10;1
-199;"Vers le ciel";Rare;Acier;4;0
+199;"Vers le ciel";Rare;Acier;1;0
 200;"Ventouse au harpon";Commune;Acier;15;0
 201;"Télécommande de Syndrome";Rare;Acier;6;2
 202;"Porte du Club";"Peu commune";Acier;10;0
