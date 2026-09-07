@@ -55,10 +55,10 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 54;"Edna Mode";Rare;Améthyste;0;0
 55;Maléfique;Rare;Améthyste;6;0
 56;"Pepa Madrigal";"Super rare";Améthyste;4;0
-57;Mor'du;"Super rare";Améthyste;5;1
+57;Mor'du;"Super rare";Améthyste;5;0
 58;"Alma Madrigal";Rare;Améthyste;5;1
 59;Frozone;Rare;Améthyste;5;0
-60;"Luisa Madrigal";Légendaire;Améthyste;2;1
+60;"Luisa Madrigal";Légendaire;Améthyste;1;1
 61;"Flèche Parr";"Super rare";Améthyste;2;1
 62;"Luisa Madrigal";Commune;Améthyste;12;2
 63;"Programme de réinsertion des Supers";Commune;Améthyste;14;1
@@ -88,7 +88,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 87;"Lyle Tiberius Rourke";"Peu commune";Émeraude;10;1
 88;"Amadou Gentil";Commune;Émeraude;14;2
 89;Merida;Rare;Émeraude;5;0
-90;"La Reine";Légendaire;Émeraude;2;0
+90;"La Reine";Légendaire;Émeraude;1;0
 91;"Buzz l'Éclair";Légendaire;Émeraude;2;0
 92;"Cruella d'Enfer";Rare;Émeraude;3;1
 93;"Helga Sinclair";Rare;Émeraude;5;1
@@ -120,8 +120,8 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 119;"Tête de bébé";Rare;Rubis;1;0
 120;Canard;Rare;Rubis;4;0
 121;"Jack-Jack Parr";"Super rare";Rubis;3;0
-122;"La Reine de Cœur";Rare;Rubis;5;1
-123;Hercule;"Super rare";Rubis;3;1
+122;"La Reine de Cœur";Rare;Rubis;5;0
+123;Hercule;"Super rare";Rubis;3;0
 124;"Vincenzo Santorini";Rare;Rubis;5;0
 125;"Le Léviathan";"Super rare";Rubis;2;0
 126;"Sid Phillips";Légendaire;Rubis;2;0
@@ -159,7 +159,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 158;Kashekim;"Peu commune";Saphir;9;1
 159;Minnie;"Peu commune";Saphir;9;0
 160;Kida;Légendaire;Saphir;2;0
-161;Ursula;Légendaire;Saphir;5;0
+161;Ursula;Légendaire;Saphir;4;0
 162;"On leur coupera la tête";Commune;Saphir;14;1
 163;"Que sais-je faire d’autre ?";Rare;Saphir;5;0
 164;"Plan d’évasion";Rare;Saphir;5;0
@@ -170,7 +170,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 169;"Le Manuscrit du Berger";"Peu commune";Saphir;11;1
 170;"Casa Madrigal";Commune;Saphir;13;0
 171;Pocahontas;Rare;Acier;3;0
-172;Syndrome;"Super rare";Acier;0;2
+172;Syndrome;"Super rare";Acier;0;1
 173;Omnidroïde;Commune;Acier;11;1
 174;Angus;Commune;Acier;14;2
 175;Fergus;Commune;Acier;15;1
@@ -193,7 +193,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 192;"John Smith";Rare;Acier;6;0
 193;Robotik;Rare;Acier;5;0
 194;Fergus;"Super rare";Acier;5;0
-195;"Mme Indestructible";Légendaire;Acier;3;0
+195;"Mme Indestructible";Légendaire;Acier;2;0
 196;Diablo;"Super rare";Acier;3;0
 197;"Triple flèche";"Peu commune";Acier;10;1
 198;"Cartes bonus";"Peu commune";Acier;10;1

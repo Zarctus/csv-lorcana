@@ -75,7 +75,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 73;"Prince Philippe";"Super rare";Émeraude;0;0
 74;Dingo;Rare;Émeraude;9;2
 75;"Max Dingo";Rare;Émeraude;9;0
-76;Génie;"Super rare";Émeraude;9;0
+76;Génie;"Super rare";Émeraude;8;0
 77;"Max Dingo";Légendaire;Émeraude;0;0
 78;"Bobby Zimmeruski";"Peu commune";Émeraude;16;1
 79;Mégara;Commune;Émeraude;27;1
@@ -142,7 +142,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 140;Loulou;Commune;Saphir;26;3
 141;Alice;Rare;Saphir;10;0
 142;Mulan;"Super rare";Saphir;5;0
-143;"Cruella d'Enfer";Légendaire;Saphir;2;0
+143;"Cruella d'Enfer";Légendaire;Saphir;1;0
 144;Mufasa;Commune;Saphir;30;2
 145;"Cruella d'Enfer";Commune;Saphir;26;1
 146;Anna;Commune;Saphir;23;0
@@ -173,10 +173,10 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 171;Philoctète;Rare;Acier;10;0
 172;"Mickey Mouse";"Super rare";Acier;4;0
 173;Nala;Rare;Acier;1;0
-174;Lilo;"Super rare";Acier;2;0
+174;Lilo;"Super rare";Acier;1;0
 175;Scar;Légendaire;Acier;0;0
 176;"Petit Jean";"Peu commune";Acier;20;1
-177;"Robin des Bois";Légendaire;Acier;1;0
+177;"Robin des Bois";Légendaire;Acier;0;0
 178;Jasmine;Rare;Acier;6;0
 179;Tiana;Commune;Acier;23;0
 180;Benja;Commune;Acier;25;0

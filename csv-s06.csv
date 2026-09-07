@@ -52,7 +52,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 51;"Tapis Volant";"Peu commune";Améthyste;6;0
 52;Rafiki;Rare;Améthyste;5;0
 53;Génie;Rare;Améthyste;0;0
-54;Sisu;"Super rare";Améthyste;1;0
+54;Sisu;"Super rare";Améthyste;0;0
 55;"Madame Mime";"Super rare";Améthyste;5;0
 56;Yzma;Légendaire;Améthyste;0;0
 57;"Mama Odie";Rare;Améthyste;2;0
@@ -125,7 +125,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 124;Maui;Légendaire;Rubis;0;0
 125;Hadès;Légendaire;Rubis;0;0
 126;Tigrou;Rare;Rubis;6;0
-127;Scar;"Super rare";Rubis;1;0
+127;Scar;"Super rare";Rubis;0;0
 128;Chapardage;Commune;Rubis;11;2
 129;"Montrer la voie";Commune;Rubis;10;0
 130;"Poser des îles sur l'océan";"Peu commune";Rubis;5;1
@@ -155,7 +155,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 154;"Hiro Hamada";Rare;Saphir;4;1
 155;"Tadashi Hamada";Rare;Saphir;2;0
 156;Baymax;Rare;Saphir;3;0
-157;Baymax;Légendaire;Saphir;1;0
+157;Baymax;Légendaire;Saphir;0;0
 158;Yokai;Commune;Saphir;11;0
 159;Flaversham;Rare;Saphir;2;0
 160;Yokai;Rare;Saphir;5;0
