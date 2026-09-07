@@ -8,7 +8,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 7;"Meilin Lee";"Peu commune";Ambre;8;1
 8;"Priya Mangal";Commune;Ambre;16;1
 9;"Miriam Mendelsohn";Commune;Ambre;19;1
-10;Lilo;Commune;Ambre;15;0
+10;Lilo;Commune;Ambre;16;0
 11;Kocoum;Commune;Ambre;15;2
 12;Pocahontas;Rare;Ambre;0;0
 13;Woody;Commune;Ambre;14;1
@@ -72,7 +72,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 71;"Bâton magique mellifique";Rare;Améthyste;4;2
 72;"Source de la Plante";"Super rare";Améthyste;2;0
 73;"Cercle de pierres";Rare;Améthyste;3;1
-74;"Carl Fredricksen";"Peu commune";Émeraude;11;1
+74;"Carl Fredricksen";"Peu commune";Émeraude;11;0
 75;"Ellie Fredricksen";Commune;Émeraude;17;1
 76;"Buzz l'Éclair";Commune;Émeraude;15;1
 77;"Buzz l'Éclair";Rare;Émeraude;7;1
@@ -85,7 +85,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 84;Winifred;Commune;Émeraude;12;1
 85;Aladdin;Commune;Émeraude;15;1
 86;"Madame Mime";"Peu commune";Émeraude;10;0
-87;Minnie;Commune;Émeraude;19;1
+87;Minnie;Commune;Émeraude;16;1
 88;Kevin;"Peu commune";Émeraude;11;1
 89;"Peter Pan";Rare;Émeraude;6;0
 90;Rouky;"Peu commune";Émeraude;9;0
@@ -102,7 +102,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 101;"Je dessèche une fleur";Rare;Émeraude;5;0
 102;"Attaque perforante";Commune;Émeraude;14;2
 103;"Déblaie-nous ta Bouh du plancher";"Peu commune";Émeraude;13;1
-104;"Partir en éclaireur";Commune;Émeraude;11;0
+104;"Partir en éclaireur";Commune;Émeraude;14;0
 105;Patate;Commune;Émeraude;18;1
 106;"Mon livre d’aventure";"Peu commune";Émeraude;9;1
 107;"Bulbe de la plante";Rare;Émeraude;6;0
