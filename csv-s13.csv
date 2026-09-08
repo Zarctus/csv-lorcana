@@ -1,5 +1,5 @@
 card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
-1;Woody;Rare;Ambre;9;0
+1;Woody;Rare;Ambre;7;0
 2;"Ming Lee";Rare;Ambre;5;0
 3;"Isabela Madrigal";Commune;Ambre;18;1
 4;"Tyler Nguyen-Baker";Commune;Ambre;12;1
@@ -22,11 +22,11 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 21;"Bob Razowski";Commune;Ambre;12;2
 22;"Le Seigneur des Ténèbres";Légendaire;Ambre;3;0
 23;"Maman Gourou";Commune;Ambre;18;0
-24;Sulli;"Super rare";Ambre;1;0
+24;Sulli;"Super rare";Ambre;0;0
 25;"Mirabel Madrigal";Rare;Ambre;4;1
 26;Ursula;Rare;Ambre;3;0
 27;"Pocahontas & Meeko";Légendaire;"Ambre, Améthyste";1;0
-28;"Woody & Buzz l'Éclair";Légendaire;"Ambre, Émeraude";3;0
+28;"Woody & Buzz l'Éclair";Légendaire;"Ambre, Émeraude";1;0
 29;"Sulli & Bouh";"Super rare";"Ambre, Rubis";6;0
 30;"La famille Madrigal";Rare;"Ambre, Saphir";6;0
 31;"Lilo & Stitch";"Super rare";"Ambre, Acier";2;1
@@ -79,18 +79,18 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 78;Grignotin;Rare;Émeraude;2;1
 79;Russell;"Super rare";Émeraude;5;0
 80;Raiponce;Commune;Émeraude;12;0
-81;Rox;"Peu commune";Émeraude;7;2
+81;Rox;"Peu commune";Émeraude;4;2
 82;Russell;Commune;Émeraude;19;2
 83;"Petit Gourou";"Peu commune";Émeraude;9;1
 84;Winifred;Commune;Émeraude;12;1
 85;Aladdin;Commune;Émeraude;15;1
 86;"Madame Mime";"Peu commune";Émeraude;10;0
-87;Minnie;Commune;Émeraude;16;1
+87;Minnie;Commune;Émeraude;13;1
 88;Kevin;"Peu commune";Émeraude;11;1
 89;"Peter Pan";Rare;Émeraude;6;0
 90;Rouky;"Peu commune";Émeraude;9;0
 91;Rosie;"Peu commune";Émeraude;9;0
-92;"Dr Raidi Moudugenou";Rare;Émeraude;4;2
+92;"Dr Raidi Moudugenou";Rare;Émeraude;1;2
 93;"Mère Gothel";Commune;Émeraude;18;1
 94;"Rox & Rouky";Rare;Émeraude;0;0
 95;Raiponce;"Super rare";Émeraude;5;0
@@ -154,7 +154,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 153;"Léon Bogue";Rare;Saphir;0;0
 154;Porcinet;Commune;Saphir;13;1
 155;"Mickey Mouse";Commune;Saphir;16;0
-156;Hadès;"Peu commune";Saphir;13;1
+156;Hadès;"Peu commune";Saphir;10;1
 157;"Antonio Madrigal";"Peu commune";Saphir;10;1
 158;"Belle Marianne";Rare;Saphir;4;1
 159;"Robin des Bois";Commune;Saphir;15;1
