@@ -9,7 +9,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 8;Pocahontas;Commune;Ambre;12;0
 9;David;Commune;Ambre;17;2
 10;Cromeyer;Commune;Ambre;14;3
-11;Powhatan;"Peu commune";Ambre;8;2
+11;Powhatan;"Peu commune";Ambre;6;2
 12;Sarabi;Commune;Ambre;15;2
 13;"Grand-Mère Feuillage";"Peu commune";Ambre;0;0
 14;"Cobra Bubbles";Rare;Ambre;6;0
@@ -185,7 +185,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 184;Nani;Commune;Acier;19;2
 185;Stitch;Commune;Acier;15;0
 186;"Dr Hämsterviel";Rare;Acier;4;0
-187;Angela;"Super rare";Acier;4;0
+187;Angela;"Super rare";Acier;2;0
 188;"Myster Mask";Rare;Acier;6;0
 189;Gigi;"Peu commune";Acier;6;0
 190;"Présidente du Grand Conseil";Rare;Acier;6;0

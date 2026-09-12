@@ -5,7 +5,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 3;Stitch;"Super rare";Ambre;6;0
 4;"La Bête";Rare;Ambre;7;0
 5;Minnie;"Super rare";Ambre;11;1
-6;Aurore;"Peu commune";Ambre;12;0
+6;Aurore;"Peu commune";Ambre;8;0
 7;"La Reine";Commune;Ambre;24;3
 8;Raiponce;Commune;Ambre;27;0
 9;Stitch;Commune;Ambre;25;2
@@ -29,7 +29,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 27;"Guéris les blessures";Commune;Ambre;30;0
 28;"J'ai perdu le Nord";Commune;Ambre;23;1
 29;"Retour de Bruno";"Peu commune";Ambre;16;2
-30;"Le Grand Génie du Mal";"Peu commune";Ambre;18;0
+30;"Le Grand Génie du Mal";"Peu commune";Ambre;16;0
 31;"C'est la Fête";Commune;Ambre;25;1
 32;Lanterne;Rare;Ambre;6;0
 33;"Pendentif en Coquillage d'Ursula";Rare;Ambre;8;0
@@ -77,7 +77,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 75;"Max Dingo";Rare;Émeraude;9;0
 76;Génie;"Super rare";Émeraude;8;0
 77;"Max Dingo";Légendaire;Émeraude;0;0
-78;"Bobby Zimmeruski";"Peu commune";Émeraude;16;1
+78;"Bobby Zimmeruski";"Peu commune";Émeraude;13;1
 79;Mégara;Commune;Émeraude;27;1
 80;"Mickey Mouse";Commune;Émeraude;29;4
 81;L'Enchanteresse;Commune;Émeraude;18;0
@@ -133,7 +133,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 131;"Tu t'envoles";Commune;Rubis;27;2
 132;"La vie d'un pirate";"Peu commune";Rubis;18;0
 133;"Un roi incontesté";"Peu commune";Rubis;16;0
-134;"Médaillons Lestés";"Peu commune";Rubis;18;0
+134;"Médaillons Lestés";"Peu commune";Rubis;16;0
 135;"Clochette du dîner";Rare;Rubis;9;1
 136;Agrabah;Commune;Rubis;26;4
 137;Anna;Rare;Saphir;8;2
@@ -177,7 +177,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 175;Scar;Légendaire;Acier;0;0
 176;"Petit Jean";"Peu commune";Acier;20;1
 177;"Robin des Bois";Légendaire;Acier;0;0
-178;Jasmine;Rare;Acier;6;0
+178;Jasmine;Rare;Acier;3;0
 179;Tiana;Commune;Acier;23;0
 180;Benja;Commune;Acier;25;0
 181;Jafar;Commune;Acier;23;1
