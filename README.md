@@ -6,11 +6,11 @@
 
 
 **Quelques liens aléatoires / Some random links**
-- *[Lorcana - La Mer Azurite - 2x Raya 107/204 - Rare - ID=1306](https://www.vinted.fr/items/6197973236-lorcana-la-mer-azurite-2x-raya-107204-rare-id1306)*
-- *[Lorcana - Fabuleux - 3x Stitch 3/204 - Super rare - ID=1939](https://www.vinted.fr/items/8217530354-lorcana-fabuleux-3x-stitch-3204-super-rare-id1939)*
-- *[Lorcana - Fabuleux - Mama Odie 152/204 - Rare Foil - ID=2088](https://www.vinted.fr/items/7930525602-lorcana-fabuleux-mama-odie-152204-rare-foil-id2088)*
-- *[Lorcana - Fabuleux - Lilo 238/204 - Enchantée Foil - ID=2156](https://www.vinted.fr/items/6975011507-lorcana-fabuleux-lilo-238204-enchantee-foil-id2156)*
-- *[Lorcana - Le Règne de Jafar - 3x Génie 189/204 - Commune - ID=1853](https://www.vinted.fr/items/6549870951-lorcana-le-regne-de-jafar-3x-genie-189204-commune-id1853)*
+- *[Lorcana - Premier Chapitre - 2x Soyez Prêtes ! 128/204 - Rare - ID=128](https://www.vinted.fr/items/9208088300-lorcana-premier-chapitre-2x-soyez-pretes-128204-rare-id128)*
+- *[Lorcana - Lueurs dans les Profondeurs - 2x Quelle Poursuite Infernale 195/204 - Commune - ID=2384](https://www.vinted.fr/items/7845002056-lorcana-lueurs-dans-les-profondeurs-2x-quelle-poursuite-infernale-195204-commune-id2384)*
+- *[Lorcana - Fabuleux - 2x Jafar 181/204 - Commune - ID=2117](https://www.vinted.fr/items/7270366130-lorcana-fabuleux-2x-jafar-181204-commune-id2117)*
+- *[Lorcana - L'Ascension des Floodborn - 3x Peignons Les Roses En Rouge 30/204 - Commune - ID=246](https://www.vinted.fr/items/6232933778-lorcana-lascension-des-floodborn-3x-peignons-les-roses-en-rouge-30204-commune-id246)*
+- *[Lorcana - Lueurs dans les Profondeurs - 3x Rajah 6/204 - Commune - ID=2195](https://www.vinted.fr/items/7512141008-lorcana-lueurs-dans-les-profondeurs-3x-rajah-6204-commune-id2195)*
 
 
 **🔎 Recherches Lorcana par rareté / Search Lorcana by rarity**
@@ -43,20 +43,6 @@
 
 **🔎 Recherches Lorcana Foils uniquement / Search Lorcana Foils only**
 - *[#Lynadry_FOIL](https://www.vinted.fr/catalog?search_text=%23Lynadry_FOIL)*
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 <!-- BOOSTER_STATS_START -->
@@ -219,17 +205,3 @@
 | Iconique | <img src="rarity/rarity_iconic.png" alt="Iconique" width="24" /> | 0 | 0% | 0 | 0% |
 
 <!-- BOOSTER_STATS_END -->
-
-
-
-
-
-
-
-
-
-
-
-
-
-
