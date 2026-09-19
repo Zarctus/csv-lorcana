@@ -43,9 +43,9 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 41;"Winnie l'ourson";Commune;Améthyste;25;3
 42;"Ombre de Peter Pan";"Super rare";Améthyste;7;0
 43;Elsa;Légendaire;Améthyste;0;0
-44;Ursula;"Super rare";Améthyste;6;0
+44;Ursula;"Super rare";Améthyste;5;0
 45;Dumbo;Légendaire;Améthyste;0;0
-46;Dumbo;"Peu commune";Améthyste;19;1
+46;Dumbo;"Peu commune";Améthyste;15;1
 47;Timothée;Commune;Améthyste;27;0
 48;Elsa;Commune;Améthyste;24;0
 49;Kuzco;Commune;Améthyste;28;2
@@ -89,7 +89,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 87;Shenzi;"Super rare";Émeraude;7;0
 88;"La Fée Clochette";Commune;Émeraude;22;1
 89;"John Silver";Légendaire;Émeraude;2;0
-90;Ursula;"Peu commune";Émeraude;16;0
+90;Ursula;"Peu commune";Émeraude;13;0
 91;Turbo;"Peu commune";Émeraude;19;1
 92;Aladdin;Commune;Émeraude;24;4
 93;Daisy;"Peu commune";Émeraude;19;2
@@ -142,7 +142,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 140;Loulou;Commune;Saphir;26;3
 141;Alice;Rare;Saphir;10;0
 142;Mulan;"Super rare";Saphir;5;0
-143;"Cruella d'Enfer";Légendaire;Saphir;1;0
+143;"Cruella d'Enfer";Légendaire;Saphir;0;0
 144;Mufasa;Commune;Saphir;30;2
 145;"Cruella d'Enfer";Commune;Saphir;26;1
 146;Anna;Commune;Saphir;23;0
@@ -173,7 +173,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 171;Philoctète;Rare;Acier;10;0
 172;"Mickey Mouse";"Super rare";Acier;4;0
 173;Nala;Rare;Acier;1;0
-174;Lilo;"Super rare";Acier;1;0
+174;Lilo;"Super rare";Acier;0;0
 175;Scar;Légendaire;Acier;0;0
 176;"Petit Jean";"Peu commune";Acier;20;1
 177;"Robin des Bois";Légendaire;Acier;0;0

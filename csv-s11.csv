@@ -116,7 +116,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 115;"Sinister Mask";Commune;Rubis;14;1
 116;"Sinister Mask";Rare;Rubis;4;0
 117;Hercule;Commune;Rubis;14;1
-118;"La Bête";"Super rare";Rubis;4;0
+118;"La Bête";"Super rare";Rubis;0;0
 119;Blizzard;"Peu commune";Rubis;12;0
 120;Dingo;Commune;Rubis;12;1
 121;Dingo;Rare;Rubis;3;0
@@ -185,7 +185,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 184;Nani;Commune;Acier;19;2
 185;Stitch;Commune;Acier;15;0
 186;"Dr Hämsterviel";Rare;Acier;4;0
-187;Angela;"Super rare";Acier;2;0
+187;Angela;"Super rare";Acier;0;0
 188;"Myster Mask";Rare;Acier;6;0
 189;Gigi;"Peu commune";Acier;6;0
 190;"Présidente du Grand Conseil";Rare;Acier;6;0
@@ -193,11 +193,11 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 192;"Myster Mask";Légendaire;Acier;0;0
 193;"John Smith";"Super rare";Acier;3;0
 194;"Judy Hopps";"Peu commune";Acier;8;0
-195;Lilo;"Super rare";Acier;5;0
+195;Lilo;"Super rare";Acier;2;0
 196;"Garde le feu millénaire";"Peu commune";Acier;11;2
 197;"La terreur qui corrige les erreurs";Commune;Acier;11;3
 198;"Cette chanson craint un mask";Rare;Acier;2;0
-199;Givresort;"Peu commune";Acier;11;1
+199;Givresort;"Peu commune";Acier;8;1
 200;"Presque invincible";Commune;Acier;15;2
 201;"Jumelles de théâtre infra-rose";Commune;Acier;15;0
 202;"Le Myster Quack";Rare;Acier;3;0

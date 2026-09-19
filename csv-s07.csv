@@ -112,7 +112,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 111;"Le Roi de Cœur";Rare;Émeraude;4;0
 112;Duchesse;"Peu commune";Émeraude;9;0
 113;Anastasie;"Peu commune";Émeraude;8;1
-114;Pat;"Super rare";"Émeraude, Acier";1;0
+114;Pat;"Super rare";"Émeraude, Acier";0;0
 115;"Madame de Trémaine";Légendaire;Émeraude;0;0
 116;"Réveille-toi, Alice !";Commune;Émeraude;14;1
 117;"Il se traîne";Commune;Émeraude;12;1
@@ -133,7 +133,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 132;"Les Rapetou";"Peu commune";"Rubis, Saphir";7;0
 133;"Li Shang";"Peu commune";"Rubis, Acier";7;0
 134;Vaiana;"Peu commune";Rubis;9;0
-135;"Le Fantôme Noir";"Peu commune";Rubis;8;5
+135;"Le Fantôme Noir";"Peu commune";Rubis;8;4
 136;"La Bête";Rare;"Rubis, Saphir";3;0
 137;Mushu;Rare;"Rubis, Acier";0;0
 138;Maurice;Rare;Rubis;6;0
