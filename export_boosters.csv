@@ -1,4 +1,43 @@
 saison,number,nom,encre,rareté,is_foil
+"Invasion épineuse!",44,"Meilin Lee",Améthyste,Commune,N
+"Invasion épineuse!",143,"Flagada Jones",Saphir,Commune,N
+"Invasion épineuse!",112,L'ours,Rubis,Commune,N
+"Invasion épineuse!",23,"Maman Gourou",Ambre,Commune,N
+"Invasion épineuse!",93,"Mère Gothel",Émeraude,Commune,N
+"Invasion épineuse!",185,"Maître Hibou",Acier,Commune,N
+"Invasion épineuse!",106,"Mon livre d’aventure",Émeraude,"Peu commune",N
+"Invasion épineuse!",33,"I'm Never Not by Your Side",Ambre,"Peu commune",N
+"Invasion épineuse!",205,"La débroussailleuse",Acier,"Peu commune",N
+"Invasion épineuse!",63,"Maléfique & Diablo",Améthyste,Rare,N
+"Invasion épineuse!",170,"Portail de la Porte du placard",Saphir,"Super rare",N
+"Invasion épineuse!",21,"Bob Razowski",Ambre,Commune,Y
+
+"Invasion épineuse!",52,Pat,Améthyste,Commune,N
+"Invasion épineuse!",148,Belle,Saphir,Commune,N
+"Invasion épineuse!",116,"Colonel Hathi",Rubis,Commune,N
+"Invasion épineuse!",4,"Tyler Nguyen-Baker",Ambre,Commune,N
+"Invasion épineuse!",84,Winifred,Émeraude,Commune,N
+"Invasion épineuse!",188,Omnidroïde,Acier,Commune,N
+"Invasion épineuse!",106,"Mon livre d’aventure",Émeraude,"Peu commune",N
+"Invasion épineuse!",33,"I'm Never Not by Your Side",Ambre,"Peu commune",N
+"Invasion épineuse!",205,"La débroussailleuse",Acier,"Peu commune",N
+"Invasion épineuse!",126,Tigrou,Rubis,Rare,N
+"Invasion épineuse!",17,4*Town,Ambre,Rare,N
+"Invasion épineuse!",155,"Mickey Mouse",Saphir,Commune,Y
+
+"Invasion épineuse!",34,"Les filles, regroupage !",Ambre,Commune,N
+"Invasion épineuse!",75,"Ellie Fredricksen",Émeraude,Commune,N
+"Invasion épineuse!",64,"Enfile tes gants",Améthyste,Commune,N
+"Invasion épineuse!",168,"En route et sauve qui peut !",Saphir,Commune,N
+"Invasion épineuse!",115,Gaston,Rubis,Commune,N
+"Invasion épineuse!",180,Stitch,Acier,Commune,N
+"Invasion épineuse!",171,"Invocateur d’encre de Hana",Saphir,"Peu commune",N
+"Invasion épineuse!",139,"Bonbonne de cris",Rubis,"Peu commune",N
+"Invasion épineuse!",57,Morph,Améthyste,"Peu commune",N
+"Invasion épineuse!",146,Merlin,Saphir,Rare,N
+"Invasion épineuse!",12,Pocahontas,Ambre,Rare,N
+"Invasion épineuse!",216,"Peter Pan",Émeraude,Épique,Y
+
 "Invasion épineuse!",58,"Peter Pan",Améthyste,Commune,N
 "Invasion épineuse!",169,Sursaut,Saphir,Commune,N
 "Invasion épineuse!",114,"Flèche Parr",Rubis,Commune,N
@@ -2559,43 +2598,4 @@ Fabuleux,120,"La Reine de Cœur",Rubis,"Peu commune",N
 Fabuleux,35,"La Reine",Améthyste,Rare,N
 Fabuleux,74,Dingo,Émeraude,Rare,N
 Fabuleux,112,"Max Dingo",Rubis,Commune,Y
-
-Fabuleux,16,Pluto,Ambre,Commune,N
-Fabuleux,47,Timothée,Améthyste,Commune,N
-Fabuleux,84,Pégase,Émeraude,Commune,N
-Fabuleux,123,"La Reine de Cœur",Rubis,Commune,N
-Fabuleux,191,Hercule,Acier,Commune,N
-Fabuleux,155,Jasmine,Saphir,Commune,N
-Fabuleux,19,Cendrillon,Ambre,"Peu commune",N
-Fabuleux,202,"Tous avec moi !",Acier,"Peu commune",N
-Fabuleux,167,"Gyroscope lumineux",Saphir,"Peu commune",N
-Fabuleux,97,"Sous l'océan",Émeraude,Rare,N
-Fabuleux,195,Ariel,Acier,Rare,N
-Fabuleux,85,Donald,Émeraude,"Peu commune",Y
-
-"Contrées Inconnues",137,"Robin des Bois",Saphir,Commune,N
-"Contrées Inconnues",75,"La Reine",Émeraude,Commune,N
-"Contrées Inconnues",112,"La grenouille",Rubis,Commune,N
-"Contrées Inconnues",24,"Julieta Madrigal",Ambre,Commune,N
-"Contrées Inconnues",35,Mor'du,Améthyste,Commune,N
-"Contrées Inconnues",180,"Le fils Macintosh",Acier,Commune,N
-"Contrées Inconnues",28,"Les rangers font équipe",Ambre,"Peu commune",N
-"Contrées Inconnues",115,Daisy,Rubis,"Peu commune",N
-"Contrées Inconnues",100,Gyro-Evac,Émeraude,"Peu commune",N
-"Contrées Inconnues",192,"John Smith",Acier,Rare,N
-"Contrées Inconnues",103,"Lyle Tiberius Rourke",Rubis,Rare,N
-"Contrées Inconnues",93,"Helga Sinclair",Émeraude,Rare,Y
-
-"Contrées Inconnues",140,Pâquerette,Saphir,Commune,N
-"Contrées Inconnues",77,Karting,Émeraude,Commune,N
-"Contrées Inconnues",111,"Jingle Joe",Rubis,Commune,N
-"Contrées Inconnues",1,"Poussinette Colvert",Ambre,Commune,N
-"Contrées Inconnues",46,Frozone,Améthyste,Commune,N
-"Contrées Inconnues",178,"Violette Parr",Acier,Commune,N
-"Contrées Inconnues",117,"Jebidiah Farnsworth",Rubis,"Peu commune",N
-"Contrées Inconnues",185,"M. Indestructible",Acier,"Peu commune",N
-"Contrées Inconnues",50,"Hamish, Hubert et Harris",Améthyste,"Peu commune",N
-"Contrées Inconnues",89,Merida,Émeraude,Rare,N
-"Contrées Inconnues",55,Maléfique,Améthyste,Rare,N
-"Contrées Inconnues",221,Indestructiboy,Acier,Épique,Y
 
