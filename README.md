@@ -6,11 +6,11 @@
 
 
 **Quelques liens aléatoires / Some random links**
-- *[Lorcana - Invasion épineuse! - Omnidroïde 196/204 - Rare - ID=3167](https://www.vinted.fr/items/9840045117-lorcana-invasion-epineuse-omnidroide-196204-rare-id3167)*
-- *[Lorcana - Le Règne de Jafar - 3x Nazo 185/204 - Commune - ID=1849](https://www.vinted.fr/items/6703713187-lorcana-le-regne-de-jafar-3x-nazo-185204-commune-id1849)*
-- *[Lorcana - L'ile d' Archazia - 2x Panique 75/204 - Commune - ID=1508](https://www.vinted.fr/items/7202401521-lorcana-lile-d-archazia-2x-panique-75204-commune-id1508)*
+- *[Lorcana - Invasion épineuse! - Kevin 215/204 - Épique Foil - ID=3186](https://www.vinted.fr/items/9436828646-lorcana-invasion-epineuse-kevin-215204-epique-foil-id3186)*
+- *[Lorcana - Contrées Inconnues - Indestructiboy 221/204 - Épique Foil - ID=2936](https://www.vinted.fr/items/9237120631-lorcana-contrees-inconnues-indestructiboy-221204-epique-foil-id2936)*
+- *[Lorcana - Contrées Inconnues - Bo, La Bergère 13/204 - Peu commune Foil - ID=2728](https://www.vinted.fr/items/9031978553-lorcana-contrees-inconnues-bo-la-bergere-13204-peu-commune-foil-id2728)*
 - *[Lorcana - L'ile d' Archazia - 2x Jafar 190/204 - Commune - ID=1623](https://www.vinted.fr/items/7353128521-lorcana-lile-d-archazia-2x-jafar-190204-commune-id1623)*
-- *[Lorcana - Lueurs dans les Profondeurs - Madame De Trémaine 233/204 - Enchantée Foil - ID=2422](https://www.vinted.fr/items/9863612234-lorcana-lueurs-dans-les-profondeurs-madame-de-tremaine-233204-enchantee-foil-id2422)*
+- *[Lorcana - Contrées Inconnues - 4x Tous Derrière Toi 64/204 - Peu commune - ID=2779](https://www.vinted.fr/items/8961923093-lorcana-contrees-inconnues-4x-tous-derriere-toi-64204-peu-commune-id2779)*
 
 
 **🔎 Recherches Lorcana par rareté / Search Lorcana by rarity**
@@ -43,20 +43,6 @@
 
 **🔎 Recherches Lorcana Foils uniquement / Search Lorcana Foils only**
 - *[#Lynadry_FOIL](https://www.vinted.fr/catalog?search_text=%23Lynadry_FOIL)*
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 <!-- BOOSTER_STATS_START -->
@@ -110,15 +96,15 @@
 | Enchantée | <img src="rarity/rarity_enchanted1.png" alt="Enchantée" width="24" /> | 0 | 0% | 3 | 1.7% |
 | Iconique | <img src="rarity/rarity_iconic.png" alt="Iconique" width="24" /> | 0 | 0% | 0 | 0% |
 
-#### Set 13  |  188 boosters
+#### Set 13  |  189 boosters
 | Rarity | Icon | Normal | % Norm | Foil | % Foil |
 |--------|------|--------|--------|------|--------|
-| Commune | <img src="rarity/rarity_common.svg" alt="Commune" width="24" /> | 1128 | 100% | 77 | 40.96% |
-| Peu commune | <img src="rarity/rarity_uncommon.svg" alt="Peu commune" width="24" /> | 564 | 100% | 40 | 21.28% |
-| Rare | <img src="rarity/rarity_rare.svg" alt="Rare" width="24" /> | 245 | 65.16% | 36 | 19.15% |
-| Super rare | <img src="rarity/rarity_super_rare.svg" alt="Super rare" width="24" /> | 82 | 21.81% | 10 | 5.32% |
-| Légendaire | <img src="rarity/rarity_legendary.svg" alt="Légendaire" width="24" /> | 49 | 13.03% | 4 | 2.13% |
-| Épique | <img src="rarity/rarity_epic.png" alt="Épique" width="24" /> | 0 | 0% | 19 | 10.11% |
+| Commune | <img src="rarity/rarity_common.svg" alt="Commune" width="24" /> | 1134 | 100% | 77 | 40.74% |
+| Peu commune | <img src="rarity/rarity_uncommon.svg" alt="Peu commune" width="24" /> | 567 | 100% | 41 | 21.69% |
+| Rare | <img src="rarity/rarity_rare.svg" alt="Rare" width="24" /> | 246 | 65.08% | 36 | 19.05% |
+| Super rare | <img src="rarity/rarity_super_rare.svg" alt="Super rare" width="24" /> | 83 | 21.96% | 10 | 5.29% |
+| Légendaire | <img src="rarity/rarity_legendary.svg" alt="Légendaire" width="24" /> | 49 | 12.96% | 4 | 2.12% |
+| Épique | <img src="rarity/rarity_epic.png" alt="Épique" width="24" /> | 0 | 0% | 19 | 10.05% |
 | Iconique | <img src="rarity/rarity_iconic.png" alt="Iconique" width="24" /> | 0 | 0% | 1 | 0.53% |
 | Enchantée | <img src="rarity/rarity_enchanted1.png" alt="Enchantée" width="24" /> | 0 | 0% | 1 | 0.53% |
 
@@ -219,17 +205,3 @@
 | Iconique | <img src="rarity/rarity_iconic.png" alt="Iconique" width="24" /> | 0 | 0% | 0 | 0% |
 
 <!-- BOOSTER_STATS_END -->
-
-
-
-
-
-
-
-
-
-
-
-
-
-

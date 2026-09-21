@@ -1,4 +1,17 @@
 saison,number,nom,encre,rareté,is_foil
+"Invasion épineuse!",58,"Peter Pan",Améthyste,Commune,N
+"Invasion épineuse!",169,Sursaut,Saphir,Commune,N
+"Invasion épineuse!",114,"Flèche Parr",Rubis,Commune,N
+"Invasion épineuse!",10,Lilo,Ambre,Commune,N
+"Invasion épineuse!",102,"Attaque perforante",Émeraude,Commune,N
+"Invasion épineuse!",199,"Et brandissez vos oriflammes !",Acier,Commune,N
+"Invasion épineuse!",7,"Meilin Lee",Ambre,"Peu commune",N
+"Invasion épineuse!",81,Rox,Émeraude,"Peu commune",N
+"Invasion épineuse!",128,Sulli,Rubis,"Peu commune",N
+"Invasion épineuse!",30,"La famille Madrigal",Ambre,Rare,N
+"Invasion épineuse!",59,"Aladdin & Génie",Améthyste,"Super rare",N
+"Invasion épineuse!",164,Bourriquet,Saphir,"Peu commune",Y
+
 "Invasion épineuse!",116,"Colonel Hathi",Rubis,Commune,N
 "Invasion épineuse!",13,Woody,Ambre,Commune,N
 "Invasion épineuse!",80,Raiponce,Émeraude,Commune,N
@@ -2585,17 +2598,4 @@ Fabuleux,85,Donald,Émeraude,"Peu commune",Y
 "Contrées Inconnues",89,Merida,Émeraude,Rare,N
 "Contrées Inconnues",55,Maléfique,Améthyste,Rare,N
 "Contrées Inconnues",221,Indestructiboy,Acier,Épique,Y
-
-"Contrées Inconnues",170,"Casa Madrigal",Saphir,Commune,N
-"Contrées Inconnues",77,Karting,Émeraude,Commune,N
-"Contrées Inconnues",107,"Audrey Ramirez",Rubis,Commune,N
-"Contrées Inconnues",9,"Dolores Madrigal",Ambre,Commune,N
-"Contrées Inconnues",47,"Feux follets",Améthyste,Commune,N
-"Contrées Inconnues",178,"Violette Parr",Acier,Commune,N
-"Contrées Inconnues",11,Bayonne,Ambre,"Peu commune",N
-"Contrées Inconnues",109,Zeus,Rubis,"Peu commune",N
-"Contrées Inconnues",78,"Seigneur MacGuffin",Émeraude,"Peu commune",N
-"Contrées Inconnues",83,Alien,Émeraude,Rare,N
-"Contrées Inconnues",161,Ursula,Saphir,Légendaire,N
-"Contrées Inconnues",62,"Luisa Madrigal",Améthyste,Commune,Y
 

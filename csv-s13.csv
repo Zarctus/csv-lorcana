@@ -5,10 +5,10 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 4;"Tyler Nguyen-Baker";Commune;Ambre;12;1
 5;"Coco Lapin";"Peu commune";Ambre;8;1
 6;"Celia Boa";"Peu commune";Ambre;11;2
-7;"Meilin Lee";"Peu commune";Ambre;8;1
+7;"Meilin Lee";"Peu commune";Ambre;9;1
 8;"Priya Mangal";Commune;Ambre;16;1
 9;"Miriam Mendelsohn";Commune;Ambre;19;1
-10;Lilo;Commune;Ambre;16;0
+10;Lilo;Commune;Ambre;17;0
 11;Kocoum;Commune;Ambre;15;2
 12;Pocahontas;Rare;Ambre;0;0
 13;Woody;Commune;Ambre;14;1
@@ -28,7 +28,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 27;"Pocahontas & Meeko";Légendaire;"Ambre, Améthyste";0;0
 28;"Woody & Buzz l'Éclair";Légendaire;"Ambre, Émeraude";0;0
 29;"Sulli & Bouh";"Super rare";"Ambre, Rubis";3;0
-30;"La famille Madrigal";Rare;"Ambre, Saphir";6;0
+30;"La famille Madrigal";Rare;"Ambre, Saphir";7;0
 31;"Lilo & Stitch";"Super rare";"Ambre, Acier";0;1
 32;"Si je ne t'avais pas";Commune;Ambre;13;2
 33;"I'm Never Not by Your Side";"Peu commune";Ambre;9;0
@@ -56,8 +56,8 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 55;Héra;"Peu commune";Améthyste;9;0
 56;"La Fée Clochette";"Peu commune";Améthyste;12;0
 57;Morph;"Peu commune";Améthyste;3;1
-58;"Peter Pan";Commune;Améthyste;12;0
-59;"Aladdin & Génie";"Super rare";"Améthyste, Émeraude";2;0
+58;"Peter Pan";Commune;Améthyste;13;0
+59;"Aladdin & Génie";"Super rare";"Améthyste, Émeraude";3;0
 60;"Peter Pan & La Fée Clochette";"Super rare";"Améthyste, Rubis";3;0
 61;Jean-Christophe;Légendaire;"Améthyste, Saphir";3;0
 62;"Winnie l'Ourson & Porcinet";"Super rare";"Améthyste, Saphir";5;0
@@ -79,7 +79,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 78;Grignotin;Rare;Émeraude;2;1
 79;Russell;"Super rare";Émeraude;5;0
 80;Raiponce;Commune;Émeraude;12;0
-81;Rox;"Peu commune";Émeraude;1;2
+81;Rox;"Peu commune";Émeraude;2;2
 82;Russell;Commune;Émeraude;19;2
 83;"Petit Gourou";"Peu commune";Émeraude;9;1
 84;Winifred;Commune;Émeraude;12;1
@@ -100,7 +100,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 99;"Mickey Mouse & Minnie";Légendaire;"Émeraude, Saphir";1;0
 100;"Raiponce & Flynn Rider";Légendaire;"Émeraude, Acier";0;0
 101;"Je dessèche une fleur";Rare;Émeraude;5;0
-102;"Attaque perforante";Commune;Émeraude;14;2
+102;"Attaque perforante";Commune;Émeraude;15;2
 103;"Déblaie-nous ta Bouh du plancher";"Peu commune";Émeraude;13;1
 104;"Partir en éclaireur";Commune;Émeraude;14;0
 105;Patate;Commune;Émeraude;18;1
@@ -112,7 +112,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 111;Kuzco;"Peu commune";Rubis;11;1
 112;L'ours;Commune;Rubis;18;1
 113;"Carl Fredricksen";"Super rare";Rubis;6;0
-114;"Flèche Parr";Commune;Rubis;11;0
+114;"Flèche Parr";Commune;Rubis;12;0
 115;Gaston;Commune;Rubis;17;0
 116;"Colonel Hathi";Commune;Rubis;13;1
 117;Splody;Commune;Rubis;12;1
@@ -126,7 +126,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 125;"Meilin Lee";Légendaire;Rubis;0;0
 126;Tigrou;Rare;Rubis;1;0
 127;Bouh;Rare;Rubis;3;1
-128;Sulli;"Peu commune";Rubis;11;0
+128;Sulli;"Peu commune";Rubis;12;0
 129;"Ming Lee";"Super rare";Rubis;2;0
 130;"Capitaine Crochet";"Peu commune";Rubis;11;1
 131;"Peter Pan";Commune;Rubis;16;1
@@ -162,12 +162,12 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 161;Pluto;Commune;Saphir;13;2
 162;"Charles Muntz";"Super rare";Saphir;4;1
 163;"Henri J. Waternousse III";Rare;Saphir;5;0
-164;Bourriquet;"Peu commune";Saphir;8;0
+164;Bourriquet;"Peu commune";Saphir;8;1
 165;"Myster Mask & Flagada Jones";"Super rare";"Saphir, Acier";2;0
 166;"Afflux d’énergie";"Peu commune";Saphir;12;1
 167;"Recherche ciblée";Commune;Saphir;17;2
 168;"En route et sauve qui peut !";Commune;Saphir;17;0
-169;Sursaut;Commune;Saphir;14;0
+169;Sursaut;Commune;Saphir;15;0
 170;"Portail de la Porte du placard";"Super rare";Saphir;5;0
 171;"Invocateur d’encre de Hana";"Peu commune";Saphir;9;0
 172;"Bonbonne de rire";Rare;Saphir;3;1
@@ -197,7 +197,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 196;Omnidroïde;Rare;Acier;0;0
 197;"La Plante";"Super rare";Acier;5;0
 198;"Tremblez devant moi !";Commune;Acier;16;0
-199;"Et brandissez vos oriflammes !";Commune;Acier;16;1
+199;"Et brandissez vos oriflammes !";Commune;Acier;17;1
 200;"Regarde ce que tu as fait";"Peu commune";Acier;11;0
 201;"Elle m’a cassé le nez";"Peu commune";Acier;11;1
 202;"Invasion épineuse !";Rare;Acier;6;0
