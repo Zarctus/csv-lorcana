@@ -1,4 +1,56 @@
 saison,number,nom,encre,rareté,is_foil
+"Invasion épineuse!",64,"Enfile tes gants",Améthyste,Commune,N
+"Invasion épineuse!",149,"Ellie Fredricksen",Saphir,Commune,N
+"Invasion épineuse!",136,Roar !,Rubis,Commune,N
+"Invasion épineuse!",34,"Les filles, regroupage !",Ambre,Commune,N
+"Invasion épineuse!",96,Cétus,Émeraude,Commune,N
+"Invasion épineuse!",187,"Myster Mask",Acier,Commune,N
+"Invasion épineuse!",15,Gaston,Ambre,"Peu commune",N
+"Invasion épineuse!",81,Rox,Émeraude,"Peu commune",N
+"Invasion épineuse!",119,"Sun Yee",Rubis,"Peu commune",N
+"Invasion épineuse!",16,"Meilin Lee",Ambre,Rare,N
+"Invasion épineuse!",151,Alpha,Saphir,Rare,N
+"Invasion épineuse!",68,"Aura protectrice",Améthyste,"Peu commune",Y
+
+"Invasion épineuse!",20,Jasmine,Ambre,Commune,N
+"Invasion épineuse!",93,"Mère Gothel",Émeraude,Commune,N
+"Invasion épineuse!",69,"Échapper de justesse",Améthyste,Commune,N
+"Invasion épineuse!",145,Germaine,Saphir,Commune,N
+"Invasion épineuse!",136,Roar !,Rubis,Commune,N
+"Invasion épineuse!",199,"Et brandissez vos oriflammes !",Acier,Commune,N
+"Invasion épineuse!",174,"Grand livre du miel",Saphir,"Peu commune",N
+"Invasion épineuse!",139,"Bonbonne de cris",Rubis,"Peu commune",N
+"Invasion épineuse!",68,"Aura protectrice",Améthyste,"Peu commune",N
+"Invasion épineuse!",94,"Rox & Rouky",Émeraude,Rare,N
+"Invasion épineuse!",123,"Léon Bogue",Rubis,Rare,N
+"Invasion épineuse!",236,"Rox & Rouky",Émeraude,Enchantée,Y
+
+"Invasion épineuse!",23,"Maman Gourou",Ambre,Commune,N
+"Invasion épineuse!",96,Cétus,Émeraude,Commune,N
+"Invasion épineuse!",48,Peine,Améthyste,Commune,N
+"Invasion épineuse!",167,"Recherche ciblée",Saphir,Commune,N
+"Invasion épineuse!",124,Donald,Rubis,Commune,N
+"Invasion épineuse!",183,"Violette Parr",Acier,Commune,N
+"Invasion épineuse!",6,"Celia Boa",Ambre,"Peu commune",N
+"Invasion épineuse!",74,"Carl Fredricksen",Émeraude,"Peu commune",N
+"Invasion épineuse!",130,"Capitaine Crochet",Rubis,"Peu commune",N
+"Invasion épineuse!",78,Grignotin,Émeraude,Rare,N
+"Invasion épineuse!",24,Sulli,Ambre,"Super rare",N
+"Invasion épineuse!",12,Pocahontas,Ambre,Rare,Y
+
+"Invasion épineuse!",9,"Miriam Mendelsohn",Ambre,Commune,N
+"Invasion épineuse!",105,Patate,Émeraude,Commune,N
+"Invasion épineuse!",41,Panique,Améthyste,Commune,N
+"Invasion épineuse!",152,Sulli,Saphir,Commune,N
+"Invasion épineuse!",110,Yzma,Rubis,Commune,N
+"Invasion épineuse!",181,"Shérif de Nottingham",Acier,Commune,N
+"Invasion épineuse!",14,"Abby Park",Ambre,"Peu commune",N
+"Invasion épineuse!",86,"Madame Mime",Émeraude,"Peu commune",N
+"Invasion épineuse!",111,Kuzco,Rubis,"Peu commune",N
+"Invasion épineuse!",179,Sprout,Acier,Rare,N
+"Invasion épineuse!",97,Mushu,Émeraude,Légendaire,N
+"Invasion épineuse!",31,"Lilo & Stitch",Ambre,"Super rare",Y
+
 "Invasion épineuse!",44,"Meilin Lee",Améthyste,Commune,N
 "Invasion épineuse!",143,"Flagada Jones",Saphir,Commune,N
 "Invasion épineuse!",112,L'ours,Rubis,Commune,N
@@ -2546,56 +2598,4 @@ Fabuleux,139,Fifi,Saphir,"Peu commune",N
 Fabuleux,75,"Max Dingo",Émeraude,Rare,N
 Fabuleux,171,Philoctète,Acier,Rare,N
 Fabuleux,37,Ursula,Améthyste,Rare,Y
-
-Fabuleux,27,"Guéris les blessures",Ambre,Commune,N
-Fabuleux,49,Kuzco,Améthyste,Commune,N
-Fabuleux,92,Aladdin,Émeraude,Commune,N
-Fabuleux,125,Mulan,Rubis,Commune,N
-Fabuleux,196,Ariel,Acier,Commune,N
-Fabuleux,155,Jasmine,Saphir,Commune,N
-Fabuleux,99,"N'écoute que Moi",Émeraude,"Peu commune",N
-Fabuleux,139,Fifi,Saphir,"Peu commune",N
-Fabuleux,113,Roxane,Rubis,"Peu commune",N
-Fabuleux,168,"Le Cœur de Te Fiti",Saphir,Rare,N
-Fabuleux,20,Vaiana,Ambre,Rare,N
-Fabuleux,17,Nani,Ambre,"Peu commune",Y
-
-Fabuleux,9,Stitch,Ambre,Commune,N
-Fabuleux,50,Tic-Tac,Améthyste,Commune,N
-Fabuleux,82,Virana,Émeraude,Commune,N
-Fabuleux,127,Raya,Rubis,Commune,N
-Fabuleux,182,"Prince Naveen",Acier,Commune,N
-Fabuleux,154,Aurore,Saphir,Commune,N
-Fabuleux,55,Olaf,Améthyste,"Peu commune",N
-Fabuleux,91,Turbo,Émeraude,"Peu commune",N
-Fabuleux,133,"Un roi incontesté",Rubis,"Peu commune",N
-Fabuleux,3,Stitch,Ambre,"Super rare",N
-Fabuleux,160,Alice,Saphir,"Super rare",N
-Fabuleux,182,"Prince Naveen",Acier,Commune,Y
-
-Fabuleux,28,"J'ai perdu le Nord",Ambre,Commune,N
-Fabuleux,51,"Dolores Madrigal",Améthyste,Commune,N
-Fabuleux,95,"Cruelle Diablesse",Émeraude,Commune,N
-Fabuleux,131,"Tu t'envoles",Rubis,Commune,N
-Fabuleux,194,"Prince Eric",Acier,Commune,N
-Fabuleux,169,"Panier de Noix de Coco",Saphir,Commune,N
-Fabuleux,6,Aurore,Ambre,"Peu commune",N
-Fabuleux,62,"Effort désespéré",Améthyste,"Peu commune",N
-Fabuleux,204,"Île d'exil de Maui",Acier,"Peu commune",N
-Fabuleux,71,"Ondins Ensorcelés",Émeraude,Rare,N
-Fabuleux,162,"Robin des Bois",Saphir,Rare,N
-Fabuleux,127,Raya,Rubis,Commune,Y
-
-Fabuleux,7,"La Reine",Ambre,Commune,N
-Fabuleux,63,"Je suis coincé !",Améthyste,Commune,N
-Fabuleux,92,Aladdin,Émeraude,Commune,N
-Fabuleux,131,"Tu t'envoles",Rubis,Commune,N
-Fabuleux,194,"Prince Eric",Acier,Commune,N
-Fabuleux,146,Anna,Saphir,Commune,N
-Fabuleux,57,"Mama Odie",Améthyste,"Peu commune",N
-Fabuleux,101,"Contrat signé",Émeraude,"Peu commune",N
-Fabuleux,120,"La Reine de Cœur",Rubis,"Peu commune",N
-Fabuleux,35,"La Reine",Améthyste,Rare,N
-Fabuleux,74,Dingo,Émeraude,Rare,N
-Fabuleux,112,"Max Dingo",Rubis,Commune,Y
 
