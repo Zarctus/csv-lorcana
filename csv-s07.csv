@@ -102,7 +102,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 101;Yzma;Commune;Émeraude;10;1
 102;Pacha;Commune;Émeraude;16;0
 103;"Tweedledee et Tweedeldum";"Peu commune";"Émeraude, Rubis";8;0
-104;Baymax;"Peu commune";"Émeraude, Saphir";8;0
+104;Baymax;"Peu commune";"Émeraude, Saphir";5;0
 105;Robotik;"Peu commune";"Émeraude, Acier";10;0
 106;Fidget;"Peu commune";"Émeraude, Rubis";8;1
 107;"Monsieur Mouche";"Peu commune";"Émeraude, Acier";9;0
@@ -186,7 +186,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 185;Heihei;Commune;Acier;14;1
 186;Raya;Rare;Acier;2;0
 187;"Tuk Tuk";Rare;Acier;4;0
-188;"Fa Zhou";Rare;Acier;5;1
+188;"Fa Zhou";Rare;Acier;3;1
 189;Razoul;Commune;Acier;13;1
 190;Jafar;Commune;Acier;4;1
 191;Tic-Tac;Commune;Acier;11;1
