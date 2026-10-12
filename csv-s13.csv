@@ -73,7 +73,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 72;"Source de la Plante";"Super rare";Améthyste;2;0
 73;"Cercle de pierres";Rare;Améthyste;3;1
 74;"Carl Fredricksen";"Peu commune";Émeraude;12;0
-75;"Ellie Fredricksen";Commune;Émeraude;18;1
+75;"Ellie Fredricksen";Commune;Émeraude;18;0
 76;"Buzz l'Éclair";Commune;Émeraude;15;1
 77;"Buzz l'Éclair";Rare;Émeraude;7;1
 78;Grignotin;Rare;Émeraude;3;1
@@ -156,8 +156,8 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 155;"Mickey Mouse";Commune;Saphir;16;1
 156;Hadès;"Peu commune";Saphir;11;1
 157;"Antonio Madrigal";"Peu commune";Saphir;11;1
-158;"Belle Marianne";Rare;Saphir;5;1
-159;"Robin des Bois";Commune;Saphir;15;1
+158;"Belle Marianne";Rare;Saphir;5;0
+159;"Robin des Bois";Commune;Saphir;15;0
 160;Bouh;Rare;Saphir;4;0
 161;Pluto;Commune;Saphir;15;2
 162;"Charles Muntz";"Super rare";Saphir;4;1
