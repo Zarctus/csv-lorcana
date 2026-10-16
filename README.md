@@ -56,6 +56,7 @@
 
 
 
+
 <!-- BOOSTER_STATS_START -->
 ### 📊 Booster Opening Stats
 
@@ -119,16 +120,16 @@
 | Iconique | <img src="rarity/rarity_iconic.png" alt="Iconique" width="24" /> | 0 | 0% | 1 | 0.49% |
 | Enchantée | <img src="rarity/rarity_enchanted1.png" alt="Enchantée" width="24" /> | 0 | 0% | 2 | 0.98% |
 
-#### Set 14  |  32 boosters
+#### Set 14  |  40 boosters
 | Rarity | Icon | Normal | % Norm | Foil | % Foil |
 |--------|------|--------|--------|------|--------|
-| Commune | <img src="rarity/rarity_common.svg" alt="Commune" width="24" /> | 192 | 100% | 12 | 37.5% |
-| Peu commune | <img src="rarity/rarity_uncommon.svg" alt="Peu commune" width="24" /> | 96 | 100% | 4 | 12.5% |
-| Rare | <img src="rarity/rarity_rare.svg" alt="Rare" width="24" /> | 40 | 62.5% | 8 | 25% |
-| Super rare | <img src="rarity/rarity_super_rare.svg" alt="Super rare" width="24" /> | 17 | 26.56% | 3 | 9.38% |
-| Épique | <img src="rarity/rarity_epic.png" alt="Épique" width="24" /> | 0 | 0% | 5 | 15.63% |
-| Légendaire | <img src="rarity/rarity_legendary.svg" alt="Légendaire" width="24" /> | 7 | 10.94% | 0 | 0% |
-| Enchantée | <img src="rarity/rarity_enchanted1.png" alt="Enchantée" width="24" /> | 0 | 0% | 0 | 0% |
+| Commune | <img src="rarity/rarity_common.svg" alt="Commune" width="24" /> | 240 | 100% | 16 | 40% |
+| Peu commune | <img src="rarity/rarity_uncommon.svg" alt="Peu commune" width="24" /> | 120 | 100% | 6 | 15% |
+| Rare | <img src="rarity/rarity_rare.svg" alt="Rare" width="24" /> | 51 | 63.75% | 9 | 22.5% |
+| Super rare | <img src="rarity/rarity_super_rare.svg" alt="Super rare" width="24" /> | 20 | 25% | 3 | 7.5% |
+| Épique | <img src="rarity/rarity_epic.png" alt="Épique" width="24" /> | 0 | 0% | 5 | 12.5% |
+| Légendaire | <img src="rarity/rarity_legendary.svg" alt="Légendaire" width="24" /> | 9 | 11.25% | 0 | 0% |
+| Enchantée | <img src="rarity/rarity_enchanted1.png" alt="Enchantée" width="24" /> | 0 | 0% | 1 | 2.5% |
 | Iconique | <img src="rarity/rarity_iconic.png" alt="Iconique" width="24" /> | 0 | 0% | 0 | 0% |
 
 #### Set 2  |  127 boosters
@@ -228,6 +229,7 @@
 | Iconique | <img src="rarity/rarity_iconic.png" alt="Iconique" width="24" /> | 0 | 0% | 0 | 0% |
 
 <!-- BOOSTER_STATS_END -->
+
 
 
 
