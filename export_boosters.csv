@@ -1,4 +1,56 @@
 saison,number,nom,encre,rareté,is_foil
+"Hyperia City",32,"Pile d’enceintes",Ambre,Commune,N
+"Hyperia City",143,"Amélie & Amélia",Saphir,Commune,N
+"Hyperia City",113,"Cruella d'Enfer",Rubis,Commune,N
+"Hyperia City",78,Jock,Émeraude,Commune,N
+"Hyperia City",42,"Tía Victoria",Améthyste,Commune,N
+"Hyperia City",189,Koslov,Acier,Commune,N
+"Hyperia City",129,"Repousser les limites",Rubis,"Peu commune",N
+"Hyperia City",165,"Du balai !",Saphir,"Peu commune",N
+"Hyperia City",66,"Baguette de Merlin",Améthyste,"Peu commune",N
+"Hyperia City",53,Goliath,Améthyste,Rare,N
+"Hyperia City",19,Aurore,Ambre,Légendaire,N
+"Hyperia City",12,"Pat Junior",Ambre,Commune,Y
+
+"Hyperia City",7,"Priya Mangal",Ambre,Commune,N
+"Hyperia City",146,"Madame Mime",Saphir,Commune,N
+"Hyperia City",103,Heihei,Rubis,Commune,N
+"Hyperia City",70,"Don Carnage",Émeraude,Commune,N
+"Hyperia City",46,"Madame Mime",Améthyste,Commune,N
+"Hyperia City",181,"Seigneur Kay",Acier,Commune,N
+"Hyperia City",183,"Chef Bogo",Acier,"Peu commune",N
+"Hyperia City",8,Yax,Ambre,"Peu commune",N
+"Hyperia City",116,Stacey,Rubis,"Peu commune",N
+"Hyperia City",168,"Heaume à longue-vue",Saphir,Rare,N
+"Hyperia City",204,"Industries Khan",Acier,Rare,N
+"Hyperia City",74,Kit,Émeraude,Commune,Y
+
+"Hyperia City",5,Pat,Ambre,Commune,N
+"Hyperia City",149,Daisy,Saphir,Commune,N
+"Hyperia City",115,Peg,Rubis,Commune,N
+"Hyperia City",74,Kit,Émeraude,Commune,N
+"Hyperia City",35,"Owen Burnett",Améthyste,Commune,N
+"Hyperia City",191,Baloo,Acier,Commune,N
+"Hyperia City",128,"Tactiques d'intimidation",Rubis,"Peu commune",N
+"Hyperia City",165,"Du balai !",Saphir,"Peu commune",N
+"Hyperia City",66,"Baguette de Merlin",Améthyste,"Peu commune",N
+"Hyperia City",28,"Never Too Far Apart",Ambre,Rare,N
+"Hyperia City",197,"Joute équestre",Acier,Rare,N
+"Hyperia City",32,"Pile d’enceintes",Ambre,Commune,Y
+
+"Hyperia City",5,Pat,Ambre,Commune,N
+"Hyperia City",141,"Roi Louie",Saphir,Commune,N
+"Hyperia City",104,"Abby Park",Rubis,Commune,N
+"Hyperia City",91,Fred,Émeraude,Commune,N
+"Hyperia City",61,"Malice de Mime",Améthyste,Commune,N
+"Hyperia City",173,"Edgar Balthazar",Acier,Commune,N
+"Hyperia City",79,Lady,Émeraude,"Peu commune",N
+"Hyperia City",25,"Nick Wilde",Ambre,"Peu commune",N
+"Hyperia City",201,"Express d’Hyperia City",Acier,"Peu commune",N
+"Hyperia City",120,"Ernesto de la Cruz",Rubis,Rare,N
+"Hyperia City",22,Dingo,Ambre,Rare,N
+"Hyperia City",65,"Inspiration créative",Améthyste,Rare,Y
+
 "Hyperia City",136,"Khan Stadium",Rubis,Commune,N
 "Hyperia City",74,Kit,Émeraude,Commune,N
 "Hyperia City",62,"Higitus Figitus",Améthyste,Commune,N
@@ -2546,56 +2598,4 @@ saison,number,nom,encre,rareté,is_foil
 "Invasion épineuse!",51,"Mme Indestructible",Améthyste,Rare,N
 "Invasion épineuse!",196,Omnidroïde,Acier,Rare,N
 "Invasion épineuse!",131,"Peter Pan",Rubis,Commune,Y
-
-"Invasion épineuse!",110,Yzma,Rubis,Commune,N
-"Invasion épineuse!",11,Kocoum,Ambre,Commune,N
-"Invasion épineuse!",76,"Buzz l'Éclair",Émeraude,Commune,N
-"Invasion épineuse!",64,"Enfile tes gants",Améthyste,Commune,N
-"Invasion épineuse!",149,"Ellie Fredricksen",Saphir,Commune,N
-"Invasion épineuse!",185,"Maître Hibou",Acier,Commune,N
-"Invasion épineuse!",171,"Invocateur d’encre de Hana",Saphir,"Peu commune",N
-"Invasion épineuse!",135,"Alerte rouge",Rubis,"Peu commune",N
-"Invasion épineuse!",67,"Le seul et unique",Améthyste,"Peu commune",N
-"Invasion épineuse!",141,"Château de la Bête",Rubis,Rare,N
-"Invasion épineuse!",29,"Sulli & Bouh",Ambre,"Super rare",N
-"Invasion épineuse!",98,"Carl Fredricksen & Russell",Émeraude,Rare,Y
-
-"Invasion épineuse!",131,"Peter Pan",Rubis,Commune,N
-"Invasion épineuse!",161,Pluto,Saphir,Commune,N
-"Invasion épineuse!",13,Woody,Ambre,Commune,N
-"Invasion épineuse!",66,Pétrifier,Améthyste,Commune,N
-"Invasion épineuse!",104,"Partir en éclaireur",Émeraude,Commune,N
-"Invasion épineuse!",199,"Et brandissez vos oriflammes !",Acier,Commune,N
-"Invasion épineuse!",128,Sulli,Rubis,"Peu commune",N
-"Invasion épineuse!",42,Lumpy,Améthyste,"Peu commune",N
-"Invasion épineuse!",178,"Willie le géant",Acier,"Peu commune",N
-"Invasion épineuse!",1,Woody,Ambre,Rare,N
-"Invasion épineuse!",194,Scar,Acier,Légendaire,N
-"Invasion épineuse!",68,"Aura protectrice",Améthyste,"Peu commune",Y
-
-"Invasion épineuse!",122,"La Bête",Rubis,Commune,N
-"Invasion épineuse!",8,"Priya Mangal",Ambre,Commune,N
-"Invasion épineuse!",87,Minnie,Émeraude,Commune,N
-"Invasion épineuse!",38,Ritournel,Améthyste,Commune,N
-"Invasion épineuse!",155,"Mickey Mouse",Saphir,Commune,N
-"Invasion épineuse!",183,"Violette Parr",Acier,Commune,N
-"Invasion épineuse!",144,Doug,Saphir,"Peu commune",N
-"Invasion épineuse!",14,"Abby Park",Ambre,"Peu commune",N
-"Invasion épineuse!",74,"Carl Fredricksen",Émeraude,"Peu commune",N
-"Invasion épineuse!",51,"Mme Indestructible",Améthyste,Rare,N
-"Invasion épineuse!",77,"Buzz l'Éclair",Émeraude,Rare,N
-"Invasion épineuse!",11,Kocoum,Ambre,Commune,Y
-
-"Invasion épineuse!",145,Germaine,Saphir,Commune,N
-"Invasion épineuse!",136,Roar !,Rubis,Commune,N
-"Invasion épineuse!",3,"Isabela Madrigal",Ambre,Commune,N
-"Invasion épineuse!",82,Russell,Émeraude,Commune,N
-"Invasion épineuse!",44,"Meilin Lee",Améthyste,Commune,N
-"Invasion épineuse!",185,"Maître Hibou",Acier,Commune,N
-"Invasion épineuse!",156,Hadès,Saphir,"Peu commune",N
-"Invasion épineuse!",15,Gaston,Ambre,"Peu commune",N
-"Invasion épineuse!",86,"Madame Mime",Émeraude,"Peu commune",N
-"Invasion épineuse!",146,Merlin,Saphir,Rare,N
-"Invasion épineuse!",27,"Pocahontas & Meeko",Ambre,Légendaire,N
-"Invasion épineuse!",130,"Capitaine Crochet",Rubis,"Peu commune",Y
 
