@@ -115,7 +115,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 114;"La Main dans la Boîte";"Peu commune";Rubis;9;0
 115;Daisy;"Peu commune";Rubis;10;1
 116;Rouky;"Peu commune";Rubis;11;1
-117;"Jebidiah Farnsworth";"Peu commune";Rubis;9;0
+117;"Jebidiah Farnsworth";"Peu commune";Rubis;7;0
 118;"Flèche Parr";"Peu commune";Rubis;10;0
 119;"Tête de bébé";Rare;Rubis;1;0
 120;Canard;Rare;Rubis;4;0
@@ -123,7 +123,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 122;"La Reine de Cœur";Rare;Rubis;5;0
 123;Hercule;"Super rare";Rubis;3;0
 124;"Vincenzo Santorini";Rare;Rubis;5;0
-125;"Le Léviathan";"Super rare";Rubis;2;0
+125;"Le Léviathan";"Super rare";Rubis;0;0
 126;"Sid Phillips";Légendaire;Rubis;2;0
 127;"M. Indestructible";Légendaire;Rubis;4;0
 128;"La poupée ptérodactyle";Commune;Rubis;15;2
