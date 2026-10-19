@@ -22,7 +22,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 21;"Miguel Rivera";Rare;Ambre;4;1
 22;Dingo;Rare;Ambre;4;1
 23;"Mickey Mouse";"Super rare";Ambre;3;0
-24;"Judy Hopps";Rare;Ambre;6;3
+24;"Judy Hopps";Rare;Ambre;6;2
 25;"Nick Wilde";"Peu commune";Ambre;10;0
 26;"Miguel Rivera";"Peu commune";Ambre;10;0
 27;"Prends la route et oublie tes soucis";Rare;Ambre;4;0
@@ -55,7 +55,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 54;Dante;"Super rare";Améthyste;3;1
 55;Raiponce;Légendaire;Améthyste;1;0
 56;Démona;"Super rare";Améthyste;3;0
-57;Merlin;"Super rare";Améthyste;4;1
+57;Merlin;"Super rare";Améthyste;4;0
 58;Archimède;Rare;Améthyste;3;0
 59;"Madame Mime";Légendaire;Améthyste;2;0
 60;"Tout le monde connaît Juanita";Commune;Améthyste;10;0
@@ -123,7 +123,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 122;Clochard;Rare;Rubis;7;0
 123;"Meilin Lee";Commune;Rubis;13;0
 124;Roxane;Rare;Rubis;1;0
-125;Wasabi;"Super rare";Rubis;4;2
+125;Wasabi;"Super rare";Rubis;4;1
 126;"Madame de Trémaine";"Super rare";Rubis;4;0
 127;Mulan;Légendaire;Rubis;2;0
 128;"Tactiques d'intimidation";"Peu commune";Rubis;7;0
