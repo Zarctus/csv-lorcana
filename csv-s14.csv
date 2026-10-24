@@ -1,208 +1,208 @@
 card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
-1;"Fru Fru";Commune;Ambre;13;2
-2;Abuelita;Commune;Ambre;14;0
-3;"Max Dingo";"Peu commune";Ambre;9;1
-4;Gazelle;Commune;Ambre;14;1
-5;Pat;Commune;Ambre;15;0
-6;"Miriam Mendelsohn";"Peu commune";Ambre;7;0
-7;"Priya Mangal";Commune;Ambre;13;2
-8;Yax;"Peu commune";Ambre;10;0
-9;"Judy Hopps";Commune;Ambre;13;0
-10;"Miguel Rivera";Commune;Ambre;11;0
-11;"Nick Wilde";Rare;Ambre;5;1
-12;"Pat Junior";Commune;Ambre;13;2
-13;"Monsieur Manchas";Commune;Ambre;13;0
-14;"Nick Wilde";"Super rare";Ambre;4;1
-15;Clawhauser;"Peu commune";Ambre;7;0
-16;"Elisa Maza";"Peu commune";Ambre;10;0
+1;"Fru Fru";Commune;Ambre;16;2
+2;Abuelita;Commune;Ambre;16;0
+3;"Max Dingo";"Peu commune";Ambre;10;1
+4;Gazelle;Commune;Ambre;17;1
+5;Pat;Commune;Ambre;17;0
+6;"Miriam Mendelsohn";"Peu commune";Ambre;8;0
+7;"Priya Mangal";Commune;Ambre;15;3
+8;Yax;"Peu commune";Ambre;13;1
+9;"Judy Hopps";Commune;Ambre;15;0
+10;"Miguel Rivera";Commune;Ambre;13;0
+11;"Nick Wilde";Rare;Ambre;6;1
+12;"Pat Junior";Commune;Ambre;15;2
+13;"Monsieur Manchas";Commune;Ambre;15;0
+14;"Nick Wilde";"Super rare";Ambre;5;1
+15;Clawhauser;"Peu commune";Ambre;9;0
+16;"Elisa Maza";"Peu commune";Ambre;11;0
 17;Powerline;Légendaire;Ambre;5;2
 18;Lionheart;Rare;Ambre;3;0
 19;Aurore;Légendaire;Ambre;3;0
-20;Russell;Rare;Ambre;6;0
-21;"Miguel Rivera";Rare;Ambre;4;1
-22;Dingo;Rare;Ambre;4;1
+20;Russell;Rare;Ambre;7;1
+21;"Miguel Rivera";Rare;Ambre;5;1
+22;Dingo;Rare;Ambre;5;1
 23;"Mickey Mouse";"Super rare";Ambre;0;0
 24;"Judy Hopps";Rare;Ambre;6;2
-25;"Nick Wilde";"Peu commune";Ambre;10;0
-26;"Miguel Rivera";"Peu commune";Ambre;10;0
-27;"Prends la route et oublie tes soucis";Rare;Ambre;4;0
+25;"Nick Wilde";"Peu commune";Ambre;11;0
+26;"Miguel Rivera";"Peu commune";Ambre;12;0
+27;"Prends la route et oublie tes soucis";Rare;Ambre;5;0
 28;"Never Too Far Apart";Rare;Ambre;4;1
-29;"Ne m’oublie pas";"Super rare";Ambre;3;1
-30;"Never Gonna Let You Cry";"Peu commune";Ambre;9;1
-31;"Guitare ancestrale";Commune;Ambre;13;1
-32;"Pile d’enceintes";Commune;Ambre;14;2
-33;"Bénédiction de Mamá Imelda";Commune;Ambre;10;0
-34;"Autorité portuaire";"Peu commune";Ambre;8;0
-35;"Owen Burnett";Commune;Améthyste;12;2
-36;Eurêka;"Peu commune";Améthyste;10;1
-37;"David Xanatos";Commune;Améthyste;12;1
-38;Lexington;Commune;Améthyste;14;1
-39;Merlin;Commune;Améthyste;13;0
-40;Pepita;"Peu commune";Améthyste;11;1
-41;Archimède;Commune;Améthyste;12;1
-42;"Tía Victoria";Commune;Améthyste;15;1
-43;Dante;Commune;Améthyste;14;0
+29;"Ne m’oublie pas";"Super rare";Ambre;3;2
+30;"Never Gonna Let You Cry";"Peu commune";Ambre;10;1
+31;"Guitare ancestrale";Commune;Ambre;16;1
+32;"Pile d’enceintes";Commune;Ambre;17;2
+33;"Bénédiction de Mamá Imelda";Commune;Ambre;12;0
+34;"Autorité portuaire";"Peu commune";Ambre;10;0
+35;"Owen Burnett";Commune;Améthyste;14;2
+36;Eurêka;"Peu commune";Améthyste;11;2
+37;"David Xanatos";Commune;Améthyste;14;1
+38;Lexington;Commune;Améthyste;16;2
+39;Merlin;Commune;Améthyste;15;0
+40;Pepita;"Peu commune";Améthyste;12;1
+41;Archimède;Commune;Améthyste;15;1
+42;"Tía Victoria";Commune;Améthyste;18;1
+43;Dante;Commune;Améthyste;16;0
 44;"Mamá Coco";Rare;Améthyste;4;0
-45;"La Fée Clochette";Commune;Améthyste;13;1
-46;"Madame Mime";Commune;Améthyste;13;1
-47;"Ombre de Peter Pan";"Peu commune";Améthyste;7;0
-48;Dante;"Peu commune";Améthyste;7;1
-49;"Fox Xanatos";"Peu commune";Améthyste;7;0
-50;Brooklyn;"Peu commune";Améthyste;8;1
+45;"La Fée Clochette";Commune;Améthyste;15;1
+46;"Madame Mime";Commune;Améthyste;16;1
+47;"Ombre de Peter Pan";"Peu commune";Améthyste;8;0
+48;Dante;"Peu commune";Améthyste;8;1
+49;"Fox Xanatos";"Peu commune";Améthyste;9;0
+50;Brooklyn;"Peu commune";Améthyste;9;1
 51;"Mamá Imelda";Rare;Améthyste;6;1
 52;Merlin;Rare;Améthyste;6;0
-53;Goliath;Rare;Améthyste;4;0
-54;Dante;"Super rare";Améthyste;3;1
-55;Raiponce;Légendaire;Améthyste;1;0
-56;Démona;"Super rare";Améthyste;3;0
-57;Merlin;"Super rare";Améthyste;4;0
-58;Archimède;Rare;Améthyste;3;0
-59;"Madame Mime";Légendaire;Améthyste;2;0
-60;"Tout le monde connaît Juanita";Commune;Améthyste;10;0
-61;"Malice de Mime";Commune;Améthyste;14;2
-62;"Higitus Figitus";Commune;Améthyste;13;1
-63;"Un Poco Loco";Rare;Améthyste;3;2
-64;"Magnifique, merveilleuse";"Peu commune";Améthyste;7;0
-65;"Inspiration créative";Rare;Améthyste;3;1
-66;"Baguette de Merlin";"Peu commune";Améthyste;9;0
-67;"Roller Invocateur d’Encre";Rare;Améthyste;4;0
-68;"Chez Merlin, boutique et forge";"Peu commune";Améthyste;12;0
-69;César;Commune;Émeraude;11;0
-70;"Don Carnage";Commune;Émeraude;12;1
-71;"Hiro Hamada";"Peu commune";Émeraude;11;1
-72;"Go Go Tomago";Commune;Émeraude;11;1
-73;"Molly Cunningham";"Peu commune";Émeraude;10;0
-74;Kit;Commune;Émeraude;14;2
-75;Belle;"Peu commune";Émeraude;6;0
-76;Fred;"Peu commune";Émeraude;8;1
-77;"Capitaine Crochet";"Peu commune";Émeraude;6;0
-78;Jock;Commune;Émeraude;14;0
-79;Lady;"Peu commune";Émeraude;12;1
-80;"Rebecca Cunningham";Commune;Émeraude;13;0
-81;"Shere Khan";"Peu commune";Émeraude;11;1
-82;Horace;Commune;Émeraude;13;3
-83;"Shere Khan";"Super rare";Émeraude;6;1
+53;Goliath;Rare;Améthyste;5;0
+54;Dante;"Super rare";Améthyste;4;1
+55;Raiponce;Légendaire;Améthyste;2;0
+56;Démona;"Super rare";Améthyste;4;0
+57;Merlin;"Super rare";Améthyste;6;0
+58;Archimède;Rare;Améthyste;4;0
+59;"Madame Mime";Légendaire;Améthyste;3;0
+60;"Tout le monde connaît Juanita";Commune;Améthyste;12;0
+61;"Malice de Mime";Commune;Améthyste;16;2
+62;"Higitus Figitus";Commune;Améthyste;16;1
+63;"Un Poco Loco";Rare;Améthyste;4;2
+64;"Magnifique, merveilleuse";"Peu commune";Améthyste;8;0
+65;"Inspiration créative";Rare;Améthyste;4;1
+66;"Baguette de Merlin";"Peu commune";Améthyste;12;0
+67;"Roller Invocateur d’Encre";Rare;Améthyste;5;0
+68;"Chez Merlin, boutique et forge";"Peu commune";Améthyste;14;0
+69;César;Commune;Émeraude;14;0
+70;"Don Carnage";Commune;Émeraude;14;1
+71;"Hiro Hamada";"Peu commune";Émeraude;12;1
+72;"Go Go Tomago";Commune;Émeraude;13;1
+73;"Molly Cunningham";"Peu commune";Émeraude;11;0
+74;Kit;Commune;Émeraude;17;2
+75;Belle;"Peu commune";Émeraude;7;0
+76;Fred;"Peu commune";Émeraude;10;1
+77;"Capitaine Crochet";"Peu commune";Émeraude;8;0
+78;Jock;Commune;Émeraude;16;0
+79;Lady;"Peu commune";Émeraude;13;1
+80;"Rebecca Cunningham";Commune;Émeraude;16;0
+81;"Shere Khan";"Peu commune";Émeraude;14;1
+82;Horace;Commune;Émeraude;15;4
+83;"Shere Khan";"Super rare";Émeraude;7;1
 84;"Bobby Zimmeruski";"Super rare";Émeraude;4;0
-85;Baymax;Rare;Émeraude;3;0
-86;Fred;Rare;Émeraude;3;2
-87;"Lester l’opossum";"Peu commune";Émeraude;7;1
-88;"Don Carnage";"Super rare";Émeraude;2;1
+85;Baymax;Rare;Émeraude;4;0
+86;Fred;Rare;Émeraude;4;2
+87;"Lester l’opossum";"Peu commune";Émeraude;9;1
+88;"Don Carnage";"Super rare";Émeraude;3;1
 89;"Max Dingo";Légendaire;Émeraude;4;0
-90;Belle;Légendaire;Émeraude;1;1
-91;Fred;Commune;Émeraude;14;0
-92;Minnie;Commune;Émeraude;14;0
-93;"Honey Lemon";Rare;Émeraude;3;0
-94;"Largage aérien";Commune;Émeraude;14;1
+90;Belle;Légendaire;Émeraude;3;1
+91;Fred;Commune;Émeraude;16;0
+92;Minnie;Commune;Émeraude;16;0
+93;"Honey Lemon";Rare;Émeraude;4;0
+94;"Largage aérien";Commune;Émeraude;17;1
 95;"Above the Crowd";Rare;Émeraude;6;0
-96;"Voilà Super Baloo";Commune;Émeraude;12;1
-97;"Ce sont les affaires";Rare;Émeraude;4;1
-98;"Provocation désinvolte";Commune;Émeraude;14;3
-99;"Réaction chimique";"Peu commune";Émeraude;7;1
-100;"Guide touristique de Belle";Rare;Émeraude;2;0
-101;"Tour de Pise";Rare;Émeraude;5;2
+96;"Voilà Super Baloo";Commune;Émeraude;14;1
+97;"Ce sont les affaires";Rare;Émeraude;6;1
+98;"Provocation désinvolte";Commune;Émeraude;16;4
+99;"Réaction chimique";"Peu commune";Émeraude;9;1
+100;"Guide touristique de Belle";Rare;Émeraude;3;0
+101;"Tour de Pise";Rare;Émeraude;6;2
 102;"Le Haricot magique";Rare;Émeraude;7;0
-103;Heihei;Commune;Rubis;12;1
-104;"Abby Park";Commune;Rubis;14;2
+103;Heihei;Commune;Rubis;14;1
+104;"Abby Park";Commune;Rubis;16;3
 105;Dingo;Rare;Rubis;5;0
-106;"Héctor Rivera";Légendaire;Rubis;2;0
-107;Yama;"Peu commune";Rubis;10;0
-108;"Abigail Callaghan";Commune;Rubis;13;1
-109;Pepita;Commune;Rubis;12;1
-110;Donald;Commune;Rubis;13;1
-111;Dingo;Commune;Rubis;13;0
-112;"Tadashi Hamada";"Peu commune";Rubis;8;1
-113;"Cruella d'Enfer";Commune;Rubis;15;0
-114;Jasper;"Peu commune";Rubis;10;2
-115;Peg;Commune;Rubis;12;2
-116;Stacey;"Peu commune";Rubis;8;1
-117;"Héctor Rivera";"Peu commune";Rubis;7;1
-118;"Ernesto de la Cruz";Commune;Rubis;13;0
+106;"Héctor Rivera";Légendaire;Rubis;4;0
+107;Yama;"Peu commune";Rubis;11;0
+108;"Abigail Callaghan";Commune;Rubis;16;1
+109;Pepita;Commune;Rubis;14;1
+110;Donald;Commune;Rubis;16;1
+111;Dingo;Commune;Rubis;16;0
+112;"Tadashi Hamada";"Peu commune";Rubis;10;1
+113;"Cruella d'Enfer";Commune;Rubis;17;0
+114;Jasper;"Peu commune";Rubis;11;2
+115;Peg;Commune;Rubis;14;3
+116;Stacey;"Peu commune";Rubis;11;1
+117;"Héctor Rivera";"Peu commune";Rubis;9;1
+118;"Ernesto de la Cruz";Commune;Rubis;15;1
 119;Pepita;"Super rare";Rubis;3;0
-120;"Ernesto de la Cruz";Rare;Rubis;5;2
-121;"Héctor Rivera";Rare;Rubis;5;0
+120;"Ernesto de la Cruz";Rare;Rubis;6;2
+121;"Héctor Rivera";Rare;Rubis;6;0
 122;Clochard;Rare;Rubis;7;0
-123;"Meilin Lee";Commune;Rubis;13;0
-124;Roxane;Rare;Rubis;1;0
-125;Wasabi;"Super rare";Rubis;4;1
-126;"Madame de Trémaine";"Super rare";Rubis;4;0
+123;"Meilin Lee";Commune;Rubis;15;0
+124;Roxane;Rare;Rubis;2;0
+125;Wasabi;"Super rare";Rubis;5;1
+126;"Madame de Trémaine";"Super rare";Rubis;5;1
 127;Mulan;Légendaire;Rubis;2;0
-128;"Tactiques d'intimidation";"Peu commune";Rubis;7;0
-129;"Repousser les limites";"Peu commune";Rubis;8;0
-130;"Elle jette tant de sorts";"Peu commune";Rubis;9;0
-131;"Je vais devoir m’en aller";Rare;Rubis;5;1
-132;"Photo de la famille Rivera";Commune;Rubis;12;0
+128;"Tactiques d'intimidation";"Peu commune";Rubis;8;0
+129;"Repousser les limites";"Peu commune";Rubis;10;0
+130;"Elle jette tant de sorts";"Peu commune";Rubis;10;0
+131;"Je vais devoir m’en aller";Rare;Rubis;6;1
+132;"Photo de la famille Rivera";Commune;Rubis;14;0
 133;"Le coin déchiré";Rare;Rubis;5;0
-134;Jukebox;Rare;Rubis;2;1
-135;"Royaume des ancêtres";"Peu commune";Rubis;10;0
-136;"Khan Stadium";Commune;Rubis;14;1
-137;"Carl Fredricksen";Commune;Saphir;14;1
-138;Cendrillon;Commune;Saphir;9;0
-139;Wasabi;"Peu commune";Saphir;7;0
-140;Baymax;Commune;Saphir;12;2
-141;"Roi Louie";Commune;Saphir;14;0
-142;Lafayette;"Peu commune";Saphir;11;0
-143;"Amélie & Amélia";Commune;Saphir;15;0
-144;"Honey Lemon";"Peu commune";Saphir;8;1
-145;"Go Go Tomago";"Peu commune";Saphir;10;2
-146;"Madame Mime";Commune;Saphir;13;1
-147;Lionheart;"Peu commune";Saphir;6;0
-148;Priscilla;Rare;Saphir;3;0
-149;Daisy;Commune;Saphir;13;0
-150;"Hiro Hamada";Commune;Saphir;13;0
-151;"Honey Lemon";Commune;Saphir;13;2
+134;Jukebox;Rare;Rubis;3;1
+135;"Royaume des ancêtres";"Peu commune";Rubis;11;0
+136;"Khan Stadium";Commune;Rubis;17;1
+137;"Carl Fredricksen";Commune;Saphir;16;1
+138;Cendrillon;Commune;Saphir;11;0
+139;Wasabi;"Peu commune";Saphir;10;1
+140;Baymax;Commune;Saphir;14;3
+141;"Roi Louie";Commune;Saphir;16;0
+142;Lafayette;"Peu commune";Saphir;12;0
+143;"Amélie & Amélia";Commune;Saphir;17;1
+144;"Honey Lemon";"Peu commune";Saphir;9;2
+145;"Go Go Tomago";"Peu commune";Saphir;11;2
+146;"Madame Mime";Commune;Saphir;15;2
+147;Lionheart;"Peu commune";Saphir;8;0
+148;Priscilla;Rare;Saphir;4;1
+149;Daisy;Commune;Saphir;15;0
+150;"Hiro Hamada";Commune;Saphir;16;0
+151;"Honey Lemon";Commune;Saphir;16;2
 152;"Thomas O’Malley";"Super rare";Saphir;5;0
-153;Duchesse;Rare;Saphir;3;1
-154;"Judy Hopps";Rare;Saphir;7;0
-155;Minnie;"Super rare";Saphir;4;0
+153;Duchesse;Rare;Saphir;4;1
+154;"Judy Hopps";Rare;Saphir;7;1
+155;Minnie;"Super rare";Saphir;5;0
 156;Ariel;Légendaire;Saphir;1;0
 157;Cendrillon;"Super rare";Saphir;0;0
-158;Baymax;Légendaire;Saphir;4;0
+158;Baymax;Légendaire;Saphir;5;0
 159;Bellwether;Rare;Saphir;7;0
-160;Clarabelle;"Peu commune";Saphir;8;0
-161;"Doug Ramses";Commune;Saphir;12;2
-162;"La fin de l’obscurantisme";Rare;Saphir;5;1
-163;"Tout semble auprès de lui très démodé";Commune;Saphir;13;0
-164;"Recherche intensive";Rare;Saphir;4;1
-165;"Du balai !";"Peu commune";Saphir;9;1
-166;"Boule chimique aveuglante";"Peu commune";Saphir;7;1
-167;"Prototype de boule chimique";Commune;Saphir;14;0
-168;"Heaume à longue-vue";Rare;Saphir;6;0
-169;"Nano-Sac amélioré";Rare;Saphir;2;1
-170;"Institut de Technologie";"Peu commune";Saphir;10;0
+160;Clarabelle;"Peu commune";Saphir;9;0
+161;"Doug Ramses";Commune;Saphir;14;2
+162;"La fin de l’obscurantisme";Rare;Saphir;6;1
+163;"Tout semble auprès de lui très démodé";Commune;Saphir;16;0
+164;"Recherche intensive";Rare;Saphir;5;2
+165;"Du balai !";"Peu commune";Saphir;11;1
+166;"Boule chimique aveuglante";"Peu commune";Saphir;9;1
+167;"Prototype de boule chimique";Commune;Saphir;17;0
+168;"Heaume à longue-vue";Rare;Saphir;7;0
+169;"Nano-Sac amélioré";Rare;Saphir;3;1
+170;"Institut de Technologie";"Peu commune";Saphir;12;0
 171;Flash;Rare;Acier;4;0
 172;Arthur;Rare;Acier;3;1
-173;"Edgar Balthazar";Commune;Acier;14;1
-174;Kit;Commune;Acier;13;2
-175;Tic-Tac;"Peu commune";Acier;11;0
-176;Tiana;Commune;Acier;12;0
-177;Raya;Rare;Acier;2;0
-178;"Woolter le bélier & Jessie le bélier";"Peu commune";Acier;7;0
-179;Napoléon;Commune;Acier;14;2
-180;Turbo;Commune;Acier;13;1
-181;"Seigneur Kay";Commune;Acier;12;1
-182;Toulouse;"Peu commune";Acier;9;3
-183;"Chef Bogo";"Peu commune";Acier;9;1
-184;"Seigneur Pélinore";"Peu commune";Acier;7;0
-185;Arthur;Commune;Acier;12;1
-186;Berlioz;Rare;Acier;4;0
-187;Marie;Rare;Acier;3;2
-188;Baloo;"Peu commune";Acier;8;0
-189;Koslov;Commune;Acier;13;1
-190;"Seigneur Hector";"Peu commune";Acier;10;2
-191;Baloo;Commune;Acier;14;0
-192;Kit;"Super rare";Acier;5;1
-193;Arthur;"Super rare";Acier;4;0
+173;"Edgar Balthazar";Commune;Acier;16;1
+174;Kit;Commune;Acier;15;2
+175;Tic-Tac;"Peu commune";Acier;12;0
+176;Tiana;Commune;Acier;14;0
+177;Raya;Rare;Acier;4;0
+178;"Woolter le bélier & Jessie le bélier";"Peu commune";Acier;9;0
+179;Napoléon;Commune;Acier;17;2
+180;Turbo;Commune;Acier;15;1
+181;"Seigneur Kay";Commune;Acier;13;1
+182;Toulouse;"Peu commune";Acier;10;3
+183;"Chef Bogo";"Peu commune";Acier;11;1
+184;"Seigneur Pélinore";"Peu commune";Acier;8;0
+185;Arthur;Commune;Acier;16;1
+186;Berlioz;Rare;Acier;5;1
+187;Marie;Rare;Acier;5;2
+188;Baloo;"Peu commune";Acier;10;0
+189;Koslov;Commune;Acier;15;1
+190;"Seigneur Hector";"Peu commune";Acier;12;2
+191;Baloo;Commune;Acier;16;0
+192;Kit;"Super rare";Acier;6;1
+193;Arthur;"Super rare";Acier;6;0
 194;"Mister Big";"Super rare";Acier;6;0
-195;"Shere Khan";Légendaire;Acier;3;0
+195;"Shere Khan";Légendaire;Acier;4;0
 196;Tiana;Légendaire;Acier;4;0
 197;"Joute équestre";Rare;Acier;4;0
-198;"Explosion d’encre";Commune;Acier;14;1
-199;"Livraison Khan Transport";Commune;Acier;10;2
-200;"Je travaillerai sans trêve";Rare;Acier;1;1
-201;"Express d’Hyperia City";"Peu commune";Acier;8;0
-202;"Avion pirate";"Peu commune";Acier;9;1
-203;"Gare centrale";Commune;Acier;14;0
-204;"Industries Khan";Rare;Acier;6;1
+198;"Explosion d’encre";Commune;Acier;16;2
+199;"Livraison Khan Transport";Commune;Acier;13;3
+200;"Je travaillerai sans trêve";Rare;Acier;2;1
+201;"Express d’Hyperia City";"Peu commune";Acier;9;0
+202;"Avion pirate";"Peu commune";Acier;10;1
+203;"Gare centrale";Commune;Acier;17;0
+204;"Industries Khan";Rare;Acier;7;1
 205;"Nick Wilde";Épique;Ambre;0;1
 206;"Judy Hopps";Épique;Ambre;0;2
 207;"Guitare ancestrale";Épique;Ambre;0;0
@@ -210,7 +210,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 209;"La Fée Clochette";Épique;Améthyste;0;0
 210;Archimède;Épique;Améthyste;0;1
 211;"Go Go Tomago";Épique;Émeraude;0;0
-212;Belle;Épique;Émeraude;0;1
+212;Belle;Épique;Émeraude;0;2
 213;Baymax;Épique;Émeraude;0;1
 214;"Meilin Lee";Épique;Rubis;0;1
 215;"Héctor Rivera";Épique;Rubis;0;1
@@ -225,7 +225,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 224;"Miguel Rivera";Enchantée;Ambre;0;0
 225;"Ne m’oublie pas";Enchantée;Ambre;0;0
 226;Raiponce;Enchantée;Améthyste;0;0
-227;Merlin;Enchantée;Améthyste;0;0
+227;Merlin;Enchantée;Améthyste;0;1
 228;"Un Poco Loco";Enchantée;Améthyste;0;0
 229;"Max Dingo";Enchantée;Émeraude;0;1
 230;Belle;Enchantée;Émeraude;0;0
