@@ -17,7 +17,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 16;"Elisa Maza";"Peu commune";Ambre;16;0
 17;Powerline;Légendaire;Ambre;6;2
 18;Lionheart;Rare;Ambre;4;1
-19;Aurore;Légendaire;Ambre;5;0
+19;Aurore;Légendaire;Ambre;4;0
 20;Russell;Rare;Ambre;9;1
 21;"Miguel Rivera";Rare;Ambre;8;1
 22;Dingo;Rare;Ambre;8;1
@@ -25,7 +25,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 24;"Judy Hopps";Rare;Ambre;8;2
 25;"Nick Wilde";"Peu commune";Ambre;15;0
 26;"Miguel Rivera";"Peu commune";Ambre;16;0
-27;"Prends la route et oublie tes soucis";Rare;Ambre;7;0
+27;"Prends la route et oublie tes soucis";Rare;Ambre;6;0
 28;"Never Too Far Apart";Rare;Ambre;5;1
 29;"Ne m’oublie pas";"Super rare";Ambre;5;2
 30;"Never Gonna Let You Cry";"Peu commune";Ambre;15;1
@@ -125,7 +125,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 124;Roxane;Rare;Rubis;4;0
 125;Wasabi;"Super rare";Rubis;6;2
 126;"Madame de Trémaine";"Super rare";Rubis;7;1
-127;Mulan;Légendaire;Rubis;1;0
+127;Mulan;Légendaire;Rubis;0;0
 128;"Tactiques d'intimidation";"Peu commune";Rubis;12;0
 129;"Repousser les limites";"Peu commune";Rubis;13;1
 130;"Elle jette tant de sorts";"Peu commune";Rubis;15;2
