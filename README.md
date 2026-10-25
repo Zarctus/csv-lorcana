@@ -6,11 +6,11 @@
 
 
 **Quelques liens aléatoires / Some random links**
-- *[Lorcana - Ciel Scintillant - Un Mirage À Deux Visages 28/204 - Super rare - ID=984](https://www.vinted.fr/items/5809077482-lorcana-ciel-scintillant-un-mirage-a-deux-visages-28204-super-rare-id984)*
-- *[Lorcana - Givresort - 3x Doudou 3/204 - Peu commune - ID=2466](https://www.vinted.fr/items/8187490412-lorcana-givresort-3x-doudou-3204-peu-commune-id2466)*
-- *[Lorcana - Contrées Inconnues - 2x Étrange Bazar 95/204 - Peu commune - ID=2810](https://www.vinted.fr/items/9047243343-lorcana-contrees-inconnues-2x-etrange-bazar-95204-peu-commune-id2810)*
-- *[Lorcana - Contrées Inconnues - 3x Ne Sois Pas Si Nerveux 65/204 - Rare - ID=2780](https://www.vinted.fr/items/9168277056-lorcana-contrees-inconnues-3x-ne-sois-pas-si-nerveux-65204-rare-id2780)*
-- *[Lorcana - Lueurs dans les Profondeurs - 3x Nick Wilde 187/204 - Rare - ID=2376](https://www.vinted.fr/items/7683842674-lorcana-lueurs-dans-les-profondeurs-3x-nick-wilde-187204-rare-id2376)*
+- *[Lorcana - Ciel Scintillant - Maléfique 51/204 - Peu commune Foil - ID=1007](https://www.vinted.fr/items/9863612102-lorcana-ciel-scintillant-malefique-51204-peu-commune-foil-id1007)*
+- *[Lorcana - L'Ascension des Floodborn - Merlin 53/204 - Rare Foil - ID=269](https://www.vinted.fr/items/5830072437-lorcana-lascension-des-floodborn-merlin-53204-rare-foil-id269)*
+- *[Lorcana - Fabuleux - Stand Out 94/204 - Peu commune Foil - ID=2030](https://www.vinted.fr/items/7263145129-lorcana-fabuleux-stand-out-94204-peu-commune-foil-id2030)*
+- *[Lorcana - L'Ascension des Floodborn - 3x La Reine De Cœur 120/204 - Peu commune - ID=336](https://www.vinted.fr/items/6261696532-lorcana-lascension-des-floodborn-3x-la-reine-de-coeur-120204-peu-commune-id336)*
+- *[Lorcana - Les Terres d'Encres - Shérif De Nottingham 191/204 - Super rare - ID=627](https://www.vinted.fr/items/6085017818-lorcana-les-terres-dencres-sherif-de-nottingham-191204-super-rare-id627)*
 
 
 **🔎 Recherches Lorcana par rareté / Search Lorcana by rarity**
@@ -44,20 +44,6 @@
 
 **🔎 Recherches Lorcana Foils uniquement / Search Lorcana Foils only**
 - *[#Lynadry_FOIL](https://www.vinted.fr/catalog?search_text=%23Lynadry_FOIL)*
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 <!-- BOOSTER_STATS_START -->
@@ -123,16 +109,16 @@
 | Iconique | <img src="rarity/rarity_iconic.png" alt="Iconique" width="24" /> | 0 | 0% | 1 | 0.49% |
 | Enchantée | <img src="rarity/rarity_enchanted1.png" alt="Enchantée" width="24" /> | 0 | 0% | 2 | 0.98% |
 
-#### Set 14  |  223 boosters
+#### Set 14  |  233 boosters
 | Rarity | Icon | Normal | % Norm | Foil | % Foil |
 |--------|------|--------|--------|------|--------|
-| Commune | <img src="rarity/rarity_common.svg" alt="Commune" width="24" /> | 1338 | 100% | 90 | 40.36% |
-| Peu commune | <img src="rarity/rarity_uncommon.svg" alt="Peu commune" width="24" /> | 669 | 100% | 43 | 19.28% |
-| Rare | <img src="rarity/rarity_rare.svg" alt="Rare" width="24" /> | 289 | 64.8% | 44 | 19.73% |
-| Super rare | <img src="rarity/rarity_super_rare.svg" alt="Super rare" width="24" /> | 102 | 22.87% | 14 | 6.28% |
-| Épique | <img src="rarity/rarity_epic.png" alt="Épique" width="24" /> | 0 | 0% | 23 | 10.31% |
-| Légendaire | <img src="rarity/rarity_legendary.svg" alt="Légendaire" width="24" /> | 55 | 12.33% | 6 | 2.69% |
-| Enchantée | <img src="rarity/rarity_enchanted1.png" alt="Enchantée" width="24" /> | 0 | 0% | 3 | 1.35% |
+| Commune | <img src="rarity/rarity_common.svg" alt="Commune" width="24" /> | 1398 | 100% | 94 | 40.34% |
+| Peu commune | <img src="rarity/rarity_uncommon.svg" alt="Peu commune" width="24" /> | 699 | 100% | 44 | 18.88% |
+| Rare | <img src="rarity/rarity_rare.svg" alt="Rare" width="24" /> | 303 | 65.02% | 46 | 19.74% |
+| Super rare | <img src="rarity/rarity_super_rare.svg" alt="Super rare" width="24" /> | 106 | 22.75% | 16 | 6.87% |
+| Épique | <img src="rarity/rarity_epic.png" alt="Épique" width="24" /> | 0 | 0% | 24 | 10.3% |
+| Légendaire | <img src="rarity/rarity_legendary.svg" alt="Légendaire" width="24" /> | 57 | 12.23% | 6 | 2.58% |
+| Enchantée | <img src="rarity/rarity_enchanted1.png" alt="Enchantée" width="24" /> | 0 | 0% | 3 | 1.29% |
 | Iconique | <img src="rarity/rarity_iconic.png" alt="Iconique" width="24" /> | 0 | 0% | 0 | 0% |
 
 #### Set 2  |  127 boosters
@@ -232,17 +218,3 @@
 | Iconique | <img src="rarity/rarity_iconic.png" alt="Iconique" width="24" /> | 0 | 0% | 0 | 0% |
 
 <!-- BOOSTER_STATS_END -->
-
-
-
-
-
-
-
-
-
-
-
-
-
-
