@@ -87,7 +87,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 86;Vixy;"Peu commune";Émeraude;11;1
 87;Rox;Commune;Émeraude;16;1
 88;Minnie;Rare;Émeraude;1;0
-89;"Le lapin blanc";"Peu commune";Émeraude;9;0
+89;"Le lapin blanc";"Peu commune";Émeraude;6;0
 90;Rox;Rare;Émeraude;2;0
 91;"Mickey Mouse";"Peu commune";Émeraude;9;0
 92;Rox;Légendaire;Émeraude;0;0
@@ -172,7 +172,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 171;Raiponce;Rare;Acier;1;0
 172;"Flagada Jones";"Peu commune";Acier;11;1
 173;"Prince Naveen";Commune;Acier;15;2
-174;"Myster Mask";Commune;Acier;15;0
+174;"Myster Mask";Commune;Acier;12;0
 175;"Li Shang";Commune;Acier;15;2
 176;Gantu;"Peu commune";Acier;11;1
 177;"Flagada Jones";Commune;Acier;14;1
@@ -195,7 +195,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 194;"Judy Hopps";"Peu commune";Acier;8;0
 195;Lilo;"Super rare";Acier;2;0
 196;"Garde le feu millénaire";"Peu commune";Acier;11;2
-197;"La terreur qui corrige les erreurs";Commune;Acier;11;3
+197;"La terreur qui corrige les erreurs";Commune;Acier;8;3
 198;"Cette chanson craint un mask";Rare;Acier;2;0
 199;Givresort;"Peu commune";Acier;8;1
 200;"Presque invincible";Commune;Acier;15;2
