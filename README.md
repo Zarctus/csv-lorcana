@@ -6,11 +6,11 @@
 
 
 **Quelques liens aléatoires / Some random links**
-- *[Lorcana - Fabuleux - Anna 137/204 - Rare - ID=2073](https://www.vinted.fr/items/7352927648-lorcana-fabuleux-anna-137204-rare-id2073)*
-- *[Lorcana - Invasion épineuse! - Hadès 156/204 - Peu commune Foil - ID=3127](https://www.vinted.fr/items/10345746387-lorcana-invasion-epineuse-hades-156204-peu-commune-foil-id3127)*
-- *[Lorcana - Lueurs dans les Profondeurs - Feu Du Dragon 133/204 - Commune - ID=2322](https://www.vinted.fr/items/7544632552-lorcana-lueurs-dans-les-profondeurs-feu-du-dragon-133204-commune-id2322)*
-- *[Lorcana - Hyperia City - Un Poco Loco 63/204 - Rare Foil - ID=3328](https://www.vinted.fr/items/10592092928-lorcana-hyperia-city-un-poco-loco-63204-rare-foil-id3328)*
-- *[Lorcana - Lueurs dans les Profondeurs - 3x Le Cavalier Attaque ! 29/204 - Rare - ID=2218](https://www.vinted.fr/items/7978161527-lorcana-lueurs-dans-les-profondeurs-3x-le-cavalier-attaque-29204-rare-id2218)*
+- *[Lorcana - Fabuleux - Aurore 153/204 - Super rare - ID=2089](https://www.vinted.fr/items/10283614187-lorcana-fabuleux-aurore-153204-super-rare-id2089)*
+- *[Lorcana - Hyperia City - Powerline 17/204 - Légendaire - ID=3282](https://www.vinted.fr/items/10400880640-lorcana-hyperia-city-powerline-17204-legendaire-id3282)*
+- *[Lorcana - Hyperia City - Arthur 193/204 - Super rare Foil - ID=3458](https://www.vinted.fr/items/10591982656-lorcana-hyperia-city-arthur-193204-super-rare-foil-id3458)*
+- *[Lorcana - Givresort - 3x Myster Mask 174/204 - Commune - ID=2637](https://www.vinted.fr/items/10546211766-lorcana-givresort-3x-myster-mask-174204-commune-id2637)*
+- *[Lorcana - Hyperia City - Don Carnage 88/204 - Super rare Foil - ID=3353](https://www.vinted.fr/items/10422357287-lorcana-hyperia-city-don-carnage-88204-super-rare-foil-id3353)*
 
 
 **🔎 Recherches Lorcana par rareté / Search Lorcana by rarity**
@@ -44,20 +44,6 @@
 
 **🔎 Recherches Lorcana Foils uniquement / Search Lorcana Foils only**
 - *[#Lynadry_FOIL](https://www.vinted.fr/catalog?search_text=%23Lynadry_FOIL)*
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 <!-- BOOSTER_STATS_START -->
@@ -123,16 +109,16 @@
 | Iconique | <img src="rarity/rarity_iconic.png" alt="Iconique" width="24" /> | 0 | 0% | 1 | 0.49% |
 | Enchantée | <img src="rarity/rarity_enchanted1.png" alt="Enchantée" width="24" /> | 0 | 0% | 2 | 0.98% |
 
-#### Set 14  |  252 boosters
+#### Set 14  |  260 boosters
 | Rarity | Icon | Normal | % Norm | Foil | % Foil |
 |--------|------|--------|--------|------|--------|
-| Commune | <img src="rarity/rarity_common.svg" alt="Commune" width="24" /> | 1512 | 100% | 102 | 40.48% |
-| Peu commune | <img src="rarity/rarity_uncommon.svg" alt="Peu commune" width="24" /> | 756 | 100% | 49 | 19.44% |
-| Rare | <img src="rarity/rarity_rare.svg" alt="Rare" width="24" /> | 328 | 65.08% | 48 | 19.05% |
-| Super rare | <img src="rarity/rarity_super_rare.svg" alt="Super rare" width="24" /> | 114 | 22.62% | 17 | 6.75% |
-| Épique | <img src="rarity/rarity_epic.png" alt="Épique" width="24" /> | 0 | 0% | 26 | 10.32% |
-| Légendaire | <img src="rarity/rarity_legendary.svg" alt="Légendaire" width="24" /> | 62 | 12.3% | 7 | 2.78% |
-| Enchantée | <img src="rarity/rarity_enchanted1.png" alt="Enchantée" width="24" /> | 0 | 0% | 3 | 1.19% |
+| Commune | <img src="rarity/rarity_common.svg" alt="Commune" width="24" /> | 1560 | 100% | 102 | 39.23% |
+| Peu commune | <img src="rarity/rarity_uncommon.svg" alt="Peu commune" width="24" /> | 780 | 100% | 52 | 20% |
+| Rare | <img src="rarity/rarity_rare.svg" alt="Rare" width="24" /> | 337 | 64.81% | 50 | 19.23% |
+| Super rare | <img src="rarity/rarity_super_rare.svg" alt="Super rare" width="24" /> | 119 | 22.88% | 18 | 6.92% |
+| Épique | <img src="rarity/rarity_epic.png" alt="Épique" width="24" /> | 0 | 0% | 28 | 10.77% |
+| Légendaire | <img src="rarity/rarity_legendary.svg" alt="Légendaire" width="24" /> | 64 | 12.31% | 7 | 2.69% |
+| Enchantée | <img src="rarity/rarity_enchanted1.png" alt="Enchantée" width="24" /> | 0 | 0% | 3 | 1.15% |
 | Iconique | <img src="rarity/rarity_iconic.png" alt="Iconique" width="24" /> | 0 | 0% | 0 | 0% |
 
 #### Set 2  |  127 boosters
@@ -232,17 +218,3 @@
 | Iconique | <img src="rarity/rarity_iconic.png" alt="Iconique" width="24" /> | 0 | 0% | 0 | 0% |
 
 <!-- BOOSTER_STATS_END -->
-
-
-
-
-
-
-
-
-
-
-
-
-
-
