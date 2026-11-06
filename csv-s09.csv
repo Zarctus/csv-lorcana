@@ -125,7 +125,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 123;"La Reine de Cœur";Commune;Rubis;26;1
 124;Raiponce;Commune;Rubis;29;0
 125;Mulan;Commune;Rubis;22;1
-126;Mulan;"Super rare";Rubis;2;0
+126;Mulan;"Super rare";Rubis;0;0
 127;Raya;Commune;Rubis;27;2
 128;"Sergent Tibs";Commune;Rubis;23;3
 129;"Tuk Tuk";"Peu commune";Rubis;15;3

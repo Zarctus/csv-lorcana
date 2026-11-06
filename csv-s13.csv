@@ -48,7 +48,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 47;Meeko;Commune;Améthyste;12;2
 48;Peine;Commune;Améthyste;20;1
 49;"Ming Lee";Rare;Améthyste;5;0
-50;Merida;Légendaire;Améthyste;3;0
+50;Merida;Légendaire;Améthyste;0;0
 51;"Mme Indestructible";Rare;Améthyste;6;1
 52;Pat;Commune;Améthyste;17;1
 53;"Grand-mère Wu";Rare;Améthyste;1;0
@@ -79,7 +79,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 78;Grignotin;Rare;Émeraude;3;0
 79;Russell;"Super rare";Émeraude;5;0
 80;Raiponce;Commune;Émeraude;13;0
-81;Rox;"Peu commune";Émeraude;3;1
+81;Rox;"Peu commune";Émeraude;0;1
 82;Russell;Commune;Émeraude;21;1
 83;"Petit Gourou";"Peu commune";Émeraude;10;0
 84;Winifred;Commune;Émeraude;14;1
