@@ -6,11 +6,11 @@
 
 
 **Quelques liens aléatoires / Some random links**
-- *[Lorcana - Lueurs dans les Profondeurs - 2x Balthazar Picsou 89/204 - Super rare - ID=2278](https://www.vinted.fr/items/7598489683-lorcana-lueurs-dans-les-profondeurs-2x-balthazar-picsou-89204-super-rare-id2278)*
-- *[Lorcana - Hyperia City - Je Vais Devoir M'en Aller 216/204 - Épique Foil - ID=3481](https://www.vinted.fr/items/10412622619-lorcana-hyperia-city-je-vais-devoir-men-aller-216204-epique-foil-id3481)*
-- *[Lorcana - Les Terres d'Encres - 2x Diablo 37/204 - Commune - ID=473](https://www.vinted.fr/items/6506304190-lorcana-les-terres-dencres-2x-diablo-37204-commune-id473)*
-- *[Lorcana - Fabuleux - 3x Donald 85/204 - Peu commune - ID=2021](https://www.vinted.fr/items/7038576357-lorcana-fabuleux-3x-donald-85204-peu-commune-id2021)*
-- *[Lorcana - Givresort - 3x Vers Notre Champ De Bataille 129/204 - Commune - ID=2592](https://www.vinted.fr/items/8187957306-lorcana-givresort-3x-vers-notre-champ-de-bataille-129204-commune-id2592)*
+- *[Lorcana - Fabuleux - La Deuxième Étoile Sur La Droite 60/204 - Rare - ID=1996](https://www.vinted.fr/items/7277126490-lorcana-fabuleux-la-deuxieme-etoile-sur-la-droite-60204-rare-id1996)*
+- *[Lorcana - Hyperia City - Dante 54/204 - Super rare Foil - ID=3319](https://www.vinted.fr/items/10442289393-lorcana-hyperia-city-dante-54204-super-rare-foil-id3319)*
+- *[Lorcana - Hyperia City - Guitare Ancestrale 207/204 - Épique Foil - ID=3472](https://www.vinted.fr/items/10553193411-lorcana-hyperia-city-guitare-ancestrale-207204-epique-foil-id3472)*
+- *[Lorcana - Fabuleux - Powerline 110/204 - Super rare Foil - ID=2046](https://www.vinted.fr/items/7238463439-lorcana-fabuleux-powerline-110204-super-rare-foil-id2046)*
+- *[Lorcana - Ciel Scintillant - 3x Chicha 146/204 - Rare - ID=1102](https://www.vinted.fr/items/8036909872-lorcana-ciel-scintillant-3x-chicha-146204-rare-id1102)*
 
 
 **🔎 Recherches Lorcana par rareté / Search Lorcana by rarity**
@@ -44,20 +44,6 @@
 
 **🔎 Recherches Lorcana Foils uniquement / Search Lorcana Foils only**
 - *[#Lynadry_FOIL](https://www.vinted.fr/catalog?search_text=%23Lynadry_FOIL)*
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 <!-- BOOSTER_STATS_START -->
@@ -232,17 +218,3 @@
 | Iconique | <img src="rarity/rarity_iconic.png" alt="Iconique" width="24" /> | 0 | 0% | 0 | 0% |
 
 <!-- BOOSTER_STATS_END -->
-
-
-
-
-
-
-
-
-
-
-
-
-
-
