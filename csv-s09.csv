@@ -39,7 +39,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 37;Ursula;Rare;Améthyste;8;1
 38;Jafar;Rare;Améthyste;10;0
 39;Belle;Commune;Améthyste;20;1
-40;Belle;"Super rare";Améthyste;1;0
+40;Belle;"Super rare";Améthyste;0;0
 41;"Winnie l'ourson";Commune;Améthyste;25;3
 42;"Ombre de Peter Pan";"Super rare";Améthyste;7;0
 43;Elsa;Légendaire;Améthyste;0;0
@@ -117,7 +117,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 115;Gaston;Commune;Rubis;25;0
 116;Vaiana;Commune;Rubis;25;1
 117;Powerline;Rare;Rubis;8;1
-118;Sisu;Rare;Rubis;7;0
+118;Sisu;Rare;Rubis;5;0
 119;Sisu;"Peu commune";Rubis;17;0
 120;"La Reine de Cœur";"Peu commune";Rubis;15;0
 121;Lumière;Rare;Rubis;8;0
@@ -180,7 +180,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 178;Jasmine;Rare;Acier;3;0
 179;Tiana;Commune;Acier;23;0
 180;Benja;Commune;Acier;25;0
-181;Jafar;Commune;Acier;23;1
+181;Jafar;Commune;Acier;21;1
 182;"Prince Naveen";Commune;Acier;27;4
 183;Bourriquet;Commune;Acier;23;5
 184;"Robin des Bois";"Peu commune";Acier;15;0
@@ -196,7 +196,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 194;"Prince Eric";Commune;Acier;26;3
 195;Ariel;Rare;Acier;7;0
 196;Ariel;Commune;Acier;28;0
-197;"Il me reste un espoir";Rare;Acier;7;0
+197;"Il me reste un espoir";Rare;Acier;5;0
 198;"Fracasser !";"Peu commune";Acier;14;1
 199;"Ils cassent en deux comme je veux";"Peu commune";Acier;15;1
 200;"Allumez les Mêches !";Commune;Acier;20;1
