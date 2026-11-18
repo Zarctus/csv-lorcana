@@ -14,7 +14,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 13;"Monsieur Manchas";Commune;Ambre;22;0
 14;"Nick Wilde";"Super rare";Ambre;0;0
 15;Clawhauser;"Peu commune";Ambre;14;0
-16;"Elisa Maza";"Peu commune";Ambre;16;0
+16;"Elisa Maza";"Peu commune";Ambre;12;0
 17;Powerline;Légendaire;Ambre;6;2
 18;Lionheart;Rare;Ambre;1;1
 19;Aurore;Légendaire;Ambre;2;0
@@ -180,7 +180,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 179;Napoléon;Commune;Acier;23;2
 180;Turbo;Commune;Acier;22;2
 181;"Seigneur Kay";Commune;Acier;19;1
-182;Toulouse;"Peu commune";Acier;13;2
+182;Toulouse;"Peu commune";Acier;9;2
 183;"Chef Bogo";"Peu commune";Acier;15;1
 184;"Seigneur Pélinore";"Peu commune";Acier;14;0
 185;Arthur;Commune;Acier;21;2
