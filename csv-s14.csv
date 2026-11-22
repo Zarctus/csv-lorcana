@@ -55,7 +55,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 54;Dante;"Super rare";Améthyste;4;2
 55;Raiponce;Légendaire;Améthyste;4;0
 56;Démona;"Super rare";Améthyste;3;0
-57;Merlin;"Super rare";Améthyste;7;0
+57;Merlin;"Super rare";Améthyste;4;0
 58;Archimède;Rare;Améthyste;6;0
 59;"Madame Mime";Légendaire;Améthyste;4;0
 60;"Tout le monde connaît Juanita";Commune;Améthyste;18;1
@@ -86,7 +86,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 85;Baymax;Rare;Émeraude;7;0
 86;Fred;Rare;Émeraude;5;3
 87;"Lester l’opossum";"Peu commune";Émeraude;14;1
-88;"Don Carnage";"Super rare";Émeraude;2;2
+88;"Don Carnage";"Super rare";Émeraude;0;2
 89;"Max Dingo";Légendaire;Émeraude;4;0
 90;Belle;Légendaire;Émeraude;4;1
 91;Fred;Commune;Émeraude;22;2
@@ -176,7 +176,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 175;Tic-Tac;"Peu commune";Acier;17;0
 176;Tiana;Commune;Acier;22;0
 177;Raya;Rare;Acier;7;0
-178;"Woolter le bélier & Jessie le bélier";"Peu commune";Acier;9;0
+178;"Woolter le bélier & Jessie le bélier";"Peu commune";Acier;6;0
 179;Napoléon;Commune;Acier;23;2
 180;Turbo;Commune;Acier;22;2
 181;"Seigneur Kay";Commune;Acier;19;1

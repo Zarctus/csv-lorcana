@@ -55,7 +55,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 54;Heihei;Rare;Améthyste;5;0
 55;Héra;"Peu commune";Améthyste;10;0
 56;"La Fée Clochette";"Peu commune";Améthyste;12;0
-57;Morph;"Peu commune";Améthyste;4;1
+57;Morph;"Peu commune";Améthyste;1;1
 58;"Peter Pan";Commune;Améthyste;13;0
 59;"Aladdin & Génie";"Super rare";"Améthyste, Émeraude";1;0
 60;"Peter Pan & La Fée Clochette";"Super rare";"Améthyste, Rubis";4;0
@@ -99,7 +99,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 98;"Carl Fredricksen & Russell";Rare;"Émeraude, Rubis";6;2
 99;"Mickey Mouse & Minnie";Légendaire;"Émeraude, Saphir";0;0
 100;"Raiponce & Flynn Rider";Légendaire;"Émeraude, Acier";0;0
-101;"Je dessèche une fleur";Rare;Émeraude;2;0
+101;"Je dessèche une fleur";Rare;Émeraude;0;0
 102;"Attaque perforante";Commune;Émeraude;16;2
 103;"Déblaie-nous ta Bouh du plancher";"Peu commune";Émeraude;13;1
 104;"Partir en éclaireur";Commune;Émeraude;15;0
