@@ -53,7 +53,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 52;Merlin;Rare;Améthyste;8;0
 53;Goliath;Rare;Améthyste;7;0
 54;Dante;"Super rare";Améthyste;4;2
-55;Raiponce;Légendaire;Améthyste;4;0
+55;Raiponce;Légendaire;Améthyste;1;0
 56;Démona;"Super rare";Améthyste;3;0
 57;Merlin;"Super rare";Améthyste;4;0
 58;Archimède;Rare;Améthyste;6;0
@@ -87,7 +87,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 86;Fred;Rare;Émeraude;5;3
 87;"Lester l’opossum";"Peu commune";Émeraude;14;1
 88;"Don Carnage";"Super rare";Émeraude;0;2
-89;"Max Dingo";Légendaire;Émeraude;4;0
+89;"Max Dingo";Légendaire;Émeraude;1;0
 90;Belle;Légendaire;Émeraude;4;1
 91;Fred;Commune;Émeraude;22;2
 92;Minnie;Commune;Émeraude;24;0
