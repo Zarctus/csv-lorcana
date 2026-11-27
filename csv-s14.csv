@@ -16,7 +16,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 15;Clawhauser;"Peu commune";Ambre;14;0
 16;"Elisa Maza";"Peu commune";Ambre;12;0
 17;Powerline;Légendaire;Ambre;6;2
-18;Lionheart;Rare;Ambre;1;1
+18;Lionheart;Rare;Ambre;1;0
 19;Aurore;Légendaire;Ambre;2;0
 20;Russell;Rare;Ambre;9;1
 21;"Miguel Rivera";Rare;Ambre;8;1
@@ -38,7 +38,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 37;"David Xanatos";Commune;Améthyste;21;1
 38;Lexington;Commune;Améthyste;24;2
 39;Merlin;Commune;Améthyste;21;0
-40;Pepita;"Peu commune";Améthyste;17;1
+40;Pepita;"Peu commune";Améthyste;17;0
 41;Archimède;Commune;Améthyste;21;1
 42;"Tía Victoria";Commune;Améthyste;23;1
 43;Dante;Commune;Améthyste;23;1
@@ -193,7 +193,7 @@ card_identifier;name;rarity;magic_ink_colors;got_normal;got_foil
 192;Kit;"Super rare";Acier;9;1
 193;Arthur;"Super rare";Acier;7;1
 194;"Mister Big";"Super rare";Acier;9;0
-195;"Shere Khan";Légendaire;Acier;4;0
+195;"Shere Khan";Légendaire;Acier;3;0
 196;Tiana;Légendaire;Acier;6;0
 197;"Joute équestre";Rare;Acier;5;0
 198;"Explosion d’encre";Commune;Acier;23;2
